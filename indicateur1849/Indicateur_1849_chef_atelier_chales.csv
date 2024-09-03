@@ -1,0 +1,300 @@
+identifiant|commune|activite|nom|prenom|type_voie|nom_voie|numero|complement_adresse|observations|remarques_saisie|page
+1|Lyon||Allig|Georges|rue|de Flesselles|17||||61
+2|Lyon||Audiffred|Alex|côte|St-Sébastien|23||||61
+3|Lyon||Baillon|NI|rue|Neyret|13||||61
+4|Lyon||Balmet|Ant-Alph.|rue|Tholozan|2||||61
+5|Lyon||Barberoux|Michel|montée|des Capucins|20||||61
+6|Lyon||Basset|Pierre-Marie|rue|Bodin|25||||61
+7|Lyon||Baudois|NI|rue|de Flesselles|20||||61
+8|Lyon||Bayet|Fr.|clos|Flandrin|NI||||61
+9|Lyon||Belin|NI|rue|Rivet|11||||61
+10|Lyon||Berger|Charles|rue|Rivet|11||||61
+11|Lyon||Bertrand|Joseph|rue|Bodin|25||||61
+12|Lyon||Blanc|Pierre|montée|des Grands Capucins|20||||61
+13|Lyon||Blanc|Vincent|montée|des Grands Capucins|20||||61
+14|Lyon||Blanchet|NI|rue|Ste-Blandine|9||||61
+15|Lyon||Bombois|Célestin|rue|Tholozan|19||||61
+16|Lyon||Bonhomme|NI|clos|Flandrin|NI||||61
+17|Lyon||Bouet|NI|rue|Masson|6||||61
+18|Lyon||Bourgeois|NI|rue|Masson|21||||62
+19|Lyon||Bret|Claude|rue|Flesselles|20||||62
+20|Lyon||Brohy|Louis|place|Colbert|7||||62
+21|Lyon||Caire|Jean-Baptiste|rue|Grognard|NI|côte St Sébastien|||62
+22|Lyon||Cazot|NI|rue|Rivet|11||||62
+23|Lyon||Champal|Bt.|place|Colbert|7||successeur de Fournaux||62
+24|Lyon||Chanu|NI|rue|Rivet|11||||62
+25|Lyon||Chapeau|NI|rue|Neyret|16||||62
+26|Lyon||Charel|Fr.|rue|Bodin|2||||62
+27|Lyon||Cantelloup|Pierre|place|Colbert|3||||62
+28|Lyon||Champin|Cl.|place|Louis XVIII|17||||62
+29|Lyon||Champin|Jean-Baptiste|place|Louis XVIII|17||||62
+30|Lyon||Commandeur|NI|côte|des Carmélites|25||||62
+31|Lyon||Corant|Claude|place|Colbert|5||||62
+32|Lyon||Decaisne|Marie|rue|Tholozan|13||||62
+33|Lyon||Duprés|Pierre|côte|des Carmélites|35||||62
+34|Lyon||Dupinet|NI|clos|Flandrin|NI|montée Pidey|||62
+35|Lyon||Dupuis|NI|rue|Rivet|11||||62
+36|Lyon||Dusserre|Alex-Prudent|rue|Bodin|6||||62
+37|Lyon||Duret|NI|rue|Bellevue|64||||62
+38|Lyon||Favier|Jean-Baptiste|rue|des Fantasques|25||||62
+39|Lyon||Ferrand|NI|montée|des Grands Capucins|20||||62
+40|Lyon||Fourtoul|Dominique|place|Rouville|2||||62
+41|Lyon||Gadot|Barthélémy|côte|des Carmélites|29||||62
+42|Lyon||Gigier|Pierre|rue|Rivet|1||||62
+43|Lyon||Girard|Claude|rue|de la Reine|52||||62
+44|Lyon||Godioz|Augustin|rue|Bellevue|62||||62
+45|Lyon||Goyet|Fr.|rue|Masson|7||||62
+46|Lyon||Guignard|Fr.|place|Colbert|5||||62
+47|Lyon||Guichard|Alex.|clos|Riondel|NI|m. Cornuty|||62
+48|Lyon||Jaillet|Josué|côte|des Carmélites|35||||62
+49|Lyon||Joubert|NI|rue|Masson|19||||62
+50|Lyon||Julliard|Jean-Pierre|côte|grande|79||nouveautés||62
+51|Lyon||Labbe|Antoine Michel|rue|Masson|1||||62
+52|Lyon||Lachapelle|Martin|rue|de l'Annonciade|2||gilets||63
+53|Lyon||Lachet|NI|rue|Tourette|1||||63
+54|Lyon||Lagier|Blaise|rue|du commerce|6||||63
+55|Lyon||Larcon|Jacques|montée|des Grands Capucins|20||||63
+56|Lyon||Ledanté|Nicolas|rue|Tholozan|2||||63
+57|Lyon||Lyaudet|Fr.-Marie|rue|Rivet|11||||63
+58|Lyon||Maitre|Pierre Louis|clos|Flandrin|NI|en sa maison|||63
+59|Lyon||Magnan|Joseph|côte|des Carmélites|29||||63
+60|Lyon||Mancazan|Jean Pierre|rue|de Condé|36||||63
+61|Lyon||Martel|Jean Pierre|côte|des Carmélites|25||||63
+62|Lyon||Martel|Jean Louis|NI|NI|NI||||63
+63|Lyon||Martin|Jean|rue|Neyret|36|et rue Masson, 21|||63
+64|Lyon||Martin|Pierre|rue|de la Loge|1|2ème cour|||63
+65|Lyon||Massot|Joseph Alexis|côte|St-Sébastien|20||||63
+66|Lyon||Moine|NI|rue|Bodin|12||||63
+67|Lyon||Moiriat|Fr.|rue|Ste-Blandine|NI|maison Clarin|||63
+68|Lyon||Morel|Fr.|côte|des Carmélites|35||||63
+69|Lyon||Mortier|Louis|rue|de Chartres|3||||63
+70|Lyon||Moreton|Claude|place|Riondel|NI|rue du centre, 14|||63
+71|Lyon||Piatton|Pierre|rue|Rivet|11||||63
+72|Lyon||Pillaud|Fr.|rue|Tholozan|4||||63
+73|Lyon||Phily|Fr.|rue|Ste-Blandine|13||||63
+74|Lyon||Phily|Claude-Marie|rue|Pouteau|36||||63
+75|Lyon||Pourrat|Auguste-Laurent|rue|Bodin|4||||63
+76|Lyon||Ratton|Jean-Marie|rue|Mottet-de-Gerando|9||||63
+77|Lyon||Ravaz|NI|rue|Rivet|5||||63
+78|Lyon||Ravoty|Delphin|rue|Masson|21||||63
+79|Lyon||Roux|Alphonse|rue|Tholozan|6||||63
+80|Lyon||Rozet|Antoine|rue|Belle-Cordière|15||||63
+81|Lyon||Ruet|NI|rue|Grognard|NI|au coin de la côte St-Sébastien|||63
+82|Lyon||Savigny|Jean-Marie|rue|Bodin|35||||63
+83|Lyon||Soubrat|Fr.|place|du Clos-Riondel|NI|montée Riboud|||63
+84|Lyon||Trillat|Joseph|côte|des Carmélites|35||||63
+85|Lyon||Valentini|NI|rue|Rivet|11||||63
+86|Lyon||Verrier|Jean|rue|Rivet|11||||63
+87|Lyon||Violles|Etienne|rue|des Tables Claudiennes|7||||63
+88|||||||||||
+89|Croix-Rousse||Arnaud|Pierre|rue|Dumenge|6||||64
+90|Croix-Rousse||Aubaret|Georges|rue|de la citadelle|12||||64
+91|Croix-Rousse||Audiffret|Alexandre|rue|des fossés|10||||64
+92|Croix-Rousse||Audiffret|Hyacinthe|rue|Perrot|1||||64
+93|Croix-Rousse||Audiffret|Jean|rue|des fossés|5||||64
+94|Croix-Rousse||Audiffret|Pierre Antoine|rue|de Noailles|1||||64
+95|Croix-Rousse||Augier|NI|rue|Dumenge|11||||64
+96|Croix-Rousse||Augustin|Nicolas|cours|des tapis|1||||64
+97|Croix-Rousse||Bail|Anthelme|rue|Dumenge|15||||64
+98|Croix-Rousse||Ballard|Alexandre|rue|de cuire|22||||64
+99|Croix-Rousse||Bas|Jean|place|Dumont d'Urville|3||||64
+100|Croix-Rousse||Basset|Jean|rue|de la terrasse|1||||64
+101|Croix-Rousse||Baudry|Pierre-Joseph|rue|Pailleron|1||||64
+102|Croix-Rousse||Berard|Jean-Baptiste|rue|des fossés|13||||64
+103|Croix-Rousse||Berger|Pierre|rue|des gloriettes|24||||64
+104|Croix-Rousse||Biesta|Félix|rue|de la terrasse|2||||64
+105|Croix-Rousse||Billiard|NI|rue|Henri IV|13||||64
+106|Croix-Rousse||Blanchet|Pierre|petite rue|de cuire|22||||64
+107|Croix-Rousse||Boitel|Jean|rue|des fossés|7||||64
+108|Croix-Rousse||Boissier|NI|rue|Dumenge|15||||64
+109|Croix-Rousse||Bonhomme|Joseph|rue|du mail|1||||64
+110|Croix-Rousse||Borel|Théodore|rue|Célu|12||||64
+111|Croix-Rousse||Bouillon|Benoit|rue|du mail|20||fabrique de galons pour chapellerie||64
+112|Croix-Rousse||Bourget|Jean|rue|du chapeau rouge|9||||64
+113|Croix-Rousse||Bondoit|Fr.|cours|des tapis|NI|maison Bergeret|||64
+114|Croix-Rousse||Boutin|Alexandre|rue|de la terrasse|2||||64
+115|Croix-Rousse||Bouvard|NI|rue|Dumond|14||||64
+116|Croix-Rousse||Bouvier|Jean-Fr.|montée|Rey|3||||64
+117|Croix-Rousse||Bugnon|Jean-Marie|rue|des fossés|31||||64
+118|Croix-Rousse||Burgat|Pierre-Marie|montée|Rey|13||||64
+119|Croix-Rousse||Buyat|Michel|place|St-Laurent|NI|maison Echaille|||64
+120|Croix-Rousse||Caponat|Jean-Fr.|rue|du mail|4||||64
+121|Croix-Rousse||Caponat|Michel|rue|Célu|3||||64
+122|Croix-Rousse||Cardinal|NI|cours|des tapis|NI||||65
+123|Croix-Rousse||Chamberland|Pierre|cours|des tapis|1||||65
+124|Croix-Rousse||Chambe|Jacques|rue|grande|99||||65
+125|Croix-Rousse||Chana|NI|rue|d'Enfer|2||||65
+126|Croix-Rousse||Chapelon|Pierre|rue|du charriot d'or|12||||65
+127|Croix-Rousse||Champlier|Antoine|rue|de cuire|2||||65
+128|Croix-Rousse||Charles|Antoine|rue|des fossés|29||||65
+129|Croix-Rousse||Chappon|NI|rue|du chapeau rouge|4||||65
+130|Croix-Rousse||Chassagne|NI|rue|Projetée|1||||65
+131|Croix-Rousse||Charvet|Barthélémy|grande rue|de la Croix-Rousse|3||||65
+132|Croix-Rousse||Chazottier|Louis|rue|des fossés|16||||65
+133|Croix-Rousse||Chevallier|Pierre|rue|des fossés|10||||65
+134|Croix-Rousse||Clément|Fr.|rue|des tapis|3||||65
+135|Croix-Rousse||Clément|Etienne|rue|Dumenge|15||||65
+136|Croix-Rousse||Colonel|Christophe|rue|Dumont|10||châles soie, nouveautés||65
+137|Croix-Rousse||Commeinge|Jn.-B.|rue|du Sentier|NI|maison Guigue|||65
+138|Croix-Rousse||Commercon|Nicolas|rue|de la citadelle|2||||65
+139|Croix-Rousse||Compagnon|André|rue|du mail|19||||65
+140|Croix-Rousse||Daillon|Fr.|place|Dumont d'Urville|2||||65
+141|Croix-Rousse||Dard|Nicolas|place|Dumont d'Urville|2||||65
+142|Croix-Rousse||Daumont|Louis|rue|du mail|NI||||65
+143|Croix-Rousse||Devoise|F.|rue|de Sully|2||||65
+144|Croix-Rousse||Delasalle|NI|petite rue|de cuire|2||||65
+145|Croix-Rousse||Diot|Victor|rue|du mail|3||||65
+146|Croix-Rousse||Dombon|Louis|rue|du chapeau rouge|25||||65
+147|Croix-Rousse||Dufayet|Henri|rue|Perrot|NI|maison Bordin|||65
+148|Croix-Rousse||Dumas|Jh.|rue|Lafayette|2|maison Valensot|||65
+149|Croix-Rousse||Dumazer|NI|rue|Célu|6||||65
+150|Croix-Rousse||Dumazer|Joseph|rue|Dumont|6||||65
+151|Croix-Rousse||Dunoyer|Jean-Marie|rue|Perrot|2||||65
+152|Croix-Rousse||Durand|Guillaume|rue|Dumont|13||||65
+153|Croix-Rousse||Esmieux|Emile|rue|Constantine|NI|maison Hugues|||65
+154|Croix-Rousse||Esmiol|Placide|rue|des tapis|3||||65
+155|Croix-Rousse||Eynard|Anthelme|place|grande|22||||65
+156|Croix-Rousse||Ferlay|Jean Pierre|cours|des tapis|1||||65
+157|Croix-Rousse||Ferrand|Jean Marie|montée|Rey|12||||65
+158|Croix-Rousse||Feuillet|Christophe|rue|Dumenge|13||||65
+159|Croix-Rousse||Finas|Jean Baptiste|rue|grande|93||||66
+160|Croix-Rousse||Finas|Nicolas|rue|de la citadelle|1||||66
+161|Croix-Rousse||Fontbonne|Pierre|rue|Constantine|NI|en sa maison|||66
+162|Croix-Rousse||Fontaine|Jean|rue|Dumond|12||||66
+163|Croix-Rousse||Foras|Fr.|montée|Rey|3||||66
+164|Croix-Rousse||Gadoux|NI|rue|Perrot|2||||66
+165|Croix-Rousse||Gaillard|Claude Marie|montée|Rey|5||||66
+166|Croix-Rousse||Gaillard|André|rue|des fossés|15||||66
+167|Croix-Rousse||Garcin|Pierre Louis|rue|Ste Catherine|1||||66
+168|Croix-Rousse||Garcin|Antoine|rue|Célu|5||||66
+169|Croix-Rousse||Garcin|NI|rue|Dumenge|8||||66
+170|Croix-Rousse||Garnier|Pierre|rue|de cuire|NI|clos Moulin|||66
+171|Croix-Rousse||Gauchon|Pierre|rue|de cuire|6||||66
+172|Croix-Rousse||Gauthier|Bernard|rue|du pavillon|1||||66
+173|Croix-Rousse||Gauthier|NI|rue|du chapeau rouge|3||||66
+174|Croix-Rousse||Girard|NI|rue|des fossés|5||||66
+175|Croix-Rousse||Girer|Louis|rue|des fossés|7||||66
+176|Croix-Rousse||Goin|Alphonse|rue|Dumenge|15||||66
+177|Croix-Rousse||Graveleuse|Jean Claude|rue|des fossés|17||||66
+178|Croix-Rousse||Henri|Etienne|rue|du chapeau rouge|3||||66
+179|Croix-Rousse||Hugues|Louis Antoine|place|grande|19||||66
+180|Croix-Rousse||Lacroix|Claude|rue|du chapeau rouge|19||||66
+181|Croix-Rousse||Lacroix|NI|rue|de la visitation|5||||66
+182|Croix-Rousse||Laloge|Frédéric|rue|Duviard|NI||||66
+183|Croix-Rousse||Latreille|Pierre Dominique|rue|des fossés|10||||66
+184|Croix-Rousse||Lorain|NI|rue|du charriot d'or|12||||66
+185|Croix-Rousse||Louis|Jean|rue|de Sully|3||||66
+186|Croix-Rousse||Louis|Pierre|rue|des fossés|15||||66
+187|Croix-Rousse||Lourd|Laurent|rue|du mail|15||||66
+188|Croix-Rousse||Luzardy|Paul|rue|du chapeau rouge|25||||66
+189|Croix-Rousse||Luzardy|Joseph|rue|du chapeau rouge|34||||66
+190|Croix-Rousse||Manin|Claude|rue|du chapeau rouge|13||||66
+191|Croix-Rousse||Manuel|André|rue|des fossés|8||||66
+192|Croix-Rousse||Marietton|Louis|rue|des fossés|8||||66
+193|Croix-Rousse||Mathé|Antoine|rue|d'Enfer|10||||66
+194|Croix-Rousse||Matrat|Pierre|place|Dumont d'Urville|NI||||66
+195|Croix-Rousse||Merlat|Jean|rue|du chapeau rouge|13||||67
+196|Croix-Rousse||Metral|Cl.-Marie|rue|des tapis|1|montée de la terrasse|||67
+197|Croix-Rousse||Miliet|Pierre|rue|de cuire|33-35||||67
+198|Croix-Rousse||Millet|Louis|rue|des fossés|17||||67
+199|Croix-Rousse||Milliet|Pierre|rue|Constantine|NI|maison Fargeaudier|||67
+200|Croix-Rousse||Molard|Fr.|impasse|St-Clair|NI||||67
+201|Croix-Rousse||Moine|Jacques|passage|Lamure|8||||67
+202|Croix-Rousse||Montaigu|NI|rue|du mail|12||||67
+203|Croix-Rousse||Morin|Auguste|rue|Célu|12||||67
+204|Croix-Rousse||Mothier|Jacques|montée|Rey|13||||67
+205|Croix-Rousse||Mothier|Joseph|montée|Rey|1||||67
+206|Croix-Rousse||Musy|Ch.|cours|des tapis|3||||67
+207|Croix-Rousse||Musy|Jean-Marie|rue|du mail|37||||67
+208|Croix-Rousse||Noël|NI|montée|Rey|10||||67
+209|Croix-Rousse||Pascal|Joseph|rue|de Sully|NI|maison  Brossier|||67
+210|Croix-Rousse||Patras|Henri|rue|Dumenge|8||||67
+211|Caluire||Pelosse|Pierre|faubourg|de Bresse|NI||||67
+212|Croix-Rousse||Perret|Félix-Antoine|place|grande|17||||67
+213|Croix-Rousse||Perret|Fr.-Gr.|place|grande|16||||67
+214|Croix-Rousse||Philippe|Roman|rue|de Sully|6||||67
+215|Croix-Rousse||Pichon|Pierre|rue|Dumenge|8||||67
+216|Croix-Rousse||Pigeot|Jean|rue|de Sully|4||||67
+217|Croix-Rousse||Plaisant|Victor|rue|grande|74-76||||67
+218|Croix-Rousse||Poizat|André|rue|des fossés|1||||67
+219|Croix-Rousse||Poly|Philippe|place|St-Laurent|NI|maison Echaille|||67
+220|Croix-Rousse||Porchet|Jean|rue|de Sully|6||||67
+221|Croix-Rousse||Proal|Honoré|rue|du mail|12||||67
+222|Croix-Rousse||Rangaud|Jean Marie|rue|St-Jacques|1||||67
+223|Croix-Rousse||Regat|NI|rue|Richan|3||||67
+224|Croix-Rousse||Reverchon|F.|rue|du pavillon|1||||67
+225|Croix-Rousse||Rémond|NI|rue|Henri IV|NI|maison Bonnard|||67
+226|Croix-Rousse||Reynaud|NI|rue|du charriot d'or|12||||67
+227|Croix-Rousse||Richard|Pierre|rue|Dumond|19||||67
+228|Croix-Rousse||Richard|NI|rue|des fossés|NI||||67
+229|Croix-Rousse||Rochand|Claude|petite rue|de cuire|1||||67
+230|Croix-Rousse||Roux|Blaise|rue|de la visitation|1 et 3||||67
+231|Croix-Rousse||Roy|Désiré|rue|de Sully|6||||67
+232|Croix-Rousse||Savigny|Claude|rue|de la citadelle|3||||68
+233|Croix-Rousse||Serve|NI|rue|Constantine|NI|maison Hugues|||68
+234|Croix-Rousse||Tarchet|Jean Frédéric|rue|de la citadelle|3||||68
+235|Croix-Rousse||Teillon|Michel|rue|Perrot|NI||||68
+236|Croix-Rousse||Testa|NI|rue|des fossés|9||||68
+237|Croix-Rousse||Thielmann|Antoine|rue|de cuire|39||||68
+238|Croix-Rousse||Thomé|NI|rue|de cuire|7|passage Berger|||68
+239|Croix-Rousse||Tivollier|Nicolas|rue|Dumont|11||||68
+240|Croix-Rousse||Trabut|Jules-Ad.|rue|Perrot|NI|maison Bronder|||68
+241|Croix-Rousse||Trambouse|Antoine|rue|Ste-Rose|3||||68
+242|Croix-Rousse||Travail|Pierre|rue|du mail|20||||68
+243|Croix-Rousse||Tron|Hyacinthe|rue|des tapis|3||||68
+244|Croix-Rousse||Truchet|Jean Pierre|rue|Sully|NI||||68
+245|Croix-Rousse||Tussot|Benoit|cours|d'Herbouville|35||||68
+246|Croix-Rousse||Vachet|Claude|rue|de cuire|2||||68
+247|Croix-Rousse||Vallory|Jean|rue|Dumont d'Urville|3||||68
+248|Croix-Rousse||Valin|Louis|rue|du mail|20||||68
+249|Croix-Rousse||Vasseras|Edouard|montée|Rey|13||||68
+250|Croix-Rousse||Veisselet|Bernard|montée|Rey|13||||68
+251|Croix-Rousse||Veuillot|F.-Louis|rue|grande|107||||68
+252|Croix-Rousse||Vitte|Claude|rue|Jacquard|NI|maison Gauthier|||68
+253|||||||||||
+254|Guillotière||Arnaud|Jean-Louis|rue|de Sèze|26||||68
+255|Guillotière||Benoit|F.|cours|Trocadéro|18||||68
+256|Guillotière||Berret|F.|rue|de Chartres|19||||68
+257|Guillotière||Berret|Auguste|rue|Moncey|5||||68
+258|Guillotière||Bertrand|F.|rue|Tête d'Or|3||||68
+259|Guillotière||Boitel|Antoine|cours|Trocadéro|18||||68
+260|Guillotière||Bœuf|Louis|avenue|de Vauban|NI|camp National|||68
+261|Guillotière||Blanc|Marc|rue|Louis le Grand|16||||68
+262|Guillotière||Blanc|Antoine|cours|Vitton|18||||68
+263|Guillotière||Boudoit|Cl.|cours|Vitton|20||||68
+264|Guillotière||Boudoit|Jacques|avenue|de Saxe|21||||68
+265|Guillotière||Bourdaret|Jean-Baptiste|rue|Félissent|7||||68
+266|Guillotière||Brod|André|rue|Boileau|2||||69
+267|Guillotière||Brossard|Jacques|rue|Tronchet|17||||69
+268|Guillotière||Brunet|Martin|rue|Moncey|5||||69
+269|Guillotière||Brun|NI|avenue|de Vauban|NI|rue Camp National|||69
+270|Guillotière||Casanova|Martin|avenue|de Saxe|21||||69
+271|Guillotière||Chabout|Jean Louis|rue|Saint André|2||||69
+272|Guillotière||Charles|Julien|rue|Louis le Grand|16||||69
+273|Guillotière||Christin|Jean Baptiste|rue|de Sully|3||||69
+274|Guillotière||Conty|Pierre|rue|Moncey|12||||69
+275|Guillotière||Decomberousse|F.|rue|Madame|15||||69
+276|Guillotière||Durand|Joseph|rue|Tronchet|NI||||69
+277|Guillotière||Duret|Etienne|rue|Boileau|1||||69
+278|Guillotière||Eyraud|Jean Fr.|avenue|de Vauban|2||||69
+279|Guillotière||Garriel|Barthélémy|rue|Monsieur|3||||69
+280|Guillotière||Giraud|Jean André|rue|Henri IV|1||||69
+281|Guillotière||Godard|Claude|rue|Madame|46||||69
+282|Guillotière||Gonnet|Jh.|cours|Vitton|NI|angle de la rue Tronchet|||69
+283|Guillotière||Guigue|Antoine|rue|Ste Elisabeth|2||||69
+284|Guillotière||Guillot|NI|rue|de Sèze|26||||69
+285|Guillotière||Jauffier|Dominique|cours|Trocadéro|19||||69
+286|Guillotière||Manzon|NI|NI|NI|NI|aux Charpennes, maison Thibaudier|||69
+287|Guillotière||Martel|Jean-Louis|rue|NI|NI||||69
+288|Guillotière||Michel|Jean Baptiste|rue|Louis le Grand|16||||69
+289|Guillotière||Mogniat|Isidore|rue|Tête d'Or|5||||69
+290|Guillotière||Montfalcon|NI|rue|Moncey|5||||69
+291|Guillotière||Mothier|Louis|rue|de Chartres|7||||69
+292|Guillotière||Noël|Claude|rue|de Chartres|3||||69
+293|Guillotière||Quinard|Jean Baptiste|NI|NI|NI|près de la place dite du Moulin à Vent|||69
+294|Guillotière||Ricard|Jean|rue|Saint-Jacques|1||||69
+295|Guillotière||Ricard|Marc|rue|Saint-Jacques|1||||69
+296|Guillotière||Ricard|Jean Joseph|rue|de Chartres|5 bis||||69
+297|Guillotière||Rouillet|Pierre|rue|Henri IV|5||||69
+298|Guillotière||Vignand|Guillaume|rue|Madame|46||||69
+299|Guillotière||Virreton|Charles|rue|de Condé|15||||69

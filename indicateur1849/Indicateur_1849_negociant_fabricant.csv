@@ -1,0 +1,537 @@
+identifiant|commune|activite|nom|prenom|type_voie|nom_voie|numero|complement_adresse|specialite1|specialite2|specialite3|specialite4|observations|remarques_saisie|source|page
+1||Négociant-fabricant|Allier Ardin|Pierre François|rue|Désirée|1||Unis.|||||||25
+2||Négociant-fabricant|Anrioux|Gaspard|rue|des Capucins|14||armures|robes|nouveautés|brochés au brocheur|Troccon et Cie|||25
+3||Négociant-fabricant|Archirel|NI|place|de la Miséricorde|5||ornem. D'église|||||||25
+4||Négociant-fabricant|Arnaud|NI|rue|Romarin|4||robes|mouchoirs unis|imprimés|façonnés|fils|||25
+5||Négociant-fabricant|Arnaud et Brès|NI|petite rue|des feuillants|2||Unis.|taffetas|gros de Naples|||||25
+6||Négociant-fabricant|Arquillère|Fr. Pascal|rue|de Thou|2||crêpes|unis noirs|satins|gros grains||||25
+7||Négociant-fabricant|Audin|Ant.|rue|des Capucins|6||gilets|crav.|bord.|||||25
+8||Négociant-fabricant|Audras|Jean Baptiste|place|Croix Pâquet|2||cotelés|robes|armures|nouveautés unies et façonnées|et Valençot + cul de sac de Lorette|||25
+9||Négociant-fabricant|Auduc|Jean Baptiste|rue|des Capucins|10||lustrés|unis noirs|armures|||||25
+10||Négociant-fabricant|Augé et Pélisson|NI|rue|Lorette|1||unis noirs|lustrés|satins|gros grains|Augé ainé|||25
+11||Négociant-fabricant|Auvergne et Dumont|NI|rue |des feuillants|1||gilets|crav.|nouveautés|||||25
+12||Négociant-fabricant|Baïzelon|Jules et Cl.|port|St Clair|20||unis.|façonnés|nouveautés|||||25
+13||Négociant-fabricant|Balleidier|Félix|rue|des Capucins|20||velours unis|façonnés|gilets|nouveautés||||26
+14||Négociant-fabricant|Balmont|Jn. Et Cie|rue|Vieille Monnaie|29||gilets|velours pour boutons|nouveautés|||||26
+15||Négociant-fabricant|Barbier|Joseph|rue|des Capucins|6||velours unis|||||||26
+16||Négociant-fabricant|Bardon|Nicolas|rue|Vieille Monnaie|4||velours unis|||||||26
+17||Négociant-fabricant|Barnier et Desq frères|NI|rue|des Capucins|21||velours unis|taffetas pour parapluies|unis et façonnés|||||26
+18||Négociant-fabricant|Baron|Balthazard|rue|Vieille Monnaie|29||châles|thib. Impr.|gilets|châles laine, cach., velours faç.||||26
+19||Négociant-fabricant|Barrogy|Jacques|rue|des Capucins|11||gilets|crav.|armures|||||26
+20||Négociant-fabricant|Barrot|Louis|rue|des Capucins|10||satins unis|||||||26
+21||Négociant-fabricant|Bavarot|Ch. Emile|rue|des Capucins|27||unis|taffetas pour parapluies||||||26
+22||Négociant-fabricant|Baverey et Charrel|NI|place|Croix Pâquet|1||châles laine et cachemire|||||||26
+23||Négociant-fabricant|Beddat|NI|rue|Lafont|3||robes|mandarine|crêpons|popelines et mouchoirs façonnés||||26
+24||Négociant-fabricant|Belin, Decret et Cie.|NI|rue|St Polycarpe|6||nouveautés|||||||26
+25||Négociant-fabricant|Belmont ainé, Rimaud et Cie|NI|rue|des Capucins|21||unis|impressions|dépôt de Florences|||||26
+26||Négociant-fabricant|Belmont Terret|NI|rue |des Capucins|19-21||unis|nouveautés|dépôt de Florences|||||26
+27||Négociant-fabricant|Belmont|Philibert|rue|des Capucins|20 bis||unis|||||||26
+28||Négociant-fabricant|Belon|Joseph|petite rue|des feuillants|1||unis|||||||26
+29||Négociant-fabricant|Benazech et Gallet|Joachim et Honoré|grande rue|des feuillants|6||robes|fichus|nouveautés|façonnés||||26
+30||Négociant-fabricant|Benoit|NI|côte|des Carmélites|24||velours|||||||26
+31||Négociant-fabricant|Berard, Grand et Cie|NI|port|St Clair|19||unis|façonnés et nouveautés|||successeurs de A. Gauthier|||26
+32||Négociant-fabricant|Berger frères|NI|place|Croix Pâquet|9||robes|crav. Unies et façonnées||||||26
+33||Négociant-fabricant|Berger et Pauthe|NI|rue|des Capucins|29||unis|armures|nouveautés|||||26
+34||Négociant-fabricant|Berliat|François|rue|des Capucins|10||unis|armures|||et Dumont|||26
+35||Négociant-fabricant|Berlié neveu, Belon et Cie|NI|place|Romarin|2||unis|gros de Naples|satins|armures, châles et camails||||27
+36||Négociant-fabricant|Berlié|Isidore|rue|des Capucins|16||unis|||||||27
+37||Négociant-fabricant|Bernabé et Cazot|Cath.|place|Croix Pâquet|6||cravates et gilets façonnés|||||||27
+38||Négociant-fabricant|Bernard et Jacques|NI|port|St Clair|19||velours|||||||27
+39||Négociant-fabricant|Berthier|André|rue|des Capucins|17||gilets|crav.||||||27
+40||Négociant-fabricant|Berthollet frères|NI|rue|des Capucins|18||unis|gros de Naples|satins|armures||||27
+41||Négociant-fabricant|Bertrand, Félix, Gayet et Montanet|NI|rue|Puits-Gaillot|27||mouch.|écharpes|châles soie|nouveautés||||27
+42||Négociant-fabricant|Bessiez et Chanu|NI|rue|Rozier|3||unis|nouveautés||||||27
+43||Négociant-fabricant|Besson, Morizot et Bonnardel|NI|rue|des Capucins|29||écharpes|fichus|nouveautés|||||27
+44||Négociant-fabricant|Bibet|Ch.|rue|St Polycarpe|10||robes|gilets|crav. Façonnées|||||27
+45||Négociant-fabricant|Blain|Jacques|place|de la boucherie des Terreaux|NI||Taffetas pour parapluies|||||||27
+46||Négociant-fabricant|Billard|Fr.|rue|Vieille Monnaie|30||velours unis et façonnés|||||||27
+47||Négociant-fabricant|Blanc frères|NI|rue|des Capucins|14||mouch.|châles soie, laine|crêes de chine|impressions||||27
+48||Négociant-fabricant|Blache Molière|NI|port|St Clair|27||velours |nouveautés||||||27
+49||Négociant-fabricant|Blachier frères|NI|rue|du Garet|2||unis||||et à Annonay|||27
+50||Négociant-fabricant|Blanchon|Fr.|rue|des deux angles|21||unis|||||||27
+51||Négociant-fabricant|Bloud ainé|Claude|rue|Rosier|3||robes|mouchoirs soie et laine et mérinos||||||27
+52||Négociant-fabricant|Bocoup|François|rue|Lafont|4||unis|nouveautés||||||27
+53||Négociant-fabricant|Bois|Ant.|rue|des feuillants|1||unis|armures|nouveautés|||||27
+54||Négociant-fabricant|Bonnand|Et.|rue|des Capucins|12||velours|gilets|nouveautés|||||27
+55||Négociant-fabricant|Bonnard|L.|rue|des Capucins|17||châles laine|gilets||||||27
+56||Négociant-fabricant|Bonnart|NI|rue|Puits-Gaillot|7||foulards|nouveautés||||||27
+57||Négociant-fabricant|Bon, Pasquier, Sachet et Cie|NI|rue|Donnée|4||crav.|gilets|mouchoirs|nouveautés||||27
+58||Négociant-fabricant|Bonnet et Pasquier|NI|rue|Désirée|6||nouveautés|||||||27
+59||Négociant-fabricant|Bonnet|Claude Joseph|rue|du Griffon|4||lustrés|satins unis noirs||||||28
+60||Négociant-fabricant|Borrot fils et Cie|NI|port|St Clair|25||velours|||||||28
+61||Négociant-fabricant|Bossans et Sestier|NI|rue|St Polycarpe|10||unis|taffetas pour parapluies||||||28
+62||Négociant-fabricant|Bouchet et Cie|NI|rue|du Griffon|3||châles laine et au quart|gilets|cachemires|||||28
+63||Négociant-fabricant|Bouteille|Et. Benoit|rue|Coisevox|3||châles laine et au quart|foulards|thibets imprimés|||||28
+64||Négociant-fabricant|Bouvard|Jn. Pierre|place|des Capucins|2||unis|grosgrains|meubles|||||28
+65||Négociant-fabricant|Boyer ainé|Jn.-Jacques|port|St Clair|19||gros de Naples|satins|armures|façonnés||||28
+66||Négociant-fabricant|Boyrivent frères|NI|rue |des Capucins|23||châles laine|impressions||||||28
+67||Négociant-fabricant|Brachet frères et cie|NI|rue|Désirée|19||tissus lamés argent et or|nouveautés||||||28
+68||Négociant-fabricant|Bremal et Dubourg|NI|rue|des Capucins|18||unis|||||||28
+69||Négociant-fabricant|Bressac, Morel et Cie|NI|place|Croix Pâquet|11||robes|mouchoirs|façonnés|nouveautés||||28
+70||Négociant-fabricant|Briery|Pierre|rue|des Capucins|9||mouch.|gilets|cachemires|bordures, foulards||||28
+71||Négociant-fabricant|Brisson frères|NI|rue|du Griffon|13||peluches pour chapeaux|velours unis|nouveautés|||||28
+72||Négociant-fabricant|Brosset ainé|NI|rue|Désirée|21||robes|écharpes|fichus|nouveautés et velours||||28
+73||Négociant-fabricant|Brunet et Cochaud|Pierre|rue|du Griffon|13||Taffetas pour parapluies|unis|façonnés|||||28
+74||Négociant-fabricant|Brunet et Cie|NI|rue|St Marcel|2||Taffetas pour parapluies|||||||28
+75||Négociant-fabricant|Brunet Lecomte et Gudelain|NI|port|St Clair|24||unis|façonnés|nouveautés|||||28
+76||Négociant-fabricant|Bruny et Valensot|Jean Marie et Fr.|rue|des Capucins|20||robes|gilets|crav. Unies et façonnées|||||28
+77||Négociant-fabricant|Bruyas et Fayolle|Et. & Et.|place|Croix Pâquet|9||gilets|cravates||||||28
+78||Négociant-fabricant|Buer|NI|rue|Vieille Monnaie|9||unis|||||||28
+79||Négociant-fabricant|Buisson frères|NI|rue|royale|21||unis|foulards|nouveautés|||||29
+80||Négociant-fabricant|Buisson Tabard frères|NI|rue|Vieille Monnaie|10||unis|façonnés|velours|||||29
+81||Négociant-fabricant|Buret frères|NI|rue|Romarin|6||gilets|cravates|velours façonnés|ornements et brochés||||29
+82||Négociant-fabricant|Burlan père et fils|NI|rue|Vieille Monnaie|10||taffetas|satins noirs||||||29
+83||Négociant-fabricant|Bussière fils|NI|rue|Pizay|1||NI|||||||29
+84||Négociant-fabricant|Bussy frères|NI|rue|Romarin|5||unis|armures||||||29
+85||Négociant-fabricant|Cady et Candollière|NI|rue|des Capucins|6||mouch.|châles|laine|mousseline, thibets et impressions||||29
+86||Négociant-fabricant|Caffarel|François|rue|des Capucins|7||satins unis|||||||29
+87||Négociant-fabricant|Caquet-Vanzelle et Devienne|NI|rue |des feuillants|6||unis|gilets|damas|nouveautés|successeurs de Monterrad|||29
+88||Négociant-fabricant|Carrand et Peillot|NI|rue|St Polycarpe|2||gilets|cravates|velours|foulards||||29
+89||Négociant-fabricant|Carrier et  Dessaigne|NI|rue|des Capucins|20||châles laine et au quart|||||||29
+90||Négociant-fabricant|Cathelin|Antoine|place|Croix Pâquet|2||unis|||||||29
+91||Négociant-fabricant|Cazot, Berthet et Guinchard|NI|place|Croix Pâquet|6||unis|armures|nouveautés|||||29
+92||Négociant-fabricant|Celse|Auguste|rue|Désirée|6||nouveautés|||||||29
+93||Négociant-fabricant|Chabaud|Jean|place|des Capucins|5||gilets et châles laine||||et Guichard|||29
+94||Négociant-fabricant|Chaboud|NI|rue|Vieille Monnaie|15||unis|velours||||||29
+95||Négociant-fabricant|Chaffranjon et Françon|NI|rue|des Capucins|14||unis|velours|nouveautés|||||29
+96||Négociant-fabricant|Chambaud et cie|Jean|grande rue|des feuillants|2||châles|soie|laine|||||29
+97||Négociant-fabricant|Champagne et Gariot|Th. Et Ch.|rue|des Capucins|10||gros de Naples|armures|robes et mouchoirs|fichus, nouveautés||||29
+98||Négociant-fabricant|Chapost-Chinard|NI|rue|des Capucins|20||châles laine et au quart|||||||30
+99||Négociant-fabricant|Charlet et Montel|NI|rue |des Capucins|18||nouveautés|||||||30
+100||Négociant-fabricant|Charnay|Thomas|rue|des Capucins|17||unis|||||||30
+101||Négociant-fabricant|Chastel et Rivoire|Alph. Et Martin|rue|Désirée|16||armures|robes|gilets|nouveautés||||30
+102||Négociant-fabricant|Chavanne|Jean Claude|rue|des Capucins|7||velours|||||||30
+103||Négociant-fabricant|Chavent|André|rue|Vieille Monnaie|30||mouch.|robes|gilets|cravates||||30
+104||Négociant-fabricant|Chazel|Jean|rue|des Capucins|12||unis|taffetas|satins|||||30
+105||Négociant-fabricant|Chazottier|Jean Barthélémy|rue|Lorette|4||velours|||||||30
+106||Négociant-fabricant|Chazottier|Antoine|place|des Capucins|3||meubles|ornements||||||30
+107||Négociant-fabricant|Chervet et Henry|Jean Baptiste et Jules|place|Croix Pâquet|11||robes|mouchoirs|écharpes|giles et nouveautés|prochainement rue Coustou, 6|||30
+108||Négociant-fabricant|Chipier et cie|Gabriel|rue|des Capucins|18||gilets|cravates||||||30
+109||Négociant-fabricant|Chollet et Pater|Claude Marie et Jean Antoine|place|Croix Pâquet|4||satins unis|||||||30
+110||Négociant-fabricant|Chuard |Elisée et Jean Baptiste|grande rue|des feuillants|4||robes|écharpes|châles|gazes|fils et neveu|||30
+111||Négociant-fabricant|Cinier|Claude|rue|des Capucins|12||châles soie|damas|ornements d'Eglise|peluches|aussi Port St Clair 19|||30
+112||Négociant-fabricant|Claret et Cirlot|NI|rue|des Capucins|21||cravates|mouchoirs|châles|nouveautés||||30
+113||Négociant-fabricant|Ceindre et Traccon|NI|rue|Romarin|16||robes|nouveautés|||successeur de Bender|||30
+114||Négociant-fabricant|Condamin|Jacques|rue|de Coustou|5||bordures|châles||||||30
+115||Négociant-fabricant|Coquart et Baron|NI|rue|Imbert Colomès|27||châles laine et au quart|||||||30
+116||Négociant-fabricant|Corti et Cottet|Louis Marie et Gabriel|rue|des feuillants|2||gilets|cravates||||||30
+117||Négociant-fabricant|Corau et Abel|NI|rue|des Capucins|13||velours |nouveautés||||||30
+118||Négociant-fabricant|Coste et Maurel|Antoine et Jean Baptiste|rue|Rosier|1||châles laine et au quart|nouveautés||||||30
+119||Négociant-fabricant|Coste et Pezafet|NI|place|des Carmes|NI||châles laine|||||||31
+120||Négociant-fabricant|Courajos-Mas|Théodore|grande rue|des feuillants|1||unis|||||||31
+121||Négociant-fabricant|Couturier|Hippolite|rue|Romarin|11||satins|serges|velours unis||et Régis frères|||31
+122||Négociant-fabricant|Covillard|NI|rue|des Capucins|6||gilets|nouveautés||||||31
+123||Négociant-fabricant|Culhat|G.|rue|Puits-Gaillot|27||velours unis|nouveautés||||||31
+124||Négociant-fabricant|Cuzin|Jean Pierre|rue|des Capucins|6||châles laine|bordures façonnées||||||31
+125||Négociant-fabricant|Dalbepierre|L.-Fr.;|rue|St Polycarpe|4||unis|velours||||||31
+126||Négociant-fabricant|Damiron frères|Jean Pierre et Jean Antoine|rue|des Capucins|6||châles au quart|laine|cachemires|||||31
+127||Négociant-fabricant|Dantoine|Jean|place|des Capucins|3||mouch. Unis et façonnés|||||||31
+128||Négociant-fabricant|Degraix, Forot et Cie.|NI|rue|St Polycarpe|6||unis|serges|nouveautés|||||31
+129||Négociant-fabricant|Déléchaux|André|rue|St Polycarpe|1||unis|||||||31
+130||Négociant-fabricant|Delon et Bonnet|Adolphe et Auguste|rue|des feuillants|4||unis|peluches|velours unis|||||31
+131||Négociant-fabricant|Delorme jeune|NI|rue |St Polycarpe|8||unis|||||||31
+132||Négociant-fabricant|Dequincieux et Cie|NI|port|St Clair|25||cravates|gilets||||||31
+133||Négociant-fabricant|Derbier et Boutier|François|rue|St Polycarpe|4||armures|pékins|nouveautés unies et façonnées|||||31
+134||Négociant-fabricant|Dervieu et Cie|André|rue|St Polycarpe|8||robes|mouchoirs|fichus|marabouts et gazes façonnées||||31
+135||Négociant-fabricant|Desgaultière, Tresca et Déchavannet|Ch.|place|Croix Pâquet|6||robes|mouchoirs|gazes|crêpes et faç.||||31
+136||Négociant-fabricant|Desgrand|Fr.|rue|Terraille|22||unis et façonnés|||||||31
+137||Négociant-fabricant|Despert|NI|rue|Ste Catherine|10||Taffetas pour parapluies|||||||31
+138||Négociant-fabricant|Dessus|Barthélémy|côte|grande|7||velours unis|||||||31
+139||Négociant-fabricant|Devaulx frères|NI|rue|des Capucins|17||mouchoirs|crêpes de Chine|nouveautés|||||31
+140||Négociant-fabricant|Dolbeau|Etienne|rue|des Capucins|6||ornements|meubles||||||32
+141||Négociant-fabricant|Dolbeau et Martin|NI|rue |Coustou|10||châles laine|impressions|||successeur de Micol|||32
+142||Négociant-fabricant|Donat et Cie|Jules|rue|Lafont|8||peluches|||||||32
+143||Négociant-fabricant|Donat et Gervesie|NI|rue|du Griffon|4||gilets et cravates façonnés|||||||32
+144||Négociant-fabricant|Douzel frères|NI|rue|des Capucins|14||unis|armures||||||32
+145||Négociant-fabricant|Doux, Roche et Dime|NI|place|Romarin|1||mouchoirs|écharpes|brochés|nouveautés|successeurs de Pellin|||32
+146||Négociant-fabricant|Drevet et Garcin|Pierre Marie et frères|rue|des Capucins|21||robes|gilets et cravates façonnés||||||32
+147||Négociant-fabricant|Drivet et Cie|NI|rue|des Capucins|9||unis et satins|||||||32
+148||Négociant-fabricant|Drogue et Binoux|Jean|rue |des Capucins|6||velours|||||||32
+149||Négociant-fabricant|Dubet|Pierre|rue|du commerce|11||parapluies|velours||||||32
+150||Négociant-fabricant|Dubeire et cie|Fr.|rue|St Polycarpe|8||unis|||||||32
+151||Négociant-fabricant|Dumaine, Manuel et Cie|NI|petite rue|des feuillants|1||unis|nouveautés||||||32
+152||Négociant-fabricant|Dumont frères|NI|rue|St Polycarpe|10||robes|gilets|cravates|mouchoirs façonnés||||32
+153||Négociant-fabricant|Dumoy et Mmontessuy|NI|rue|Puits-Gaillot|25||crêpes et gazes unis|||||||32
+154||Négociant-fabricant|Dupont père et fils et cie|NI|rue|des deux angles|17||unis noirs|||||||32
+155||Négociant-fabricant|Durand frères|Eugène et Fr.|rue|Puits-Gaillot|19||unis|nouveautés|écharpes|velours, rubans, broderies||||32
+156||Négociant-fabricant|Durieux|Louis|rue|des Capucins|27||Taffetas pour parapluies|||||||32
+157||Négociant-fabricant|Duressy et Brosse|NI|rue|St Polycarpe|4||mouchoirs|cravates|gilets|nouveautés||||32
+158||Négociant-fabricant|Durier et Blanchon|NI|rue|royale|21||unis|||||||32
+159||Négociant-fabricant|Dusson et Cie|Emile|rue|Vieille Monnaie|29||unis|||||||32
+160||Négociant-fabricant|Eydan|Gabriel|rue|des Capucins|17||gilets façonnés|||||||33
+161||Négociant-fabricant|Eymard|Paul|rue|du Griffon|4||robes|mouchoirs|châles|gazes, chenilles, nouveautés||||33
+162||Négociant-fabricant|Faidides|Michel|rue|Désirée|21||unis|gros grains pour la moire|nouveautés|||||33
+163||Négociant-fabricant|Farge et cie|Etienne et Charles|grande rue|des feuillants|NI||unis|||||||33
+164||Négociant-fabricant|Fatin|George Marie|rue|des Capucins|6||mouchoirs|châles façonnés|ornements|||||33
+165||Négociant-fabricant|Faure et Cie|Fr.|port|St Clair|19||crêpes|gazes|unis|||||33
+166||Négociant-fabricant|Faure|Charles|rue|Grenette|10||gazes et satins pour chapeaux|||||||33
+167||Négociant-fabricant|Faure et Combalot|NI|rue|Coustou|10||unis|armures||||||33
+168||Négociant-fabricant|Favre et Guitard|NI|rue|des Capucins|21||velours|||||||33
+169||Négociant-fabricant|Fayeton fils et Boiron|NI|place|des Capucins|3||meubles|ornements||||||33
+170||Négociant-fabricant|Fayolle et Armand|NI|place|Croix Pâquet|9||nouveautés|||||||33
+171||Négociant-fabricant|Figuier ainé et Cie|NI|rue |des Capucins|20||unis|foulards|florences|||||33
+172||Négociant-fabricant|Flandrin|Cl. Et Ant.|petite rue|des feuillants|2||NI|||||||33
+173||Négociant-fabricant|Floret et Boissat|NI|rue|Désirée|19||gilets|fichus|ombrelles|nouveautés||||33
+174||Négociant-fabricant|Fontaine et Dérognat|Félix et Philibert|rue|des Capucins|16||robes|gilets|cravates|mouchoirs, velours façonné||||33
+175||Négociant-fabricant|Formier, Janin et Falsan|NI|place|de la Comédie|16||velours unis à 2 pièces par brevet d'invention|||||||33
+176||Négociant-fabricant|Fourès|NI|rue|des deux angles|11||lustrés|unis noirs||||||33
+177||Négociant-fabricant|Fournel|Victor|grande rue|des feuillants|8||unis|façonnés||||||33
+178||Négociant-fabricant|Fournel|NI|rue|Lafont|18||unis|||||||34
+179||Négociant-fabricant|Fournel et Beddat|Joseph|rue|Lafont|3||robes|mouchoirs|crêpons|foulards||||34
+180||Négociant-fabricant|Fourtoul et Tastevin|NI|rue|Lafont|18||unis|||||||34
+181||Négociant-fabricant|Fourtoul et Dumas|NI|rue|Lorette|5||unis|||||||34
+182||Négociant-fabricant|Frédière|NI|rue|St Polycarpe|4||unis|||||||34
+183||Négociant-fabricant|Freval fils et cie|NI|grande rue|des feuillants|3||crêpes|gazes||||||34
+184||Négociant-fabricant|Furnion frères|NI|rue|du Griffon|4||gilets|cravates|velours façonnés|||||34
+185||Négociant-fabricant|Gabillot et cie|Samuel Joseph|rue|St Polycarpe|8||gilets|cachemire|nouveautés|||||34
+186||Négociant-fabricant|Gaillard|Joseph|quai|St Clair|13||peluches pour chapeaux|||||||34
+187||Négociant-fabricant|Gamot|Alex.|rue|St Polycarpe|10||crêpes et gazes|||||||34
+188||Négociant-fabricant|Gandy et Tardy|Jean-Sim. Et Fr.|rue|Puits-Gaillot|27||robes|mouchoirs|nouveautés|||||34
+189||Négociant-fabricant|Gantin veuve, Goumand et Cie|NI|rue|Romarin|6||gros de Naples|poult de soie|satins unis|armures|ancienne maison Goumand|||34
+190||Négociant-fabricant|Garin père et fils|Fr.|rue|des Capucins|10||unis|||||||34
+191||Négociant-fabricant|Gauthier frères|NI|rue|du Griffon|2 et 4||mouchoirs|cravates|nouveautés|||||34
+192||Négociant-fabricant|Genevrier et Canonville|Jacques|rue|Puits-Gaillot|27||gros de Naples|satins unis|armures à lisses|nouveautés||||34
+193||Négociant-fabricant|Gentelet|Pre-L.|quai|St Clair|16||robes|cravates|gilets|mouchoirs, châles et nouveautés||||34
+194||Négociant-fabricant|Geoffray|Joseph|rue|des Capucins|22||pékins|armures|robes|cravates unies et façonnées|ancienne maison Guérin|||34
+195||Négociant-fabricant|Gindre|Louis|rue|des Capucins|23||gros de Naples|satins blancs|nouveautés|||||35
+196||Négociant-fabricant|Girard|NI|place|Croix Pâquet|11||unis|armures|nouveautés|||||35
+197||Négociant-fabricant|Girard neveu|Louis|rue|des Capucins|6||velours unis et façonnés|||||||35
+198||Négociant-fabricant|Giraud|Alex.|rue|du Griffon|10||taffetas|armures|gr., larges|velours unis||||35
+199||Négociant-fabricant|Giraud|NI|rue|des Capucins|7||gilets|cravates|coll.|façonnés||||35
+200||Négociant-fabricant|Giraud et Berger|Auguste|place|Croix Pâquet|6||satins|serges|unis|||||35
+201||Négociant-fabricant|Giraud|Grégoire|place|Croix Pâquet|11||gilets|cravates unies et façonnées||||||35
+202||Négociant-fabricant|Giraudon|Adolphe|quai|de Retz|30||gazes|crêpes|unis|velours unis||||35
+203||Négociant-fabricant|Godemard et Meynier|Auguste et Prosper|petite rue|des feuillants|2||châles|robes|brochés et châles|cachemire|par brevet d'invention|||35
+204||Négociant-fabricant|Gonnard|Pierre|rue|St Polycarpe|10||Taffetas pour parapluies et unis|||||||35
+205||Négociant-fabricant|Gonnet jeune|NI|rue|des Capucins|18||unis|||||||35
+206||Négociant-fabricant|Goujon|Jean Marie|rue|Vieille Monnaie|12||châles laine, au quart et cachemire|||||||35
+207||Négociant-fabricant|Grand ainé|NI|rue|du Griffon|2||unis|||||||35
+208||Négociant-fabricant|Grand frères|NI|quai|de Retz|31||meubles|ornements brochés||||||35
+209||Négociant-fabricant|Granjé et Schulz|André et Charles|rue|du Griffon|4||robes|mouchoirs|écharpes|crêpes soie, indiens, façonnés, tissus en dorure, velours et nouveautés||||35
+210||Négociant-fabricant|Grenetier et cie|NI|rue|Désirée|14||cravates|coll. Façonnés||||||35
+211||Négociant-fabricant|Grillet ainé|Fr.|place|Croix Pâquet|11||châles et cachemire façonnés||||tient un magasin de châles et nouveautés, pour le détail quai St Antoine|||35
+212||Négociant-fabricant|Grobon et Guyot jeune|NI|rue|Désirée|2||gilets et cravates façonnés|velours|nouveautés|||||35
+213||Négociant-fabricant|Groboz|NI|place|des Terreaux|9||ornements d'Eglise|||||||35
+214||Négociant-fabricant|Gubian et Victor|Hippolite et frères|rue|des Capucins|29||unis|||||||36
+215||Négociant-fabricant|Guicher|Henri|rue|St Polycarpe|6||unis|||||||36
+216||Négociant-fabricant|Guillin|Alphonse|rue|des Capucins|20||châles laine et au quart|||||||36
+217||Négociant-fabricant|Guilon frères|Louis et Antoine|rue|Romarin|7||unis|||||||36
+218||Négociant-fabricant|Guillon et Pitiot|NI|place|des Terreaux|9||ornements d'Eglise|||||||36
+219||Négociant-fabricant|Guiindrand|Guillaume|rue|des Capucins|11||cravates|gilets|nouveautés|||||36
+220||Négociant-fabricant|Guinet frères|NI|rue|des Capucins|22||unis|||||||36
+221||Négociant-fabricant|Guise et cie|Jean Baptiste|rue|St Polycarpe|1||velours|||||||36
+222||Négociant-fabricant|Gustelle et Monnet|Ant.|place|Romarin|5||gilets|châles soie et indiens|velours façonnés|nouveautés||||36
+223||Négociant-fabricant|Heckel et cie|L.|rue|des Capucins|14||satins|robes||||||36
+224||Négociant-fabricant|Henri et Pitrat|NI|place|Croix Pâquet|6||robes|gilets|cravates|nouveautés||||36
+225||Négociant-fabricant|Humblot et Pouilaillon|Louis|rue|Désirée|2||unis et velours unis en couleurs|gilets façonnés||||||36
+226||Négociant-fabricant|Jandin|Jean Isaac|rue|Romarin|11||NI|||||||36
+227||Négociant-fabricant|Janniard et Ceile|Louis|rue|Désirée|4||robes|cravates|nouveautés|foulards||||36
+228||Négociant-fabricant|Jarrin et Trollon|NI|rue|Vieille Monnaie|37||châles laine et cachemire|||||||36
+229||Négociant-fabricant|Joly et Croizat|Paul et Hippolyte|rue|Lafont|18||robes|gilets|parapluies|ombrelles||||36
+230||Négociant-fabricant|Jurien et cie|NI|petite rue|des Capucins|8||châles|gilets|nouveautés|tissus et laine||||36
+231||Négociant-fabricant|Lançon|Fr.-A.|rue|Ste Catherine|5||meubles|ornements d'Eglise|bannières|||||37
+232||Négociant-fabricant|Lapeyrre et Cie|Guy Martin|place|Romarin|1||unis|armures|robes façonnées|||||37
+233||Négociant-fabricant|Larrivé et cie|NI|rue|Rosier|3||unis poults de soie|armures|||ou rue des capucins, 17|||37
+234||Négociant-fabricant|Laselve et Chasting|Henri et Benoit-Auguste|rue|St Polycarpe|8||unis|façonnés nouveautés|étoffes pour chapeaux de matières diverses et étrangères|||||37
+235||Négociant-fabricant|Lebègue et Perret|NI|rue|du Griffon|9||gilets façonnés|||||||37
+236||Négociant-fabricant|Lemire père et fils|Alex.|grande rue|des feuillants|1||meubles|ornements|châles|soies façonnées|ci-devant place Croix-Pâquet, 11|||37
+237||Négociant-fabricant|Lorrin, Roibet et Naquin|A.|petite rue|des feuillants|9||robes|mouchoirs|nouveautés|||||37
+238||Négociant-fabricant|Maire et Tournu|NI|rue|Romarin|5||fichus|robes|nouveautés|||||37
+239||Négociant-fabricant|Maison et Jantet|NI|petite rue|des feuillants|4||mouchoirs|fichus|crav.|dorures et nouveautés|tiennent école de théorie|||37
+240||Négociant-fabricant|Magnin|NI|rue|des tables Claudiennes|2||velours|||||||37
+241||Négociant-fabricant|Mallet ainé et cie|NI|rue|St Polycarpe|4||taffetas pour parapluies unis et façonnés|||||||37
+242||Négociant-fabricant|Maniquet et Bergon|Antoine|côte|St Sébastien|6||foulards|thibets|impressions|||||37
+243||Négociant-fabricant|Mantelier|Pierre|rue|des Capucins|23||thibets|impressions|châles laine et au quart|||||37
+244||Négociant-fabricant|Marron|Anthelme|impasse|St Polycarpe|2||thibets|foulards|impressions|||||37
+245||Négociant-fabricant|Martel|C.|place|Croix Pâquet|1||peluches|||||||37
+246||Négociant-fabricant|Martel et Delacroix|NI|grande rue|des feuillants|4||unis|armures|peluches|||||38
+247||Négociant-fabricant|Martel|Désiré|rue|des feuillants|9||unis façonnés|||||||38
+248||Négociant-fabricant|Martin|P.|rue|des Capucins|12||peluches pour chapeaux||||fabrique à Tarare|||38
+249||Négociant-fabricant|Martin et Bonneton|Paul et Jh.|rue|des Capucins|20||robes|mouchoirs|façonnés|nouveautés||||38
+250||Négociant-fabricant|Martin|Etienne|rue|Désirée|15||gros de Naples|pékins|unis et façonnés|robes||||38
+251||Négociant-fabricant|Martin et Dolbeau|NI|rue|Coustou|16||thibet façonnés|châles impressions||||||38
+252||Négociant-fabricant|Martin et Lami|Félix|rue|des Capucins|23||crêpes|taffetas pour parapluies|velours unis|||||38
+253||Négociant-fabricant|Martin|Fr.|rue|Vieille Monnaie|37||unis|armures|nouveautés|velours unis et façonnés||||38
+254||Négociant-fabricant|Martin, Girard, Gauthier et Fornas|NI|port|St Clair|27||velours|||||||38
+255||Négociant-fabricant|Mathevon|NI|côte|des Carmélites|5||velours unis|||||||38
+256||Négociant-fabricant|Mathevon et Bouvard|Jacques / Gabriel et Jean-Claude|port|St Clair|26||meubles|unis et façonnés pour tentures et voitures|ornements d'Eglise|façonnés brochés, châles soie et indiens, nouveautés||||38
+257||Négociant-fabricant|Mauban|Jacques|place|Romarin|1||meubles|ornements d'Eglise||||||38
+258||Négociant-fabricant|Maurier et Cie|NI|port|St Clair|19||unis et façonnés|velours frisés et coupés|nouveautés|||||38
+259||Négociant-fabricant|Mauvernay|Bt.|port|St Clair|21||taffetas pour parapluies unis et façonnés||||et rue du Griffon|||38
+260||Négociant-fabricant|Méjasson fils ainé|NI|rue|des Capucins|19||unis|nouveautés||||||38
+261||Négociant-fabricant|Merle et Lenoir|Fr.|rue|des Capucins|19||unis en tout genre|nouveautés||||||38
+262||Négociant-fabricant|Michard et Bouneau|NI|rue|des Capucins|21||crêpes de Chine unis et façonnés|broderies|châles|nouveautés||||38
+263||Négociant-fabricant|Michel|Fr.|place|Croix Pâquet|11||unis en tout genre|nouveautés||||||38
+264||Négociant-fabricant|Michel et Meynier|J.|rue|Puits-Gaillot|17||thibets|impressions|châles mélangés|||||38
+265||Négociant-fabricant|Micolot|J-B.|rue|Romarin|6||unis|cravates||||||39
+266||Négociant-fabricant|Milliet|NI|place|des Capucins|3||foulards|florences|gros de Naples|||||39
+267||Négociant-fabricant|Million|Pierre|rue|St Polycarpe|6||unis|satins forts|gros grains|velours||||39
+268||Négociant-fabricant|Millioz et cie|NI|place|Croix Pâquet|6||mouchoirs|cravates|nouveautés|||||39
+269||Négociant-fabricant|Millou et Cabaud|NI|rue|Puits-Gaillot|27||unis|cravates façonnées|velours|||||39
+270||Négociant-fabricant|Moinecours|Jacques|quai|de l'Archevêché|28||unis|||||||39
+271||Négociant-fabricant|Molleron et Mazeirat|NI|place|Croix Pâquet|11||cravates|gilets|façonnés|nouveautés||||39
+272||Négociant-fabricant|Mollot et Sorlin|NI|rue|des Capucins|10||unis|thibets|impressions|||||39
+273||Négociant-fabricant|Montfalcon et Bosonnet|NI|rue|des Capucins|18||châles laine et cachemire|||||||39
+274||Négociant-fabricant|Monnet fils et Guichon|NI|rue|des Capucins|13||unis noirs|cravates|satins|taffetas, serge, armures||||39
+275||Négociant-fabricant|Monnet, Magnin et Feyat|NI|place|Croix Pâquet|6||fichus|cravates|nouveautés|||||39
+276||Négociant-fabricant|Monnoyeur et Moras|J.-B. et Ferd.|rue|Lafont|28||unis et façonnés|brochés|articles pour meubles|ornements d'église||||39
+277||Négociant-fabricant|Morand, Porte et cie|NI|rue|des Capucins|22||façonnés|nouveautés||||||39
+278||Négociant-fabricant|Moreau|NI|rue|de Lorette|2||thibets|impressions||||||39
+279||Négociant-fabricant|Morel-Patel|NI|grande rue|Pizay|21||unis noirs|||||||39
+280||Négociant-fabricant|Morel|Cl.|place|Croix Pâquet|11||robes|cravates|gilets|||||39
+281||Négociant-fabricant|Morel et Magnillat|Fr.|rue|des Capucins|29||unis|cravates noires||||||39
+282||Négociant-fabricant|Morel et Chatelain|NI|rue|des Capucins|20||robes|fichus|nouveautés|||||39
+283||Négociant-fabricant|Moreteau|Victor|rue|des Capucins|19||châles laine et au quart|||||||39
+284||Négociant-fabricant|Morelon et Sanière|NI|rue|Coustou|6||gilets|cravates||||||39
+285||Négociant-fabricant|Morhanges|Simon|rue|des Capucins|12||peluches|||||||39
+286||Négociant-fabricant|Morier et Roche|NI|place|Croix Pâquet|5||velours|||||||39
+287||Négociant-fabricant|Morier jeune|NI|rue|Coisevox|1||velours|||||||39
+288||Négociant-fabricant|Morlon|Fr.|rue|Stella|5||crêpes|||||||40
+289||Négociant-fabricant|Morrut-Charavey|NI|rue|St Marcel|26||unis|façonnés|gazes|dorures, étoffes pour fleurs||||40
+290||Négociant-fabricant|Musy et Galtier|M.|place|Croix Pâquet|2||crêpes|satin|serge|velours unis||||40
+291||Négociant-fabricant|Moulin|J.-C.|rue|Vieille Monnaie|4||unis|||||||40
+292||Négociant-fabricant|Mousset ainé|NI|rue|Romarin|3||mouchoirs|nouveautés||||||40
+293||Négociant-fabricant|Mouviel|René-Cl.|rue|Coustou|6||unis|nouveautés||||||40
+294||Négociant-fabricant|Murillon|J.|rue|Puits-Gaillot|2||unis|velours unis|nouveautés|||||40
+295||Négociant-fabricant|Nepple et Popelin|NI|rue|des Capucins|17||unis|armures||||||40
+296||Négociant-fabricant|Neyron et Renaud|NI|rue|des Capucins|29||NI||||voir Renaud et Favrot|||40
+297||Négociant-fabricant|Nicolas et cie|Jean-Fl.|rue|St Polycarpe|4||unis|armures|nouveautés|||||40
+298||Négociant-fabricant|Noury frères|Ed. et Eug.|place|Croix Pâquet|11||unis|foulards|cravates|||||40
+299||Négociant-fabricant|Naville|NI|rue|de Sèze|26||châles laine et au quart||||aux Brotteaux|||40
+300||Négociant-fabricant|Olivier|Victor|rue|du Griffon|9||fichus|nouveautés||||||40
+301||Négociant-fabricant|Ollat et Desvernay|Phil. Et René|rue|Puits-Gaillot|33||gazes|robes|écharpes|fichus, nouveautés||||40
+302||Négociant-fabricant|Orceaux et Clarard|NI|rue|St Polycarpe|2||unis taffetas|armures||||||40
+303||Négociant-fabricant|Pain fils et Perret|NI|rue|Romarin|6||mouchoirs|fichus|écharpes|robes, châles soie façonnés, nouveautés||||40
+304||Négociant-fabricant|Pages et Blein|NI|rue|des Capucins|10||châles laine |indous|cachemires|||||40
+305||Négociant-fabricant|Pailler et Bataille|NI|rue|Puits-Gaillot|2||unis|armures|robes|||||40
+306||Négociant-fabricant|Pansut et Ruffin|Louis|place|Croix Pâquet|6||unis|façonnés||||||40
+307||Négociant-fabricant|Panserat et Jarrosson|Aug.-J.-Bte|rue|Ste Marie|3||peluches pour chapeaux|||||||41
+308||Négociant-fabricant|Pariat et Boisset|NI|place|Croix Pâquet|9||unis|draps de soie|robes|fichus, nouveautés||||41
+309||Négociant-fabricant|Pascal et cie|Jn.|rue|St Claude|2||crav. Noires|||||||41
+310||Négociant-fabricant|Pascal et Rollet|NI|rue|des Capucins|18||unis noirs|velours|nouveautés|||||41
+311||Négociant-fabricant|Pasquier-Bon et J. Sachet|NI|rue|Coisevox|4||armures|gilets|cravates unies|façonnés et nouveautés||||41
+312||Négociant-fabricant|Pater et cie|NI|rue|du Griffon|7||unis|velours||||||41
+313||Négociant-fabricant|Patras et cie|D.|rue|Romarin|11||velours|||||||41
+314||Négociant-fabricant|Patricot et cie|R.|rue|St Polycarpe|8||unis|façonnés|nouveautés|||||41
+315||Négociant-fabricant|Patry et Fontanelle|NI|rue|des Capucins|18||gilets|cravates et mouchoirs façonnés||||||41
+316||Négociant-fabricant|Paule fils et cie|NI|rue|des Capucins|23||unis noirs|||||||41
+317||Négociant-fabricant|Peillon et Roche|NI|rue|royale|27||crêpes|unis noirs|gilets|cravates unies, façonnées et nouveautés||||41
+318||Négociant-fabricant|Peillon fils|NI|rue|des Capucins|13||thibets|impressions|châles laine et au quart|||||41
+319||Négociant-fabricant|Perrachon|Fr.-Ph.|rue|des Capucins|12||crêpes|||||||41
+320||Négociant-fabricant|Perret ainé, Bigot et cie|NI|rue|Coustou|6||thibets|châles|impressions|||||41
+321||Négociant-fabricant|Perret et Drivet|Jacques|rue|des Capucins|20||châles laine et au quart|cachemire|nouveautés|||||41
+322||Négociant-fabricant|Perret|J.-M.|rue|de la Vieille|11||velours|taffetas pour parapluies|parapluies confectionnés|||||41
+323||Négociant-fabricant|Périolat|Théodore|rue|du Griffon|11||unis|||||||41
+324||Négociant-fabricant|Perrier et cie|Louis|rue|des Capucins|22||unis|parapluies|robes|nouveautés||||41
+325||Négociant-fabricant|Perrod et Place|NI|port|St Clair|27||unis|armures|nouveautés|||||41
+326||Négociant-fabricant|Peysselon|Jean Antoine|rue|Ste Catherine|16||ornements|brochés||||||41
+327||Négociant-fabricant|Piaget et Roux|E.|place|Croix Pâquet|11||unis|façonnés|nouveautés|||||41
+328||Négociant-fabricant|Pidard|A.|rue|St Polycarpe|10||unis|cravates façonnées||||||41
+329||Négociant-fabricant|Pierron et Faure|NI|rue|du Griffon|9||nouveautés|châles|gilets|écharpes, fichus||||42
+330||Négociant-fabricant|Pinoncelly et Solar|Marc|rue|des Capucins|16||armures|robes|gilets|façonnés||||42
+331||Négociant-fabricant|Pinoncelly fils et cie|NI|rue|St Polycarpe|4||unis|nouveautés||||||42
+332||Négociant-fabricant|Pinoncelly jeune et Bonjour C. |NI|rue|royale|27||unis|armures|nouveautés|||||42
+333||Négociant-fabricant|Pitiot|Ch.|rue|des Capucins|6||peluches pour chapeaux|||||||42
+334||Négociant-fabricant|Piquet et Rozet|NI|rue|St Polycarpe|4||fichus|robes||||||42
+335||Négociant-fabricant|Polaillon et Humblot|Jean-Baptiste|grande rue|Pizay|21||unis|façonnés|nouveautés|||||42
+336||Négociant-fabricant|Ponson|Cl.|rue|Coisevox|3||façonnés|nouveautés||||||42
+337||Négociant-fabricant|Potton Fréd., Rambaud et cie|NI|rue|Lafont|18||robes|gilets|nouveautés|||||42
+338||Négociant-fabricant|Pramondon|NI|quai|St Clair|12||meubles|brocarts|ornements d'Eglise|||||42
+339||Négociant-fabricant|Purpan|Claude|port|St Clair|19||gilets|cravates|mouchoirs|nouveautés façonnées||||42
+340||Négociant-fabricant|Puy|NI|rue|Désirée|5||velours|||||||42
+341||Négociant-fabricant|Raillard|NI|rue|des Capucins|14||satin p. chapellerie|gazes en tous genres|taffetas gommés de Paris||et rue St Polycarpe, 2|||42
+342||Négociant-fabricant|Rapou, Perrin et Péala|NI|place|Croix Pâquet|2||gilet|cravates|nouveautés|||||42
+343||Négociant-fabricant|Rave frères|NI|rue|de Lorette|2||cravates|nouveautés|mouchoirs|unis et façonnés||||42
+344||Négociant-fabricant|Rebeyrre-Sabin|NI|rue|Ste Marie|5|escal. Des capucins, 3|châles laine et au quart|cachemire||||||42
+345||Négociant-fabricant|Régnier et fils|NI|place|Neuve des Carmes|12||taffetas pour parapluies et ombrelles|||||||42
+346||Négociant-fabricant|Renaud et Favrot|NI|rue|des Capucins|29||unis|foulards|nouveautés|||||42
+347||Négociant-fabricant|Renevrier|NI|rue|Port Charlet|NI||peluches du nord|||||||43
+348||Négociant-fabricant|Repiquet et Syllvent|NI|rue|Désirée|4||velours unis|façonnés|nouveautés|||||43
+349||Négociant-fabricant|Rérolle et cie|NI|rue|St Polycarpe|5||nouveautés|robes|fichus|||||43
+350||Négociant-fabricant|Renaudin et Haro|NI|rue|St Polycarpe|4||unis|taffetas pour parapluies||||||43
+351||Négociant-fabricant|Reverdy|Aug.|place|Croix Pâquet|3||taffetas pour parapluies et velours unis|||||||43
+352||Négociant-fabricant|Reverony et Girel|Paul-Eugène et Nicolas|rue|Puits-Gaillot|29||robes|écharpes|fichus|brochés, châles et velours façonnés||||43
+353||Négociant-fabricant|Rey et Gonon|Aug.|place|Croix Pâquet|3||unis noirs|taffetas|satins|cravates||||43
+354||Négociant-fabricant|Reyre et cie|Denis|rue|Romarin|30||robes|mouchoirs|nouveautés|façonnés||||43
+355||Négociant-fabricant|Ribolet et Montgrenier|Jean-Baptiste et Anthelme-Jacques|rue|de Thou|1||robes|mouchoirs|velours|boutons||||43
+356||Négociant-fabricant|Riboud père et fils|Ant. Et Jules|rue|Lafont|20||crêpes|satins forts|lustrés|gros-grains||||43
+357||Négociant-fabricant|Riboud frères|Charles|place|des Capucins|5||velours|||||||43
+358||Négociant-fabricant|Ricard|Ch.|petite rue|des feuillants|9||gilets|velours façonné|nouveautés|||||43
+359||Négociant-fabricant|Richard et Gay frères|Jean-Baptiste|rue|Coustou|6||mouchoirs|châles|impressions|nouveautés||||43
+360||Négociant-fabricant|Rivière fils|NI|rue|des Capucins|17||unis|velours||||||43
+361||Négociant-fabricant|Robas |Etienne|rue|Désirée|14||foulards|mouchoirs|impressions|||||43
+362||Négociant-fabricant|Robert frères|NI|rue|du Griffon|1||unis|nouveautés||||||43
+363||Négociant-fabricant|Roche et Buthner|Balthazard|rue|St Claude|4||parapluies unis et façonnés|gilets||||||43
+364||Négociant-fabricant|Roget et cie|NI|rue|du Griffon|2||châles|laine et soie|nouveautés||breveté d'inention pour un système de châle sans envers|||43
+365||Négociant-fabricant|Rollet frères|Ant et Prosp.|rue|du Griffon|3||unis|velours unis||||||43
+366||Négociant-fabricant|Rougier et Bonnet neveu|Ant.|rue|du Griffon|2||Florence|gros de Naples|peluches de goût|velours||||43
+367||Négociant-fabricant|Rousset et Nachury|Aug. Et Gab.|rue|du Griffon|2||crav. Unies et faç.|gilets|châles faç.|nouveautés||||44
+368||Négociant-fabricant|Roux|Barthélémy|rue|des Capucins|19||Florence|serges|taffetas|||||44
+369||Négociant-fabricant|Roux, dit Fontaine|Fr-Marie|rue|Puits-Gaillot|27||gros de Naples|armures|velours unis|peluches||||44
+370||Négociant-fabricant|Roux frères|NI|rue|du Griffon|7||unis|||||||44
+371||Négociant-fabricant|Ruet|NI|place|du Perron|1||unis|||||||44
+372||Négociant-fabricant|Sabran, Arnaud et cie|NI|place|Croix Pâquet|11||gilets|cravates|nouveautés|||||44
+373||Négociant-fabricant|Saint-Germain|NI|rue|des Capucins|19||velours|unis|nouveautés|||||44
+374||Négociant-fabricant|Sandoz|Ulysse|grande rue|des feuillants|2||châles|laine|impressions|||||44
+375||Négociant-fabricant|Sandrin, Alphonse et Arquillière|Benoit|rue|Désirée|19||crêpes|||||||44
+376||Négociant-fabricant|Sandrin, Alphonse et Arquillière|Fr.|rue|des Capucins|19||serges|||||||44
+377||Négociant-fabricant|Sauvage|Ph.|rue|Vieille Monnaie|25||unis|nouveautés||||||44
+378||Négociant-fabricant|Sauvage|René|rue|St Polycarpe|5||unis|nouveautés|velours unis et faç.|||||44
+379||Négociant-fabricant|Savoye F. et Cie|NI|port|St Clair|23||gros de Naples|robes faç.|velours unis|frisés et nouveautés||||44
+380||Négociant-fabricant|Séon|NI|rue|Vieille Monnaie|18||velours||||successeur de Pupier|||44
+381||Négociant-fabricant|Servant et Devienne|NI|rue|des Capucins|19||gilets|cravates façonnées|nouveautés|||||44
+382||Négociant-fabricant|Sestier|M.|rue|St Polycarpe|10||taffetas noirs unis et faç.|parapluies||||||44
+383||Négociant-fabricant|Silo cousins et cie|Jean et Dominique|rue|Rosier|3||cravates|mouchoirs|châles soie|broderies||||44
+384||Négociant-fabricant|Solichon et cie|NI|rue|Lafont|16||meubles|ornements d'Eglise||||||44
+385||Négociant-fabricant|Sondaz|Fr.|rue|Rosier|3||thibets imprimés|châles laine et au quart||||||44
+386||Négociant-fabricant|Soulary fils ainé et cie|NI|rue|royale|31||unis|façonnés|velours unis|||||44
+387||Négociant-fabricant|Tabard|G.-F.|rue|Vieille Monnaie|8||crav. Unis|façonnés||||||45
+388||Négociant-fabricant|Tabard père et fils|NI|rue|St Polycarpe|5||unis et façonnés|cravate||||||45
+389||Négociant-fabricant|Tardy|F.|rue|Puits-Gaillot|27||robes façonnées|nouveautés||||||45
+390||Négociant-fabricant|Teillard|Claude-Mat.|rue|royale|25||gros satins|gros grains|poult de soie|velours unis||||45
+391||Négociant-fabricant|Termier et cie|Jean Gabriel|rue|Vieille Monnaie|37||giles façonnés|nouveautés||||||45
+392||Négociant-fabricant|Thevenel et Perraud|Eugène|rue|Puits-Gaillot|27||gros de Naples|serges|satins|cravates unis||||45
+393||Négociant-fabricant|Thevenet-Monet|And.-Et.|rue|Romarin|7||cravates|mouchoirs|unis noirs|||||45
+394||Négociant-fabricant|Thevenet, Raffin et Roux|NI|rue|Romarin|30||nouveautés|châles|écharpes|cravates||||45
+395||Négociant-fabricant|Tholozan et cie|NI|rue|St Polycarpe|2||robes|façonnés||||||45
+396||Négociant-fabricant|Thomas frères|NI|place|Croix Pâquet|11||unis|Florences de Lyon et d'Avignon||||||45
+397||Négociant-fabricant|Thomasset|NI|rue|Puits-Gaillot|15||gilets|velours||||||45
+398||Négociant-fabricant|Tocanier|Auguste|place|Croix Pâquet|6||gilets|cravates|nouveautés|velours faç.|agent général de la compagnie d'assurances contre l'incendie L. INDEMNITI, représentant de la compagnie anonyme d'assurances sur la vie I. CONSERVATEUR|||45
+399||Négociant-fabricant|Thollon frères|J. et V.|rue|des Capucins|22||unis|||||||45
+400||Négociant-fabricant|Tournier et Perrod|NI|port|St Clair|27||lustrés|satins noirs|||voir Perrod et Place|||45
+401||Négociant-fabricant|Tourton frères et Mazuyer|Et.-Fl|rue|Puits-Gaillot|3||unis|robes faç.||||||45
+402||Négociant-fabricant|Troccon|Achille|rue|des Capucins|14||unis|cravates|façonnés|nouveautés||||45
+403||Négociant-fabricant|Trouvé et Ray|NI|rue|Coisevox|2||mouchoirs|écharpes|châles|nouveautés, façonnés||||46
+404||Négociant-fabricant|Truchot|NI|rue|Grenette|20||calicots pour devants de chemises|plissés|façonnés|||||46
+405||Négociant-fabricant|Vachon et Morand|NI|rue|des Capucins|22||robes|cravates||||||46
+406||Négociant-fabricant|Vadoux|Jh.|rue|Désirée|2||cravates unies et façonnées|||||||46
+407||Négociant-fabricant|Valensot|Maximin|rue|Puits-Gaillot|4||unis|velours unis||||||46
+408||Négociant-fabricant|Valensot ainé|NI|place|Croix Pâquet|2||unis|armures|cravates|robes, nouveautés||||46
+409||Négociant-fabricant|Vanel et cie|Louis|place|des Capucins|1||brochés|ornements d'Eglise|||et rue St Marcel, 44|||46
+410||Négociant-fabricant|Velay|Jean-Pierre|rue|St Polycarpe|4||unis|parapluies||||||46
+411||Négociant-fabricant|Verset et Forest|NI|rue|des Capucins|13||unis|thibets|foulards|impressions||||46
+412||Négociant-fabricant|Verzier|Horace|rue|de Lorette|1||foulards|fichus|robes|nouveautés||||46
+413||Négociant-fabricant|Vial et Drogue|Charles et Jh.|place|Croix Pâquet|11||cravates|mouchoirs unis et façonnés||||||46
+414||Négociant-fabricant|Villardon|NI|rue|Tholozan|3||velours|||||||46
+415||Négociant-fabricant|Villefranche et cie|Jh.|port|St Clair|26||unis|robes|gilets|cravates et nouveautés|décédé|||46
+416||Négociant-fabricant|Vincent|NI|rue|St Polycarpe|2||unis|foulards||||||46
+417||Négociant-fabricant|Volozan jeune|NI|rue|Vieille Monnaie|7||taffetas pour parapluies et peluches|||||||46
+418||Négociant-fabricant|Volozan fils|NI|rue|des Capucins|11||gros de Naples|armures|nouveautés|||||46
+419||Négociant-fabricant|Voyant et Place|NI|rue|St Polycarpe|1||taffetas|serges|satins unis||voir Perrod et Place|||46
+420||Négociant-fabricant|Vuchet, Regnier et Perrier|NI|rue|Puits-Gaillot|19||gazes|robes|fichus|velours et nouveautés|Vucher décédé|||46
+421||Négociant-fabricant|Vuchet et Sauton fils|NI|rue|Rosier|1||unis|façonnés||||||46
+422||Négociant-fabricant|Yéménitz|Nicolas|rue|royale|6||articles pour meubles|unis|façonnés|ornements d'église||||47
+423||Négociant-fabricant|Baudran|NI|NI|à la Demi-Lune|NI||velours||||Grange-Blanche (Rhône)|||47
+424||Négociant-fabricant|Besson|NI|NI|NI|NI||velours||||Grézieux-la-Varenne (Rhône)|||47
+425||Négociant-fabricant|Audréan et Revoux|Ch.|rue|St Polycarpe|8||robes|gilets|fichus|nouveautés|cette ligne et les suivantes : Mutations et changements de domicile des négociants fabricants opérés au 1er novembre 1849|||47
+426||Négociant-fabricant|Archirel|Cl.|rue|des Capucins|5||brochés|ornements d'Eglise||||||47
+427||Négociant-fabricant|Arquillière|Fr.-Pascal|rue|du Griffon|1|rez-de-chaussée|crêpes|unis noirs|satins|gros-grains|ci-devant rue de Thou, 2|||47
+428||Négociant-fabricant|Badoit et Bellaton|NI|grande rue|des feuillants|8||unis|façonnés|||ancienne maison Victor Fournel|||47
+429||Négociant-fabricant|Bellon|Jh.|rue|du Griffon|2||unis|cravates|||ci-devant Berlier et Bellon|||47
+430||Négociant-fabricant|Belmont|Ph.|rue|des Capucins|16||unis||||bis|||47
+431||Négociant-fabricant|Benoit et Desmarquest|NI|place|Croix Pâquet|6||gilets|cravates|nouveautés|||||47
+432||Négociant-fabricant|Bérard|NI|rue|Romarin|16||robes|damas|nouveautés|||||47
+433||Négociant-fabricant|Berger|A.|rue|des Capucins|18||gilets|cravates|façonnés|||||47
+434||Négociant-fabricant|Berger et Guinet|NI|rue|des Capucins|25||unis|||||||47
+435||Négociant-fabricant|Berger et Pauthe|NI|rue|des Capucins|18||unis|armures|nouveautés||ci-devant rue des capucins, 30|||47
+436||Négociant-fabricant|Berlié et Couturier frères|NI|place|Romarin|1||unis|satins|cravates|||||47
+437||Négociant-fabricant|Berthier et cie|NI|place|Croix Pâquet|2||gilets|cravates||||||47
+438||Négociant-fabricant|Bertrand|Adolphe|port|St Clair|26||unis|robes|gilets|cravates et nouveautés|successeur de Jh. Villefranche|||47 bis
+439||Négociant-fabricant|Blache|Esprit|port|St Clair|27||velours||||ci-devant Blache et Molière|||47 bis
+440||Négociant-fabricant|Blanc|NI|place|Croix Pâquet|6||unis|||||||47 bis
+441||Négociant-fabricant|Blein et cie|F.|rue|Vieille Monnaie|29||châles|nouveautés|||ci-devant Pagès et Blein, rue des capucins, 10|||47 bis
+442||Négociant-fabricant|Boirivent ainé|A.|rue|des Capucins|23||étoffes pour meubles et intérieur de voitures|||||||47 bis
+443||Négociant-fabricant|Bois et Belon|NI|place|Croix Pâquet|2||châles indous|laine|nouveautés|||||47 bis
+444||Négociant-fabricant|Bonnardel|Alphonse|rue|des Capucins|29||châles|écharpes|fichus|nouveautés|ci-devant Besson, Morizot et Bonnardel|||47 bis
+445||Négociant-fabricant|Bonneton|Jh.|rue|des Capucins|20||robes|mouchoirs façonnés|nouveautés|||||47 bis
+446||Négociant-fabricant|Brunet|Marc Antoine|rue|Vieille Monnaie|29||velours|||||||47 bis
+447||Négociant-fabricant|Burlan père et fils|NI|place|Romarin|5||unis|||||||47 bis
+448||Négociant-fabricant|Carrier ainé|NI|rue|des Capucins|20||châles|nouveautés||||||47 bis
+449||Négociant-fabricant|Chambry|NI|rue|des Capucins|6||châles laine et cachemire|||||||47 bis
+450||Négociant-fabricant|Chavanne|J.|rue|Désirée|13||velours||||ci-devant rue des capucins, 7|||47 bis
+451||Négociant-fabricant|Chavent|André|rue|Puits-Gaillot|2||robes|damas|nouveautés||ci-devant place Croix-Pâquet, 11|||47 bis
+452||Négociant-fabricant|Chervet et Bourgeois|NI|place|Croix Pâquet|6||unis|armures|||ci-devant Chervet et Henry|||47 bis
+453||Négociant-fabricant|Cirlot et Frachon|NI|rue|des Capucins|21||cravates|mouchoirs|châles|nouveautés|ci-devant Claret et Cirlot|||47 bis
+454||Négociant-fabricant|Combet|Jules|rue|St Polycarpe|4||taffetas|unis||||||47 bis
+455||Négociant-fabricant|Convert-Mousset et cie|NI|place et rue|des feuillants|4||unis|façonnés|nouveautés|||||47 bis
+456||Négociant-fabricant|Corrompt et fils|Jh.|grande rue|des feuillants|4||foulards|thibets|impressions|||||47 bis
+457||Négociant-fabricant|Dalbepierre et Suchard|NI|rue|St Polycarpe|4||unis|velours||||||47 bis
+458||Négociant-fabricant|Depassio|NI|rue|Casati|2||velours|||||||47 bis
+459||Négociant-fabricant|Dérognat frères et Gros|NI|rue|Romarin|30||gilets|velours|cravates faç.|nouveautés||||48
+460||Négociant-fabricant|Desmars et Chapuy|NI|rue|St Polycarpe|2||unis|taffetas pour parapluies||||||48
+461||Négociant-fabricant|Desq frères|NI|rue|des Capucins|21||robes|gilets|cravates|nouveautés et velours frisé||||48
+462||Négociant-fabricant|Donat ainé|NI|place|Croix Pâquet|3||robes|gilets|cravates|nouveautés et velours façonné||||48
+463||Négociant-fabricant|Donzel frères|NI|rue|des Capucins|16||unis|armures|moires|||||48
+464||Négociant-fabricant|Drivet et Cie|NI|grande rue|des feuillants|4||Florences|serges|satins|||||48
+465||Négociant-fabricant|Drogue, Saunier et Binoux|NI|place|Croix Pâquet|1||velours|||||||48
+466||Négociant-fabricant|Dubanchet et cie|NI|rue|Vieille Monnaie|11||serges|satins de Chine|florences|cravates unies||||48
+467||Négociant-fabricant|Dubois ainé|NI|rue|des Capucins|7||thibets imprimés|châles mélanges||||||48
+468||Négociant-fabricant|Duboys et Coste|NI|rue|des Capucins|21||gilets façonnés|nouveautés||||||48
+469||Négociant-fabricant|Dubourg|NI|rue|des Capucins|18||moires|unis|armures||ci-devant Brémal et Dubourg|||48
+470||Négociant-fabricant|Dubreuil|NI|rue|Gentil|24||cravates unies|taffetas pour parapluies||||||48
+471||Négociant-fabricant|Duc et Champillon|NI|grande rue|des feuillants|5||velours|||||||48
+472||Négociant-fabricant|Dumas|NI|rue|du Griffon|7||gilets|cravates|façonnés|nouveautés||||48
+473||Négociant-fabricant|Dumond|André|rue|Puits-Gaillot|2||robes|gilets|cravates|mouchoirs|ci-devant rue des capucins, 10|||48
+474||Négociant-fabricant|Duperron|NI|rue|du Garet|5||parapluies|||||||48
+475||Négociant-fabricant|Dupont et Barrelon|NI|rue|des deux angles|17||satins|armures pour gilets||||||48
+476||Négociant-fabricant|Durand, Dupré et Laurent|NI|rue|Romarin|5||thibets imprimés|châles mélanges|||successeur de L. Michel|||48
+477||Négociant-fabricant|Dussus père et fils|NI|rue|Coisevox|1||velours|||||||48
+478||Négociant-fabricant|Eymard|Paul|grande rue|des feuillants|3||unis|façonnés|robes|gilets et nouveautés|ci-devant rue du Griffon, 4|||48
+479||Négociant-fabricant|Fatin|NI|rue|Puits-Gaillot|3|4ème étage|mouchoirs|châles|façonnés|ornements|ci-devant rue des capucins, 6|||48
+480||Négociant-fabricant|Faure|J.|rue|des Capucins|14||unis noirs|||||||48 bis
+481||Négociant-fabricant|Favre et Guitard|NI|côte|St Sébastien|2||velours|||||||48 bis
+482||Négociant-fabricant|Floret et Boissat|NI|rue|St Polycarpe|1||robes|fichus|colliers|nouveautés|ci-devant place Croix-Pâquet, 6|||48 bis
+483||Négociant-fabricant|Font et Chambeyron|NI|port|St Clair|25||velours|||||||48 bis
+484||Négociant-fabricant|Gandollière|NI|rue|des Capucins|6||unis|thibets|châles laine et imprimés|||||48 bis
+485||Négociant-fabricant|Gauthier fils ainé|NI|rue|des Capucins|27||châles et mouchoirs soie|||||||48 bis
+486||Négociant-fabricant|Geoffray et Chanel|NI|place|Croix Pâquet|11||châles|cachemire|nouveautés|||||48 bis
+487||Négociant-fabricant|Gelas|L.|rue|du Griffon|4||châles|thibets imprimés|nouveautés|||||48 bis
+488||Négociant-fabricant|Girard|Adrien|port|St Clair|27||velours|nouveautés||||||48 bis
+489||Négociant-fabricant|Girard|Cl.|rue|des Capucins|25||unis|façonnés||||||48 bis
+490||Négociant-fabricant|Girard neveu|NI|port|St Clair|19||velours unis et façonnés|nouveautés|||ci-devant rue des capucins, 6|||48 bis
+491||Négociant-fabricant|Giraud et Mollard|NI|rue|des Capucins|22||unis noirs|||||||48 bis
+492||Négociant-fabricant|Gondre et cie|NI|place|Croix Pâquet|2||unis et façonnés|||||||48 bis
+493||Négociant-fabricant|Gontier|A.|rue|Romarin|30||velours|||||||48 bis
+494||Négociant-fabricant|Gourd et Pelet|NI|rue|du Griffon|4||mouchoirs|cravates|nouveautés|||||48 bis
+495||Négociant-fabricant|Groboz et cie|NI|grande rue|des feuillants|7||meubles|ornements d'Eglise|||ci-devant place des Terreaux, 9|||48 bis
+496||Négociant-fabricant|Guillon frères|NI|place|Croix Pâquet|3||unis|||||||48 bis
+497||Négociant-fabricant|Gustelle|Jules|rue|du Griffon|1||châles soie|gilets||||||48 bis
+498||Négociant-fabricant|Henry|Jules|rue|Coustou|6||robes|mouchoirs|écharpes|gilets et nouveautés|ci-devant Chervet et Henry|||48 bis
+499||Négociant-fabricant|Jurien et Ballard|NI|rue|des Capucins|13||châles|thibets imprimés|nouveautés|||||48 bis
+500||Négociant-fabricant|Kuister et Margaron|NI|rue|Pizay|23||satins|gazes|coiffes pour chapellerie|||||48 bis
+501||Négociant-fabricant|Lagier et Clerjon|NI|rue|St Polycarpe|4||unis|serges|armures|||||48 bis
+502||Négociant-fabricant|Lafont et cie|NI|grande rue|des feuillants|8||armures|velours|robes|écharpes façonnées et nouveautés||||48 bis
+503||Négociant-fabricant|Largueze|Charles|rue|St Polycarpe|2||châles|thibets|foulards imprimés|||||48 bis
+504||Négociant-fabricant|Laselve et Chasting|H. et B.-A.|rue|de la Démocratie|12||unis|façonnés|nouveautés|étoffes pour chapeaux noirs|rue de la démocratie ci-devant rue Royale / ci-devant rue St Polycarpe,  8|||49
+505||Négociant-fabricant|Mantelier|NI|place|Croix Pâquet|1||thibets imprimés|châles laine et au quart|||ci-devant rue des capucins, 25|||49
+506||Négociant-fabricant|Marion et Wuichet|Ph.|rue|Rosier|3||châles|nouveautés||||||49
+507||Négociant-fabricant|Martel, Geoffray et Valensot|NI|place|Croix Pâquet|11||gilets|cravates|nouveautés|||||49
+508||Négociant-fabricant|Martin, Félix et Lamy|NI|rue|Vieille Monnaie|37||crêpes|taffetas pour parapluies|velours unis|||||49
+509||Négociant-fabricant|Maror veuve et fils|NI|rue|des Capucins|23||châles imprimés façonnés||||ci-devant impasse St-Polycarpe|||49
+510||Négociant-fabricant|Méquillet, Noblot et cie|NI|port|St Clair|24||foulards|||||||49
+511||Négociant-fabricant|Meurer et Jandin|Ch.|rue|de la Démocratie|29||étoffes unis |foulards|||ancienne maison Peillon, Roche et cie|||49
+512||Négociant-fabricant|Millet|Jacques|place|Croix Pâquet|3||robes|fichus|nouveautés||ci-devant Donzel et Millet|||49
+513||Négociant-fabricant|Mollière et Paivet|NI|grande rue|des feuillants|3||velours|nouveautés||||||49
+514||Négociant-fabricant|Morelon et Bathéron|NI|rue|St Polycarpe|2||unis|nouveautés|façonnés pour chapellerie|||||49
+515||Négociant-fabricant|Moreau|NI|place|Croix Pâquet|8||foulards imprimés||||ci-devant rue Lorette, 2|||49
+516||Négociant-fabricant|Moreteau|V.|rue|de la Démocratie|13|2ème étage|châles laine et au quart||||ci-devant rue des capucins, 19|||49
+517||Négociant-fabricant|Mousset, Charbin et cie|NI|petite rue|des feuillants|5||velours||||ci-devant Billet et Mousset|||49
+518||Négociant-fabricant|Perret et Mercier|NI|rue|du Griffon|9||gilets façonnés||||ci-devant Lebègue et Perret|||49
+519||Négociant-fabricant|Perrin et Péalat|NI|rue|des Capucins|27||gilets|cravates|nouveautés||ci-devant place Croix-Pâquet, 2|||49
+520||Négociant-fabricant|Ponson|B.|rue|des deux angles|21||unis façonnés|nouveautés|||ci-devant rue coisevox, 3|||49
+521||Négociant-fabricant|Poujoulat et cie|Fr.|rue|des Capucins|18||unis|||||||49
+522||Négociant-fabricant|Rebeyre-Sabin|NI|rue|Vieille Monnaie|37||châles laine et au quart|cachemire||||||49 bis
+523||Négociant-fabricant|Repiquet et Syllvent|NI|place|Croix Pâquet|14||velours unis|façonnés|nouveautés||ci-devant rue Désirée, 4|||49 bis
+524||Négociant-fabricant|Rey frères|NI|rue|des Capucins|20||velours frisé|épingles|nouveautés||de St Etienne|||49 bis
+525||Négociant-fabricant|Reynier cousins|NI|rue|Puits-Gaillot|19|2ème étage|nouveautés|||||||49 bis
+526||Négociant-fabricant|Roche et Dime|NI|place|Romarin|1||mouchoirs|écharpes|brochés|nouveautés||||49 bis
+527||Négociant-fabricant|Roset|Aug.|rue|des Capucins|20||unis|nouveautés||||||49 bis
+528||Négociant-fabricant|Rougane et Duplan|NI|rue|de la Démocratie|20||armures|damas brochés|meubles|||||49 bis
+529||Négociant-fabricant|Sauvage|Ph.|rue|des Capucins|27||cravates|nouveautés|unis|façonnés|ci-devant rue Vieille-Monnaie, 25|||49 bis
+530||Négociant-fabricant|Savoye, Ravier et Chanu|NI|port|St Clair|23||gros de Naples|robes faç.|velours unis|frisés et nouveautés|ci-devant Savoye et cie|||49 bis
+531||Négociant-fabricant|Sestier et Molleron|NI|rue|St Polycarpe|12||taffetas noirs|||||||49 bis
+532||Négociant-fabricant|Thibaud et Roux|B. et J.|rue|du Griffon|4||Florences|||||||49 bis
+533||Négociant-fabricant|Thomas frères|NI|rue|Lorette|1||unis|Florences de Lyon et d'Avignon|||ci-devant place Croix-Pâquet, 11|||49 bis
+534||Négociant-fabricant|Velay et Barge|NI|rue|St Polycarpe|4||unis|parapluies|||ci-devant Velay|||49 bis
+535||Négociant-fabricant|Villy et cie|Aug.|rue|St Polycarpe|2||thibets|articles de laine écrue|tissus|foulards||||49 bis
+536||Négociant-fabricant|Vivier et Mmorel|NI|place|Croix Pâquet|11||gilets|||||||49 bis
