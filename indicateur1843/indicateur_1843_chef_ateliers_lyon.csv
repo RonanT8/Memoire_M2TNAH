@@ -1,0 +1,987 @@
+identifiant|commune|nom|prenom|activite|type_voie|nom_voie|numero|complement_adresse|specialite1|specialite2|specialite3|specialite4|observations|remarques_saisie|source|complement_source|rue_standard
+1|Lyon|Aguettant|NA|||montée St-Barthélémy|23|NA|rob.|gil.|NA|NA|NA||||montée saint-Barthélémy
+2|Lyon|Aguettant|NA|||mtée des Gr. Capucins|10|NA|rob.|NA|NA|NA|NA||||montée des Grands Capucins
+3|Lyon|Annequin|Sincère|||q. de Retz|45|NA|rob.|gil.|crav.|NA|NA||||quai de Retz
+4|Lyon|Appendini|Jh.|||r. Masson|NA|m. Belley|rob.|NA|NA|NA|NA||||rue Masson
+5|Lyon|Archirel|NA|||r. Pareille|4|NA|broché|ornem.|NA|NA|NA||||rue Pareille
+6|Lyon|Arguillier|Fr.|||r. Neyret|31|NA|unis|NA|NA|NA|NA||||rue Neyret
+7|Lyon|Armand|Noël|||r. de la Quarantaine|NA|m. Clavel|poulx de soie|NA|NA|NA|NA||||rue de la Quarantaine
+8|Lyon|Armand|Jn.|||u. St-Georges|90|NA|rob.|gil.|NA|NA|NA||||rue saint-Georges
+9|Lyon|Aubertier|Jn.-Mar.|||clos Flandrin|14|NA|rob.|gil.|NA|NA|NA||||ruelle du clos Flandrin
+10|Lyon|Aubertier|Alexis|||r. de la Tourrette|7|NA|vel.|NA|NA|NA|NA||||rue de la Tourette
+11|Lyon|Aucagne|Jacq.|||r. des Chartreux|60|NA|sat. un.|NA|NA|NA|NA||||rue des Chartreux
+12|Lyon|Audibert|Ed.|||r. Bellecordière|20|NA|rob.|gil.|crav.|NA|NA||||rue Bellecordière
+13|Lyon|Audin|NA|||r. de la Boucherie-St-Paul|NA|NA|un.|gr. large|NA|NA|NA||||rue de la Boucherie saint-Paul
+14|Lyon|Audiffret|Alex.|||r. des Fantasques|21|NA|ch. au quart|NA|NA|NA|NA||||rue des Fantasques
+15|Lyon|Augros|Pre.|||r. St-Georges|45|NA|un.|NA|NA|NA|NA||||rue saint-Georges
+16|Lyon|Ayet|NA|||mtée des Epies|13|NA|un.|NA|NA|NA|NA||||montée des Epies
+17|Lyon|Baboula|Marie|||r. Grolée|11|NA|un.|NA|NA|NA|NA||||rue Grôlée
+18|Lyon|Bachelu|NA|||r. Tholozan|20|NA|arm.|rob.|NA|NA|NA||||rue Tholozan
+19|Lyon|Bachelu|Ch.|||mtée des Epies|6|NA|taff.|sat.|vel.|un.|NA||||montée des Epies
+20|Lyon|Bachelu|Cl.|||mtée St-Barthélémy|2|NA|NA|NA|NA|NA|NA||||montée saint-Barthélémy
+21|Lyon|Baille|NA|||r. de Flesselles|4|NA|meubl. br.|NA|NA|NA|NA||||rue de Flesselles
+22|Lyon|Baille|NA|||r. de la Charité|18|NA|un.|NA|NA|NA|NA||||rue de la Charité
+23|Lyon|Bailly|Hugues|||r. Lemot|1|2|mouch.|nouv.|NA|NA|NA||||rue Lemot
+24|Lyon|Bajolet|NA|||r. Juiverie|4|NA|crav.|rob.|mouch.|NA|NA||||rue Juiverie
+25|Lyon|Balmet|Alph.|||r. Tholozan|2|NA|ch. au quart|NA|NA|NA|NA||||rue Tholozan
+26|Lyon|Barbera|Mich.|||pl. du Mont-Sauvage|5|NA|rob.|gil.|NA|NA|NA||||place du Mont-Sauvage
+27|Lyon|Barbier|Philib.|||r. de la Charité|24|NA|un.|NA|NA|NA|NA||||rue de la Charité
+28|Lyon|Barbier|Jn.-Cl.|||q. de la Charité|159|NA|NA|NA|NA|NA|NA||||quai de la Charité
+29|Lyon|Barbier|père et fils|||mtée St-Barthélémy|21|NA|rob.|gil.|mouch.|br.|NA||||montée saint-Barthélémy
+30|Lyon|Barcet|NA|||r. du Paradis|3|NA|un.|NA|NA|NA|NA||||rue du Paradis
+31|Lyon|Bard|Fr.|||Gr.-Côte|60|NA|NA|NA|NA|NA|NA||||Grande-Côte
+32|Lyon|Bardet|Jn.-Bte.|||r. St-Georges|NA|à la Commanderie|gr. satins|NA|NA|NA|NA||||rue saint-Georges
+33|Lyon|Bardet|NA|||pl. du Mont-Sauvage|6|NA|nn.|NA|NA|NA|NA||||place du Mont-Sauvage
+34|Lyon|Bardet|NA|||r. Tholozan|14|NA|un.|NA|NA|NA|NA||||rue Tholozan
+35|Lyon|Bardet|Bt.|||pl. du Mont-Sauvage|NA|m. Nicolas|un.|NA|NA|NA|NA||||place du Mont-Sauvage
+36|Lyon|Bardin|Jn.-Domin.|||q. de la Charité|156|NA|un.|NA|NA|NA|NA||||quai de la Charité
+37|Lyon|Bardin|Ant.|||r. Bellièvre|7|NA|un.|NA|NA|NA|NA||||rue Bellièvre
+38|Lyon|Bariot|NA|||mtée des Gr. Capucins|10|NA|ch. s.|et au quart|NA|NA|NA||||montée des Grands Capucins
+39|Lyon|Baron|NA|||mtée St-Barthélémy|19|NA|ch.|gaz.|crêp. de ch.|NA|NA||||montée saint-Barthélémy
+40|Lyon|Barret|Cl., Clém.|||r. de Flesselles|4|NA|un.|aran. et faç.|NA|NA|NA||||rue de Flesselles
+41|Lyon|Barret|NA|||r. Bodin|17|NA|ch lanç.|et au quart|NA|NA|NA||||rue Bodin
+42|Lyon|Barrollon|Jn.-Cl.|||pl. du Mont-Sauvage|6|NA|rob.|nouv.|NA|NA|NA||||place du Mont-Sauvage
+43|Lyon|Barrollon|Mathieu|||r. du Perron du Mont-Sauvage|NA|NA|un.|et faç.|NA|NA|NA||||rue du perron du Mont-Sauvage
+44|Lyon|Barrot|Jn.-Ant.|||Gr.-Pl.|10|du Mont-Sauvage|chales soie|et indous.|NA|NA|NA||||Grande Place
+45|Lyon|Barrot|Bt.|||r. des Fanstasques|19|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+46|Lyon|Bas|Jn.|||r. Bourgchanin|10|NA|NA|NA|NA|NA|NA||||rue Bourgchanin
+47|Lyon|Basset|NA|||r. Bodin|17|NA|ch. au quart|NA|NA|NA|NA||||rue Bodin
+48|Lyon|Basset|Jn.-Cl.|||r. de la Vieille|11|NA|arm.|rob.|NA|NA|NA||||rue de la Vieille Monnaie
+49|Lyon|Basset|Jn.-Marie|||pl. de la Charité|16|NA|gil.|nouv.|NA|NA|NA||||place de la Charité
+50|Lyon|Batheron|Jér.|||côte St-Sébastien|20|NA|fich.|éch.|nouv.|NA|NA||||côte saint-Sébastien
+51|Lyon|Baudoit|NA|||mtée des Gr. Capucins|20|NA|vel. un.|NA|NA|NA|NA||||montée des Grands Capucins
+52|Lyon|Baudran|Fr.|||pl. Colbert|5|NA|arm.|rob.|NA|NA|NA||||place Colbert
+53|Lyon|Bavet|NA|||r. de Trion|23|NA|un.|vel.|frisé|NA|NA||||rue de Trion
+54|Lyon|Beaudoit|Fr.|||r. de Flesselles|4|NA|ch. au quart|NA|NA|NA|NA||||rue de Flesselles
+55|Lyon|Beaufrère|Ls.-Alex.|||r. Tholozan|19|NA|nouv.|NA|NA|NA|NA||||rue Tholozan
+56|Lyon|Béchet|NA|||r. de l'Epine|14|NA|gil.|NA|NA|NA|NA||||rue de l'Epine
+57|Lyon|Belmont|NA|||r. des Farges|NA|NA|vel.|NA|NA|NA|NA||||rue des Farges
+58|Lyon|Belmont|Jh.|||r. Tholozan|13|NA|ch. lanc.|NA|NA|NA|NA||||rue Tholozan
+59|Lyon|Benaud|Ls.|||côte St-Sébastien|17|NA|rob.|gil.|crav.|NA|NA||||côte saint-Sébastien
+60|Lyon|Benière|Fr.|||r. Masson|21|NA|un.|arm.|rob.|NA|NA||||rue Masson
+61|Lyon|Benoit|NA|||mtée des Epies|17|NA|un. sat.|gr. larg.|NA|NA|NA||||montée des Epies
+62|Lyon|Benoit|Jn.-Cl.|||r. Bouteille|17|NA|un.|et faç.|NA|NA|plieur||||rue Bouteille
+63|Lyon|Beranger|NA|||r. St-Pierre-le-Vieux|10|NA|un.|NA|NA|NA|NA||||rue saint-Pierre-le-Vieux
+64|Lyon|Beraud|Jh.-Jn.|||clos Flandrin|NA|m. Dandin|arm.|rob.|NA|NA|NA||||ruelle du clos Flandrin
+65|Lyon|Berge|Jh.|||r. Stella|7|NA|un.|et faç.|NA|NA|NA||||rue Stella
+66|Lyon|Berger|Ch.|||pl. Rouville|2|NA|ch. au quart|NA|NA|NA|NA||||place Rouville
+67|Lyon|Berger|Pre.|||q. de Retz|42|NA|NA|NA|NA|NA|NA||||quai de Retz
+68|Lyon|Berger|Jn.|||mtée St-Barthélémy|10|NA|vel.|pel.|nouv.|NA|NA||||montée saint-Barthélémy
+69|Lyon|Berger|NA|||mtée St-Barthélémy|4|NA|un. arm.|NA|NA|NA|NA||||montée saint-Barthélémy
+70|Lyon|Berlier|Gasp.|||r. de la Vieille|3|NA|NA|NA|NA|NA|NA||||rue de la Vieille Monnaie
+71|Lyon|Berlier|Cl.-Ls.|||clos Flandrin|1|NA|un.|et faç.|NA|NA|NA||||ruelle du clos Flandrin
+72|Lyon|Bernard|Ant.|||r. Lemot|10|NA|NA|NA|NA|NA|NA||||rue Lemot
+73|Lyon|Bernard|Bt.|||r. Plat-d'Argent|6|NA|un.|NA|NA|NA|NA||||rue Plat d'Argent
+74|Lyon|Bernard|NA|||r. de Trion|11|NA|un.|NA|NA|NA|NA||||rue de Trion
+75|Lyon|Bernard|Fr.|||mtée St-Barthélémy|11|NA|mouch.|châl. soie|nouv.|NA|NA||||montée saint-Barthélémy
+76|Lyon|Bernard|Jn.-Pre.|||q. de Retz|46|NA|un.|NA|NA|NA|NA||||quai de Retz
+77|Lyon|Bernat|Pasc.|||r. Ste-Blandine|9|NA|NA|NA|NA|NA|NA||||rue sainte-Blandine
+78|Lyon|Berret|NA|||r. de Flesselles|4|NA|pel.|NA|NA|NA|NA||||rue de Flesselles
+79|Lyon|Berret|Ls.|||Gr.-Côte|62|NA|rob.|NA|NA|NA|NA||||Grande-Côte
+80|Lyon|Berrier|Marc.|||Gr.-Côte|73|NA|NA|NA|NA|NA|NA||||Grande-Côte
+81|Lyon|Berruca|NA|||clos Baudin|NA|NA|un.|arm.|NA|NA|NA||||clos Baudin
+82|Lyon|Berry|veuve|||Gr.-Côte|20|NA|gil.|crav.|NA|NA|NA||||Grande-Côte
+83|Lyon|Bert|Nicolas|||r. Bellecordière|12|NA|mouch.|nouv.|NA|NA|NA||||rue Bellecordière
+84|Lyon|Bert|Mich.|||r. St-Marcel|7|NA|gil.|nouv.|NA|NA|NA||||rue saint-Marcel
+85|Lyon|Bertachon|NA|||r. St-Georges|45|NA|arm.|rob.|NA|NA|NA||||rue saint-Georges
+86|Lyon|Bertaud|Jn.-Pre.|||r. Bourgchanin|10|NA|NA|NA|NA|NA|NA||||rue Bourgchanin
+87|Lyon|Bertier|Côme|||r. Bodin|17|NA|mouch.|ch. lain.|NA|NA|NA||||rue Bodin
+88|Lyon|Berthéas|NA|||r. de la Charité|18|NA|un.|arm.|fac.|NA|NA||||rue de la Charité
+89|Lyon|Berthelet|Pre.|||r. Masson|27|NA|rob.|gil.|NA|NA|NA||||rue Masson
+90|Lyon|Berthelier|NA|||pl. Rouville|3|NA|poulx de soie|sat. fort.|NA|NA|NA||||place Rouville
+91|Lyon|Berthet|Bt.|||r. Masson|13 bis|NA|NA|NA|NA|NA|NA||||rue Masson
+92|Lyon|Berthet|Jacq.|||r. Neyret|27|NA|un.|NA|NA|NA|NA||||rue Neyret
+93|Lyon|Bertheti|NA|||mtée des gr. Capucins|19|NA|un.|arm.|NA|NA|NA||||montée des Grands Capucins
+94|Lyon|Berthigny|NA|||pl. du Mont-Sauvage|5|NA|vel. faç.|arm.|NA|NA|NA||||place du Mont-Sauvage
+95|Lyon|Bertrand|NA|||r. Masson|NA|m. Belley|rob.|thib.|mouch.|NA|NA||||rue Masson
+96|Lyon|Berton|Fr.|||r. Magneval|13-15|NA|taff. lust.|un.|NA|NA|navet||||rue Magneval
+97|Lyon|Bertrand|NA|||r. St-Georges|NA|à la Commanderie|arm.|nouv.|NA|NA|NA||||rue saint-Georges
+98|Lyon|Bertrand|NA|||mtée des gr. Capucins|10|NA|un.|NA|NA|NA|NA||||montée des Grands Capucins
+99|Lyon|Besson|NA|||r. Laurencin|NA|NA|rob.|arm.|NA|NA|NA||||rue Laurencin
+100|Lyon|Beuron|NA|||pl. du Mont-Sauvage|8|NA|unis|NA|NA|NA|NA||||place du Mont-Sauvage
+101|Lyon|Bez|Restitut|||r. Tholozan|16|NA|nouv.|NA|NA|NA|NA||||rue Tholozan
+102|Lyon|Bichat|Jn.-Cl.|||r. Imbert-Colomès|9|NA|gil.|crav.|mouch.|NA|NA||||rue Imbert-Colomès
+103|Lyon|Bidal|Jacq.|||r. Tholozan|4|NA|rob.|mouch.|nouv.|NA|NA||||rue Tholozan
+104|Lyon|Bidel|Jn.-Pre.|||cours du Midi|30|NA|NA|NA|NA|NA|NA||||cours du Midi
+105|Lyon|Bigallet|Barth.|||côte St-Sébastien|17|NA|rob.|gil.|vel. faç.|NA|NA||||côte saint-Sébastien
+106|Lyon|Bigot|Pre.|||q. de la Charité|152|NA|unis|NA|NA|NA|NA||||quai de la Charité
+107|Lyon|Bigot|Pre.|||r. de Condé|34|NA|un.|NA|NA|NA|NA||||rue de Condé
+108|Lyon|Billand|Cl.|||q. de la Charité|153|NA|vel. un.|NA|NA|NA|NA||||quai de la Charité
+109|Lyon|Bistre|Vict.|||r. des Pierres-plantées|8|NA|ch. faç.|NA|NA|NA|NA||||rue des Pierres Plantées
+110|Lyon|Blanc|NA|||mtée. des Gr. Capucins|20|NA|ch. au quart|NA|NA|NA|NA||||montée des Grands Capucins
+111|Lyon|Blanc|Ant.|||r. Tholozan|19|NA|vel. un.|NA|NA|NA|NA||||rue Tholozan
+112|Lyon|Blanc|Messidor|||mtée St-Barthélémi|9|NA|mouch.|ch.|NA|NA|NA||||montée saint-Barthélémy
+113|Lyon|Blanc|Jn.-Mar.-Nic.|||r. Grôlée|34|NA|rob.|gil.|NA|NA|NA||||rue Grôlée
+114|Lyon|Blanc frères|NA|||mtée. des G.-Capucins|20|NA|ch. au quart|NA|NA|NA|NA||||montée des Grands Capucins
+115|Lyon|Blanc|Jacq.|||r. des Tables-Claudiennes|17|NA|crav.|gil.|vel. faç.|NA|NA||||rue des Tables Claudiennes
+116|Lyon|Blanchet|And.|||r. Ste-Blandine|9|NA|ch. s.|et au quart|NA|NA|NA||||rue sainte-Blandine
+117|Lyon|Blanchet|NA|||mtée. des Gr. Capucins|18|NA|gr. gr.|un. fort|NA|NA|NA||||montée des Grands Capucins
+118|Lyon|Blanchery|Jn.|||r. de la mtée du Mont-Sauvage|22|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+119|Lyon|Blanchou|Cl.|||r. Neyret|25|NA|rob.|NA|NA|NA|NA||||rue Neyret
+120|Lyon|Blaout|Aug.-Frédér.|||r. Tholozan|16|NA|ch. au quart|NA|NA|NA|NA||||rue Tholozan
+121|Lyon|Blardon|Pre.-Ant.|||r. au levant du clos Riondel|12|NA|NA|NA|NA|NA|NA||||rue au levant du clos Riondel
+122|Lyon|Blazin cadet|NA|||r. du Paradis|NA|NA|un.|pel.|NA|NA|NA||||rue du Paradis
+123|Lyon|Blazin aîné|NA|||imp. des Trois Amis|NA|NA|unis|pel.|NA|NA|NA||||impasse des Trois Amis
+124|Lyon|Blondel|Jn.|||pl. du Mont-Sauvage|6|NA|un.|arm.|rob.|NA|NA||||place du Mont-Sauvage
+125|Lyon|Bocon|Ant.|||r. des Pierres-plantées|6|NA|NA|NA|NA|NA|NA||||rue des Pierres Plantées
+126|Lyon|Boiron|Jn.-Pre.|||r. Bouteille|15|NA|vel. un.|NA|NA|NA|NA||||rue Bouteille
+127|Lyon|Boisset|Jn.|||Gr.-Côte|73|NA|NA|NA|NA|NA|NA||||Grande-Côte
+128|Lyon|Bolomier|Julien|||imp. Pitrat|NA|NA|ch. lain. lancé|et au quart|NA|NA|NA||||impasse Pitrat
+129|Lyon|Bombois|Célest.|||r. Tholozan|6|NA|ch. lanc.|et au quart|NA|NA|NA||||rue Tholozan
+130|Lyon|Bonareins|Jn.|||Gr.-Côte|89|NA|NA|NA|NA|NA|NA||||Grande-Côte
+131|Lyon|Bonjour|Jn.-Mar.|||Gr.-Côte|21|NA|vel. un.|NA|NA|NA|NA||||Grande-Côte
+132|Lyon|Bonjour|Jn.-Cl.|||r. Tourrette|1|NA|NA|NA|NA|NA|NA||||rue de la Tourette
+133|Lyon|Bonnard|Jn.-Cl.|||r. au midi du clos Riondel|3|NA|arm.|nouv.|NA|NA|NA||||rue au midi du clos Riondel
+134|Lyon|Bonnard|NA|||r. St-Georges|49|NA|un.|NA|NA|NA|NA||||rue saint-Georges
+135|Lyon|Bonnet|Arnaud|||r. Blanchère|2|NA|NA|NA|NA|NA|NA||||rue Blanchère
+136|Lyon|Bonnet|Jn.-Bt.|||r. Neyret|25|NA|gil.|vel.|faç.|nouv.|NA||||rue Neyret
+137|Lyon|Bony|Jn.|||Gr.-Côte|70|NA|mouch.|ch.|NA|NA|NA||||Grande-Côte
+138|Lyon|Bordet|Phil.|||r. Magueval|13-15|NA|vel. faç.|NA|NA|NA|NA||||rue Magneval
+139|Lyon|Bordet|Bt.|||r. des Petits-Pères|4|NA|vel. un.|NA|NA|NA|NA||||rue des Petits-Pères
+140|Lyon|Bornet|E.|||mtée du Mont-Sauvage|9|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+141|Lyon|Bosson|Ls.|||r. Bellecordière|22|NA|rob.|nouv.|NA|NA|NA||||rue Bellecordière
+142|Lyon|Bouchacourt|Pre.|||pl. Rouville|2|NA|vel. un.|NA|NA|NA|NA||||place Rouville
+143|Lyon|Bouchard|Cl.|||r. des Pierres-plantées|6|NA|rob.|NA|NA|NA|NA||||rue des Pierres Plantées
+144|Lyon|Bouillieu|Bt.|||r. Thomassin|11|NA|NA|NA|NA|NA|NA||||rue Thomassin
+145|Lyon|Bouillot|Jn.-Célest.|||r. Lemot|10|NA|NA|NA|NA|NA|NA||||rue Lemot
+146|Lyon|Bouland|Cl.|||r. Pareille|13|NA|gil.|vel. faç.|NA|NA|NA||||rue Pareille
+147|Lyon|Bourbon|Jh.|||r. Flesselles|7|NA|un.|faç.|NA|NA|NA||||rue de Flesselles
+148|Lyon|Bourdier|Clair|||r. de l'Hôpital|14|NA|rob.|gil.|NA|NA|NA||||rue de l'Hôpital
+149|Lyon|Bourdillon|NA|||r. Grôlée|13|NA|gaz|fich.|nouv.|NA|NA||||rue Grôlée
+150|Lyon|Bourillon|veuve|||r. Tholozan|20|NA|rob.|éch.|NA|NA|NA||||rue Tholozan
+151|Lyon|Bourdon|Jacq.|||r. St-Georges|76|NA|poulx de soie|NA|NA|NA|NA||||rue saint-Georges
+152|Lyon|Bourget|Jn.|||r. St-Georges|76|NA|gr. set.|NA|NA|NA|NA||||rue saint-Georges
+153|Lyon|Bourgeois|NA|||r. Belièvre|7|NA|un.|gr. larg.|NA|NA|NA||||rue Bellièvre
+154|Lyon|Bourgeon|Pre.|||imp. des Pierres-plantées|5|NA|NA|NA|NA|NA|NA||||impasse des Pierres Plantées
+155|Lyon|Bourrat|Jn.-Bte.|||pl. du Mont-Sauvage|6|NA|meubl.|orn.|NA|NA|NA||||place du Mont-Sauvage
+156|Lyon|Bourrat|Jn.-Bte.|||r. Tholozan|6|NA|srnem. d'égl.|NA|NA|NA|NA||||rue Tholozan
+157|Lyon|Bourret|Jn.|||mtée St-Barthélémy|10|NA|rob.|mouch.|gaz.|nouv. en paille|NA||||montée saint-Barthélémy
+158|Lyon|Bourret|Fr.|||mtée St-Barthélémy|10|NA|rob.|mouch.|ch.|nouv. en paille|etc. p. chapeau||||montée saint-Barthélémy
+159|Lyon|Boussillon|Jn.-Bte.-Vict.|||r. Flesselles|NA|m. Blanc|NA|NA|NA|NA|NA||||rue de Flesselles
+160|Lyon|Botte|Jh.|||Gr.-Côte|62|NA|NA|NA|NA|NA|NA||||Grande-Côte
+161|Lyon|Bouteille|NA|||mtée. des Gr. Capucins|20|NA|un.|blanc.|NA|NA|NA||||montée des Grands Capucins
+162|Lyon|Bouteon|Pre.|||r. Bourgchanin|16|NA|rob.|gil.|NA|NA|NA||||rue Bourgchanin
+163|Lyon|Boutin|NA|||pl. du Mont-Sauvage|7|NA|ch. lain.|NA|NA|NA|NA||||place du Mont-Sauvage
+164|Lyon|Boutin|NA|||r. Tholozan|6|NA|ch. nouv.|NA|NA|NA|NA||||rue Tholozan
+165|Lyon|Bouton|NA|||mtée des Epies|4|NA|lust.|sat.|NA|NA|NA||||montée des Epies
+166|Lyon|Bouvet|Jn.-Fr.|||r. Masson|19|NA|vel. un.|gr. larg.|NA|NA|NA||||rue Masson
+167|Lyon|Boyet|Ant.|||r. des Pierres-plantées|4|NA|gil.|NA|NA|NA|NA||||rue des Pierres Plantées
+168|Lyon|Bozonnat|Ant.-Mar.|||r. des Fanstasques|17|NA|un. |arm.|rob.|NA|NA||||rue des Fantasques
+169|Lyon|Bozzio|Maur.|||Gr.-Côte|23|NA|rob.|NA|NA|NA|NA||||Grande-Côte
+170|Lyon|Branchu|Den.|||r. Masson|1|NA|rob.|gil.|crav.|NA|NA||||rue Masson
+171|Lyon|Bressand|Chrétien|||r. Flesselles|6|NA|ch. s. ind.|NA|NA|NA|NA||||rue de Flesselles
+172|Lyon|Bret|Ch.|||mtée des Epies|4|NA|gr. sat.|gr. grains|NA|NA|NA||||montée des Epies
+173|Lyon|Bret|NA|||r. St-Georges|38|NA|rob.|gil.|NA|NA|NA||||rue saint-Georges
+174|Lyon|Bret|Cl.|||r. Flesselles|4|NA|rob.|gil.|NA|NA|NA||||rue de Flesselles
+175|Lyon|Bret|Jh.|||r. Grôlée|29|NA|rob.|nouv.|NA|NA|NA||||rue Grôlée
+176|Lyon|Bricault|Paul|||r. des Marronniers|7|NA|broch.|NA|NA|NA|NA||||rue des Marronniers
+177|Lyon|Briguet|Aug.|||r. Philibert-Delorme|NA|NA|NA|NA|NA|NA|NA||||rue Philibert-Delorme
+178|Lyon|Bronze|Jn.|||Gr.-Côte|27|NA|un.|arm.|NA|NA|NA||||Grande-Côte
+179|Lyon|Brunat|NA|||côte St-Sébastien|19|NA|taff.|arm.|ch. s.|NA|NA||||côte saint-Sébastien
+180|Lyon|Brun|Cl.|||r. des Tables Claudiennes|14|NA|gil.|rob.|NA|NA|NA||||rue des Tables Claudiennes
+181|Lyon|Brun|Noël|||r. Tholozan|20|NA|rob.|gil.|crav.|NA|NA||||rue Tholozan
+182|Lyon|Brun|NA|||r. des Farges|NA|NA|un.|NA|NA|NA|NA||||rue des Farges
+183|Lyon|Brun|Jn.-Bt.|||r. Bodin|4|NA|gil.|vel.|cli.|NA|NA||||rue Bodin
+184|Lyon|Brunel|Cl.|||r. Tholozan|11|NA|un.|NA|NA|NA|NA||||rue Tholozan
+185|Lyon|Brunet|Cl.|||pl. Colbert|3|NA|ch. s.|lain.|NA|NA|NA||||place Colbert
+186|Lyon|Brunet|Philib.|||r. Imbert-Colomès|6|NA|taf. lust.|ch. un.|NA|NA|NA||||rue Imbert-Colomès
+187|Lyon|Brunet|Pre.|||r. des Pierres-plantées|8|NA|NA|NA|NA|NA|NA||||rue des Pierres Plantées
+188|Lyon|Brunet|NA|||mtée St-Barthélémy|21|NA|rob.|gil.|mouch.|NA|NA||||montée saint-Barthélémy
+189|Lyon|Brunet|NA|||r. St-Marcel|2|NA|vel.|parap.|NA|NA|NA||||rue saint-Marcel
+190|Lyon|Brunet|Mich.|||r. Imbert-Colomès|13|NA|ch. soie|(?) de chine|NA|NA|NA||||rue Imbert-Colomès
+191|Lyon|Brunier|Pre.|||r. des Tables Claudiennes|12|NA|vel. un.|et faç.|NA|NA|NA||||rue des Tables Claudiennes
+192|Lyon|Bruno|Jn.-Bte.|||gr.-Rue du Mont-Sauvage|8|NA|NA|NA|NA|NA|NA||||grande rue du Mont-Sauvage
+193|Lyon|Burdiat|Jér.|||r. Magneval|13-15|NA|mouch.|ch.|NA|NA|NA||||rue Magneval
+194|Lyon|Burel|Pre.|||côte des Carmélites|35|NA|gil.|vel.|NA|NA|NA||||côte des Carmélites
+195|Lyon|Burlant|Jn.-Cl.|||r. Pouteau|20|NA|rob.|gil.|crav.|NA|NA||||rue Pouteau
+196|Lyon|Burlaton|Jn.-Bte.|||Gr.-Côte|68|NA|meubl. br.|NA|NA|NA|NA||||Grande-Côte
+197|Lyon|But|NA|||r. au centre du Mont-Sauvage|NA|m. Nicolas|crav.|gil.|NA|NA|NA||||rue du Mont-Sauvage
+198|Lyon|Buy|Fr.|||r. Tholozan|10|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+199|Lyon|Caillat|Fr.|||Gr.-Côte|39|NA|NA|NA|NA|NA|NA||||Grande-Côte
+200|Lyon|Caille|NA|||côte St-Sébastien|17|NA|arm.|rob.|gil.|NA|NA||||côte saint-Sébastien
+201|Lyon|Caille|Henri|||r. Lemot|1|NA|arm.|rob.|NA|NA|NA||||rue Lemot
+202|Lyon|Calvat|Pierre|||r. Tholozan|4|NA|crav.|fich.|éch.|NA|NA||||rue Tholozan
+203|Lyon|Carret|Cl.-Marie|||r. de Flesselles|5|NA|un.|arm.|nouv.|NA|NA||||rue de Flesselles
+204|Lyon|Carrier|Henri|||r. au midi du clos Riondel|NA|NA|ch. au quart|NA|NA|NA|NA||||rue au midi du clos Riondel
+205|Lyon|Carillon|Jh.|||r. Imbert-Colomès|1|NA|mouc.|ch. soie|et laine|NA|NA||||rue Imbert-Colomès
+206|Lyon|Carichon|Louis|||r. Pouteau|20|NA|rob.|gil.|crav.|NA|NA||||rue Pouteau
+207|Lyon|Carron|Jean|||Gr.-Côte|76|NA|mouch.|gaze|nouv.|NA|NA||||Grande-Côte
+208|Lyon|Carron|Laurent|||Gr.-Côte|76|NA|mouch.|ch. gaze|nouv.|NA|NA||||Grande-Côte
+209|Lyon|Carotte|NA|||r. des Anges|NA|m. Guillon|un.|NA|NA|NA|NA||||rue des Anges
+210|Lyon|Cazard|Nic.|||p. Rouville|4|NA|vel.|un.|NA|NA|NA||||place Rouville
+211|Lyon|Cazard|Dlle.|||r. des Farges|8|NA|sat.|NA|NA|NA|NA||||rue des Farges
+212|Lyon|Clair|NA|||r. du Commerce|8|NA|vel.|un.|gr. lar.|NA|NA||||rue du Commerce
+213|Lyon|Clair|NA|||r. des Anges|NA|m. Guillon|un.|NA|NA|NA|NA||||rue des Anges
+214|Lyon|Claraz|Ch.|||r. Paradis|9|NA|vel.|un.|et fa.|NA|NA||||rue du Paradis
+215|Lyon|Clément|Pierre|||r. de la Vieille|7|NA|NA|NA|NA|NA|NA||||rue de la Vieille Monnaie
+216|Lyon|Clément|P.-Fr.|||r. de Flesselles|4|NA|rob.|gil.|NA|NA|NA||||rue de Flesselles
+217|Lyon|Chabond|Jh.|||r. Imbert-Colomès|12|NA|un.|NA|NA|NA|NA||||rue Imbert-Colomès
+218|Lyon|Chabrier|NA|||r. Tholozan|20|NA|rob.|gil.|cach.|NA|NA||||rue Tholozan
+219|Lyon|Chairi|NA|||p. des Tapis|8|NA|un.|NA|NA|NA|NA||||place des Tapis 
+220|Lyon|Chaffranjon|Fr.|||r. Masson|11|NA|vel.|un.|NA|NA|NA||||rue Masson
+221|Lyon|Chalessin|Fr.|||r. Masson|29|NA|arm.|nouv.|NA|NA|NA||||rue Masson
+222|Lyon|Chambouvet|NA|||mtée St-Barthélémy|12|NA|rob.|gil.|NA|NA|NA||||montée saint-Barthélémy
+223|Lyon|Champavert|Jh.-M.|||imp. des Pierres-Plantées|5|NA|faç.|NA|NA|NA|NA||||impasse des Pierres Plantées
+224|Lyon|Champin|Jn.|||p. Louis XVIII|18|NA|ch. au quart|NA|NA|NA|NA||||place Louis XVIII
+225|Lyon|Champon|Fr.|||côte St-Sébastien|19|NA|NA|NA|NA|NA|NA||||côte saint-Sébastien
+226|Lyon|Chandaize|P.|||r. du perron du Mont-Sauvage|NA|NA|rob.|gil.|NA|NA|NA||||rue du perron du Mont-Sauvage
+227|Lyon|Chapard|Jn.|||p. Rouville|1|NA|mouch.|nouv.|NA|NA|NA||||place Rouville
+228|Lyon|Chapeau|Antibes|||r. Grôlée|7|NA|ch. au quart|NA|NA|NA|NA||||rue Grôlée
+229|Lyon|Chapollard|A.|||pl. du Mont-Sauvage|5|NA|rob.|gil.|mouc. faç.|NA|NA||||place du Mont-Sauvage
+230|Lyon|Chapuis|Pierre|||Gr.-Côte|52|NA|rob.|NA|NA|NA|NA||||Grande-Côte
+231|Lyon|Chapuis|Cl.|||c. St-Sébastien|21|NA|vel. un.|NA|NA|NA|NA||||côte saint-Sébastien
+232|Lyon|Chapuis|J.-F.|||pl. Colbert|5|NA|un.|NA|NA|NA|NA||||place Colbert
+233|Lyon|Chapuis|Cl.-Jn.|||r. Bodin|3|NA|NA|NA|NA|NA|NA||||rue Bodin
+234|Lyon|Charavel|NA|||r. de l'Epine|14|NA|vel.|un.|nouv.|NA|NA||||rue de l'Epine
+235|Lyon|Charbonnier|J.-M.|||r. de la Reine|14|NA|vel.|un.|NA|NA|NA||||rue de la Reine
+236|Lyon|Charnet|Jn.|||r. de Saron|22|NA|NA|NA|NA|NA|NA||||rue de Saron
+237|Lyon|Charnier|Pierre|||mtée St-Barthélémy|11|NA|un.|et faç.|NA|NA|NA||||montée saint-Barthélémy
+238|Lyon|Charrion|NA|||r. St-Georges|86|NA|un.|NA|NA|NA|NA||||rue saint-Georges
+239|Lyon|Chatain|Pierre|||Gr.-Côte|39|NA|NA|NA|NA|NA|NA||||Grande-Côte
+240|Lyon|Chaussard|Cl.|||r. Masson|29|NA|uni|et façonn.|NA|NA|NA||||rue Masson
+241|Lyon|Chaume|J.-B.|||r. de la Vieille|3|NA|NA|NA|NA|NA|NA||||rue de la Vieille Monnaie
+242|Lyon|Chautar|NA|||r. du Paradis|5|NA|un.|NA|NA|NA|NA||||rue du Paradis
+243|Lyon|Chenelz|NA|||r. Masson|19|NA|rob.|gil.|crav.|NA|NA||||rue Masson
+244|Lyon|Chervet|Séb.|||r. des Fantasques|17|NA|gil.|crav.|NA|NA|NA||||rue des Fantasques
+245|Lyon|Chevallier|Gilb.|||Gr.-Côte|76|NA|ch. lancés|NA|NA|NA|NA||||Grande-Côte
+246|Lyon|Chevallier|Ch.-A.|||r. des Pierres-Plantées|6|NA|vel.|faç. nouv.|NA|NA|NA||||rue des Pierres Plantées
+247|Lyon|Chevallier|NA|||au Mont-Sauvage|NA|m. Nicolas|ornem.|NA|NA|NA|NA||||rue du Mont-Sauvage
+248|Lyon|Chevallier|NA|||r. Tholozan|20|NA|gil.|vel.|NA|NA|NA||||rue Tholozan
+249|Lyon|Chevassy|C.-J.-Napoléon|||r. de Flesselles|7|NA|un.|arm.|NA|NA|NA||||rue de Flesselles
+250|Lyon|Chièze|Fl.|||p. du Mont-Sauvage|9|NA|un.|arm.|crêp. de ch.|NA|NA||||place du Mont-Sauvage
+251|Lyon|Chirot|Jacq.|||r. Neyret|23|NA|NA|NA|NA|NA|NA||||rue Neyret
+252|Lyon|Clément|Pierre|||r. de la Vieille|7|NA|gil.|NA|NA|NA|NA||||rue de la Vieille Monnaie
+253|Lyon|Cochet|NA|||NA|NA|m. Carnety|nouv.|NA|NA|NA|NA||||NA
+254|Lyon|Cochard|J.-Fr.|||imp. des Pierres-Plantées|2|NA|mouch.|ch.|soie|NA|NA||||impasse des Pierres Plantées
+255|Lyon|Coiffier|J.-B.|||q. de la Charité|NA|NA|vel.|un.|NA|NA|plieur||||quai de la Charité
+256|Lyon|Coindre|Pierre|||r. de la Vieille|7|NA|rob.|gil.|NA|NA|NA||||rue de la Vieille Monnaie
+257|Lyon|Coissard|Laurent|||r. Masson|29|NA|rob.|ch.|NA|NA|NA||||rue Masson
+258|Lyon|Collet|Paul|||r. des Chartreux|NA|m. Guiraud|vel. faç.|NA|NA|NA|NA||||rue des Chartreux
+259|Lyon|Collomb|J.-B.|||Gr.-Côte|20|NA|un.|NA|NA|NA|NA||||Grande-Côte
+260|Lyon|Collomb|Jean-Rémy|||r. des Pierres-Plantées|6|NA|NA|NA|NA|NA|NA||||rue des Pierres Plantées
+261|Lyon|Collomb|P.|||r. de Flesselles|4|NA|ch. soie|broch.|ornem.|NA|NA||||rue de Flesselles
+262|Lyon|Collombin|Jh.|||r. du clos Flandrin|15|NA|mouch.|ch. soie|indoux|nouv.|NA||||ruelle du clos Flandrin
+263|Lyon|Colombet|Jh.|||r. Sala|60|NA|un.|NA|NA|NA|NA||||rue Sala
+264|Lyon|Collongeat|J.-M.|||r. Caponi|1|NA|rob. faç.|NA|NA|NA|NA||||rue Caponi
+265|Lyon|Compiegne|Cl.|||r. de la mtée du Mont-Sauvage|2|NA|rob.|NA|NA|NA|NA||||montée du Mont-Sauvage
+266|Lyon|Comte|NA|||r. du Paradis|20|NA|un.|NA|NA|NA|NA||||rue du Paradis
+267|Lyon|Contamin|Etienne|||p. Colbert|4|NA|un.|NA|NA|NA|NA||||place Colbert
+268|Lyon|Constant|J.-Michel|||r. Masson|21|NA|crav.|mouch.|ch.|laine et soie|NA||||rue Masson
+269|Lyon|Coq|J.-B.|||p. Rouville|2|NA|un.|NA|NA|NA|NA||||place Rouville
+270|Lyon|Cotte|Louis|||c. des Carmélites|35|NA|rob.|NA|NA|NA|NA||||côte des Carmélites
+271|Lyon|Cottenet|Henri|||r. Neyret|25|NA|rob.|gil.|NA|NA|NA||||rue Neyret
+272|Lyon|Couchoud|NA|||r. Juiverie|4|NA|un.|arm.|rob.|gil.|NA||||rue Juiverie
+273|Lyon|Couzon|Bt.|||r. Tholozan|4|NA|nouv.|gil.|mouch.|NA|NA||||rue Tholozan
+274|Lyon|Crestin|NA|||mtée St-Barthélémy|19|NA|rob.|gil.|nouv.|NA|NA||||montée saint-Barthélémy
+275|Lyon|Crétin|NA|||mtée St-Barthélémy|28|NA|vel.|faç.|nouv.|NA|NA||||montée saint-Barthélémy
+276|Lyon|Creuzet|NA|||r. des Anges|NA|m. Guillon|un.|NA|NA|NA|NA||||rue des Anges
+277|Lyon|Cristin|J.-M.|||p. Colbert|5|NA|rob.|NA|NA|NA|NA||||place Colbert
+278|Lyon|Croizier|Ant.|||r. Pareille|15|NA|NA|NA|NA|NA|NA||||rue Pareille
+279|Lyon|Cuzin|J.-Bte|||c. St-Sébastien|20|NA|ch.|indien|NA|NA|NA||||côte saint-Sébastien
+280|Lyon|Dache|Fr.|||r. du Mont-Sauvage|6|NA|rob.|gil.|crav.|NA|NA||||rue du Mont-Sauvage
+281|Lyon|Dailly|Martial|||r. Bouteille|15|NA|taff.|et satin lustré|NA|NA|NA||||rue Bouteille
+282|Lyon|Damas|Et.|||q. de la Charité|156|NA|un.|et faç.|NA|NA|NA||||quai de la Charité
+283|Lyon|Damas|Louis|||r. Bellecordière|11|NA|un.|NA|NA|NA|NA||||rue Bellecordière
+284|Lyon|Damien|Jh.|||cour du Soleil|2|NA|un.|NA|NA|NA|NA||||cour du Soleil
+285|Lyon|Danjan|Cl.|||r. des Farges|73|NA|arm.|rob.|gil.|NA|NA||||rue des Farges
+286|Lyon|Darnon|Léger|||p. Rouville|2|NA|rob.|NA|NA|NA|NA||||place Rouville
+287|Lyon|Dauphin-Dornoux|Maurice|||r. Casali|11|NA|gil.|mouch.|NA|NA|NA||||rue Casali
+288|Lyon|Debelmont|NA|||p. des Macabées|NA|m. Bouteille|vel.|un.|NA|NA|NA||||place des Macabées
+289|Lyon|Debieuf|Et.|||r. Masson|21|NA|un.|NA|NA|NA|NA||||rue Masson
+290|Lyon|Delaunay|Cl.-Marie|||r. Grôlée|11|NA|rob.|gil.|crav.|NA|NA||||rue Grôlée
+291|Lyon|Delin|Fr.|||r. Pouteau|27|NA|NA|NA|NA|NA|NA||||rue Pouteau
+292|Lyon|Delhôpital|H.|||r. Tables-Claudiennes|12|NA|rob.|gil.|faç.|NA|NA||||rue des Tables Claudiennes
+293|Lyon|Delorme|NA|||q. Puis-du-sel|NA|vis-à-vis la pompe|vel.|gil.|rob.|faç.|NA||||quai Puis-du-sel
+294|Lyon|Delaye|NA|||r. Masson|13|NA|un.|NA|NA|NA|NA||||rue Masson
+295|Lyon|Delestra|NA|||r. Confort|NA|NA|un.|et faç.|NA|NA|NA||||rue Confort
+296|Lyon|Delestrat|Cl.|||r. Bourgchanin|20|NA|poul de soie|NA|NA|NA|NA||||rue Bourgchanin
+297|Lyon|Delestrat|NA|||rue de Flesselles|4|NA|arm.|rob.|NA|NA|NA||||rue de Flesselles
+298|Lyon|Delorma|Jn.-Bte|||r. St-Pierre-le-Vieux|6|NA|taff.|vel. un.|NA|NA|NA||||rue saint-Pierre-le-Vieux
+299|Lyon|Delorme|Ant.|||r. Masson|7|NA|ch.|laine|soie|NA|NA||||rue Masson
+300|Lyon|Demencieux|Nicolas|||r. Lemot|14|NA|gil.|NA|NA|NA|NA||||rue Lemot
+301|Lyon|Demeule|Jn.|||r. Philibert-Delorme|NA|NA|gil.|crav|NA|NA|NA||||rue Philibert-Delorme
+302|Lyon|Demeure|NA|||r. Imbert-Colomès|2|NA|rob.|gil.|NA|NA|NA||||rue Imbert-Colomès
+303|Lyon|Dephanis|Blaise|||r. des Petits Frères|15|NA|rob.|gil.|NA|NA|NA||||rue des Petits Frères
+304|Lyon|Derrion|Jh.|||r. Tholozan|6|NA|meuble broché|dor.|NA|NA|NA||||rue Tholozan
+305|Lyon|Dervieu|Cl.|||r. de Condé|36|NA|vel.|faç.|NA|NA|NA||||rue de Condé
+306|Lyon|Derville|Dominique|||r. Tramassac|NA|NA|poulx de soie|NA|NA|NA|NA||||rue Tramassac
+307|Lyon|Deschamps|NA|||mtée St-Barthélémy|11|NA|rob.|gil.|châle|NA|NA||||montée saint-Barthélémy
+308|Lyon|Deschamps|NA|||m. des Gr.-Capucins|NA|NA|rob.|mouch.|châle|NA|NA||||montée des Grands Capucins
+309|Lyon|Descôtes|Fr.|||r. Flesselles|4|NA|rob.|gil.|NA|NA|NA||||rue de Flesselles
+310|Lyon|Desgrange|Jh.|||r. Masson|29|NA|ch. soie|nouv.|NA|NA|NA||||rue Masson
+311|Lyon|Desmarre|Pierre|||mtée St-Barthélémy|21|NA|rob.|NA|NA|NA|NA||||montée saint-Barthélémy
+312|Lyon|Desplante|Jean|||p. Ronville|3|NA|NA|NA|NA|NA|NA||||place Rouville
+313|Lyon|Destienne|Marc|||r. Tholozan|17|NA|gil.|NA|NA|NA|NA||||rue Tholozan
+314|Lyon|Desvigne|NA|||r. Tourette|5|NA|un.|arm.|NA|NA|NA||||rue de la Tourette
+315|Lyon|Devaux|NA|||r. Tholozan|8|NA|mouch.|fich.|nouv.|NA|NA||||rue Tholozan
+316|Lyon|Devaux|René|||r. Masson|17|NA|rob.|NA|NA|NA|NA||||rue Masson
+317|Lyon|Devaux|NA|||r. Bodin|17|NA|rob.|mouch.|éch.|nouv.|NA||||rue Bodin
+318|Lyon|Devillaine|Ph.|||r. Bodin|17|NA|ch. laine lancé|NA|NA|NA|NA||||rue Bodin
+319|Lyon|Digonnet|Denis|||r. Tholozan|18|NA|un.|faç.|NA|NA|NA||||rue Tholozan
+320|Lyon|Dolbeau|Louis|||r. Neyret|25|NA|rob.|gil.|NA|NA|NA||||rue Neyret
+321|Lyon|Dolbeau|Jean|||r. Tholozan|10|NA|vel.|faç.|NA|NA|NA||||rue Tholozan
+322|Lyon|Dolbeau|Mathieu|||r. Pareille|13|NA|vel.|faç.|NA|NA|NA||||rue Pareille
+323|Lyon|Donnadieu|M.-A.|||r. Imbert-Colomès|14|NA|rob.|gil.|NA|NA|théor.||||rue Imbert-Colomès
+324|Lyon|D'oublier|Jh.|||r. des Petits Frères|8|NA|NA|NA|NA|NA|NA||||rue des Petits Frères
+325|Lyon|Drevet|P.-Henri|||Gr.-Côte|66|NA|vel.|un.|et faç.|gr. lar.|NA||||Grande-Côte
+326|Lyon|Drivon|Jacques|||c. des Carmélites|35|NA|vel.|un.|et faç.|NA|NA||||côte des Carmélites
+327|Lyon|Drivon|Léonard|||c. des Carmélites|35|NA|vel.|un.|et faç.|NA|NA||||côte des Carmélites
+328|Lyon|Drut|Fr.|||r. Lemot|10|NA|NA|NA|NA|NA|NA||||rue Lemot
+329|Lyon|Dubessy|Vincent|||r. Neyret|25|NA|rob.|gil.|NA|NA|NA||||rue Neyret
+330|Lyon|Dubié|Louis|||p. Colbert|6|NA|(?)|mouch.|gaze|NA|NA||||place Colbert
+331|Lyon|Dubois|NA|||r. des Chartreux|NA|NA|un.|vel.|NA|NA|NA||||rue des Chartreux
+332|Lyon|Dubois|Jacq.|||r. du perron du Mont-Sauvage|8|NA|un.|NA|NA|NA|NA||||rue du perron du Mont-Sauvage
+333|Lyon|Dubois|Et.|||p. Ronville|2|NA|gil.|NA|NA|NA|NA||||place Rouville
+334|Lyon|Dubois|Ant.|||r. du Commerce|10|NA|satins|NA|NA|NA|NA||||rue du Commerce
+335|Lyon|Dubois|NA|||r. Neyret|33|NA|rob.|vel.|faç.|NA|NA||||rue Neyret
+336|Lyon|Dubost|Barth.|||r. Grenette|22|NA|NA|NA|NA|NA|NA||||rue Grenette
+337|Lyon|Dubost|Jn.-Marie|||gr. r. du Mont-Sauvage|8|NA|mouch.|laine|thib.|NA|NA||||grande rue du Mont-Sauvage
+338|Lyon|Dubost|Paul|||r. Capucins|13|NA|arm.|rob.|gil.|NA|NA||||rue des Grands-Capucins
+339|Lyon|Dubreuil|Fr.|||r. Noire|13|NA|gil.|NA|NA|NA|NA||||rue Noire
+340|Lyon|Duc|Jn.-Bte|||r. des Fantasques|17|NA|rob.|gil.|NA|NA|NA||||rue des Fantasques
+341|Lyon|Duclos|NA|||r. St-Georges|NA|mtée St-André|un.|NA|NA|NA|NA||||rue saint-Georges
+342|Lyon|Ducreux|NA|||imp. des Trois Amis|NA|m. Blesin|un.|NA|NA|NA|NA||||impasse des Trois Amis
+343|Lyon|Ducret|César|||r. Grôlée|33|NA|rob.|gil.|fich.|NA|NA||||rue Grôlée
+344|Lyon|Dufour|Fr.|||r. Masson|21|NA|un.|NA|NA|NA|NA||||rue Masson
+345|Lyon|Dugellay|NA|||r. des Anges|NA|m. Nicolas|un.|NA|NA|NA|NA||||rue des Anges
+346|Lyon|Duja|NA|||p. du Mont-Sauvage|5|NA|rob.|gil.|NA|NA|NA||||place du Mont-Sauvage
+347|Lyon|Dumas|Jn.|||r. Tholozan|2|NA|rob.|mouch.|ch.|nouv.|NA||||rue Tholozan
+348|Lyon|Dumas|Firmin|||c. des Carmélites|25|NA|éch.|flch.|ch.|NA|NA||||côte des Carmélites
+349|Lyon|Dumas|NA|||r. de Trion|NA|m. Renaud|un.|gr. larg.|NA|NA|NA||||rue de Trion
+350|Lyon|Dumas|NA|||mtée des Gr.-Capucins|10|NA|un.|faç.|NA|NA|NA||||montée des Grands Capucins
+351|Lyon|Dumont|Jean|||r. Rouville|5|NA|NA|NA|NA|NA|NA||||rue Rouville
+352|Lyon|Dunoyer|NA|||mtée des Gr.-Capucins|15|NA|gr. grains|NA|NA|NA|NA||||montée des Grands Capucins
+353|Lyon|Dupinet|NA|||mtée des Gr.-Capucins|10|NA|ch. lancé|NA|NA|NA|NA||||montée des Grands Capucins
+354|Lyon|Dupont|NA|||clos Flandrin|NA|NA|thib.|nouv. laine|un.|et faç.|NA||||ruelle du clos Flandrin
+355|Lyon|Dupont|Jacques|||r. Lemot|12|NA|rob.|NA|NA|NA|NA||||rue Lemot
+356|Lyon|Durand|NA|||r. St-Georges|NA|Commanderie|un.|NA|NA|NA|NA||||rue saint-Georges
+357|Lyon|Durand|Pierre|||c. St-Sébastien|21|NA|crav.|gil.|NA|NA|NA||||côte saint-Sébastien
+358|Lyon|Durieu|Jn.-Fr.|||r. Grôlée|20|NA|un.|NA|NA|NA|NA||||rue Grôlée
+359|Lyon|Durand|Pierre|||r. Traversière|3|NA|un.|NA|NA|NA|NA||||rue Traversière
+360|Lyon|Durand|Pierre-Jn.|||r. Sala|60|NA|broch.|meubl.|NA|NA|NA||||rue Sala
+361|Lyon|Edouard|Pierre|||r. Bourgchanin|30|NA|gil.|vel.|faç.|NA|NA||||rue Bourgchanin
+362|Lyon|Eguillion|NA|||r Magneval|11|NA|ch. soie|et laine|NA|NA|NA||||rue Magneval
+363|Lyon|Esmieu|Jh.|||r. Petit-Soulier|14|NA|broch.|ornem.|NA|NA|NA||||rue Petit-Soulier
+364|Lyon|Esnault|Jn.-Marie|||r. St-Marcel|44|NA|faç.|nouv.|NA|NA|profes. de théorie||||rue saint-Marcel
+365|Lyon|Escoffier|Cl.|||p. Rouville|6|NA|NA|NA|NA|NA|NA||||place Rouville
+366|Lyon|Escoffier|Et.|||p. Colbert|3|NA|un.|NA|NA|NA|NA||||place Colbert
+367|Lyon|Escoffier|André|||r. Bourgchanin|10|NA|rob.|gil.|nouv.|NA|NA||||rue Bourgchanin
+368|Lyon|Espié|Jh.-Fr.|||p. Colbert|6|NA|châle au quart|NA|NA|NA|NA||||place Colbert
+369|Lyon|Essautier|Jn.-Ant.|||pl. du Mont-Sauvage|6|NA|un.|rob.|gil.|crav.|NA||||place du Mont-Sauvage
+370|Lyon|Essert|NA|||mtée des Gr.-Capucins|16|NA|un.|arm.|nouv.|NA|NA||||montée des Grands Capucins
+371|Lyon|Fabre|Jn.|||r. de la Vieille|11|NA|un.|NA|NA|NA|NA||||rue de la Vieille Monnaie
+372|Lyon|Fabre|Jn.-Bap.|||p. Colbert|6|NA|vel.|un.|rob.|NA|NA||||place Colbert
+373|Lyon|Falconnet|Joachim|||r. Tholozan|20|NA|crav. et gil.|nouv.|gaze|tour anglais et gaze d'Artois|NA||||rue Tholozan
+374|Lyon|Falconnet|NA|||r. Grôlée|6|NA|unis|arm.|NA|NA|NA||||rue Grôlée
+375|Lyon|Falquet|Michel-André|||p. St-Clair|6|NA|gil.|mouch.|nouv.|NA|NA||||place saint-Clair 
+376|Lyon|Fargeot|Fr.|||r. au levant du clos Flandrin|1|NA|NA|NA|NA|NA|NA||||clos des Chartreux
+377|Lyon|Faure|Fr.|||p. Colbert|5|NA|gil.|vel.|faç.|nouv.|NA||||place Colbert
+378|Lyon|Faure|Pierre|||r. St-Sébastien|21|NA|gil.|vel.|faç.|NA|NA||||rue saint-Sébastien
+379|Lyon|Faure|NA|||r. Tholozan|8|NA|un.|et tulle à la chaine|NA|NA|NA||||rue Tholozan
+380|Lyon|Favier|Alph.|||pl. Colbert|4|NA|rob.|gil.|NA|NA|NA||||place Colbert
+381|Lyon|Favier|Lucien|||pl. Rouville|2|NA|un.|arm.|nouv. à lises|NA|NA||||place Rouville
+382|Lyon|Favre|Théoph.|||pl. du Mont-Sauvage|6|NA|vel.|faç.|nouv.|NA|NA||||place du Mont-Sauvage
+383|Lyon|Favier|André|||r. de Flesselles|4|NA|gil.|vel.|faç.|NA|NA||||rue de Flesselles
+384|Lyon|Favre|NA|||r. St-Georges|43|NA|un.|NA|NA|NA|NA||||rue saint-Georges
+385|Lyon|Favre|NA|||r. de Trion|NA|m. Gatigny|un.|NA|NA|NA|NA||||rue de Trion
+386|Lyon|Fayolle|Jn.-Pierre.|||r. Ste-Blandine|3|NA|vel.|un.|rob.|NA|NA||||rue sainte-Blandine
+387|Lyon|Felizan|NA|||p. de l'Hôpital|2|NA|broch.|ornem.|NA|NA|NA||||place de l'Hôpital
+388|Lyon|Félix|NA|||r. Montauban|7|NA|serges.|unis|NA|NA|NA||||rue Montauban
+389|Lyon|Ferrand|NA|||mtée des Gr.-Capucins|20|NA|ch. laine|et au quart|NA|NA|NA||||montée des Grands Capucins
+390|Lyon|Fêlat|Cl.|||imp. des Carmélites|33|NA|mouch.|nouv.|NA|NA|NA||||impasse des Carmélites
+391|Lyon|Ferrand|Denys|||r. Bouteille|18|NA|ch. lancé au quart|NA|NA|NA|NA||||rue Bouteille
+392|Lyon|Ferrand|NA|||mtée des Gr.-Capucins|20|NA|ch. au quart|NA|NA|NA|NA||||montée des Grands Capucins
+393|Lyon|Ferrière|Jn.-Cl.|||r. de Flesselles|NA|m. Blanc|mous.|thib.|châle lancé|NA|NA||||rue de Flesselles
+394|Lyon|Feuillet|Louis|||p. Rouville|3|NA|NA|NA|NA|NA|NA||||place Rouville
+395|Lyon|Feuillet|Fr.|||p. Rouville|3|NA|NA|NA|NA|NA|NA||||place Rouville
+396|Lyon|Finas|NA|||r. St-Marcel|2|NA|crav.|gil.|NA|NA|NA||||rue saint-Marcel
+397|Lyon|Flamier|Théod.|||r. Tholozan|11|NA|meubl. broch.|dorure|NA|NA|NA||||rue Tholozan
+398|Lyon|Flamier|Jn.-Bap.|||r. Neyret|13|NA|meubl.|brocard|broch.|NA|NA||||rue Neyret
+399|Lyon|Fontaine|Jh.|||r. Neyret|13|NA|un.|arm.|NA|NA|NA||||rue Neyret
+400|Lyon|Fontaine|NA|||r. St-Marcel|NA|NA|vel.|faç.|NA|NA|march. de meubles||||rue saint-Marcel
+401|Lyon|Fontaine|Jh.|||r. au midi du cl. Riondel|7|NA|rob.|mous.|tulle|faç.|NA||||rue au midi du clos Riondel
+402|Lyon|Fontaine|Nicolas-Jh.|||r. Plat d'Argent|14|NA|un.|NA|NA|NA|NA||||rue Plat d'Argent
+403|Lyon|Fontaine|NA|||r. des Forges|NA|NA|un.|NA|NA|NA|NA||||rue des Forges
+404|Lyon|Fontvielle|Jn.-Gaspard|||r. Confort|19|NA|NA|NA|NA|NA|NA||||rue Confort
+405|Lyon|Forod|NA|||r. de Flesselles|4|au 3me|un.|NA|NA|NA|NA||||rue de Flesselles
+406|Lyon|Four|Etienne|||r. Gaudinière|5|NA|vel.|un.|NA|NA|NA||||rue Gaudinière
+407|Lyon|Fournasse|Fer.|||r. Bourgchanin|10|NA|rob.|arm.|NA|NA|NA||||rue Bourgchanin
+408|Lyon|Fournel|Jn.|||r. Bellevue|25|NA|ch. au quart|NA|NA|NA|NA||||rue Bellevue
+409|Lyon|Fournier|NA|||mtée des Gr.-Capucins|NA|NA|rob.|mouch.|éch.|nou.|NA||||montée des Grands Capucins
+410|Lyon|Fourtoul|Dominique|||p. Rouville|1|NA|ch. au quart|NA|NA|NA|NA||||place Rouville
+411|Lyon|Foy|NA|||mtée des Gr.-Capucins|9|NA|unis noir|gr. lar.|NA|NA|NA||||montée des Grands Capucins
+412|Lyon|Franc|NA|||r. Tholozan|17|NA|un.|fa.|châle au quart.|NA|NA||||rue Tholozan
+413|Lyon|François|Fr.-Jn.-Claude|||au couchant du cl. Riondel|2|NA|art. de gout unis et fa.|gaze à perles|NA|NA|NA||||rue du couchant du clos Riondel
+414|Lyon|Françon|Ch.-M.|||r. Tholozan|20|au 3me|ch. au quart|NA|NA|NA|NA||||rue Tholozan
+415|Lyon|Fraget|Jn.-Marie|||imp. Pitrat|NA|NA|NA|NA|NA|NA|NA||||impasse Pitrat
+416|Lyon|Frandon|Fr.|||r. Neyret|13|NA|rob.|gil.|NA|NA|NA||||rue Neyret
+417|Lyon|Fresnot|Jh.|||p. Rouville|1|NA|NA|NA|NA|NA|NA||||place Rouville
+418|Lyon|Fressonnet|NA|||r. des Farges|8|NA|un.|NA|NA|NA|NA||||rue des Farges
+419|Lyon|Fulchiron|NA|||r. Bellecordière|17|NA|NA|NA|NA|NA|NA||||rue Bellecordière
+420|Lyon|Fulchiron|Jn|||Gr.-Côte|21|NA|vel.|un.|et faç.|NA|NA||||Grande-Côte
+421|Lyon|Gache|Claude|||r. Bourgchanin|32|NA|un.|NA|NA|NA|NA||||rue Bourgchanin
+422|Lyon|Gache|Ant.|||c. des Carmélites|25|NA|rob.|mouch.|nouv.|NA|NA||||côte des Carmélites
+423|Lyon|Gachet|Jn.-Pierre|||r. Magneval|13-15|NA|rob.|mouch.|fa.|NA|NA||||rue Magneval
+424|Lyon|Gaceto|Jn.-Victor|||r. de la mtée du Mont-Sauvage|10|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+425|Lyon|Gadet|NA|||r. de Trion|23|NA|un.|NA|NA|NA|NA||||rue de Trion
+426|Lyon|Gadot|NA|||r. Tholozan|20|NA|chale laine|gil.|NA|NA|NA||||rue Tholozan
+427|Lyon|Gagnery|Louis|||cour Frécamp.|NA|NA|NA|NA|NA|NA|NA||||cour Frécamp.
+428|Lyon|Gailleton|Jn.-Bap.|||r. Ste-Blandine|11|NA|vel.|un.|NA|NA|NA||||rue sainte-Blandine
+429|Lyon|Gailleton|Jh.|||r. Lemot|1|NA|vel.|un.|NA|NA|NA||||rue Lemot
+430|Lyon|Gallet|NA|||r. Tholozan|4|NA|rob.|mouch.|nouv.|NA|NA||||rue Tholozan
+431|Lyon|Gallet|Romain|||r. des Fantasques|17|NA|un.|arm.|rob.|gil.|NA||||rue des Fantasques
+432|Lyon|Galrant|NA|||r. Boucherie|3|Saint-Paul|un.|arm.|gr.-grains|NA|NA||||rue Boucherie
+433|Lyon|Galvant|Alex.|||r. Lemot|14|NA|rob.|ornem.|nouv.|NA|NA||||rue Lemot
+434|Lyon|Garcin|Ant.|||r. Perrache|8|NA|un.|NA|NA|NA|NA||||rue Perrache
+435|Lyon|Gardier|NA|||r. St-Georges|68|NA|arm.|NA|NA|NA|NA||||rue saint-Georges
+436|Lyon|Garnet|NA|||mtée St-Barthélémy|10|NA|arm.|rob.|NA|NA|NA||||montée saint-Barthélémy
+437|Lyon|Garin|Paul-Louis|||Gr.-Côte|52|NA|fa.|NA|NA|NA|NA||||Grande-Côte
+438|Lyon|Gariot|Ant.|||r. de Flesselles|4|NA|NA|NA|NA|NA|NA||||rue de Flesselles
+439|Lyon|Gariot|Jh.|||p. Rouville|3|NA|NA|NA|NA|NA|NA||||place Rouville
+440|Lyon|Gauthier|NA|||r. de Trion|NA|m. Renaud|un.|NA|NA|NA|NA||||rue de Trion
+441|Lyon|Gauthier|Victor-André|||r. Tholozan|6|NA|nouv. fa.|NA|NA|NA|NA||||rue Tholozan
+442|Lyon|Gauthier|Bern.|||r. Tholozan|6|NA|rob.|gil.|mouch.|nouv.|NA||||rue Tholozan
+443|Lyon|Gauthier|NA|||imp. des Trois-Amis|NA|m.Binet|un.|NA|NA|NA|NA||||impasse des Trois Amis
+444|Lyon|Gay|Claude|||pl. Rouville|2|au 4me|gr. de Nap.|vel. un.|NA|NA|NA||||place Rouville
+445|Lyon|Gelley|Claude|||r. de Flesselles|6|NA|mouch.|ch.|soie|nouv.|NA||||rue de Flesselles
+446|Lyon|Geoffray|Louis|||r. Musique des Anges|1|NA|vel.|un.|NA|NA|NA||||rue des Anges
+447|Lyon|Genevray|Bt.|||r. Montauban|7|NA|arm.|vel de gout à lice|NA|NA|NA||||rue Montauban
+448|Lyon|Genot|Fr.|||r. Tables Claudiennes|10|NA|ch. soie lustrés|NA|NA|NA|NA||||rue des Tables Claudiennes
+449|Lyon|Georges|Ant.|||r. Tholozan|19|NA|gil.|crav.|damas.|NA|NA||||rue Tholozan
+450|Lyon|Georges|Jn.-Cl.|||r. des Pierres Plantées|6|NA|vel.|un.|f.|NA|NA||||rue des Pierres Plantées
+451|Lyon|Germain|Jn.-Pierre|||q. de la Charité|153|NA|NA|NA|NA|NA|NA||||quai de la Charité
+452|Lyon|Gillet|NA|||mtée des Gr.-Capucins|NA|NA|un.|vel.|NA|NA|NA||||montée des Grands Capucins
+453|Lyon|Ginot|NA|||mtée St-Barthélémy|11|NA|vel.|un.|NA|NA|NA||||montée saint-Barthélémy
+454|Lyon|Ginot|NA|||r. des Tables Claudiennes|NA|NA|lustrés|NA|NA|NA|NA||||rue des Tables Claudiennes
+455|Lyon|Giraud|Aug.|||r. des Fantasques|19|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+456|Lyon|Giraud|NA|||Port-Neuf|NA|à St-Georges|gr. satins|gr. de napl.|NA|NA|NA||||Port-Neuf
+457|Lyon|Giraud|Jn.-B.|||mtée St-Barthélémy|10|NA|rob.|mouch.|ch.|NA|NA||||montée saint-Barthélémy
+458|Lyon|Giraud|Jh.|||pl. Colbert|5|NA|mouch.|ch.|nouv.|NA|NA||||place Colbert
+459|Lyon|Giraud|Jacq.|||r. Imbert-Colomès|2|NA|un.|arm.|et fa.|NA|NA||||rue Imbert-Colomès
+460|Lyon|Giraud|André|||pl. Colbert|6|NA|rob.|mouch.|NA|NA|NA||||place Colbert
+461|Lyon|Giraud|Fr.|||r. des Chartreux|31|NA|nouv.|fa.|NA|NA|NA||||rue des Chartreux
+462|Lyon|Giraud|Nicolas|||r. de Flesselles|6|NA|nouv.|fa.|NA|NA|NA||||rue de Flesselles
+463|Lyon|Giraudier|Fr.-Et.|||r. Magneval|11|NA|gil.|crav.|meubl.|NA|NA||||rue Magneval
+464|Lyon|Glas|Ant.|||côte des Carmélites|25|NA|vel.|NA|NA|NA|NA||||côte des Carmélites
+465|Lyon|Glénat|Hippolyte|||r. Magneval|13-15|NA|meubles|damas|NA|NA|NA||||rue Magneval
+466|Lyon|Glénat|Philippe|||côte St-Sébastien|20|NA|meubles|damas|NA|NA|NA||||côte saint-Sébastien
+467|Lyon|Gobert|Jn.|||r. des Fantasques|17|NA|gil.|crav.|fa.|NA|NA||||rue des Fantasques
+468|Lyon|Gondole|Jn.-Fr.|||r. de l'Annonciade|15|NA|NA|NA|NA|NA|NA||||rue de l'Annonciade
+469|Lyon|Gonnet|F.|||r. Grôlée|24|NA|un.|nouv.|NA|NA|commis||||rue Grôlée
+470|Lyon|Gonnet|Ant.|||r. Neyret|4|NA|satins|NA|NA|NA|NA||||rue Neyret
+471|Lyon|Gonnichon|Ant.|||p. Ronville|1|NA|vel.|un.|NA|NA|NA||||place Rouville
+472|Lyon|Gonin|NA|||r. Tholozan|6|NA|unis|NA|NA|NA|NA||||rue Tholozan
+473|Lyon|Gonnin|NA|||pl. du Mont-Sauvage|6|NA|un.|gr.-grain|gr.-large|NA|NA||||place du Mont-Sauvage
+474|Lyon|Gord|NA|||r. des Petits-Pères|10|NA|châle au quart|NA|NA|NA|NA||||rue des Petits-Pères
+475|Lyon|Goulard|Pierre|||côte des Carmélites|35|NA|NA|NA|NA|NA|NA||||côte des Carmélites
+476|Lyon|Goulesque|Louis|||rue des Fantasques|2|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+477|Lyon|Gourdiat|Jacques|||ruelle du clos Flandrin|13|NA|mous.|thib.|un.|et fa.|NA||||ruelle du clos Flandrin
+478|Lyon|Goy|NA|||pl. St-Georges|15/16|NA|un.|NA|NA|NA|NA||||place saint-Georges
+479|Lyon|Goyet|Cl.|||r. Tholozan|9|NA|un.|NA|NA|NA|NA||||rue Tholozan
+480|Lyon|Goyet|Fr.|||r. Masson|9|NA|châle lancé.|NA|NA|NA|NA||||rue Masson
+481|Lyon|Graille|Louis|||c. St-Sébastien|21|NA|vel. un.|et fa.|nouv.|NA|NA||||côte saint-Sébastien
+482|Lyon|Grancier|Henri-Valentin|||r. des Chartreux|37|NA|NA|NA|NA|NA|NA||||rue des Chartreux
+483|Lyon|Granjean|Jn.-Bte|||Gr.-Côte|13|NA|arm.|rob.|fa.|NA|NA||||Grande-Côte
+484|Lyon|Gravier|Jn.|||r. de la mtée du Mont-Sauvage|16|NA|rob.|gil.|NA|NA|NA||||montée du Mont-Sauvage
+485|Lyon|Gret|Claude|||r. Tholozan|20|NA|ch.|soie|indien|nouv.|NA||||rue Tholozan
+486|Lyon|Grillet|Cl.|||r. Grôlée|1|NA|NA|NA|NA|NA|NA||||rue Grôlée
+487|Lyon|Grillet|NA|||r. des Basses Verchères|NA|NA|un.|arm.|et fa.|NA|NA||||rue des Basse Verchères
+488|Lyon|Grilly|Jn.-Pierre|||p. des Pénitents|3|NA|fich.|mouch.|éch. ch.|nouv.|NA||||place des Pénitents
+489|Lyon|Grimaut|Jn.-Marie|||r. Masson|17|NA|NA|NA|NA|NA|NA||||rue Masson
+490|Lyon|Griset|NA|||r. de Flesselles|6|NA|rob.|(gM)|NA|NA|NA||||rue de Flesselles
+491|Lyon|Grivet|Jn.-Marie|||Gr.-Côte|52|NA|NA|NA|NA|NA|NA||||Grande-Côte
+492|Lyon|Grobon|Pierre|||r. de la mtée du Mont-Sauvage|22|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+493|Lyon|Groléas|Jn.|||r. de Flesselles|4|NA|unis lustrés|NA|NA|NA|NA||||rue de Flesselles
+494|Lyon|Gros|NA|||r. Tholozan|16|NA|unis|velours|NA|NA|NA||||rue Tholozan
+495|Lyon|Gros|Barth.|||Gr.-Côte|64|NA|NA|NA|NA|NA|NA||||Grande-Côte
+496|Lyon|Gros|Etienne|||r. de l'Hôpital|23|NA|façonnés|NA|NA|NA|NA||||rue de l'Hôpital
+497|Lyon|Gros|NA|||r. Masson|17|NA|rob.|NA|NA|NA|NA||||rue Masson
+498|Lyon|Gros|Pierre|||pl. du Mont-Sauvage|6|NA|un.|arm.|NA|NA|NA||||place du Mont-Sauvage
+499|Lyon|Gros|Et.|||r. Petit-Soulier|17|NA|gil.|cachem.|nouv.|broch.|NA||||rue Petit-Soulier
+500|Lyon|Grossans|NA|||r. Masson|27|NA|rob.|gil.|nouv.|NA|NA||||rue Masson
+501|Lyon|Gruffat|Jn.-Fr.|||pl. Rouville|1|NA|NA|NA|NA|NA|NA||||place Rouville
+502|Lyon|Gudin|NA|||r. de l'Epine|11|NA|unis.|NA|NA|NA|NA||||rue de l'Epine
+503|Lyon|Guerin|Fr.|||r. Boucherie-St-Georges|11|NA|taff.|sat. un.|gr. larg.|NA|NA||||rue Boucherie-saint-Georges
+504|Lyon|Gueraz|Michel|||mtée du Mont-Sauvage|9|NA|arm.|nouv. à lices|NA|NA|NA||||montée du Mont-Sauvage
+505|Lyon|Guichard|NA|||mtée St-Barthélémy|32|NA|rob.|mouch.|nouv.|NA|NA||||montée saint-Barthélémy
+506|Lyon|Guichard|NA|||Mont-Sauvage|NA|m. Coron|rob.|NA|NA|NA|NA||||rue du Mont-Sauvage
+507|Lyon|Guichard|NA|||mtée des Gr.-Capucins|9|NA|un.|arm.|rob.|NA|NA||||montée des Grands Capucins
+508|Lyon|Guichard|Fr.|||r. Neyret|20|NA|un.|satins|NA|NA|NA||||rue Neyret
+509|Lyon|Guichard|Alex.|||Mont-Sauvage|NA|m. Cornuty|ch. au quart|NA|NA|NA|NA||||rue du Mont-Sauvage
+510|Lyon|Guigonnand|Romain|||Gr.-Côte|74|NA|NA|NA|NA|NA|NA||||Grande-Côte
+511|Lyon|Guillermin|Jn.-Louis|||r. Neyret|29|NA|rob.|gil.|crav.|NA|NA||||rue Neyret
+512|Lyon|Guillet|Fr.|||r. des Chartreux|47|m. Gueroz|vel.|un.|NA|NA|NA||||rue des Chartreux
+513|Lyon|Guillet|NA|||mtée des Grands-Capucins|16|NA|vel.|frisé.|nouv.|NA|NA||||montée des Grands Capucins
+514|Lyon|Guillet|Etienne|||cour Frécamp|NA|NA|vel.|un.|NA|NA|NA||||cour Frécamp.
+515|Lyon|Guillet|Georges|||r. Cloître-des-Chartreux|12|NA|vel.|un.|NA|NA|NA||||cloître des Chartreux
+516|Lyon|Guillet|Gaspard|||r. des Chartreux|NA|NA|vel.|un.|NA|NA|NA||||rue des Chartreux
+517|Lyon|Guillet jeune|NA|||r. des Chartreux|NA|NA|vel.|un.|NA|NA|NA||||rue des Chartreux
+518|Lyon|Guillot|Jn.-Bte.|||r. des Pierres-Plantées|8|NA|fich.|mouch.|nouv.|NA|NA||||rue des Pierres Plantées
+519|Lyon|Guillot|André|||r. Blanchère|2|NA|rob.|mouch.|NA|NA|NA||||rue Blanchère
+520|Lyon|Guillot|NA|||r. de Flesselles|4|NA|rob.|crav.|NA|NA|NA||||rue de Flesselles
+521|Lyon|Guillot|Jacq.-Fr.|||pl. Colbert|6|NA|unis|NA|NA|NA|NA||||place Colbert
+522|Lyon|Guillot|NA|||r. des Farges|71|NA|unis|NA|NA|NA|NA||||rue des Farges
+523|Lyon|Guinard|Jn.-Fr.|||r. Imbert-Colomès|3|NA|ch. au quart|NA|NA|NA|NA||||rue Imbert-Colomès
+524|Lyon|Guinard|Jn.-Bte.|||r. Imbert-Colomès|3|NA|ch. au quart|NA|NA|NA|NA||||rue Imbert-Colomès
+525|Lyon|Guinard|Jh.|||r. Pouteau|28|NA|arm.|rob.|NA|NA|NA||||rue Pouteau
+526|Lyon|Héraut|An.|||r. Imbert-Colomès|6|NA|un.|côt.|arm.|rob.|NA||||rue Imbert-Colomès
+527|Lyon|Hermine|Jean-Ange|||r. Caponi|13|NA|rob.|crav.|NA|NA|NA||||rue Caponi
+528|Lyon|Henri|Jn.|||r. du Centre|10|au Mont-Sauvage|rob.|NA|NA|NA|NA||||rue du Centre
+529|Lyon|Himoff|Jn.-Gaspard|||r. Neyret|13|NA|mouch.|nouv.|faç.|NA|NA||||rue Neyret
+530|Lyon|Humbert|Louis|||r. Lemot|NA|NA|gil.|crav.|NA|NA|NA||||rue Lemot
+531|Lyon|Hutin|Jn.-Bte.|||mtée du Mont-Sauvage|4|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+532|Lyon|Jaboulet|Jacq.|||r. des Marronniers|5|NA|rob.|gil.|vel.|NA|NA||||rue des Marronniers
+533|Lyon|Jacotin|Cl.|||r. Bouteille|18|NA|un.|arm.|NA|NA|NA||||rue Bouteille
+534|Lyon|Jacques|Ant.|||r. Caponi|13|NA|NA|NA|NA|NA|NA||||rue Caponi
+535|Lyon|Jacquet|NA|||degré du change|6|NA|un.|arm.|gr. larg.|NA|NA||||degré du Change
+536|Lyon|Jaillet|Josué|||c. des Carmélites|35|NA|ch. au quart|NA|NA|NA|NA||||côte des Carmélites
+537|Lyon|Jannot|NA|||imp. des Trois-Amis|NA|m. Mille|unis|NA|NA|NA|NA||||impasse des Trois Amis
+538|Lyon|Jarnieux|NA|||pl. Rouville|5|NA|broché|NA|NA|NA|NA||||place Rouville
+539|Lyon|Jinate|NA|||r. de Trion|NA|m. Rénaud|unis|NA|NA|NA|NA||||rue de Trion
+540|Lyon|Joannard|NA|||r. des Anges|NA|m. Chillier|un.|arm.|gr. larg.|NA|NA||||rue des Anges
+541|Lyon|Joanin|Balthazar|||r. du c. Riondel|12|NA|mouch.|éch.|rob.|NA|NA||||rue du clos Riondel
+542|Lyon|Jobert|Ennemond|||pl. Colbert|4|NA|rob.|nouv.|NA|NA|NA||||place Colbert
+543|Lyon|Joly|Jn.-Bte.|||c. St-Sébastien|21|NA|NA|NA|NA|NA|NA||||côte saint-Sébastien
+544|Lyon|Joly|Vincent|||r. des Pierres-Plantées|8|NA|gil.|NA|NA|NA|NA||||rue des Pierres Plantées
+545|Lyon|Joly|Hector|||pl. Colbert|4|NA|un.|arm.|faç.|NA|NA||||place Colbert
+546|Lyon|Josserand|NA|||r Montauban|7|NA|un.|vel.|NA|NA|NA||||rue Montauban
+547|Lyon|Josserand|Cl.|||c. St-Sébastien|20|NA|gil.|crav.|NA|NA|NA||||côte saint-Sébastien
+548|Lyon|Journaux|Jh.|||c. des Carmélites|35|NA|mouch.|éch.|nouv.|NA|NA||||côte des Carmélites
+549|Lyon|Julliard|Jn.-Pierre|||Gr.-Côte|99|NA|mouch.|ch. soie|ind.|NA|NA||||Grande-Côte
+550|Lyon|Julien|Pierre|||r. Tholozan|9|NA|unis.|NA|NA|NA|NA||||rue Tholozan
+551|Lyon|Jumond|NA|||r. au midi du clos Riondel|NA|NA|vel.|un.|nouv.|NA|NA||||rue au midi du clos Riondel
+552|Lyon|Kesser|NA|||r. Tholozan|8|NA|vel. unis|et frisés|NA|NA|NA||||rue Tholozan
+553|Lyon|Labonne veuve|NA|||r. St-Marcel|2|NA|un.|NA|NA|NA|NA||||rue saint-Marcel
+554|Lyon|Labruyère|Mich.|||imp. Pitrat|2|NA|rob.|arm.|NA|NA|NA||||impasse Pitrat
+555|Lyon|Labulie|Jh.|||r. Bourgchanin|32|NA|un.|NA|NA|NA|NA||||rue Bourgchanin
+556|Lyon|Lachapelle|Mart.|||r. de l'Annonciade|NA|m. Gondol|ch. l.|NA|NA|NA|NA||||rue de l'Annonciade
+557|Lyon|Lachand|Bern.|||r. Perrache|9|NA|rob.|gil.|NA|NA|NA||||rue Perrache
+558|Lyon|Lacombe|Pre.|||pl. Colbert|6|NA|gil.|mouch.|crav.|NA|NA||||place Colbert
+559|Lyon|Lacroix cadet|NA|||r. de Trion|NA|m. Renaud|un.|NA|NA|NA|NA||||rue de Trion
+560|Lyon|Lacombe|Félix|||cour St-Pierre-le-Vieux|6|NA|rob.|gil.|NA|NA|NA||||cour saint-Pierre-le-Vieux
+561|Lyon|Lacroix|Pre.-Mar.|||r. Masson|39|NA|gr. sat.|poulx de soie|nouv.|NA|NA||||rue Masson
+562|Lyon|Lacroix|NA|||r. de Trion|23|NA|un.|NA|NA|NA|NA||||rue de Trion
+563|Lyon|Ladavière|NA|||r. de Trion|NA|m. Renaud|un.|NA|NA|NA|NA||||rue de Trion
+564|Lyon|Lamberjon|Jh.|||r. de l'Hôpital|27|NA|un.|NA|NA|NA|NA||||rue de l'Hôpital
+565|Lyon|Lamy|Cl.-Ant.|||r. de Flesselles|6|NA|rob.|mouch.|nouv.|NA|NA||||rue de Flesselles
+566|Lyon|Lamy|NA|||r. Tholozan|20|NA|meubl.|br.|NA|NA|NA||||rue Tholozan
+567|Lyon|Lantereisse|NA|||NA|4|m. Masson|unis|NA|NA|NA|voir inventeurs||||NA
+568|Lyon|Lanteron|Régis|||r. Petit-Soulier|13|NA|gil.|cach.|NA|NA|NA||||rue Petit-Soulier
+569|Lyon|Laplace aîné|NA|||r. de Condé|36|NA|NA|NA|NA|NA|NA||||rue de Condé
+570|Lyon|Laplace|Pre.|||r. des Petit-Pères|13|NA|rob.|crav.|mouch.|NA|NA||||rue des Petits-Pères
+571|Lyon|Larion|NA|||mtée des Gr Capucins|20|NA|ch. au quart.|NA|NA|NA|NA||||montée des Grands Capucins
+572|Lyon|Larzalier|Jn.-Jacq.|||gr. r. du Mont-Sauvage|28|NA|rob.|gil.|crav.|NA|NA||||grande rue du Mont-Sauvage
+573|Lyon|Lassanzé|Ant.|||pl. Rouville|2|NA|rob.|nouv.|NA|NA|NA||||place Rouville
+574|Lyon|Laubé|Jn.-Pre.|||imp. Pitrat|NA|NA|NA|NA|NA|NA|NA||||impasse Pitrat
+575|Lyon|Laubet|Ant.-Ls.|||r. des Quatre Chapeaux|6|NA|NA|NA|NA|NA|NA||||rue des Quatre Chapeaux
+576|Lyon|Laurent|Jh.|||r. Bourgchanin|16|NA|ch. au quart.|NA|NA|NA|NA||||rue Bourgchanin
+577|Lyon|Laurent|Gabr.|||r. Imbert-Colomès|6|NA|faç.|NA|NA|NA|NA||||rue Imbert-Colomès
+578|Lyon|Laurençon|Ant.|||r. de la Barre|8|NA|meubl.|nouv.|NA|NA|NA||||rue de la Barre
+579|Lyon|Legare|NA|||aux Quatre Colonnes|NA|NA|ch.|mélang.|nouv.|NA|NA||||aux quatre colonnes
+580|Lyon|Lebreton|Jules|||r. de la Barre|3|NA|NA|NA|NA|NA|NA||||rue de la Barre
+581|Lyon|Ledanté|NA|||r. Tholozan|4|NA|ch. au quart.|NA|NA|NA|NA||||rue Tholozan
+582|Lyon|Lefèvre|Jn.-Bte.|||pl. Colbert|4|NA|NA|NA|NA|NA|NA||||place Colbert
+583|Lyon|Lefèvre|André|||r. de Laurencin|3|NA|rob.|nouv.|NA|NA|NA||||rue Laurencin
+584|Lyon|Legras|Jn.-Mar.|||r. Grôlée|1|NA|crav.|gil.|NA|NA|NA||||rue Grôlée
+585|Lyon|Legras|Ant.|||r. Imbert-Colomès|6|NA|rob.|gil.|fich.|éch.|NA||||rue Imbert-Colomès
+586|Lyon|Lenfant|Ant.|||r. Plat d'Argent|19|NA|NA|NA|NA|NA|NA||||rue Plat d'Argent
+587|Lyon|Liaudet|NA|||r. de Flesselles|4|NA|ch. au quart.|NA|NA|NA|NA||||rue de Flesselles
+588|Lyon|Lionnet|NA|||mtée des Gr.-Capucins|18|NA|nouv. en vel.|NA|NA|NA|NA||||montée des Grands Capucins
+589|Lyon|Lingot|Ch.|||r. de la Barre|10|NA|vel. f.|meubl.|NA|NA|NA||||rue de la Barre
+590|Lyon|Lomel|NA|||r. Bodin|17|NA|vel. f.|NA|NA|NA|NA||||rue Bodin
+591|Lyon|Loude|Cl.|||r. Neyret|13|NA|vel.|NA|NA|NA|NA||||rue Neyret
+592|Lyon|Lordier|Pre.|||r. Imbert-Colomès|6|NA|rob.|NA|NA|NA|NA||||rue Imbert-Colomès
+593|Lyon|Louis|Fr.-Bt.|||clos Riondel|7|NA|NA|NA|NA|NA|NA||||rue du clos Riondel
+594|Lyon|Loupy veuve|NA|||r. des Fantasques|17|NA|rob. f.|NA|NA|NA|NA||||rue des Fantasques
+595|Lyon|Magnin|NA|||imp. des Trois-Amis|NA|m. Binet|vel.|NA|NA|NA|NA||||impasse des Trois Amis
+596|Lyon|Magnin|Ant.|||r. Masson|17|NA|rob.|gil.|NA|NA|NA||||rue Masson
+597|Lyon|Magnin|Jacq.|||r. Magneval|13-15|NA|rob.|gil.|crav.|NA|NA||||rue Magneval
+598|Lyon|Malassagne|Matth.|||r. Bourgchanin|8|NA|un.|NA|NA|NA|NA||||rue Bourgchanin
+599|Lyon|Malezon|Et.|||r. Masson|NA|m. Bellet|taff.|sat. fort.|NA|NA|NA||||rue Masson
+600|Lyon|Mancaza|Jn.-Pre.|||r. de Condé|36|NA|NA|NA|NA|NA|NA||||rue de Condé
+601|Lyon|Manin|NA|||r. de Flesselles|NA|m. Blanc|nouv.|NA|NA|NA|NA||||rue de Flesselles
+602|Lyon|Manin|Fr.|||r. Tholozan|17|NA|mouch.|gil.|nouv.|NA|NA||||rue Tholozan
+603|Lyon|Manin|NA|||r. du Mont-Sauvage|5|NA|rob.|gil.|crav. un.|et f.|NA||||rue du Mont-Sauvage
+604|Lyon|Mandot|Ant.|||r. Tholozan|6|NA|mouch.|éch.|gaz.|nouv.|NA||||rue Tholozan
+605|Lyon|Mantel|Bt.|||r. Confort|17|NA|ch. s.|et autres|NA|NA|NA||||rue Confort
+606|Lyon|Marchandon|NA|||r. Bouteille|31|NA|rob.|gil.|crav. un.|et f.|NA||||rue Bouteille
+607|Lyon|Marion|NA|||r. Tholozan|11|NA|crav.|col.|arm.|NA|NA||||rue Tholozan
+608|Lyon|Marmet|NA|||mtée des Gr.-Capucins|20|NA|gr.-gr.|NA|NA|NA|NA||||montée des Grands Capucins
+609|Lyon|Marrel|NA|||r. Plat d'Argent|NA|NA|rob.|nouv.|NA|NA|NA||||rue Plat d'Argent
+610|Lyon|Maréchal|Philib.|||r. des Tables Claudiennes|7|NA|unis|NA|NA|NA|NA||||rue des Tables Claudiennes
+611|Lyon|Martin|Jn.|||r. Bellevue|36|NA|NA|NA|NA|NA|NA||||rue Bellevue
+612|Lyon|Martel|Gabr.|||r. Imbert-Colomès|9|NA|faç.|NA|NA|NA|NA||||rue Imbert-Colomès
+613|Lyon|Martin|Cl.|||r. Lemot|12|NA|gil.|crav.|NA|NA|NA||||rue Lemot
+614|Lyon|Martin|NA|||mtée St-Barthélémy|14|NA|mouch.|ch. soie|NA|NA|NA||||montée saint-Barthélémy
+615|Lyon|Martin|NA|||escalier du Change|NA|au bas.|rob.|gil.|mouch.|NA|NA||||escalier du Change
+616|Lyon|Martinier|Ant.|||imp. des Trois-Amis|NA|m. Blerin|unis|NA|NA|NA|NA||||impasse des Trois Amis
+617|Lyon|Martinière|NA|||r. de Flesselles|NA|m. Blanc|un.|velours fris.|blanc|NA|procédé Lanteresse||||rue de Flesselles
+618|Lyon|Martin|Jn.-Mar.|||r. Magneval|11|NA|ch. lain.|NA|NA|NA|NA||||rue Magneval
+619|Lyon|Martinaut|Félix|||r. Bellièvre|7|NA|unis|NA|NA|NA|NA||||rue Bellièvre
+620|Lyon|Masse|Ant.|||r. Lemot|1|NA|mouch.|ch. s.|NA|NA|NA||||rue Lemot
+621|Lyon|Masson|Jh.-Mich|||mtée du Gourguillon|5|NA|unis|NA|NA|NA|NA||||montée du Gourguillon
+622|Lyon|Mathieu|NA|||r. Tholozan|15|NA|rob.|NA|NA|NA|NA||||rue Tholozan
+623|Lyon|Mathien|Ls.-Mar.|||r. Ste-Blandine|11|NA|rob.|nouv.|NA|NA|NA||||rue sainte-Blandine
+624|Lyon|Mathivel|NA|||r. Tholozan|6|NA|un.|rob.|NA|NA|NA||||rue Tholozan
+625|Lyon|Matras|Pre.|||Côte des Carmélites|33|NA|ch. au quart|NA|NA|NA|NA||||côte des Carmélites
+626|Lyon|Mattet|NA|||r. Bodin|4|NA|ch. au quart|NA|NA|NA|NA||||rue Bodin
+627|Lyon|Matton|Ant.|||r. Paradis|7|NA|gil.|crav.|nouv.|NA|NA||||rue du Paradis
+628|Lyon|Maurice|Léonard|||r. Bellevue|36|NA|NA|NA|NA|NA|NA||||rue Bellevue
+629|Lyon|Mayon|Jn.-Pre.|||cloître des Chartreux|15|NA|NA|NA|NA|NA|NA||||cloître des Chartreux
+630|Lyon|Mazet|NA|||mtée des gr. Capucins|15|NA|vel. fris.|coul.|gr. grains|NA|NA||||montée des Grands Capucins
+631|Lyon|Meunier|Gilb.|||r. Bodin|5|NA|ch. s.|et lain.|NA|NA|NA||||rue Bodin
+632|Lyon|Melet|Pre.|||clos des Chartreux|15|NA|sat.|vel.|NA|NA|NA||||clos des Chartreux
+633|Lyon|Menand|Ant.|||r. Masson|11|NA|mouss.|thib.|NA|NA|NA||||rue Masson
+634|Lyon|Mérie|Viventiol|||r. Lemot|1|NA|rob.|gil.|NA|NA|pro. de théor.||||rue Lemot
+635|Lyon|Merigue|Amand|||r. Tupin|29|NA|NA|NA|NA|NA|NA||||rue Tupin
+636|Lyon|Mermet|Jn.-Bte.|||r. des Fantasques|19|NA|vel. un.|NA|NA|NA|NA||||rue des Fantasques
+637|Lyon|Mermet|Amédée|||r. Bodin|17|NA|gaz.|fich.|meubl.|NA|NA||||rue Bodin
+638|Lyon|Metra|Jn.-Bte.|||r. des Pierres Plantées|4|NA|f.|NA|NA|NA|NA||||rue des Pierres Plantées
+639|Lyon|Meunier|Et.|||r. de la Reine|27|NA|NA|NA|NA|NA|NA||||rue de la Reine
+640|Lyon|Mey|NA|||r. du Paradis|7|NA|un.|NA|NA|NA|NA||||rue du Paradis
+641|Lyon|Michallet|NA|||r. de Flesselles|4|NA|rob.|gil.|NA|NA|NA||||rue de Flesselles
+642|Lyon|Michalon|NA|||r. du Paradis|20|NA|un.|gr.-larg.|NA|NA|NA||||rue du Paradis
+643|Lyon|Michel|Ant.-Jh.|||r. Neyret|4|NA|unis|NA|NA|NA|NA||||rue Neyret
+644|Lyon|Michel|Ls.-Ant.|||r. Neyret|4|NA|un.|NA|NA|NA|NA||||rue Neyret
+645|Lyon|Micou|Pre.|||r. Tholozan|2|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+646|Lyon|Mignot|Ant.|||Gr.-Côte|22|NA|NA|NA|NA|NA|NA||||Grande-Côte
+647|Lyon|Mille|Ant.|||mtée du Mont-Sauvage|4|NA|un.|NA|NA|NA|NA||||montée du Mont-Sauvage
+648|Lyon|Millet|Anth.|||r. des Chartreux|39|NA|vel. un.|NA|NA|NA|NA||||rue des Chartreux
+649|Lyon|Minet|NA|||pl. Rouville|2|NA|NA|NA|NA|NA|NA||||place Rouville
+650|Lyon|Moine|Jn.-Jh.|||Gr.-Côte|46|NA|damas|meubl.|nouv.|NA|NA||||Grande-Côte
+651|Lyon|Moine|NA|||mtée des Epies|17|NA|un.|gr.-larg.|NA|NA|NA||||montée des Epies
+652|Lyon|Moine|NA|||pl. des Tapis|8|NA|nouv.|NA|NA|NA|NA||||place des Tapis 
+653|Lyon|Moïse|Cl.|||r. Masson|9|NA|NA|NA|NA|NA|NA||||rue Masson
+654|Lyon|Morleis|Ferdin.|||clos Flandrin|NA|m. Beurrier|rob.|gil.|crav. un.|et faç.|NA||||ruelle du clos Flandrin
+655|Lyon|Monavon|And.|||pl. Rouville|4|NA|ch.|et gil.|cachem.|NA|NA||||place Rouville
+656|Lyon|Monicard|Ant.|||r. Blanchère|2|NA|rob.|NA|NA|NA|NA||||rue Blanchère
+657|Lyon|Monier|Paul|||Côte des Carmélites|25|NA|mouch.|ch. s.|crêp. de ch.|nouv.|NA||||côte des Carmélites
+658|Lyon|Monnand|NA|||pl. des Tapis|8|NA|vel? un.|et f.|NA|NA|NA||||place des Tapis 
+659|Lyon|Montaz|Ferdin.|||r. Magneval|13-15|NA|NA|NA|NA|NA|NA||||rue Magneval
+660|Lyon|Monnaret|Jn.-Fr.|||pl. Rouville|2|NA|taff. lustr.|arm.|sat.|NA|NA||||place Rouville
+661|Lyon|Monneret|Jn.-Pre.|||r. de la Reine|32|NA|nouv. à lice|et à corps|NA|NA|NA||||rue de la Reine
+662|Lyon|Monnet|NA|||mtée des Gr.-Capucins|20|NA|rob.|NA|NA|NA|NA||||montée des Grands Capucins
+663|Lyon|Monnet|NA|||r. Plat d'Argent|3|NA|nouv. à lice|et à corps|NA|NA|NA||||rue Plat d'Argent
+664|Lyon|Monnet|NA|||mtée St-Barthélémy|21|NA|un.|gr. larg.|NA|NA|NA||||montée saint-Barthélémy
+665|Lyon|Monnet|NA|||r. des Gr.-Capucins|20|NA|rob.|gil.|NA|NA|NA||||rue des Grands-Capucins
+666|Lyon|Monnet|Fr.|||r. Tables-Claudiennes|14|NA|mouch.|ch. soie|NA|NA|NA||||rue des Tables Claudiennes
+667|Lyon|Monnet|Jn-Emilien|||r. Casati|2|NA|mouch.|ch.|NA|NA|NA||||rue Casati
+668|Lyon|Monnet|NA|||mtée St-Barthélémy|19|NA|gr. sat.|NA|NA|NA|NA||||montée saint-Barthélémy
+669|Lyon|Montant|Clém.|||mtée des Gr.-Capucins|10|NA|un.|faç.|nouv.|NA|NA||||montée des Grands Capucins
+670|Lyon|Montagnon|Cl.|||r. de Fleurieu|6|NA|NA|NA|NA|NA|NA||||rue de Fleurieu
+671|Lyon|Montmitonnet|NA|||r. Juiverie|4|NA|mouch.|ch. soie|NA|NA|NA||||rue Juiverie
+672|Lyon|Montvert|NA|||r. du Paradis|18|NA|unis|NA|NA|NA|NA||||rue du Paradis
+673|Lyon|Montmerle|Jn.-Fr.|||pl. Rouville|2|NA|NA|NA|NA|NA|NA||||place Rouville
+674|Lyon|Moreau|Fr.|||r. Masson|29|NA|rob.|gil.|NA|NA|NA||||rue Masson
+675|Lyon|Morel|Bt.|||r. Casati|5|NA|velours unis|et f.|NA|NA|NA||||rue Casati
+676|Lyon|Morel|Barth.|||mtée du Gourguillon|NA|au fort de Vénus|un.|et gr. larg.|NA|NA|NA||||montée du Gourguillon
+677|Lyon|Morel|NA|||r. Tholozan|13|NA|meubl.|br.|NA|NA|NA||||rue Tholozan
+678|Lyon|Morel|Jn.-Jacq.|||côte des Carmélites|25|NA|gil.|crav.|NA|NA|NA||||côte des Carmélites
+679|Lyon|Morel|Jacq.|||r. Plat d'Argent|3|NA|NA|NA|NA|NA|NA||||rue Plat d'Argent
+680|Lyon|Moréton|Jn.-Cl.|||r. Masson|NA|m. Belley|ch. laine lanç.|NA|NA|NA|NA||||rue Masson
+681|Lyon|Morier|Jn.-Bt.|||r. des Fantasques|17|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+682|Lyon|Monchoud|NA|||r. de Trion|11|NA|(pale) au manteau jeaune|NA|NA|NA|NA||||rue de Trion
+683|Lyon|Mouchet|Cl.-Fr.|||r. de Condé|34|NA|velours unis|NA|NA|NA|NA||||rue de Condé
+684|Lyon|Moucheroud|NA|||r. Tholozan|6|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+685|Lyon|Moulin|NA|||r. de la Charité|7|NA|un.|NA|NA|NA|NA||||rue de la Charité
+686|Lyon|Moussy|Annet-Anth.|||rue du Commerce|23|NA|rob.|gil.|NA|NA|NA||||rue du Commerce
+687|Lyon|Moussier|Jn.|||r. des Fantasques|19|NA|rob.|NA|NA|NA|NA||||rue des Fantasques
+688|Lyon|Mouton|NA|||rue de l'Epine|NA|NA|un.|NA|NA|NA|NA||||rue de l'Epine
+689|Lyon|Mottaz veuve|NA|||rue Tholozan|4|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+690|Lyon|Mugne|NA|||r. de l'Angile|NA|c. de l'Etoile|arm.|rob.|nouv.|NA|NA||||rue de l'Angile
+691|Lyon|Mugnet|NA|||r. de Trion|23|NA|ch.|nouv.|NA|NA|NA||||rue de Trion
+692|Lyon|Mulet|Sébast.|||r. Tables-Claudiennes|7|NA|vel. un.|et f.|NA|NA|NA||||rue des Tables Claudiennes
+693|Lyon|Murat|NA|||mtée des Gr.-Capucins|NA|NA|rob.|mouch.|nouv.|NA|NA||||montée des Grands Capucins
+694|Lyon|Murat|NA|||mtée des Gr.-Capucins|20|NA|rob.|gil.|nouv.|NA|NA||||montée des Grands Capucins
+695|Lyon|Murat|NA|||mtée des Gr.-Capucins|20|NA|rob.|gil.|NA|NA|NA||||montée des Grands Capucins
+696|Lyon|Mury|Gasp.|||r. des Pierres-Plantées|4|NA|NA|NA|NA|NA|NA||||rue des Pierres Plantées
+697|Lyon|Nabotin|Jh.|||mtée du Mont-Sauvage|10|NA|vel. un.|NA|NA|NA|NA||||montée du Mont-Sauvage
+698|Lyon|Nantet|Jh.|||r. Imbert-Colomès|13|NA|rob.|gil.|NA|NA|NA||||rue Imbert-Colomès
+699|Lyon|Nantet|Ls.|||Gr.-Côte|11|NA|un.|et vel. un.|NA|NA|NA||||Grande-Côte
+700|Lyon|Naville|Jn.-Ant.|||r. de Flesselles|4|NA|rob.|gil.|mouch.|nouv. faç.|NA||||rue de Flesselles
+701|Lyon|Nicolas|Ls.|||r. St-Marcel|5|NA|rob.|gil.|NA|NA|NA||||rue saint-Marcel
+702|Lyon|Nicolier|Pre.|||r. de la Reine|27|NA|rob.|gil.|crav.|NA|NA||||rue de la Reine
+703|Lyon|Nicoud|Jn.-Ls.|||r. Neyret|39|NA|un.|arm.|nouv.|NA|NA||||rue Neyret
+704|Lyon|Niel|Cl.-Silv.|||r. de Flesselles|4|NA|un.|arm.|gil.|vel.|NA||||rue de Flesselles
+705|Lyon|Niogret|Cl.|||r. des Fantasques|19|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+706|Lyon|Nitsché|Domin.|||côte St-Sébastien|20|NA|mouch.|ch. s.|NA|NA|NA||||côte saint-Sébastien
+707|Lyon|Ollagnier|Jn.-Ant.|||r. de Flesselles|NA|mais. Blanc|un.|gr. sat.|NA|NA|NA||||rue de Flesselles
+708|Lyon|Ollagnier|Jn.-Fr.|||r. de la mtée du Mont-Sauvage|33|NA|rob.|gil.|NA|NA|NA||||montée du Mont-Sauvage
+709|Lyon|Ollagnon|NA|||mtée des gr. Capucins|10|NA|lustr.|gr. larg.|NA|NA|NA||||montée des Grands Capucins
+710|Lyon|Ollivier|Jn.-André|||r. Tholozan|NA|NA|rob.|arm.|NA|NA|NA||||rue Tholozan
+711|Lyon|Ollivier|Louis|||rue Tholozan|15|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+712|Lyon|Orseau|NA|||degré du Change|6|NA|unis|arm.|nouv.|gr. larg.|NA||||degré du Change
+713|Lyon|Orsel|Jn.-Bte.|||clos Flandrin|14|NA|rob.|gil.|crav.|NA|NA||||ruelle du clos Flandrin
+714|Lyon|Ossola|Hyacinthe|||r. Neyret|13|NA|rob.|mouch.|nouv.|NA|NA||||rue Neyret
+715|Lyon|Pacalin|Cl.-Vict.|||r. Bourgchanin|15|NA|vel. f.|NA|NA|NA|NA||||rue Bourgchanin
+716|Lyon|Pacot|NA|||r. de Trion|NA|m. Pacot|un.|NA|NA|NA|NA||||rue de Trion
+717|Lyon|Pacot cadet|NA|||r. du Paradis|5|NA|un.|NA|NA|NA|NA||||rue du Paradis
+718|Lyon|Pallay|Jh.-Sim.|||r. Neyret|19|NA|rob.|gil.|NA|NA|NA||||rue Neyret
+719|Lyon|Paradis|NA|||r. du Paradis|7|NA|un.|NA|NA|NA|NA||||rue du Paradis
+720|Lyon|Pardon|Cl.|||pl. Colbert|6|NA|faç.|NA|NA|NA|NA||||place Colbert
+721|Lyon|Paris|NA|||rue Grôlée|15|NA|gil.|mouch.|nouv.|NA|NA||||rue Grôlée
+722|Lyon|Pallanche|Guill.|||pl. Colbert|4|NA|ch. au quart|NA|NA|NA|NA||||place Colbert
+723|Lyon|Palais|Isaac|||rue Plat d'Argent|5|NA|un.|NA|NA|NA|NA||||rue Plat d'Argent
+724|Lyon|Parret|Ls.-Fr.|||Côte St-Sébastien|17|NA|NA|NA|NA|NA|NA||||côte saint-Sébastien
+725|Lyon|Parry|NA|||mtée du Gourguillon|NA|NA|un.|NA|NA|NA|NA||||montée du Gourguillon
+726|Lyon|Pater|Jn.|||rue des Pierres Plantées|6|NA|rob.|NA|NA|NA|NA||||rue des Pierres Plantées
+727|Lyon|Patron|René|||r. de la Vieille-Monnaie|11|NA|vel. de goût|un.|et faç.|NA|NA||||rue de la Vieille Monnaie
+728|Lyon|Paula|NA|||r. des Farges|NA|NA|unis|arm.|pel.|NA|NA||||rue des Farges
+729|Lyon|Paulo|Jn.|||rue de Flesselles|6|NA|châles soie 6/4|NA|NA|NA|NA||||rue de Flesselles
+730|Lyon|Paul|NA|||r. St-Georges|NA|m. Pupier|lustré|NA|NA|NA|NA||||rue saint-Georges
+731|Lyon|Peclet|NA|||r. St-Georges|49|NA|unis|NA|NA|NA|NA||||rue saint-Georges
+732|Lyon|Peilié|NA|||q. Peyrollerie|135|NA|rob.|gil.|crav.|NA|NA||||quai Peyrollerie
+733|Lyon|Pellin|Jn.-Pre.|||pl. du Mont-Sauvage|8|NA|mouch.|crav.|NA|NA|NA||||place du Mont-Sauvage
+734|Lyon|Pelossier|Pre.|||r. Lemot|6|NA|un.|arm.|NA|NA|NA||||rue Lemot
+735|Lyon|Peraud|NA|||clos Flandrin|NA|NA|ch.|thib. unis|et f.|NA|NA||||ruelle du clos Flandrin
+736|Lyon|Pernet|Guill.|||Gr.-Côte|56|NA|rob.|gil.|NA|NA|NA||||Grande-Côte
+737|Lyon|Peronnet|NA|||r. Tholozan|4|NA|gil.|crav.|NA|NA|NA||||rue Tholozan
+738|Lyon|Perrard|NA|||r. des Farges|54|NA|pel.|NA|NA|NA|2 pièces||||rue des Farges
+739|Lyon|Perret|Ant.|||rue Neyret|13|NA|un.|meubl.|NA|NA|NA||||rue Neyret
+740|Lyon|Perret|Jacq.|||rue Tables Claudiennes|16|NA|ch. au quart|méc. les rétrogrades et les mécaniques|NA|NA|NA||||rue des Tables Claudiennes
+741|Lyon|Perret|Jn.|||rue de la Vieille|11|NA|un.|parap.|NA|NA|NA||||rue de la Vieille Monnaie
+742|Lyon|Perret|Pre.|||rue de la mtée du Mont-Sauvage|17|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+743|Lyon|Perret|Jh.|||rue Pomme de Pin|4|NA|vel. f.|NA|NA|NA|NA||||rue Pomme de Pin
+744|Lyon|Perret|Fr.|||Gr.-Côte|76|NA|rob.|vel. f.|NA|NA|NA||||Grande-Côte
+745|Lyon|Perret|Célestin|||rue des Petits Pères|1|NA|vel. un.|NA|NA|NA|NA||||rue des Petits-Pères
+746|Lyon|Perret|Jn.-Bte.|||r. Neyret|13|NA|unis|meubl.|NA|NA|NA||||rue Neyret
+747|Lyon|Perret|Jn.-Aimé|||r. Bodin|16|NA|rob.|NA|NA|NA|NA||||rue Bodin
+748|Lyon|Perrier|Jn.-Ant.|||r. Neyret|33|NA|un.|arm.|NA|NA|NA||||rue Neyret
+749|Lyon|Perrier|NA|||mtée des Epies|4|NA|un.|sat.|NA|NA|NA||||montée des Epies
+750|Lyon|Perrin|NA|||clos Coindre|NA|NA|un.|arm.|NA|NA|NA||||clos Coindre
+751|Lyon|Perrin|Gabr.|||place du Mont-Sauvage|6|NA|un.|NA|NA|NA|NA||||place du Mont-Sauvage
+752|Lyon|Perrin|Hugues Cl.|||r. Caponi|13|NA|NA|NA|NA|NA|NA||||rue Caponi
+753|Lyon|Perrin|Noël|||r. St-Marcel|5|NA|NA|NA|NA|NA|NA||||rue saint-Marcel
+754|Lyon|Perrin|NA|||r. Juiverie|NA|NA|unis|riches|gr. larg.|NA|NA||||rue Juiverie
+755|Lyon|Perrod|NA|||r. des Farges|54|NA|vel.|doubl.|NA|NA|NA||||rue des Farges
+756|Lyon|Perron|NA|||mtée St-Barthélémy|21|NA|poulx de soie|ret. fris.|NA|NA|NA||||montée saint-Barthélémy
+757|Lyon|Pétellat|Jn.|||r. Tables Claudiennes|17|NA|rob.|gil.|NA|NA|NA||||rue des Tables Claudiennes
+758|Lyon|Pervieux|Ant.|||côte St-Sébastien|19|NA|vel. un.|NA|NA|NA|NA||||côte saint-Sébastien
+759|Lyon|Petit|Frédéric|||clos des Chartreux|NA|au Sacré-Coeur|NA|NA|NA|NA|NA||||clos des Chartreux
+760|Lyon|Petit|Jre. Alph.|||q. de Retz|45|NA|NA|NA|NA|NA|NA||||quai de Retz
+761|Lyon|Peyrard|NA|||r. Magneval|9|NA|ch. s.|un.|arm.|NA|NA||||rue Magneval
+762|Lyon|Philippe|César|||r. Neyret|13|NA|meubl.|ornem.|nouv.|NA|NA||||rue Neyret
+763|Lyon|Phily|Fr.|||r. Ste-Blandine|13|NA|ch. au quart|NA|NA|NA|NA||||rue sainte-Blandine
+764|Lyon|Phily|Jh.|||r. Bourgchanin|10|NA|gil.|NA|NA|NA|NA||||rue Bourgchanin
+765|Lyon|Picard|Ls.|||r. Tholozan|9|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+766|Lyon|Picard|Jh.|||pl. du Mont-Sauvage|6|NA|rob.|mouch.|ch.|NA|NA||||place du Mont-Sauvage
+767|Lyon|Picard|NA|||r. Tholozan|6|NA|rob.|NA|NA|NA|NA||||rue Tholozan
+768|Lyon|Pichat|NA|||mtée St-Barthélémy|8|NA|ch. lain. lancé|NA|NA|NA|NA||||montée saint-Barthélémy
+769|Lyon|Pichon|NA|||q. Peyrollerie|115|NA|un.|arm.|faç.|NA|NA||||quai Peyrollerie
+770|Lyon|Pichot|Jn.-Cl.|||r. de Flesselles|7|NA|rob.|gil.|NA|NA|NA||||rue de Flesselles
+771|Lyon|Pillard|NA|||mtée des Epies|11|NA|rob.|arm.|NA|NA|NA||||montée des Epies
+772|Lyon|Pinaton cadet|NA|||r. St-Georges|76|NA|sat.|NA|NA|NA|NA||||rue saint-Georges
+773|Lyon|Pinet|Cl.|||r. de l'Hôpital|21|NA|NA|NA|NA|NA|NA||||rue de l'Hôpital
+774|Lyon|Piotton|Pre.|||r. Tholozan|19|NA|ch. au quart|NA|NA|NA|NA||||rue Tholozan
+775|Lyon|Pithon|Pl.|||Côte St-Sébastien|17|NA|vel. un.|NA|NA|NA|NA||||côte saint-Sébastien
+776|Lyon|Pitton|Jn.-Jh.-Célest.|||q. de la Charité|161|NA|NA|NA|NA|NA|NA||||quai de la Charité
+777|Lyon|Pivost|Jh.|||r. Bourgchanin|30|NA|unis|NA|NA|NA|NA||||rue Bourgchanin
+778|Lyon|Planeur|Ls.|||r. Tholozan|2|NA|un. et vel.|NA|NA|NA|NA||||rue Tholozan
+779|Lyon|Plautard aîné|NA|||r. Tholozan|NA|NA|gil.|rob.|vel. f.|NA|NA||||rue Tholozan
+780|Lyon|Planut|NA|||r. du Paradis|7|NA|unis|NA|NA|NA|NA||||rue du Paradis
+781|Lyon|Pocachard aîné|NA|||r. des Fossés|NA|St-Just|vel. un.|NA|NA|NA|NA||||rue des Fossés
+782|Lyon|Pocachard cadet|NA|||aux 4 colonnes à Champvert|NA|NA|vel. un.|NA|NA|NA|NA||||aux quatre colonnes
+783|Lyon|Pochont|NA|||imp. des Trois-Amis|NA|NA|vel.|NA|NA|NA|NA||||impasse des Trois Amis
+784|Lyon|Poncet|George|||r. Bodin|17|NA|rob.|gil.|NA|NA|NA||||rue Bodin
+785|Lyon|Poncet|Ls.|||r. Tholozan|2|NA|rob.|gil.|nouv.|ch.|NA||||rue Tholozan
+786|Lyon|Poncet|Jh.|||r. des Pierres-Plantées|4|NA|NA|NA|NA|NA|NA||||rue des Pierres Plantées
+787|Lyon|Poncin|Jn.|||côte des Carmélites|75|NA|rob.|mouch.|nouv.|NA|NA||||côte des Carmélites
+788|Lyon|Poncin|NA|||cloître des Chartreux|NA|NA|vel. un.|NA|NA|NA|NA||||cloître des Chartreux
+789|Lyon|Poncin|Jh.|||r. des Pierres-Plantées|4|NA|ch. s.|nouv.|NA|NA|NA||||rue des Pierres Plantées
+790|Lyon|Ponson|Jn.-Jh.|||pl. du Mont-Sauvage|5|NA|gil.|crav.|vel.|NA|NA||||place du Mont-Sauvage
+791|Lyon|Porchet|NA|||r. du Paradis|7|NA|un.|arm.|NA|NA|NA||||rue du Paradis
+792|Lyon|Potier|Ant.-Mar.|||gr. r. du Mont-Sauvage|8|NA|vel.|un.|NA|NA|NA||||grande rue du Mont-Sauvage
+793|Lyon|Poulat|Jn.-Ant.|||r. des Pierres-Plantées|6|NA|mouch.|ch.|NA|NA|NA||||rue des Pierres Plantées
+794|Lyon|Poulet|Pre.|||r. Bodin|17|NA|mouch.|ch. s. un.|et f.|NA|NA||||rue Bodin
+795|Lyon|Poupry|Aug.|||gr. r. du Mont-Sauvage|8|NA|arm.|rob.|NA|NA|NA||||grande rue du Mont-Sauvage
+796|Lyon|Pouzergue|Pre.|||r. de Flesselles|4|NA|ch. au quart|NA|NA|NA|NA||||rue de Flesselles
+797|Lyon|Poyet|Jn.|||r. des Fantasques|19|NA|rob.|gil.|mouch.|NA|NA||||rue des Fantasques
+798|Lyon|Prud'homme|Ch.-Cl.|||mtée du Mont-Sauvage|10|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+799|Lyon|Prest|NA|||r. de la Charité|18|NA|un.|et faç.|nouv.|NA|NA||||rue de la Charité
+800|Lyon|Pucet|NA|||r. Tholozan|17|NA|un.|serg.|et faç.|NA|NA||||rue Tholozan
+801|Lyon|Pugrot|NA|||chem. de la Favorite|NA|NA|vel. frisé|NA|NA|NA|syst. Lantereisse||||chemin de la Favorite
+802|Lyon|Pugin|Phil.|||r. Tholozan|19|NA|rob.|gil.|crav.|NA|NA||||rue Tholozan
+803|Lyon|Pupat|Barth.|||r. Masson|16|NA|un.|arm.|NA|NA|NA||||rue Masson
+804|Lyon|Purpan|NA|||r. Bouteille|4|NA|gil.|rob.|NA|NA|plieur||||rue Bouteille
+805|Lyon|Querel|Fr. Honoré|||r. Bodin|5|NA|faç.|NA|NA|NA|NA||||rue Bodin
+806|Lyon|Rabu|NA|||r. St-Georges|86|NA|rob.|nouv.|NA|NA|NA||||rue saint-Georges
+807|Lyon|Raffin|NA|||mont. des Gr.-Capucins|10|NA|rob.|nouv.|NA|NA|NA||||montée des Grands Capucins
+808|Lyon|Rambaud|NA|||r. St-Georges|49|NA|unis|NA|NA|NA|NA||||rue saint-Georges
+809|Lyon|Randon|Ant.|||Gr.-Côte|62|NA|fich.|mouch.|gil.|NA|NA||||Grande-Côte
+810|Lyon|Ravier|Jn.-Fr.|||r. Imbert-Colomès|6|NA|rob.|gil.|NA|NA|NA||||rue Imbert-Colomès
+811|Lyon|Rastagnat|NA|||mont. des Gr.-Capucins|20|NA|un.|arm.|NA|NA|NA||||montée des Grands Capucins
+812|Lyon|Ravel|Pierre|||r. Lemot|1|NA|NA|NA|NA|NA|NA||||rue Lemot
+813|Lyon|Ravet|Fr.|||pl. Rouville|3|NA|NA|NA|NA|NA|NA||||place Rouville
+814|Lyon|Ravichon cadet|NA|||chemin de Loyasse|NA|NA|unis|NA|NA|NA|NA||||chemin de Loyasse
+815|Lyon|Ravoty|Delphin|||r. Masson|NA|m. Belley|ch. soie|ind.|NA|NA|NA||||rue Masson
+816|Lyon|Razy|J.|||r. Imbert-Colomès|4|NA|rob.|gil.|mouch.|f.|NA||||rue Imbert-Colomès
+817|Lyon|Recordoz|NA|||mtée St-Barthélémy|18|NA|r.|g.|NA|NA|NA||||montée saint-Barthélémy
+818|Lyon|Regnier|Fr.|||r. Tholozan|2|NA|rob.|gil.|NA|NA|NA||||rue Tholozan
+819|Lyon|Régny|Pierre|||r. Tholozan|10|NA|meubl.|broch.|NA|NA|NA||||rue Tholozan
+820|Lyon|Réjuy|Jn.-Fr.|||r. Confort|17|NA|NA|NA|NA|NA|NA||||rue Confort
+821|Lyon|Remillieux|Bt.|||r. Tholozan|10|NA|mouch.|meubl.|broch.|NA|NA||||rue Tholozan
+822|Lyon|Remillieux|Jh.|||r. Tholozan|11|NA|mouch.|meubl.|broch.|NA|NA||||rue Tholozan
+823|Lyon|Remond|Etienne|||gr. r. Mercière|41|NA|NA|NA|NA|NA|NA||||grande rue Mercière
+824|Lyon|Remond|Jn.-Bte.|||mtée du Gourguillon|NA|NA|un.|arm.|NA|NA|NA||||montée du Gourguillon
+825|Lyon|Remond|Romain|||r. Bellecordière|17|NA|unis|NA|NA|NA|NA||||rue Bellecordière
+826|Lyon|Renaud|Fr.|||r. Confort|30|NA|unis|NA|NA|NA|NA||||rue Confort
+827|Lyon|Reveland|Ch.|||r. de Condé|61|NA|NA|NA|NA|NA|NA||||rue de Condé
+828|Lyon|Revol|Pierre|||r. Palais-Grillet|6|NA|NA|NA|NA|NA|NA||||rue Palais-Grillet
+829|Lyon|Revol|Bt.|||mtée du Mont-Sauvage|18|NA|NA|NA|NA|NA|NA||||montée du Mont-Sauvage
+830|Lyon|Revenant|Jn.-Marie|||r. Pouteau|20|NA|vel. faç.|NA|NA|NA|NA||||rue Pouteau
+831|Lyon|Rey|Mathieu|||r. Masson|4|NA|un.|arm.|NA|NA|NA||||rue Masson
+832|Lyon|Rey|Pierre-Jb.|||r. Raisin|7|NA|NA|NA|NA|NA|NA||||rue Raisin
+833|Lyon|Rey|Pierre|||r. Tholozan|2|NA|un.|arm.|nouv. à lices|NA|NA||||rue Tholozan
+834|Lyon|Reybard|Ant.|||r. Masson|29|NA|rob.|gil.|faç.|NA|NA||||rue Masson
+835|Lyon|Reynaud|Et.|||pl. St-Clair|5|NA|crav.|mouch.|NA|NA|NA||||place saint-Clair 
+836|Lyon|Riboulet|NA|||r. des Fossés|NA|St-Just, m. Riboulet|vel. un.|NA|NA|NA|NA||||rue des Fossés
+837|Lyon|Ribout aîné|NA|||chemin de Loyasse|NA|NA|unis|NA|NA|NA|NA||||chemin de Loyasse
+838|Lyon|Richier|Antoine|||r. Confort|19|NA|meubl.|broch.|NA|NA|NA||||rue Confort
+839|Lyon|Richon|NA|||r. des Farges|NA|m. Richon|unis|NA|NA|NA|NA||||rue des Farges
+840|Lyon|Rigaudon|NA|||r. de Gerando|NA|NA|châle soie|NA|NA|NA|NA||||rue de Gerando
+841|Lyon|Riginel|NA|||pl. St-Laurent|2 et 4|NA|vel. un.|NA|NA|NA|NA||||place saint-Laurent
+842|Lyon|Rigollet|Jn.|||r. Neyret|39|NA|rob. faç.|NA|NA|NA|NA||||rue Neyret
+843|Lyon|Rives|NA|||r. Grôlée|NA|NA|rob.|gil.|crav.|NA|NA||||rue Grôlée
+844|Lyon|Rives|Jacq.|||r. Sala|60|NA|NA|NA|NA|NA|NA||||rue Sala
+845|Lyon|Rivière|Ant.|||mtée St-Barthélémy|10|NA|un.|arm.|NA|NA|NA||||montée saint-Barthélémy
+846|Lyon|Rivière|Honoré|||r. Montauban|7|NA|satins|arm.|pel.|NA|NA||||rue Montauban
+847|Lyon|Rivière|Jacq.|||r. Boucherie-St-Georges|2|NA|rob. fa.|vel. unis|et fa.|NA|NA||||rue Boucherie-saint-Georges
+848|Lyon|Rivière|Pierre|||r. de Trion|NA|NA|poulx de soie|NA|NA|NA|NA||||rue de Trion
+849|Lyon|Rivière|Victor|||r. du Paradis|18|NA|unis|NA|NA|NA|NA||||rue du Paradis
+850|Lyon|Rivière|Vincent|||r. des Farges|7|NA|drap de soie|NA|NA|NA|NA||||rue des Farges
+851|Lyon|Rivol|Jacq.|||q. de la Charité|56|NA|NA|NA|NA|NA|NA||||quai de la Charité
+852|Lyon|Robelin|NA|||r. Neyret|33|NA|unis|pel.|NA|NA|NA||||rue Neyret
+853|Lyon|Robert|Bt.|||pet. r. des Chartreux|NA|NA|mouss.|thib.|NA|NA|NA||||rue des Chartreux
+854|Lyon|Robert|NA|||pl. Louis XVIII|18|NA|vel. un.|NA|NA|NA|NA||||place Louis XVIII
+855|Lyon|Robin|Jh.|||r. Masson|21|NA|gros de nap.|satins|un.|NA|NA||||rue Masson
+856|Lyon|Roche|Ant.|||pl. Rouville|5|NA|NA|NA|NA|NA|NA||||place Rouville
+857|Lyon|Rochut|NA|||r. Masson|21|NA|rob.|gil.|NA|NA|NA||||rue Masson
+858|Lyon|Rodier|Jn.-Marie|||r. Bourgchanin|18|NA|rob.|faç.|NA|NA|NA||||rue Bourgchanin
+859|Lyon|Rodet|Cl.|||r. Masson|4|NA|ch. laine|thib.|et au quart|NA|NA||||rue Masson
+860|Lyon|Roger|Jean|||r. Imbert-Colomès|1|NA|châles soie|NA|NA|NA|NA||||rue Imbert-Colomès
+861|Lyon|Rolland|Cl.|||r. Lemot|1|NA|rob.|gil.|NA|NA|NA||||rue Lemot
+862|Lyon|Rolland|NA|||r. Confort|NA|NA|unis|et faç.|NA|NA|NA||||rue Confort
+863|Lyon|Rolland|Cl.|||r. des Marronniers|5|NA|vel. faç.|NA|NA|NA|NA||||rue des Marronniers
+864|Lyon|Rolland|Louis-Henris|||r. des Fantasques|17|NA|rob.|gil.|NA|NA|NA||||rue des Fantasques
+865|Lyon|Rolland|Nicolas-Fr.|||mtée St-Barthélémy|21|NA|gil.|crav.|NA|NA|NA||||montée saint-Barthélémy
+866|Lyon|Rollin|Marcellin|||r. Masson|11|NA|gil.|crav.|mouch.|ch. soie faç.|NA||||rue Masson
+867|Lyon|Romand|Gabriel|||Gr.-Côte|76|NA|rob. fa.|NA|NA|NA|NA||||Grande-Côte
+868|Lyon|Rosset|André|||pl. Rouville|4|NA|vel. fa.|nouv.|NA|NA|NA||||place Rouville
+869|Lyon|Rossignol|NA|||r. Juiverie|4|NA|unis|coul.|NA|NA|NA||||rue Juiverie
+870|Lyon|Rostaing|Jn.-Marie|||r. Masson|4|NA|rob.|gil.|mouch.|fa.|NA||||rue Masson
+871|Lyon|Robré|Désiré|||r. Petit-Soulier|17|NA|gil.|cachem.|NA|NA|NA||||rue Petit-Soulier
+872|Lyon|Rougy aîné|NA|||mtée des Epies|13|NA|unis|NA|NA|NA|NA||||montée des Epies
+873|Lyon|Rougy cadet|NA|||mtée des Epies|13|NA|unis|NA|NA|NA|NA||||montée des Epies
+874|Lyon|Rougy fils|NA|||mtée des Epies|13|NA|lustrés|satins|gr. larg.|NA|NA||||montée des Epies
+875|Lyon|Rougy|NA|||mtée des Grands-Capucins|18|NA|rob.|lancé|échan.|NA|NA||||montée des Grands Capucins
+876|Lyon|Rouiliat|Jn.-Cl.|||r. de Flesselles|6|NA|unis|NA|NA|NA|NA||||rue de Flesselles
+877|Lyon|Rouiliat|Jn.-Bte.|||r. des Tables Claudiennes|7|NA|crav.|mouch.|gil.|gaze|NA||||rue des Tables Claudiennes
+878|Lyon|Roullet|Cl.|||r. Magneval|11|NA|fa.|NA|NA|NA|NA||||rue Magneval
+879|Lyon|Rousset|Pierre-Fidèle|||r. Bodin|17|NA|châle laine lancé|et au quart|NA|NA|NA||||rue Bodin
+880|Lyon|Rousset|Pierre|||q. de la Charité|149|NA|unis|NA|NA|NA|NA||||quai de la Charité
+881|Lyon|Rousset|NA|||pl. du Mont-Sauvage|NA|NA|bas|un.|pel.|vel. à lices|NA||||place du Mont-Sauvage
+882|Lyon|Rousset|NA|||r. de Trion|NA|NA|vel. un.|NA|NA|NA|NA||||rue de Trion
+883|Lyon|Roussillon|NA|||mtée des Gr.-Capucins|20|NA|mouch.|vel.|fa.|nouv.|NA||||montée des Grands Capucins
+884|Lyon|Roux|NA|||mtée St-Barthélémy|21|NA|gil.|nouv.|vel. fa.|NA|NA||||montée saint-Barthélémy
+885|Lyon|Roux|NA|||r. Tholozan|6|NA|châle lancé|et au quart|NA|NA|NA||||rue Tholozan
+886|Lyon|Roux|Vincent|||imp. des Pierres-Plantées|5|NA|NA|NA|NA|NA|NA||||impasse des Pierres Plantées
+887|Lyon|Roux|Cl.|||r. des Marronniers|7|NA|unis|NA|NA|NA|NA||||rue des Marronniers
+888|Lyon|Roux|Jn.-Ant.|||imp. Pitrat|NA|NA|rob. fa.|arm.|NA|NA|NA||||impasse Pitrat
+889|Lyon|Roussy|Philib.|||r. des Marronniers|5|NA|broch.|orne.|dam.|NA|NA||||rue des Marronniers
+890|Lyon|Roze|Ant.|||pl. Rouville|4|NA|unis|lustr.|NA|NA|NA||||place Rouville
+891|Lyon|Rubin|NA|||r. du Paradis|5|NA|unis|NA|NA|NA|NA||||rue du Paradis
+892|Lyon|Saint-Bonnet|Ch.|||r. Tholozan|8|NA|mouch.|fich.|nouv.|NA|NA||||rue Tholozan
+893|Lyon|Sagnon|Fr.|||r. des Fantasques|1 et 3|NA|NA|NA|NA|NA|NA||||rue des Fantasques
+894|Lyon|Sambet|Et.|||côte des Carmélites|35|NA|châle lancé|NA|NA|NA|NA||||côte des Carmélites
+895|Lyon|Sapier|NA|||pl. St-Georges|NA|NA|rob.|gil.|NA|NA|NA||||place saint-Georges
+896|Lyon|Satin|Ls.-Aug.|||r. St-Marcel|2|NA|rob.|gil.|mouch.|nouv.|NA||||rue saint-Marcel
+897|Lyon|Sauge|NA|||r. de la Reine|NA|NA|unis|fa.|nouv.|NA|NA||||rue de la Reine
+898|Lyon|Saunier|Henri-Ls.|||r. Bouteille|15|NA|mouch.|châle fa.|NA|NA|NA||||rue Bouteille
+899|Lyon|Sautisson|Cl.-Pierre|||pl. Rouville|NA|NA|vel. fa.|NA|NA|NA|NA||||place Rouville
+900|Lyon|Savet|Jn.-Fr.|||q. de la Charité|153|NA|unis|NA|NA|NA|NA||||quai de la Charité
+901|Lyon|Savet|Jn.-Bte.|||r. des Petits Pères|2|NA|vel. unis|NA|NA|NA|NA||||rue des Petits-Pères
+902|Lyon|Savigny|Cl.|||côte des Carmélites|35|NA|châle au quart|NA|NA|NA|NA||||côte des Carmélites
+903|Lyon|Schabat|Grégoire|||cl. Flandrin|NA|NA|mouch.|rob.|nouv.|NA|NA||||clos Flandrin
+904|Lyon|Schemitz|Jn.-Bap.|||r. Tholozan|20|NA|rob.|arm.|nouv.|NA|NA||||rue Tholozan
+905|Lyon|Schemitz|NA|||r. Tholozan|20|NA|unis|arm.|NA|NA|NA||||rue Tholozan
+906|Lyon|Sciller|Bt.|||r. Lemot|14|NA|NA|NA|NA|NA|NA||||rue Lemot
+907|Lyon|Serret|NA|||mtée des Gr.-Capucins|15|NA|vel. frisé|NA|NA|NA|NA||||montée des Grands Capucins
+908|Lyon|Serret|Gabriel|||r. de Fleurien|6|NA|NA|NA|NA|NA|NA||||rue de Fleurien
+909|Lyon|Servian|Guil.|||r. Tables Claudiennes|14|NA|rob.|mouch.|fich.|NA|NA||||rue des Tables Claudiennes
+910|Lyon|Servez|Jn.|||r. Neyret|29|NA|unis|arm.|NA|NA|NA||||rue Neyret
+911|Lyon|Seyssel|Pierre|||r. Philibert-Delorme|NA|NA|NA|NA|NA|NA|NA||||rue Philibert-Delorme
+912|Lyon|Segaud|NA|||mtée des Epies|1|NA|unis|NA|NA|NA|NA||||montée des Epies
+913|Lyon|Solary|Matthieu|||r. Neyret|6|NA|velours unis|NA|NA|NA|NA||||rue Neyret
+914|Lyon|Sontonax|Marcellin|||Port-Neuf|NA|NA|gr. de naples|NA|NA|NA|NA||||Port-Neuf
+915|Lyon|Souchon|Cl.-Henri|||r. Laurencin|4|NA|NA|NA|NA|NA|NA||||rue Laurencin
+916|Lyon|Sourdillon|NA|||r. Bellièvre|7|NA|satins|arm.|NA|NA|NA||||rue Bellièvre
+917|Lyon|Sudy|Jn-Barthélémy|||r. d'Enghien|8|NA|NA|NA|NA|NA|NA||||rue d'Enghien
+918|Lyon|Tarpin|Jh.|||pl. du Mont-Sauvage|6|NA|un.|arm.|NA|NA|NA||||place du Mont-Sauvage
+919|Lyon|Taupin|NA|||r. St-Georges|49|NA|arm.|rob.|NA|NA|NA||||rue saint-Georges
+920|Lyon|Tavernier|Jn.-Ant.|||r. Masson|17|NA|rob.|gil.|NA|NA|NA||||rue Masson
+921|Lyon|Teissier|Pre.|||clos des Chartreux|23|NA|NA|NA|NA|NA|NA||||clos des Chartreux
+922|Lyon|Termoz|NA|||r. Bodin|16-18|NA|rob.|gil.|NA|NA|NA||||rue Bodin
+923|Lyon|Terrasse|NA|||mtée du Chemin-Neuf près de la fontaine|NA|NA|unis|NA|NA|NA|NA||||montée du Chemin-Neuf
+924|Lyon|Terrat|NA|||mtée du Chemin-Neuf|NA|NA|NA|NA|NA|NA|NA||||montée du Chemin-Neuf
+925|Lyon|Thermoz|NA|||r. Bodin|16|NA|rob.|gil.|NA|NA|NA||||rue Bodin
+926|Lyon|Thevenet aîné|NA|||r. de Flesselles|4|NA|rob.|nouv.|NA|NA|NA||||rue de Flesselles
+927|Lyon|Thevenet|NA|||côte St-Sébastien|17|NA|un.|lustr.|arm.|dr. de soie|NA||||côte saint-Sébastien
+928|Lyon|Thevenet|Nicolas|||rue Neyret|16|NA|NA|NA|NA|NA|NA||||rue Neyret
+929|Lyon|Thevenet|NA|||r. Tholozan|10|NA|rob.|nouv.|NA|NA|NA||||rue Tholozan
+930|Lyon|Tevençon|Cl.-Bl.|||chem. de Montauban|7|NA|tissus en perles|NA|NA|NA|NA||||chemin de Montauban
+931|Lyon|Thibaudier|NA|||r. Juiverie|4|NA|rob.|gil.|NA|NA|NA||||rue Juiverie
+932|Lyon|Thibaudier|Et.|||cour St-Pierre-le-Vieux|6|NA|serg.|sat.|un.|gr. larg.|NA||||cour saint-Pierre-le-Vieux
+933|Lyon|Tonnérieux|Ls.|||r. Imbert-Colomès|9|NA|ch. au quart|NA|NA|NA|NA||||rue Imbert-Colomès
+934|Lyon|Tournessus|NA|||rue des Pierres-Plantées|4|NA|rob.|gil.|mouch.|nouv.|NA||||rue des Pierres Plantées
+935|Lyon|Toussot|Jh.|||rue Confort|5|NA|unis|NA|NA|NA|NA||||rue Confort
+936|Lyon|Traversier|Jh.|||rue des Marronniers|5|NA|rob.|gil.|crav.|NA|NA||||rue des Marronniers
+937|Lyon|Tricot|Cl.|||r. St-Marcel|2|NA|gil.|crav.|NA|NA|NA||||rue saint-Marcel
+938|Lyon|Tripier|Aug.|||r. de la mtée du Mont-Sauvage|10|NA|r.|n.|NA|NA|NA||||montée du Mont-Sauvage
+939|Lyon|Troquet|NA|||cour de l'Etoile|NA|NA|unis|gr. larg.|NA|NA|NA||||cour de l'Etoile
+940|Lyon|Trossard|Frédéric|||rue Plat-d'Argent|5|NA|f.|NA|NA|NA|NA||||rue Plat d'Argent
+941|Lyon|Truffet|NA|||Côte St-Sébastien|21|NA|rob.|mouch.|ch.|NA|NA||||côte saint-Sébastien
+942|Lyon|Turel|Marin|||r. Grôlée|23|NA|vel. f.|NA|NA|NA|NA||||rue Grôlée
+943|Lyon|Turrel|André|||rue Masson|11|NA|NA|NA|NA|NA|NA||||rue Masson
+944|Lyon|Vacher|Pierre|||Côte St-Sébastien|20|NA|NA|NA|NA|NA|NA||||côte saint-Sébastien
+945|Lyon|Vachon|Nicolas|||clos des Chartreux|NA|maison du Sacré-Coeur|sat.|NA|NA|NA|NA||||clos des Chartreux
+946|Lyon|Vaganay|Ant.|||r. Masson|13 bis|NA|taff.|lustr.|sat. un.|NA|NA||||rue Masson
+947|Lyon|Valensot|Ant.|||r. Masson|15 bis|NA|poulx de soie|NA|NA|NA|NA||||rue Masson
+948|Lyon|Valentini|Jn.-Jacq.|||rue Tholozan|19|NA|crav.|gil.|nouv.|NA|NA||||rue Tholozan
+949|Lyon|Vallernaut|Gaspard|||r. de Flesselles|4|NA|un.|et f.|NA|NA|NA||||rue de Flesselles
+950|Lyon|Vallien|Ch.|||clos des Chartreux|13|NA|vel. un.|NA|NA|NA|NA||||clos des Chartreux
+951|Lyon|Valory|Aug.|||r. Bodin|3|NA|vel. un.|NA|NA|NA|NA||||rue Bodin
+952|Lyon|Van-Ormelanger|Jn.-Ls.|||r. Masson|19|NA|gil.|crav.|NA|NA|NA||||rue Masson
+953|Lyon|Vanel|Ls.|||r. des Pierres-Plantées|4|NA|rob.|gil.|crav.|NA|NA||||rue des Pierres Plantées
+954|Lyon|Varambou|Jn.|||r. Lemot|1|NA|f.|NA|NA|NA|NA||||rue Lemot
+955|Lyon|Varille|Et.|||r. Adamoly|1|NA|NA|NA|NA|NA|NA||||rue Adamoly
+956|Lyon|Varrin|Fr.|||r. des Marronniers|7|NA|un.|NA|NA|NA|NA||||rue des Marronniers
+957|Lyon|Veillas|Jn.-Bte.|||r. Lemot|14|NA|un.|et f.|arm.|NA|NA||||rue Lemot
+958|Lyon|Velu|Cl.-Leger-Barbe|||r. Tholozan|20|NA|un.|et f.|arm.|NA|NA||||rue Tholozan
+959|Lyon|Vercherin|Rob.|||r. Masson|21|NA|gr. de napl.|arm.|NA|NA|NA||||rue Masson
+960|Lyon|Verdat|Pre.|||r. de Condé|36|NA|NA|NA|NA|NA|NA||||rue de Condé
+961|Lyon|Vernay|Domin.|||Gr.-Côte|62|NA|rob.|mouch.|ch.|NA|NA||||Grande-Côte
+962|Lyon|Vernier|Jh.|||r. Petit-Soulier|9|NA|un.|NA|NA|NA|NA||||rue Petit-Soulier
+963|Lyon|Verpillat|Benj.|||r. Grôlée|22|NA|vel. f.|NA|NA|NA|NA||||rue Grôlée
+964|Lyon|Verpilleux|Jn.-Pre|||r. du Mont-Sauvage|10|NA|vel. un.|NA|NA|NA|NA||||rue du Mont-Sauvage
+965|Lyon|Verrier|NA|||r. des Marronniers|5|NA|rob.|gil.|mouch.|NA|NA||||rue des Marronniers
+966|Lyon|Verrier|NA|||r. du Boeuf|21|NA|arm.|rob.|mouch.|nouv.|gaz.||||rue du Boeuf
+967|Lyon|Verron|NA|||r. St-Georges|48|NA|gr. de napl.|sat.|NA|NA|NA||||rue saint-Georges
+968|Lyon|Versier veuve|NA|||chemin de la Favorite|NA|NA|pel.|NA|NA|NA|NA||||chemin de la Favorite
+969|Lyon|Veuillet|Anth.|||r. Tholozan|5|NA|vel. un.|NA|NA|NA|NA||||rue Tholozan
+970|Lyon|Veuillet|Cl.|||pl. Rouville|4|NA|vel. f.|nouv.|NA|NA|NA||||place Rouville
+971|Lyon|Veuillon|NA|||mtée des Capucins|20|NA|un.|et faç.|NA|NA|NA||||montée des Grands Capucins
+972|Lyon|Veyre|NA|||r. Juiverie|8|NA|un.|rob.|gil.|NA|NA||||rue Juiverie
+973|Lyon|Veyret|Cl.-Pre.|||r. Magneval|11|NA|mouch.|gil.|nouv.|NA|NA||||rue Magneval
+974|Lyon|Vidal|NA|||r. Petit-Soulier|14|NA|vel. f.|nouv.|NA|NA|NA||||rue Petit-Soulier
+975|Lyon|Villard|Jn.-Pre.|||clos Riondel|NA|NA|vel. un.|NA|NA|NA|NA||||rue du clos Riondel
+976|Lyon|Vuillermoz|Irénée-Féréol|||r. Bourgchanin|16|NA|vel. f.|NA|NA|NA|NA||||rue Bourgchanin
+977|Lyon|Villeron|Mich.|||r. Tholozan|3|NA|vel. un.|NA|NA|NA|NA||||rue Tholozan
+978|Lyon|Vincent|Andr.|||r. Sala|62|NA|coll.|fich.|mouch.|br.|NA||||rue Sala
+979|Lyon|Viollet|Et.|||r. des Tables Claudiennes|18|NA|ch. au quart|NA|NA|NA|NA||||rue des Tables Claudiennes
+980|Lyon|Viollet|NA|||r. Bourgchanin|NA|NA|mouch.|gaz.|nouv.|NA|NA||||rue Bourgchanin
+981|Lyon|Virreton|NA|||r. de Flesselles|NA|m. Blanc|châle|gaze|chenille|NA|NA||||rue de Flesselles
+982|Lyon|Vitte|NA|||r. Tholozan|8|NA|gil.|vel. f.|NA|NA|NA||||rue Tholozan
+983|Lyon|Vivant|Philippe|||mtée du Mont-Sauvage|NA|NA|rob.|nouv.|f.|NA|NA||||montée du Mont-Sauvage
+984|Lyon|Vivier|Fr.|||r. de Flesselles|4|NA|rob.|gil.|crav.|arm.|NA||||rue de Flesselles
+985|Lyon|Volf|Gabr.|||r. Tholozan|18|NA|un.|sergé.|NA|NA|NA||||rue Tholozan
+986|Lyon|Vollin|Jh.|||r. Sala|62|NA|gr. de nap.|arm.|NA|NA|NA||||rue Sala

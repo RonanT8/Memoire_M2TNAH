@@ -1,0 +1,1009 @@
+identifiant|commune|nom|prenom|activite|type_voie|nom_voie|numero|complement_adresse|specialite1|specialite2|specialite3|specialite4|observations|remarques_saisie|source|complement_source|rue_standard
+1|Croix-Rousse|Aguerrant|Jn.-Marie|||montée Rey|5|NA|rob.|gil. f.|NA|NA|NA||||montée Rey
+2|Croix-Rousse|Aguerrant|Jean-Benoit|||r. du Mail|15|NA|ch. au quart|NA|NA|NA|NA||||rue du Mail
+3|Croix-Rousse|Aguerrant|Barth.|||pl. de la Visitation|1|NA|rob.|mouch.|fich.|gaz. f.|NA||||place de la Visitation
+4|Croix-Rousse|Allard|César|||grande place|13|NA|rob.|gil.|mouch.|ch. 6/4 f.|NA||||Grande Place
+5|Croix-Rousse|Allard|Ant.|||r. Celu|NA|NA|nouv.|NA|NA|NA|NA||||rue Celu
+6|Croix-Rousse|Aleigne|Claude|||montée Rey|14|NA|ch. 6/4|tart.|NA|NA|NA||||montée Rey
+7|Croix-Rousse|Allemand|Aug.|||montée Rey|5|NA|nouv.|NA|NA|NA|NA||||montée Rey
+8|Croix-Rousse|Aloignet|Jh.|||r. Celu|6|NA|meubles|NA|NA|NA|NA||||rue Celu
+9|Croix-Rousse|Amandon|Jean-Marie|||grande place|13|NA|gil.|velours|meuble. f.|NA|NA||||Grande Place
+10|Croix-Rousse|Amy|Ant.|||pass. Lamure|5|NA|crav.|fich. f.|NA|NA|NA||||passage Lamure
+11|Croix-Rousse|Anglais|Jacques|||r. du Chapeau-Rouge|7|NA|ch.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+12|Croix-Rousse|Annequin|Jn.|||r. Dumont|8|NA|mouch.|crav.|ch. soie|NA|NA||||rue Dumont
+13|Croix-Rousse|Aprin|Michel|||r. du Mail|23|NA|gil.|rob.|crav. f.|NA|NA||||rue du Mail
+14|Croix-Rousse|Arambourg|NA|||cours des Tapis|4|NA|ch. soie|NA|NA|NA|NA||||cours des Tapis
+15|Croix-Rousse|Argenne|Pierre|||r. des Tapis|13|NA|NA|NA|NA|NA|NA||||rue des Tapis
+16|Croix-Rousse|Argout|André|||r. du Mail|27|NA|rob.|nouv.|NA|NA|NA||||rue du Mail
+17|Croix-Rousse|Armand|Pierre|||r. Pailleron|9|NA|gil.|rob.|crav.|NA|NA||||rue Pailleron
+18|Croix-Rousse|Arnaud|André|||pl. de la Visitation|1|NA|rob.|crav.|f.|NA|NA||||place de la Visitation
+19|Croix-Rousse|Arnaud|Joseph|||r. du Chapeau-Rouge|9|NA|gil.|crav.|f.|NA|NA||||rue du Chapeau-Rouge
+20|Croix-Rousse|Aubert|Joseph|||rue Ste-Marie|3|NA|vel. un.|NA|NA|NA|NA||||rue sainte-Marie
+21|Croix-Rousse|Aubert|Cl.|||rue des Tapis|16|NA|arm.|un.|NA|NA|NA||||rue des Tapis
+22|Croix-Rousse|Auberthier|Pierre|||r. de la Terrasse|1|NA|gaz.|f.|nouv. f.|NA|NA||||rue de la Terrasse
+23|Croix-Rousse|Aubord|Auguste|||r. du Mail|25|NA|NA|NA|NA|NA|NA||||rue du Mail
+24|Croix-Rousse|Audibert|Rolland|||r. des Fossés|19|NA|nouv. f.|NA|NA|NA|NA||||rue des Fossés
+25|Croix-Rousse|Audibert|Pierre|||r. de la Citadelle|2|NA|crav.|mouch.|ch. un.|et f.|NA||||rue de la Citadelle
+26|Croix-Rousse|Audiffret|Hyacinthe|||r. Perrot|1|NA|ch. lanc.|et au quart|NA|NA|NA||||rue Perrot
+27|Croix-Rousse|Augustin|NA|||cours des Tapis|4|NA|ch. lancés au quart|NA|NA|NA|NA||||cours des Tapis
+28|Croix-Rousse|Avignon|Dominique|||petite rue de Cuire|88|NA|nouv.|ch. soie f.|NA|NA|NA||||petite rue de Cuire
+29|Croix-Rousse|Avinière|Cl.-Jh.|||cours d'Herbouville|22|NA|cravates|mouch.|vel. f.|NA|NA||||cours d'Herbouville
+30|Croix-Rousse|Azemard|Pierre|||rue d'Enfer|1|NA|robes|gil. f.|NA|NA|NA||||rue d'Enfert
+31|Croix-Rousse|Badelon|Nicolas|||grande place|117|NA|vel. un.|NA|NA|NA|NA||||Grande Place
+32|Croix-Rousse|Bailly|NA|||r. Celu|NA|maison Dufêtre|vel. un.|NA|NA|NA|NA||||rue Celu
+33|Croix-Rousse|Bagneux|Fr.|||clos Fayolle|NA|mais. Clarisse|vel.|nouv.|NA|NA|NA||||clos Fayolle
+34|Croix-Rousse|Bajolet|Jn.-Marie|||Gr.-R.|3|NA|rob.|crav. f.|NA|NA|NA||||Grande-Rue
+35|Croix-Rousse|Ballan|Fr.-Jn.|||r. Pailleron|15|NA|mouch.|fich.|f.|nouv.|NA||||rue Pailleron
+36|Croix-Rousse|Balland|Et.|||r. Lafayette|6|NA|un.|et gr. larg.|NA|NA|NA||||rue Lafayette
+37|Croix-Rousse|Balme|Fr.|||rue Sully|4|NA|ch. s. 6/4|NA|NA|NA|NA||||rue Sully
+38|Croix-Rousse|Baltard|Cl.|||r. des Fossés|9|NA|NA|NA|NA|NA|NA||||rue des Fossés
+39|Croix-Rousse|Baltassier|Jn.-Louis|||r. des Fossés|23|NA|NA|NA|NA|NA|NA||||rue des Fossés
+40|Croix-Rousse|Bapail|Jn.-Louis|||rue de la Visitation|1|NA|unis|rob.|NA|NA|NA||||rue de la Visitation
+41|Croix-Rousse|Baraquand|Jn.-Bte.|||r. Celu|2|NA|ch. s.|vel. f.|NA|NA|NA||||rue Celu
+42|Croix-Rousse|Barbier|Pierre|||r. du Mail|27|NA|rob.|vel. f.|nouv.|NA|NA||||rue du Mail
+43|Croix-Rousse|Barbier|Jn.|||r. des Tapis|21|NA|vel. f.|NA|NA|NA|NA||||rue des Tapis
+44|Croix-Rousse|Bardet|Ant.|||r. Celu|10|NA|rob. riches|NA|NA|NA|NA||||rue Celu
+45|Croix-Rousse|Bardet|Jn.-Bte.|||r. Dumenge|13|NA|nouv. f.|NA|NA|NA|NA||||rue Dumenge
+46|Croix-Rousse|Barmot|Fr.|||r. Perrot|1|NA|NA|NA|NA|NA|NA||||rue Perrot
+47|Croix-Rousse|Barnaud|Augustin|||mtée Rey|13|NA|rob.|gil. f.|NA|NA|NA||||montée Rey
+48|Croix-Rousse|Barnaut|Bt.|||Gr.-Pl.|16|NA|rob.|ombr.|NA|NA|NA||||Grande Place
+49|Croix-Rousse|Barollon|Ant.|||r. des Tapis|16|NA|sat. forts un.|NA|NA|NA|NA||||rue des Tapis
+50|Croix-Rousse|Baron|Cl.|||r. des Fossés|8|NA|gil.|crav.|NA|NA|NA||||rue des Fossés
+51|Croix-Rousse|Baron|Fr.-Clément|||r. de l'Enfance|1|NA|vel.|gil. f.|NA|NA|NA||||rue de l'Enfance
+52|Croix-Rousse|Barret|Michel|||r. du Mail|17|NA|gil. f.|NA|NA|NA|NA||||rue du Mail
+53|Croix-Rousse|Barret|Laur.|||r. du Mail|12|NA|gil. laine|cach. f.|NA|NA|NA||||rue du Mail
+54|Croix-Rousse|Basset|Jn.|||r. de la Terrasse|1|NA|ch. lanc.|et au quart|NA|NA|NA||||rue de la Terrasse
+55|Croix-Rousse|Balteau|Jn.-Bte.|||Gr.-Pl.|24|NA|vel. un.|NA|NA|NA|NA||||Grande Place
+56|Croix-Rousse|Battion|Jn.-Cl.|||cours des Tapis|4|NA|rob.|gil. f.|NA|NA|NA||||cours des Tapis
+57|Croix-Rousse|Battu|Fe.|||r. d'Enfert|NA|NA|un.|NA|NA|NA|NA||||rue d'Enfert
+58|Croix-Rousse|Baud|Cl.|||r. des Fossés|15|NA|vel. f.|NA|NA|NA|NA||||rue des Fossés
+59|Croix-Rousse|Baudran|Cl.|||r. du Chapeau-Rouge|21|NA|un.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+60|Croix-Rousse|Baudran|Jn.|||cours des Tapis|4|NA|NA|NA|NA|NA|NA||||cours des Tapis
+61|Croix-Rousse|Bayet|Jn.|||r. Perrot|3|NA|crav.|coll.|éph.|nouv.|NA||||rue Perrot
+62|Croix-Rousse|Bean|Pierre|||r. de la Citadelle|1|NA|rob.|gil. f.|NA|NA|NA||||rue de la Citadelle
+63|Croix-Rousse|Baudran|Jn.-Bte.|||r. d'Enfert|1|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+64|Croix-Rousse|Bejury|Fr.|||r. Dumenge|12|NA|NA|NA|NA|NA|NA||||rue Dumenge
+65|Croix-Rousse|Béjuy|Ls.|||r. du Mail|28|NA|un.|NA|NA|NA|NA||||rue du Mail
+66|Croix-Rousse|Belatan|Mathieu|||Gr.-Pl.|18|NA|NA|NA|NA|NA|NA||||Grande Place
+67|Croix-Rousse|Belin|L.-Domin.|||r. des Fossés|17|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+68|Croix-Rousse|Belleville|Pre.|||r. Ste-Catherine|1|NA|NA|NA|NA|NA|NA||||rue sainte-Catherine
+69|Croix-Rousse|Belse|Jn.-Bte.|||r. Perrat|1|NA|rob.|gil.|crav. f.|NA|NA||||rue Perrat
+70|Croix-Rousse|Benichon|Ant.|||Gr.-R.|3|NA|mouch.|nouv. f.|NA|NA|NA||||Grande-Rue
+71|Croix-Rousse|Benière|Ch.|||montée Chaumais|11|NA|rob.|gil.|crav.|vel. f.|NA||||montée Chaumais
+72|Croix-Rousse|Benière|Jn.-Marie|||r. du Mail|13|NA|un. différents genr.|NA|NA|NA|NA||||rue du Mail
+73|Croix-Rousse|Benisson|Ant.-Marie|||r. d'Enfert|NA|maison Mothey|rob.|crav.|mouch.|NA|NA||||rue d'Enfert
+74|Croix-Rousse|Bentura|Jn.|||mtée Rey|13|NA|meubl.|NA|NA|NA|NA||||montée Rey
+75|Croix-Rousse|Benyas|Jn.-Cl.|||Gr.-Pl.|24|NA|rob. f.|NA|NA|NA|NA||||Grande Place
+76|Croix-Rousse|Berger|Ch.-Marie|||r. Ste-Catherine|3|NA|un.|NA|NA|NA|NA||||rue sainte-Catherine
+77|Croix-Rousse|Berger|Fr.|||r. Pailleron|8|NA|rob. f.|NA|NA|NA|NA||||rue Pailleron
+78|Croix-Rousse|Berger|Pierre|||r. de la Terrasse|2|NA|meubl. f.|NA|NA|NA|NA||||rue de la Terrasse
+79|Croix-Rousse|Berger|Louis|||r. de la Citadelle|NA|NA|ch. s.|mouch. f.|NA|NA|NA||||rue de la Citadelle
+80|Croix-Rousse|Berger|Jean-Pierre|||r. de la Terrasse|2|NA|mouch.|crav.|gil. f.|NA|NA||||rue de la Terrasse
+81|Croix-Rousse|Berger|Simon|||r. Ste-Catherine|1|NA|vel. un.|NA|NA|NA|NA||||rue sainte-Catherine
+82|Croix-Rousse|Berlan|Jn.-Bte.|||mtée Rey|7|NA|rob. f.|NA|NA|NA|NA||||montée Rey
+83|Croix-Rousse|Bermont|Fr.|||cours des Tapis|10|NA|NA|NA|NA|NA|NA||||cours des Tapis
+84|Croix-Rousse|Bernard|Jn.|||r. Dumont|14|NA|un.|NA|NA|NA|NA||||rue Dumont
+85|Croix-Rousse|Bernard|NA|||cours des Tapis|4|NA|rob.|gil.|NA|NA|NA||||cours des Tapis
+86|Croix-Rousse|Bernard|Fr.|||cours d'Herbourville|25|NA|rob.|gil.|fich.|mouch. f.|NA||||cours d'Herbouville
+87|Croix-Rousse|Bernollin|Sim.|||r. des Fossés|25|NA|NA|NA|NA|NA|NA||||rue des Fossés
+88|Croix-Rousse|Berraud|Victor|||r. Ste-Catherine|3|NA|gil.|crav.|NA|NA|NA||||rue sainte-Catherine
+89|Croix-Rousse|Berrou|Pre.|||r. du Mail|26|NA|NA|NA|NA|NA|NA||||rue du Mail
+90|Croix-Rousse|Bert|Pierre|||r. Lafayette|1|NA|mouch.|ch. soie|NA|NA|NA||||rue Lafayette
+91|Croix-Rousse|Berthelier|Hri.|||r. Dumenge|13|NA|nouv.|NA|NA|NA|NA||||rue Dumenge
+92|Croix-Rousse|Berthet|Jn.-Ant.|||r. de Cuire|11|NA|NA|NA|NA|NA|NA||||rue de Cuire
+93|Croix-Rousse|Berthet|Jn.-Marie|||Gr.-Pl.|21|NA|NA|NA|NA|NA|NA||||Grande Place
+94|Croix-Rousse|Berthet|arin|||r. Lafayette|1|NA|un.|arm. f.|NA|NA|NA||||rue Lafayette
+95|Croix-Rousse|Berthier|Cl.|||r. Dumenge|15|NA|tapisseries pour voitures|gil. f.|NA|NA|NA||||rue Dumenge
+96|Croix-Rousse|Bertholon|And.|||cours des Tapis|10|NA|NA|NA|NA|NA|NA||||cours des Tapis
+97|Croix-Rousse|Berthoux|NA|||r. de la Citadelle|1|NA|rob.|gil.|crav.|f. nouv.|NA||||rue de la Citadelle
+98|Croix-Rousse|Berton|Ls.|||r. Pailleron|2|NA|rob.|gil. f.|NA|NA|NA||||rue Pailleron
+99|Croix-Rousse|Berton|Pierre|||Grande-Place|5|NA|mouch.|ch. laine|et mélangés|NA|NA||||Grande Place
+100|Croix-Rousse|Besse|Ambr.|||Gr.-Rue|93|NA|rob. f.|NA|NA|NA|NA||||Grande-Rue
+101|Croix-Rousse|Besson|Jh.|||Gr.-R.|25|NA|un.|ch. un.|NA|NA|NA||||Grande-Rue
+102|Croix-Rousse|Bidon|Cl.|||cours d'Herbourville|22|NA|un.|arm.|NA|NA|NA||||cours d'Herbouville
+103|Croix-Rousse|Biez|Hubert|||Grande-Place|NA|NA|ch.|mouch.|ch. soie|et ? (pas de fin)|NA||||Grande Place
+104|Croix-Rousse|Bigot|Jh.|||r. d'Enfer|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+105|Croix-Rousse|Billard|Et.|||r. Lafayette|5|NA|un.|et f.|NA|NA|NA||||rue Lafayette
+106|Croix-Rousse|Billet|Jn.-Bte.|||r. Dumenge|13|NA|NA|NA|NA|NA|NA||||rue Dumenge
+107|Croix-Rousse|Binaud|Jacq.|||r. Celu|10|NA|NA|NA|NA|NA|NA||||rue Celu
+108|Croix-Rousse|Binard|Jacq.|||r. de la Visitation|9|NA|un.|NA|NA|NA|NA||||rue de la Visitation
+109|Croix-Rousse|Biens|Gaspard|||r. des Fossés|23|NA|ch. 6/4 soie|NA|NA|NA|NA||||rue des Fossés
+110|Croix-Rousse|Biquet|Jn.-Bte.|||r. du Pavillon|8|NA|NA|NA|NA|NA|NA||||rue du Pavillon
+111|Croix-Rousse|Bizollon|Ant.|||r. Lafayette|1|NA|un.|gr. larg.|NA|NA|NA||||rue Lafayette
+112|Croix-Rousse|Blanc|Jh.|||r. Celu|6|NA|vel. un. 6/4|NA|NA|NA|NA||||rue Celu
+113|Croix-Rousse|Blanc|Jn.-Bte.|||mtée Rey|15|NA|nouv.|NA|NA|NA|NA||||montée Rey
+114|Croix-Rousse|Blanc|Martin|||rue des Fossés|16|NA|gil.|crav.|mouch.|NA|NA||||rue des Fossés
+115|Croix-Rousse|Blanc|Fr.|||r. Pailleron|9|NA|ornem. d'égl.|NA|NA|NA|NA||||rue Pailleron
+116|Croix-Rousse|Blanc|Philibert|||Gr.-Pl.|24|NA|NA|NA|NA|NA|NA||||Grande Place
+117|Croix-Rousse|Bienait|Reymond|||r. du Mail|19|NA|NA|NA|NA|NA|NA||||rue du Mail
+118|Croix-Rousse|Bebillon|Anth.|||r. des Gloriettes|6|NA|un.|arm.|rob. f.|NA|NA||||rue des Gloriettes
+119|Croix-Rousse|Boisson|Jh.|||r. du Mail|23|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+120|Croix-Rousse|Bombois|Napol.|||r. de la Citadelle|1|NA|gil.|ch.|cach.|NA|NA||||rue de la Citadelle
+121|Croix-Rousse|Boncieux|Jh.|||clos Fayolle|NA|mais. Périsse|NA|NA|NA|NA|NA||||clos Fayolle
+122|Croix-Rousse|Bonin|NA|||r. Lafayette|8|NA|un.|et f.|NA|NA|NA||||rue Lafayette
+123|Croix-Rousse|Bonin|Alex.|||Gr.-Pl.|22|NA|gil.|crav.|nouv. f.|NA|NA||||Grande Place
+124|Croix-Rousse|Bonnand|Math.|||impasse St-Clair|7|NA|mouch.|ch. soie|nouv. f.|NA|NA||||impasse saint-Clair
+125|Croix-Rousse|Bonnard|Fr.|||cours d'Herbouville|33|NA|un. noirs|NA|NA|NA|NA||||cours d'Herbouville
+126|Croix-Rousse|Bonnerre|Jn.-Bte.|||r. Dumenge|15|NA|nouv.|NA|NA|NA|NA||||rue Dumenge
+127|Croix-Rousse|Bonnevie|Gr.-R.|||Gr.-R.|3|NA|NA|NA|NA|NA|NA||||Grande-Rue
+128|Croix-Rousse|Bonny|Jn.-Cl.|||r. Dumenge|15|NA|gil. f.|NA|NA|NA|NA||||rue Dumenge
+129|Croix-Rousse|Bony|Louis|||r. de la Terrasse|1|NA|ch. soie|NA|NA|NA|NA||||rue de la Terrasse
+130|Croix-Rousse|Bordeau|Jn.-Bte.|||r. du Mail|14|NA|rob.|nouv.|art. rich.|NA|NA||||rue du Mail
+131|Croix-Rousse|Borel|Théodore|||r. Celu|11|NA|NA|NA|NA|NA|NA||||rue Celu
+132|Croix-Rousse|Borelly|Fr.|||cours d'Herbouville|22|NA|ch.|nouv. f.|NA|NA|NA||||cours d'Herbouville
+133|Croix-Rousse|Bois|Jn.-Pre.|||r. Celu|5|NA|vel. un.|NA|NA|NA|NA||||rue Celu
+134|Croix-Rousse|Bosson|Jh.|||r. Ste-Catherine|5|NA|meub.|NA|NA|NA|NA||||rue sainte-Catherine
+135|Croix-Rousse|Balto|Constant|||r. de Cuire|2|NA|mouch.|ch.|nouv. f.|NA|NA||||rue de Cuire
+136|Croix-Rousse|Bonchard|Jn.-Cl.|||r. des Fossés|7|NA|gil.|vel. f.|NA|NA|NA||||rue des Fossés
+137|Croix-Rousse|Bournichon|Cl.|||r. des Tapis|NA|NA|NA|NA|NA|NA|NA||||rue des Tapis
+138|Croix-Rousse|Bouquet|Fulcron|||r. des Tapis|18|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+139|Croix-Rousse|Bouille|Bt.|||r. du Mail|20|NA|ch. soie 6/4|NA|NA|NA|NA||||rue du Mail
+140|Croix-Rousse|Bouiller|Pre.-Irénée|||r. Ste-Catherine|NA|NA|nouv.|NA|NA|NA|NA||||rue sainte-Catherine
+141|Croix-Rousse|Bourdin frères|NA|||r. de la Terrasse|2|NA|NA|NA|NA|NA|NA||||rue de la Terrasse
+142|Croix-Rousse|Bourgeous|Et.|||r. de la Citadelle|18|NA|NA|NA|NA|NA|NA||||rue de la Citadelle
+143|Croix-Rousse|Bourget|Et.|||r. de la Citadelle|1|NA|vel. f. et un.|NA|NA|NA|NA||||rue de la Citadelle
+144|Croix-Rousse|Bourget|Jn.|||r. d'Enfert|NA|maison Bude|vel. un.|NA|NA|NA|NA||||rue d'Enfert
+145|Croix-Rousse|Bourget|Jn.|||r. du Chapeau-Rouge|9|NA|ch. au quart|NA|NA|NA|NA||||rue du Chapeau-Rouge
+146|Croix-Rousse|Bourget|Fr.|||r. de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+147|Croix-Rousse|Bourguignon|Jn.|||Clos Fayolle|NA|maison Périsse|NA|NA|NA|NA|NA||||clos Fayolle
+148|Croix-Rousse|Bourquanin|Ch.|||r. du Mail|12 bis|NA|NA|NA|NA|NA|NA||||rue du Mail
+149|Croix-Rousse|Bouquet|Ant.-Domin.|||mtée Rey|11|NA|nouv.|NA|NA|NA|NA||||montée Rey
+150|Croix-Rousse|Bourrat|Bern.|||r. Pailleron|6|NA|vel. f.|NA|NA|NA|NA||||rue Pailleron
+151|Croix-Rousse|Boussieux|Jh.|||r. St-Eucher|NA|mais. Vettard|un.|et f.|NA|NA|NA||||rue saint-Eucher
+152|Croix-Rousse|Bouttier|Jn.|||r. du Mail|12|NA|crav.|gil. f.|NA|NA|NA||||rue du Mail
+153|Croix-Rousse|Bouvard|Jn.-Gabr.|||r. du Mail|4|NA|rob.|gil. f.|nouv.|NA|NA||||rue du Mail
+154|Croix-Rousse|Bouvard|Jn.|||r. Dumond|14|NA|rob. unies|et f.|NA|NA|NA||||rue Dumont
+155|Croix-Rousse|Bouvet|Jean|||r. Ste-Marie|3|NA|un.|vel. un.|NA|NA|NA||||rue sainte-Marie
+156|Croix-Rousse|Bouvet|Auguste|||r. du Mail|24|NA|vel. un.|NA|NA|NA|NA||||rue du Mail
+157|Croix-Rousse|Bozon|André-Jh.|||r. St-Eucher|NA|m. Décote|un.|arm.|NA|NA|NA||||rue saint-Eucher
+158|Croix-Rousse|Bressand|François|||imp. St-Clair|14|NA|unis|poulx de s.|NA|NA|NA||||impasse saint-Clair
+159|Croix-Rousse|Bresse|Jacques|||rue du Mail|4|NA|gil.|rob. f.|mouch. f.|NA|NA||||rue du Mail
+160|Croix-Rousse|Brest|Fr.|||clos Lafayette|NA|mais. Périsse|NA|NA|NA|NA|NA||||clos Lafayette
+161|Croix-Rousse|Bret|Pierre-Fr.|||r. Dumont|16|NA|rob. f. à lisse|NA|NA|NA|NA||||rue Dumont
+162|Croix-Rousse|Brillon|Jn.-Bte.|||Gr.-R.|99|NA|un.|vel. un.|NA|NA|NA||||Grande-Rue
+163|Croix-Rousse|Brunand|Jh.|||r. Celu|6|NA|gil.|sat.|art. riche.|NA|NA||||rue Celu
+164|Croix-Rousse|Brun|Mart.|||r. du Mail|12|NA|vel. un.|NA|NA|NA|NA||||rue du Mail
+165|Croix-Rousse|Brun|Cl.|||Gr.-R.|63|NA|ch.|gil.|lanc.|NA|NA||||Grande-Rue
+166|Croix-Rousse|Brun|Et.|||r. du Mail|24|NA|vel. un.|NA|NA|NA|NA||||rue du Mail
+167|Croix-Rousse|Brun|Jn.-Marie|||r. Dumenge|8|NA|gil.|crav. f.|NA|NA|NA||||rue Dumenge
+168|Croix-Rousse|Brun|Jacq.|||mtée Rey|13|NA|meubl.|NA|NA|NA|NA||||montée Rey
+169|Croix-Rousse|Brunet|Anth.|||Gr.-R.|98|NA|un. large|arm.|NA|NA|NA||||Grande-Rue
+170|Croix-Rousse|Brunet|Ch.-Jh.|||Gr.-R.|8|NA|NA|NA|NA|NA|NA||||Grande-Rue
+171|Croix-Rousse|Bruyas|Vinc.|||r. Perrot|3|NA|NA|NA|NA|NA|NA||||rue Perrot
+172|Croix-Rousse|Buchy|Jn.|||r. du Chapeau-Rouge|15|NA|NA|NA|NA|NA|NA||||rue du Chapeau-Rouge
+173|Croix-Rousse|Buffart|Célest.|||mtée Rey|1|NA|ch.|gr. gr.|meubl.|un.|NA||||montée Rey
+174|Croix-Rousse|Bugaud|Pre.|||r. du Chapeau-Rouge|25|NA|rob. f.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+175|Croix-Rousse|Buisson|Fr.|||r. de la Citadelle|12|NA|NA|NA|NA|NA|NA||||rue de la Citadelle
+176|Croix-Rousse|Buisson|Pierre-Jean|||Gr.-Pl.|24|NA|châles soie|nouv.|NA|NA|NA||||Grande Place
+177|Croix-Rousse|Bunion|Jean-Marie|||rue des Fossés|21|NA|châle au quart|NA|NA|NA|NA||||rue des Fossés
+178|Croix-Rousse|Burga|Pre.|||imp. St-Clair|6|NA|crav.|rob.|gil. f.|NA|NA||||impasse saint-Clair
+179|Croix-Rousse|Burgas|Jn.-Ant.|||r. Dumenge|6|NA|gil.|NA|NA|NA|NA||||rue Dumenge
+180|Croix-Rousse|Buriot|Jn.|||r. Henri-IV|NA|NA|rob. f.|NA|NA|NA|NA||||rue Henri IV
+181|Croix-Rousse|Cabot|Georges|||rue des Fossés|5|NA|robes f.|NA|NA|NA|NA||||rue des Fossés
+182|Croix-Rousse|Caille|Cl.|||rue Celu|12|NA|NA|NA|NA|NA|NA||||rue Celu
+183|Croix-Rousse|Caire|Jean-baptiste|||rue des Fossés|NA|NA|robes|nouv. f.|NA|NA|NA||||rue des Fossés
+184|Croix-Rousse|Camenich|Melc.|||c. d'Herbouville|55|NA|rob.|gilets f.|NA|NA|NA||||cours d'Herbouville
+185|Croix-Rousse|Canuel|Jean|||rue Dumenge|3|NA|nouv.|éch. f.|NA|NA|NA||||rue Dumenge
+186|Croix-Rousse|Carmillon|Jean|||rue Celu|12|NA|NA|NA|NA|NA|NA||||rue Celu
+187|Croix-Rousse|Carquillat|Michel|||rue Celu|12|NA|meub.|damas|br.|NA|NA||||rue Celu
+188|Croix-Rousse|Carraz|Jean-Fr.|||rue des Fossés|25|NA|unis|NA|NA|NA|NA||||rue des Fossés
+189|Croix-Rousse|Carrichon|Antoine|||rue Henry IV|1|NA|vel. unis|NA|NA|NA|NA||||rue Henri IV
+190|Croix-Rousse|Carrier|Barthélémy|||place de la Visitation|1|NA|mouch.|ch. soie f. 6/4|NA|NA|NA||||place de la Visitation
+191|Croix-Rousse|Carron|Jean-Pr.|||rue des Fossés|11|NA|gil. f.|NA|NA|NA|NA||||rue des Fossés
+192|Croix-Rousse|Carotte|Nicol.|||rue Lafayette|19|NA|rob.|gil. f.|NA|NA|NA||||rue Lafayette
+193|Croix-Rousse|Cathelin|Louis|||Grande-Place|18|NA|gil.|rob.|nouv.|NA|NA||||Grande Place
+194|Croix-Rousse|Causse|Jean-Baptiste|||rue du Chapeau-Rouge|14|NA|NA|NA|NA|NA|NA||||rue du Chapeau-Rouge
+195|Croix-Rousse|Cavallier|Simon|||rue Dumont|10|NA|ch. soie|NA|NA|NA|NA||||rue Dumont
+196|Croix-Rousse|Celu|Louis|||rue Celu|6|NA|parap. unis|et f.|NA|NA|NA||||rue Celu
+197|Croix-Rousse|Cesanne|Jean-Louis|||rue de la Visitation|1|NA|meubles|ornements br.|NA|NA|NA||||rue de la Visitation
+198|Croix-Rousse|Cesmot|Félix|||Grande-Place|14|NA|NA|NA|NA|NA|NA||||Grande Place
+199|Croix-Rousse|Chabanne|André|||rue du Chapeau-Rouge|19|NA|ch. soie|NA|NA|NA|NA||||rue du Chapeau-Rouge
+200|Croix-Rousse|Chabert|Math.|||Grande-Place|13|NA|gil.|rob. f.|NA|NA|NA||||Grande Place
+201|Croix-Rousse|Chabert|Ant.|||rue des Fossés|19|NA|robes riches|NA|NA|NA|NA||||rue des Fossés
+202|Croix-Rousse|Chaffardon|Cl.|||rue du Chapeau-Rouge|19|NA|robes|gilets façon.|NA|NA|NA||||rue du Chapeau-Rouge
+203|Croix-Rousse|Chalamel|Pierre|||rue Perrot|1|NA|unis|arm.|robes f.|NA|NA||||rue Perrot
+204|Croix-Rousse|Chalamel|Pierre|||impasse St-Clair|7|NA|ch. laine|autres|façonnés|NA|NA||||impasse saint-Clair
+205|Croix-Rousse|Chalandre|Jean|||rue de la Visitation|15|NA|rob.|gil. f.|NA|NA|NA||||rue de la Visitation
+206|Croix-Rousse|Chambe|Jacques|||Grande-Rue|39|NA|gil.|ch. f. lanc.|NA|NA|NA||||Grande-Rue
+207|Croix-Rousse|Chamberlant|NA|||cours des Tapis|4|NA|ch. au quart|NA|NA|NA|NA||||cours des Tapis
+208|Croix-Rousse|Champagneux|NA|||montée Rey|5|NA|mouch.|éch.|gazes f.|NA|NA||||montée Rey
+209|Croix-Rousse|Champart|Et.|||rue du Chariot-d'Or|3|NA|velours unis en toutes largeurs|NA|NA|NA|NA||||rue du Chariot-d'Or
+210|Croix-Rousse|Champitier|NA|||rue de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+211|Croix-Rousse|Chancel|Pierre|||rue de la Citadelle|5|NA|NA|NA|NA|NA|NA||||rue de la Citadelle
+212|Croix-Rousse|Chapoton|Ch.|||rue Henri IV|1|NA|NA|NA|NA|NA|NA||||rue Henri IV
+213|Croix-Rousse|Chandaize|Fr.|||rue du Pavillon|1|NA|unis|vel. unis|NA|NA|NA||||rue du Pavillon
+214|Croix-Rousse|Chanel|Jean|||Grand-Place|22|NA|vel. f.|NA|NA|NA|NA||||Grande Place
+215|Croix-Rousse|Chantre|Pierre|||cours des Tapis|10 et 4|NA|unis|rob. f.|NA|NA|NA||||cours des Tapis
+216|Croix-Rousse|Chapelon|Pierre|||rue Dumenge|12|NA|unis|NA|NA|NA|NA||||rue Dumenge
+217|Croix-Rousse|Charpennet|Ant.|||rue du Chariot d'Or|3|NA|rob. f.|NA|NA|NA|NA||||rue du Chariot-d'Or
+218|Croix-Rousse|Chaperon|Alex.|||r. du Chapeau-Rouge|NA|NA|ch. tartan 6/4|NA|NA|NA|NA||||rue du Chapeau-Rouge
+219|Croix-Rousse|Chappuis|Jean|||montée Rey|8|NA|nouv.|NA|NA|NA|NA||||montée Rey
+220|Croix-Rousse|Chappuis|Joseph|||rue des Fossés|19|NA|rob.|gil. f.|NA|NA|NA||||rue des Fossés
+221|Croix-Rousse|Charbonnier|Guichard|||rue des Tapis|21|NA|unis|NA|NA|NA|NA||||rue des Tapis
+222|Croix-Rousse|Charvet|Jean|||cours des Tapis|4|NA|NA|NA|NA|NA|NA||||cours des Tapis
+223|Croix-Rousse|Charrin|Cl.|||rue de Cuire|23|NA|NA|NA|NA|NA|NA||||rue de Cuire
+224|Croix-Rousse|Chaussa|Louis|||rue Perrot|2|NA|NA|NA|NA|NA|NA||||rue Perrot
+225|Croix-Rousse|Chassagneux|Pierre|||rue Ste-Catherine|1|NA|rob. f.|NA|NA|NA|NA||||rue sainte-Catherine
+226|Croix-Rousse|Chatagnat|Fr.-Marie|||rue de Cuire|2|NA|ch. soie|robes|NA|NA|NA||||rue de Cuire
+227|Croix-Rousse|Chatagnat|Jean-Fr.|||rue du Chapeau-Rouge|NA|NA|pel.|nouv.|NA|NA|NA||||rue du Chapeau-Rouge
+228|Croix-Rousse|Chautard|Pierre|||Grande-Place|23|NA|rob.|gil.|crav. f.|NA|NA||||Grande Place
+229|Croix-Rousse|Chazotte|Jn.-Marie|||rue du Chapeau-Rouge|2|NA|rob.|gil.|NA|NA|NA||||rue du Chapeau-Rouge
+230|Croix-Rousse|Chenevet|Henri|||rue Dumont|16|NA|NA|NA|NA|NA|NA||||rue Dumont
+231|Croix-Rousse|Chenevier|NA|||cours des Tapis|4|NA|nouv.|f.|NA|NA|NA||||cours des Tapis
+232|Croix-Rousse|Chevallier|Jean-Et.|||impasse Dumont|6|NA|mouch. f.|NA|NA|NA|NA||||impasse Dumont
+233|Croix-Rousse|Chevillon|Th.|||rue Constantine|NA|NA|unis|arm.|nouv.|NA|NA||||rue Constantine
+234|Croix-Rousse|Chipier|Th.|||rue de la Cutalle|1|NA|unis|NA|NA|NA|NA||||rue de la Cutalle
+235|Croix-Rousse|Chizel|Gaspard|||rue Ste-Catherine|1|NA|NA|NA|NA|NA|NA||||rue sainte-Catherine
+236|Croix-Rousse|Christophe|Napoléon|||r. d'Enfert|10|NA|rob.|gil.|crav.|vel. f.|NA||||rue d'Enfert
+237|Croix-Rousse|Christin|Jean-Baptiste|||rue Sully|NA|NA|ch. au quart|NA|NA|NA|NA||||rue Sully
+238|Croix-Rousse|Chuard|Apoll.|||rue Dumenge|13|NA|meub.|ch. soie|NA|NA|NA||||rue Dumenge
+239|Croix-Rousse|Clair|Jean|||montée Rey|9|NA|NA|NA|NA|NA|NA||||montée Rey
+240|Croix-Rousse|Clair|Fr.|||rue des Gloriettes|38|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+241|Croix-Rousse|Clairet|Cl.|||rue Dumenge|8|NA|ch. au quart|NA|NA|NA|NA||||rue Dumenge
+242|Croix-Rousse|Clairon|Cl.|||rue de la Visitation|9|NA|NA|NA|NA|NA|NA||||rue de la Visitation
+243|Croix-Rousse|Clarin|Nicolas|||rue du Chariot|3|NA|unis|et f.|NA|NA|NA||||rue du Chariot-d'Or
+244|Croix-Rousse|Clavis|Jacques|||Grande-Place|23|NA|rob.|gil. f.|NA|NA|NA||||Grande Place
+245|Croix-Rousse|Clavel|Joseph|||rue du Mail|27|NA|gil.|rob.|NA|NA|NA||||rue du Mail
+246|Croix-Rousse|Clément|Bapt.|||r. des Gloriettes|24|NA|rob.|crav.|mouch.|NA|NA||||rue des Gloriettes
+247|Croix-Rousse|Clément|Et.|||rue Dumenge|15|NA|ch. soie 6/4|NA|NA|NA|NA||||rue Dumenge
+248|Croix-Rousse|Clerjon|Jean-Marie|||rue de la Visitation|13|NA|unis|et f.|NA|NA|NA||||rue de la Visitation
+249|Croix-Rousse|Clocher|Et.|||Grande-Place|18|NA|NA|NA|NA|NA|NA||||Grande Place
+250|Croix-Rousse|Clotaire|L.|||rue du Chapeau-Rouge|19|NA|nouv.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+251|Croix-Rousse|Cognet|Ant.|||rue Celu|2|NA|vel. f.|NA|NA|NA|NA||||rue Celu
+252|Croix-Rousse|Colin|Jean-Baptiste|||rue de Viare|2|NA|ch. soie|NA|NA|NA|NA||||rue du Viare
+253|Croix-Rousse|Chana|Philippe|||rue Celu|NA|NA|NA|NA|NA|NA|NA||||rue Celu
+254|Croix-Rousse|Chanay|Philippe|||rue Ste-Catherine|1|NA|NA|NA|NA|NA|NA||||rue sainte-Catherine
+255|Croix-Rousse|Colomban|Marie|||rue de la Visitation|NA|NA|unis|gr.-de (?)|NA|NA|NA||||rue de la Visitation
+256|Croix-Rousse|Colombant|Christophe|||Gr.-Place|23|NA|unis|gr. larg.|NA|NA|NA||||Grande Place
+257|Croix-Rousse|Collet|Cl.|||rue du Mail|22|NA|unis|arm.|NA|NA|NA||||rue du Mail
+258|Croix-Rousse|Collet|Baptiste|||rue Constantine|2|NA|vel. unis|gr. larg.|NA|NA|NA||||rue Constantine
+259|Croix-Rousse|Collon|Balthazar|||rue des Fossés|25|NA|vel. f.|NA|NA|NA|NA||||rue des Fossés
+260|Croix-Rousse|Collas|Fr.|||Grande-Rue|103|NA|NA|NA|NA|NA|NA||||Grande-Rue
+261|Croix-Rousse|Collonel|Christ.|||rue Dumont|NA|NA|ch. soie|nouv. f.|NA|NA|NA||||rue Dumont
+262|Croix-Rousse|Combet|Anthelme|||rue du Chariot d'Or|14|NA|f.|NA|NA|NA|NA||||rue du Chariot-d'Or
+263|Croix-Rousse|Commerson|Nicolas|||rue Dumont|12|NA|lancé au quart|NA|NA|NA|NA||||rue Dumont
+264|Croix-Rousse|Compagnon|André|||rue du Mail|21|NA|ch. lanc.|NA|NA|NA|NA||||rue du Mail
+265|Croix-Rousse|Compart|Jean-Baptiste|||Grande-Place|18|NA|NA|NA|NA|NA|NA||||Grande Place
+266|Croix-Rousse|Conte|Jean|||rue Celu|12|NA|ch. 6/4|NA|NA|NA|NA||||rue Celu
+267|Croix-Rousse|Cormy|Marie|||passage Lamure|15|NA|gil.|vel. f.|NA|NA|NA||||passage Lamure
+268|Croix-Rousse|Coste|Jean-Bapt.|||rue du Chapeau-Rouge|19|NA|mouch.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+269|Croix-Rousse|Cotant|Rozier|||montée Rey|15|NA|NA|NA|NA|NA|NA||||montée Rey
+270|Croix-Rousse|Cotter|NA|||rue Lafayette|1|NA|satins lustrés|NA|NA|NA|NA||||rue Lafayette
+271|Croix-Rousse|Cotter|Baptiste|||rue de la Visitation|13|NA|ch. soie 6/4|NA|NA|NA|NA||||rue de la Visitation
+272|Croix-Rousse|Couturier|Baptiste|||rue de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+273|Croix-Rousse|Courjean|NA|||rue du Mail|30|NA|unis|arm.|NA|NA|NA||||rue du Mail
+274|Croix-Rousse|Coutin|Jean|||rue des Tapis|16|NA|vel. unis|NA|NA|NA|NA||||rue des Tapis
+275|Croix-Rousse|Coutin|Aug.|||cours des Tapis|10|NA|vel.|NA|NA|NA|NA||||cours des Tapis
+276|Croix-Rousse|Couturier|Jean-Louis|||rue du Pavillon|6|NA|robes|gil. f.|NA|NA|NA||||rue du Pavillon
+277|Croix-Rousse|Couturier|Baptiste|||rue des Fossés|23|NA|meubles|NA|NA|NA|NA||||rue des Fossés
+278|Croix-Rousse|Crépée|Louis|||rue d'Enfert|NA|maison Terrond|NA|NA|NA|NA|NA||||rue d'Enfert
+279|Croix-Rousse|Cret|Louis|||rue des Gloriettes|22|NA|rob.|gil. f.|NA|NA|NA||||rue des Gloriettes
+280|Croix-Rousse|Cret|Baptiste|||rue Pailleron|2|NA|robes|gil. f.|NA|NA|NA||||rue Pailleron
+281|Croix-Rousse|Cretin|Pierre|||Grande-Rue|99|NA|unis gr. larg.|NA|NA|NA|NA||||Grande-Rue
+282|Croix-Rousse|Crésillieu|Jean|||petite rue de Cuire|88|NA|robes façon.|NA|NA|NA|NA||||petite rue de Cuire
+283|Croix-Rousse|Croisade|Joseph|||rue de la Terrasse|2|NA|ch. soie|nouv.|NA|NA|NA||||rue de la Terrasse
+284|Croix-Rousse|Crosier|Jean-Marie|||rue St-Eucher|NA|maison Vettard|NA|NA|NA|NA|NA||||rue saint-Eucher
+285|Croix-Rousse|Crozet|Jean-Louis|||rue du Chapeau-Rouge|15|NA|lustrés|gros grains|grande largeur|NA|NA||||rue du Chapeau-Rouge
+286|Croix-Rousse|Cuillon|Pierre|||Grande-Place|14|NA|NA|NA|NA|NA|NA||||Grande Place
+287|Croix-Rousse|Curin|Sébastien|||rue des Gloriettes|8|NA|ch. 6/4|NA|NA|NA|NA||||rue des Gloriettes
+288|Croix-Rousse|Curte|Joachim|||rue d'Enfert|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+289|Croix-Rousse|Daboulat|Jn.-Ls.|||Gr.-r.|3|NA|NA|NA|NA|NA|NA||||Grande-Rue
+290|Croix-Rousse|Daccier|Ant.|||pl. de la Visitation|18|NA|vel. faç.|NA|NA|NA|NA||||place de la Visitation
+291|Croix-Rousse|Damiron|Bt.|||r. Jacquard|12|NA|NA|NA|NA|NA|NA||||rue Jacquard
+292|Croix-Rousse|Dangle|Augte|||Gr.-Pl.|14|NA|ch. soie|mouch.|mouveautés|battants brocheurs|NA||||Grande Place
+293|Croix-Rousse|Darchez|Fr.|||r. du Mail|31|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+294|Croix-Rousse|Darin|Jn.|||r. de Cuire|88|NA|NA|NA|NA|NA|NA||||rue de Cuire
+295|Croix-Rousse|Darnon|Jn.-Pre.|||Gr.-Pl.|22|NA|br.|meubl.|NA|NA|NA||||Grande Place
+296|Croix-Rousse|Darrier|Sim.|||pl. de la Visitation|1|NA|rob.|gil.|NA|NA|NA||||place de la Visitation
+297|Croix-Rousse|Daviet|Pre.-Ls.|||r. d'Enfert|NA|m. Davier|unis|NA|NA|NA|NA||||rue d'Enfert
+298|Croix-Rousse|Daviet|Et.|||r. Dumenge|8|NA|mouch.|châle faç.|cach.|NA|NA||||rue Dumenge
+299|Croix-Rousse|Dayant|Jn.|||Gr.-r.|95|NA|un.|sat.|NA|NA|NA||||Grande-Rue
+300|Croix-Rousse|Debauge|Jn.|||r. de la Visitation|1|NA|ch. soie 6/4|NA|NA|NA|NA||||rue de la Visitation
+301|Croix-Rousse|Debilly|Cl.|||r. Ste-Catherine|5|NA|rob.|gil.|NA|NA|NA||||rue sainte-Catherine
+302|Croix-Rousse|Debret|Pre.-Mar.|||r. du Chariot-d'Or|12|NA|rob.|nouv.|NA|NA|NA||||rue du Chariot-d'Or
+303|Croix-Rousse|Decourt|Léon.|||mtée Chaumais|5|NA|mouch.|thib.|mélange|un et faç.|NA||||montée Chaumais
+304|Croix-Rousse|Dejay|René|||r. des Fossés|21|NA|NA|NA|NA|NA|NA||||rue des Fossés
+305|Croix-Rousse|Dalaigue|Ch.|||r. du Mail|13|NA|un.|gr. grain.|NA|NA|NA||||rue du Mail
+306|Croix-Rousse|Delaromanichère|Jn.-Mar.|||Gr.-Pl.|22|NA|crav.|gil. soie|damas|NA|NA||||Grande Place
+307|Croix-Rousse|Delas|Jn.|||pet. r. de Cuire|NA|NA|NA|NA|NA|NA|NA||||petite rue de Cuire
+308|Croix-Rousse|Delille|Jn.|||r. du Mail|4|NA|rob.|arm.|NA|NA|NA||||rue du Mail
+309|Croix-Rousse|Delilier|Cl.|||Gr.-Pl.|22|Bur. d'indication|un.|et faç.|NA|NA|NA||||Grande Place
+310|Croix-Rousse|Deloche|Jn.-Fr.|||Gr.-Pl.|14|NA|rob.|gil.|arm.|unis|NA||||Grande Place
+311|Croix-Rousse|Deloclet (?)|Jn.|||Gr.-Pl.|13|NA|NA|NA|NA|NA|NA||||Grande Place
+312|Croix-Rousse|Deloeuvre|Cl.|||clos Fayolle|NA|m. Ollagnier|un.|arm.|NA|NA|NA||||clos Fayolle
+313|Croix-Rousse|Delloly|Jn.|||r. des Tapis|1|NA|rob.|mouch.|NA|NA|NA||||rue des Tapis
+314|Croix-Rousse|Delorme|Sébast.|||clos Fayolle|NA|m. Dor|ch. soie|NA|NA|NA|NA||||clos Fayolle
+315|Croix-Rousse|Delustre|Pre.|||Gr.-Place|20|NA|NA|NA|NA|NA|NA||||Grande Place
+316|Croix-Rousse|Demaison|Jacques|||r. du Chariot-d'Or|12|NA|nouv.|NA|NA|NA|NA||||rue du Chariot-d'Or
+317|Croix-Rousse|Demarre fils|Ant.|||imp. Dumond|8|NA|rob.|gil.|crav.|NA|NA||||impasse Dumont
+318|Croix-Rousse|Demeure|Fr.|||r. de la Visitation|5|NA|rob.|gil.|crav.|NA|NA||||rue de la Visitation
+319|Croix-Rousse|Demoulin|Henry|||r. des Fossés|19|NA|meubl.|NA|NA|NA|NA||||rue des Fossés
+320|Croix-Rousse|Denegris|And.|||r. des Fossés|13|NA|vel. un.|NA|NA|NA|NA||||rue des Fossés
+321|Croix-Rousse|Denizière|NA|||r. Pailleron|9|NA|rob.|crav.|gil.|NA|NA||||rue Pailleron
+322|Croix-Rousse|Dené|Fr.-Marie|||Gr.-Place|24|NA|un.|et faç.|NA|NA|NA||||Grande Place
+323|Croix-Rousse|Denys|Blaise|||rue Dumont|9|NA|NA|NA|NA|NA|NA||||rue Dumont
+324|Croix-Rousse|Derin|Fr.|||r. du Chapeau-Rouge|23|NA|ch. soie 6/4|NA|NA|NA|NA||||rue du Chapeau-Rouge
+325|Croix-Rousse|Dervieu|Fr.|||imp. St-Clair|7|NA|meubl.|br.|orn.|NA|NA||||impasse saint-Clair
+326|Croix-Rousse|Desbes Derrier|NA|||r. de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+327|Croix-Rousse|Descombes|Jn.|||r. de la Citadelle|18|NA|pel.|NA|NA|NA|NA||||rue de la Citadelle
+328|Croix-Rousse|Descombes|Jacq.|||r. Henri-IV|13|NA|gil.|crav.|rob.|NA|NA||||rue Henri IV
+329|Croix-Rousse|Descote|Cl.|||r. du Mail|19|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+330|Croix-Rousse|Descours|NA|||clos Chaumais|NA|NA|ch. laine|thibets|NA|NA|NA||||clos Chaumais
+331|Croix-Rousse|Desflache|Gabr.|||r. du Mail|21|NA|vel. faç.|NA|NA|NA|NA||||rue du Mail
+332|Croix-Rousse|Desmarre|Ch.|||r. d'Enfert|NA|m. Sicard|NA|NA|NA|NA|NA||||rue d'Enfert
+333|Croix-Rousse|Desvignes|Fr.|||r. Pailleron|6|NA|rob.|éch.|fichus|gaz|NA||||rue Pailleron
+334|Croix-Rousse|Desvignes|Jn.-Marie|||pl. de la Visitation|NA|NA|mouch.|éch.|NA|NA|NA||||place de la Visitation
+335|Croix-Rousse|Devaux|Fr.|||r. Celu|6|NA|robes|éch.|mouch.|NA|NA||||rue Celu
+336|Croix-Rousse|Deville|Ant.|||r. de la Terrasse|2|NA|nouv.|NA|NA|NA|NA||||rue de la Terrasse
+337|Croix-Rousse|Devoise|Fr.|||r. Sully|2|NA|thib.|ch.|laine|lancé|NA||||rue Sully
+338|Croix-Rousse|Die|Jh.|||Gr.-Rue|3|NA|NA|NA|NA|NA|NA||||Grande-Rue
+339|Croix-Rousse|Die|Jn.|||r. Celu|8|NA|meubl. uni|NA|NA|NA|NA||||rue Celu
+340|Croix-Rousse|Dioux|Sébast.|||r. de Cuire|25|NA|NA|NA|NA|NA|NA||||rue de Cuire
+341|Croix-Rousse|Donnien|NA|||r. Pailleron|13|NA|tulles|NA|NA|NA|NA||||rue Pailleron
+342|Croix-Rousse|D'or|Fr.|||pl. de la Visitation|1|NA|gil.|crav.|NA|NA|NA||||place de la Visitation
+343|Croix-Rousse|Douillet|Aug.|||r. Pailleron|7|NA|rob.|gil.|crav.|NA|NA||||rue Pailleron
+344|Croix-Rousse|Douillet|Constant|||r. du Mail|30|NA|gil.|rob.|NA|NA|NA||||rue du Mail
+345|Croix-Rousse|Douillet|Frédér.|||r. Pailleron|9|NA|rob.|gil.|crav.|NA|NA||||rue Pailleron
+346|Croix-Rousse|Douillet|Jh.|||mtée Rey|2|NA|rob.|gil.|NA|NA|NA||||montée Rey
+347|Croix-Rousse|Douillet|Jn.|||r. Pailleron|6|NA|rob.|gil.|crav.|NA|NA||||rue Pailleron
+348|Croix-Rousse|Drevon|Jacques|||Gr.-Place|23|NA|gil.|cachem.|NA|NA|NA||||Grande Place
+349|Croix-Rousse|Dublay|Jn.|||Gr.-Rue|93|NA|unis|gr. larg.|NA|NA|NA||||Grande-Rue
+350|Croix-Rousse|Dubost|Jn.-Fr.|||r. Ste-Catherine|1|NA|rob.|gil.|NA|NA|NA||||rue sainte-Catherine
+351|Croix-Rousse|Dubost|Jn.-Pre.|||r. Pailleron|13|NA|rob.|gil.|NA|NA|NA||||rue Pailleron
+352|Croix-Rousse|Duc|F.-Marie|||mtée Rey|9|NA|un.|NA|NA|NA|NA||||montée Rey
+353|Croix-Rousse|Duc|Jullien|||r. des Fossés|27|NA|NA|NA|NA|NA|NA||||rue des Fossés
+354|Croix-Rousse|Duc|Jn.-Ant.|||pl. de la Visitation|1|NA|vel. un.|NA|NA|NA|NA||||place de la Visitation
+355|Croix-Rousse|Duchamp|Cl.|||Gr.-Place|16|NA|rob.|crav.|NA|NA|NA||||Grande Place
+356|Croix-Rousse|Duchon|Mathieu|||Gr.-Rue|85|NA|unis|gr. larg.|NA|NA|NA||||Grande-Rue
+357|Croix-Rousse|Duclos|Jh.|||r. des Fossés|10|NA|uni|NA|NA|NA|NA||||rue des Fossés
+358|Croix-Rousse|Dudon|Ch.|||Gr.-Rue|99|NA|uni|NA|NA|NA|NA||||Grande-Rue
+359|Croix-Rousse|Dufavens|Jn.-Cl.|||Gr.-Pl.|17|NA|vel. un.|NA|NA|NA|NA||||Grande Place
+360|Croix-Rousse|Dufour|Ant.|||Gr. Pl.|5|NA|mouch.|gil.|nouv.|NA|Profess. de théorie||||Grande Place
+361|Croix-Rousse|Duguelley|Jh.|||r. de la Citadelle|12|NA|un.|NA|NA|NA|NA||||rue de la Citadelle
+362|Croix-Rousse|Dumas|Ant.|||r. de l'Enfance|NA|NA|rob.|gil.|crav.|NA|NA||||rue de l'Enfance
+363|Croix-Rousse|Dumas|Bt.|||cours des Tapis|10|NA|pel|nouv.|gr. larg.|NA|NA||||cours des Tapis
+364|Croix-Rousse|Dumas|Hyacinthe|||r. des Tapis|5|NA|pel.|un.|NA|NA|NA||||rue des Tapis
+365|Croix-Rousse|Dumond|And.|||r. de la Citadelle|1|NA|vel. un.|NA|NA|NA|NA||||rue de la Citadelle
+366|Croix-Rousse|Dumoulin|Jn.|||r. Pailleron|1|NA|rob.|gil.|NA|NA|NA||||rue Pailleron
+367|Croix-Rousse|Dumoulin|Pre.|||r. de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+368|Croix-Rousse|Dumbert|Augustin|||r. du Mail|22|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+369|Croix-Rousse|Dunard-Besson|Bt.|||Gr.-Rue|99|NA|NA|NA|NA|NA|NA||||Grande-Rue
+370|Croix-Rousse|Dunoyer|Mathieu|||r. du Mail|12|NA|éch.|mouch.|ch.|NA|NA||||rue du Mail
+371|Croix-Rousse|Duplan|David|||r. du Mail|31|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+372|Croix-Rousse|Dupont|Jacq.|||r. Sully|2|NA|NA|NA|NA|NA|NA||||rue Sully
+373|Croix-Rousse|Duprat|Ls.|||r. des Fossés|8|NA|NA|NA|NA|NA|NA||||rue des Fossés
+374|Croix-Rousse|Dupré|Ant.|||r. du Mail|22|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+375|Croix-Rousse|Dupuis|Cl.-Mar.|||r. de la Visitation|5|NA|NA|NA|NA|NA|NA||||rue de la Visitation
+376|Croix-Rousse|Durand|Ls.|||mtée Rey|12|NA|mouch.|NA|NA|NA|NA||||montée Rey
+377|Croix-Rousse|Durantier|Jn.-Pre.|||r. du Chapeau Rouge|13|NA|NA|NA|NA|NA|NA||||rue du Chapeau-Rouge
+378|Croix-Rousse|Durdilly|Camille|||r. des Fossés|9|NA|vel. un.|NA|NA|NA|NA||||rue des Fossés
+379|Croix-Rousse|Durial|Jn.|||r. Dumenge|13|NA|rob.|NA|NA|NA|NA||||rue Dumenge
+380|Croix-Rousse|Durrière|Jh.|||r. du Mail|21|NA|unis|gr. larg.|NA|NA|NA||||rue du Mail
+381|Croix-Rousse|Dussardier|Cl.|||Gr.-R.|97|NA|unis|gr. larg.|NA|NA|NA||||Grande-Rue
+382|Croix-Rousse|Duvivier|Jacq.|||Gr. Pl.|24|NA|rob.|colliers|éch.|mouch.|NA||||Grande Place
+383|Croix-Rousse|Edouard|Jn.|||Gr. Pl.|18|NA|rob.|gil.|NA|NA|NA||||Grande Place
+384|Croix-Rousse|Emonnet|Cl.|||Gr.-Pl.|24|NA|rob.|crav.|mouch. f.|NA|NA||||Grande Place
+385|Croix-Rousse|Emonet|Jh.|||r. Lafayette|19|NA|gr. satins|lustrés|15/16|NA|NA||||rue Lafayette
+386|Croix-Rousse|Escoffier|Jn.-Cl.|||r. Ste-Catherine|1|NA|vel. f.|NA|NA|NA|NA||||rue sainte-Catherine
+387|Croix-Rousse|Escoffier|Jh.|||r. du Pavillon|8|NA|crav.|rob. f.|NA|NA|NA||||rue du Pavillon
+388|Croix-Rousse|Escallon|Jn.-Jacq.|||r. du Chapeau-Rouge|23|NA|crav.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+389|Croix-Rousse|Esmingot|P.|||mtée Rey|12|NA|rob. f.|NA|NA|NA|NA||||montée Rey
+390|Croix-Rousse|Espie|Domin.|||r. des Fossés|15|NA|robes riche|NA|NA|NA|NA||||rue des Fossés
+391|Croix-Rousse|Eymin|Mathieu|||rue du Mail|22|NA|nouv.|gazes|NA|NA|NA||||rue du Mail
+392|Croix-Rousse|Eymard|Ennemond|||rue du Chapeau-Rouge|27|NA|rob. f.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+393|Croix-Rousse|Eynard|Ant.|||Grande Place|22|NA|châle laine|lancé|NA|NA|NA||||Grande Place
+394|Croix-Rousse|Fabre|Antoine|||rue Lafayette|3|NA|mouch.|ch. s.|NA|NA|NA||||rue Lafayette
+395|Croix-Rousse|Fache|Et.|||r. de la Citadelle|7|NA|NA|NA|NA|NA|NA||||rue de la Citadelle
+396|Croix-Rousse|Fagot|Pierre|||rue du Mail|14|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+397|Croix-Rousse|Fagueton|Jean-Marie|||r. du Pavillon|1|NA|nouv.|NA|NA|NA|NA||||rue du Pavillon
+398|Croix-Rousse|Falconnet|Cl.-Antoine|||rue des Fossés|7|NA|ch. lanc.|tartans|et au quart|NA|NA||||rue des Fossés
+399|Croix-Rousse|Falconnet|Jacques|||rue Celu|3|NA|NA|NA|NA|NA|NA||||rue Celu
+400|Croix-Rousse|Falquet|NA|||impasse St-Clair|1|NA|unis|arm.|NA|NA|plieur||||impasse saint-Clair
+401|Croix-Rousse|Falquet|Paulin-Benoit|||rue du Mail|22|NA|nouv. f.|NA|NA|NA|NA||||rue du Mail
+402|Croix-Rousse|Farge|Cl.|||montée Chaumais|5|NA|NA|NA|NA|NA|NA||||montée Chaumais
+403|Croix-Rousse|Farge|Ch.|||r. des Fossés|13|NA|NA|NA|NA|NA|NA||||rue des Fossés
+404|Croix-Rousse|Farget|Cl.|||Gr.-R.|93|NA|gil.|crav.|mouch. f.|NA|sa demoiselle remetteuse||||Grande-Rue
+405|Croix-Rousse|Farrin|Jacques|||r. de Cuire|25|NA|NA|NA|NA|NA|NA||||rue de Cuire
+406|Croix-Rousse|Fatay|NA|||clos Chaumais|NA|NA|ch. lain.|thib. f.|NA|NA|NA||||clos Chaumais
+407|Croix-Rousse|Fatigué|Fr.|||r. Dumenge|11|NA|rob.|gil.|NA|NA|NA||||rue Dumenge
+408|Croix-Rousse|Faugeraud|Jn.|||r. du Mail|3|NA|rob.|gil.|arm.|NA|NA||||rue du Mail
+409|Croix-Rousse|Faurax|Fr.|||Gr.-Pl.|17|NA|gil.|rob. f.|NA|NA|NA||||Grande Place
+410|Croix-Rousse|Faure|Auguste|||rue Dumenge|10|NA|unis|NA|NA|NA|NA||||rue Dumenge
+411|Croix-Rousse|Faure|Jn.-Fr.|||mtée Rey|15|NA|rob. f.|NA|NA|NA|NA||||montée Rey
+412|Croix-Rousse|Faure|Cl.|||r. des Fossés|19|NA|uni.|NA|NA|NA|NA||||rue des Fossés
+413|Croix-Rousse|Faure|Jn.-Ls.|||r. des Fossés|8|NA|gil.|NA|NA|NA|NA||||rue des Fossés
+414|Croix-Rousse|Favier|Vinc.|||r. Dumond|10|NA|ch. s. f.|NA|NA|NA|NA||||rue Dumont
+415|Croix-Rousse|Favrot|Jn.|||r. des Fossés|23|NA|meubl.|NA|NA|NA|NA||||rue des Fossés
+416|Croix-Rousse|Fayolle|NA|||r. Lafayette|1|NA|rob.|mouch.|nouv. f.|NA|NA||||rue Lafayette
+417|Croix-Rousse|Félix|Pre.|||Gr.-Pl.|19|NA|mouch.|nouv. f.|NA|NA|NA||||Grande Place
+418|Croix-Rousse|Ferrand|Jh.|||r. d'Enfert|NA|maison Terrend|NA|NA|NA|NA|NA||||rue d'Enfert
+419|Croix-Rousse|Ferre|Jn.-Cl.|||imp. St-Clair|14|NA|unis|NA|NA|NA|NA||||impasse saint-Clair
+420|Croix-Rousse|Ferrière|Jn.-Marie|||r. des Gloriettes|8|NA|vel. un.|et f.|NA|NA|NA||||rue des Gloriettes
+421|Croix-Rousse|Ferrière|Jn.-Pre.|||r. de la Citadelle|12|NA|NA|NA|NA|NA|NA||||rue de la Citadelle
+422|Croix-Rousse|Ficher|Pre.|||r. Ste-Catherine|5|NA|meubl.|NA|NA|NA|NA||||rue sainte-Catherine
+423|Croix-Rousse|Ficher|Jn.|||r. des Tapis|16|NA|un.|NA|NA|NA|NA||||rue des Tapis
+424|Croix-Rousse|Fillet|Domin.-Jn.|||r. du Pavillon|1|NA|NA|NA|NA|NA|NA||||rue du Pavillon
+425|Croix-Rousse|Finas|Nic.|||r. de la Citadelle|1|NA|ch. soie|laine|gil. f.|NA|NA||||rue de la Citadelle
+426|Croix-Rousse|Finaz|Jn.-Bte.|||Gr.-R.|93|NA|rob.|crav.|mouch. f.|NA|NA||||Grande-Rue
+427|Croix-Rousse|Flachon|Jn.-Marie|||r. des Tapis|3|NA|un.|NA|NA|NA|NA||||rue des Tapis
+428|Croix-Rousse|Fongelas|Jn.-Mar.|||r. du Chapeau-Rouge|9|NA|ch. (tart.)|NA|NA|NA|NA||||rue du Chapeau-Rouge
+429|Croix-Rousse|Fongelas|Pre.|||r. de la Citadelle|1|NA|gil.|vel. f.|rob.|NA|NA||||rue de la Citadelle
+430|Croix-Rousse|Fontaine|Fr.|||rue Ste-Catherine|5|NA|uni.|NA|NA|NA|NA||||rue sainte-Catherine
+431|Croix-Rousse|Fontaine|Jn.|||r. Dumond|12|NA|ch. au quart|mouch. un.|et f.|NA|NA||||rue Dumont
+432|Croix-Rousse|Fontbonne|Pre.|||r. Constantine|2|NA|ch. ind.|mex.|NA|NA|NA||||rue Constantine
+433|Croix-Rousse|Forgerot|Jean|||r. du Mail|3|NA|rob. f.|arm.|NA|NA|NA||||rue du Mail
+434|Croix-Rousse|Forges|Ant.|||r. Sully|2|NA|NA|NA|NA|NA|NA||||rue Sully
+435|Croix-Rousse|Forget|Barthélémy|||montée Rey|11|NA|rob.|gil. f.|NA|NA|NA||||montée Rey
+436|Croix-Rousse|Forrax|Fr.-Marie|||r. des Tapis|1|NA|ch. s.|gil.|nouv. f.|NA|NA||||rue des Tapis
+437|Croix-Rousse|Four|Jh.|||r. Dumenge|13|NA|gil. f.|NA|NA|NA|NA||||rue Dumenge
+438|Croix-Rousse|Fournier|Jn.-Ls.|||Gr.-Pl.|16|NA|NA|NA|NA|NA|NA||||Grande Place
+439|Croix-Rousse|Fournier|Ant.|||r. de la Citadelle|8|NA|rob.|gil.|NA|NA|NA||||rue de la Citadelle
+440|Croix-Rousse|Fournier|Fr.|||mtée Rey|8|NA|NA|NA|NA|NA|NA||||montée Rey
+441|Croix-Rousse|Fournier|Ant.|||mtée Rey|13|NA|rob.|mouch.|éch.|nouv.|NA||||montée Rey
+442|Croix-Rousse|Francillon|Pre.|||r. Henri-IV|1|NA|unis|NA|NA|NA|NA||||rue Henri IV
+443|Croix-Rousse|Francoz|Ant.|||mtée Chaumais|11|NA|lustrés|sat. un.|NA|NA|NA||||montée Chaumais
+444|Croix-Rousse|Franquet|NA|||cours des Tapis|NA|NA|ch. soie|nouv.|NA|NA|tient café.||||cours des Tapis
+445|Croix-Rousse|Franquet|Jh.|||r. du Chapeau-Rouge|2|NA|gil.|crav.|NA|NA|NA||||rue du Chapeau-Rouge
+446|Croix-Rousse|Frédéric|Domin.|||r. du Mail|12 bis|NA|vel. faç.|NA|NA|NA|NA||||rue du Mail
+447|Croix-Rousse|Frédéric|Bt.|||Gr.-Rue|115|NA|NA|NA|NA|NA|NA||||Grande-Rue
+448|Croix-Rousse|Fromant|Christophe|||r. Dumenge|3|NA|gil.|rob.|NA|NA|NA||||rue Dumenge
+449|Croix-Rousse|Fulget|Anth.|||mtée Rey|10|NA|NA|NA|NA|NA|NA||||montée Rey
+450|Croix-Rousse|Gagnieux|Fleury|||Gr.-R.|91|NA|un.|larg.|NA|NA|NA||||Grande-Rue
+451|Croix-Rousse|Gaillard|Guil.|||Gr.-R.|97|NA|un.|gr. larg.|NA|NA|NA||||Grande-Rue
+452|Croix-Rousse|Gaillard|Ant.|||r. d'Enfert|11|NA|sat. un.|NA|NA|NA|NA||||rue d'Enfert
+453|Croix-Rousse|Gaillard|Ant.|||pet. r. de Cuire|88|NA|rob.|gil.|NA|NA|NA||||petite rue de Cuire
+454|Croix-Rousse|Gaillard|Jn.|||r. du Mail|27|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+455|Croix-Rousse|Gaillard|Ch.|||r. du Chapeau-Rouge|21|NA|rob.|gil.|col.|NA|NA||||rue du Chapeau-Rouge
+456|Croix-Rousse|Gaillard|Cl.|||r. Dumont|16|NA|gil.|crav.|nouv.|NA|NA||||rue Dumont
+457|Croix-Rousse|Gaillard|Jn.|||r. de la Terrasse|2|NA|pel.|rob.|NA|NA|NA||||rue de la Terrasse
+458|Croix-Rousse|Gaillardon|André|||r. de Cuire|25|NA|ch. lain. au quart|gil.|lanc.|NA|NA||||rue de Cuire
+459|Croix-Rousse|Gallet|Bt.|||Gr.-Pl.|23|NA|gil.|rob.|crav.|NA|NA||||Grande Place
+460|Croix-Rousse|Gallet|Jh.|||mtée Rey|9|NA|rob.|gil.|crav.|NA|NA||||montée Rey
+461|Croix-Rousse|Gaillon|Jn.-Jh.|||mtée Chaumais|11|NA|NA|NA|NA|NA|NA||||montée Chaumais
+462|Croix-Rousse|Gaim|Théoph.|||r. Pailleron|1|NA|rob.|gil.|nouv.|NA|NA||||rue Pailleron
+463|Croix-Rousse|Gallin|NA|||clos Fayolle|NA|NA|ch. (laincaucé)|NA|NA|NA|NA||||clos Fayolle
+464|Croix-Rousse|Gally|NA|||r. Lafayette|1|NA|ch. soie|nouv.|NA|NA|NA||||rue Lafayette
+465|Croix-Rousse|Gany|Cl.|||r. du Mail|12 bis|NA|NA|NA|NA|NA|NA||||rue du Mail
+466|Croix-Rousse|Garcin|Frédéric|||r. du Chariot-d'Or|3|NA|NA|NA|NA|NA|NA||||rue du Chariot-d'Or
+467|Croix-Rousse|Garcin|Pre.-Ls.|||r. Ste-Catherine|1|NA|ch. au quart|NA|NA|NA|NA||||rue sainte-Catherine
+468|Croix-Rousse|Garcin|Augte|||r. des Gloriettes|26|NA|mouch.|nouv.|NA|NA|NA||||rue des Gloriettes
+469|Croix-Rousse|Garcin|Jn.-Bte.|||r. du Mail|25|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+470|Croix-Rousse|Garion|Jn.-Honoré|||r. des Fossés|11|NA|NA|NA|NA|NA|NA||||rue des Fossés
+471|Croix-Rousse|Garin|Ls.|||cours des Tapis|12|NA|NA|NA|NA|NA|NA||||cours des Tapis
+472|Croix-Rousse|Garnier|Guill.|||r. Ste-Catherine|1|NA|ch. au quart|NA|NA|NA|NA||||rue sainte-Catherine
+473|Croix-Rousse|Garnier|Jn.|||r. du Mail|21|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+474|Croix-Rousse|Garnier|Jn.-And.|||r. des Fossés|11|NA|gil.|nouv.|NA|NA|NA||||rue des Fossés
+475|Croix-Rousse|Gaspital|Gabr.|||r. des Tapis|5|NA|un.|arm.|NA|NA|NA||||rue des Tapis
+476|Croix-Rousse|Gattoz|Hug.|||r. Pailleron|9|NA|NA|NA|NA|NA|NA||||rue Pailleron
+477|Croix-Rousse|Gattron|Pre.|||mtée Rey|4|NA|NA|NA|NA|NA|NA||||montée Rey
+478|Croix-Rousse|Gaudin|Fr.|||r. de la Visitation|5|NA|un.|gr. sat.|NA|NA|NA||||rue de la Visitation
+479|Croix-Rousse|Gaudin|Fr.|||r. du Chapeau-Rouge|7|NA|rob.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+480|Croix-Rousse|Gaudin|Ls.|||mtée Rey|17|NA|rob.|gil.|NA|NA|NA||||montée Rey
+481|Croix-Rousse|Gaupin|Jn.-Mar.|||r. des Fossés|13|NA|rob.|nouv.|NA|NA|NA||||rue des Fossés
+482|Croix-Rousse|Gaudy|Pre.|||r. Perrot|1|NA|NA|NA|NA|NA|NA||||rue Perrot
+483|Croix-Rousse|Gauthieu|Ch.|||r. de la Visitation|?|NA|rob.|gil.|NA|NA|NA||||rue de la Visitation
+484|Croix-Rousse|Gavin|Ant.|||imp. St-Clair|?|NA|ch.|mouch. soie|NA|NA|NA||||impasse saint-Clair
+485|Croix-Rousse|Gein|Pre.|||cours des Tapis|10|NA|NA|NA|NA|NA|NA||||cours des Tapis
+486|Croix-Rousse|Gelis|Nizier|||imp. St-Clair|3|NA|rob.|gil.|crav.|NA|NA||||impasse saint-Clair
+487|Croix-Rousse|Genin|Sébast.|||r. Celu|3|NA|NA|NA|NA|NA|NA||||rue Celu
+488|Croix-Rousse|Geoffray|Et.|||r. du Mail|28|NA|rob.|gil.|nouv.|NA|NA||||rue du Mail
+489|Croix-Rousse|Geoffray|Jn.-Ate.|||r. des Fossés|19|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+490|Croix-Rousse|Genou|Humb.|||cours des Tapis|4|NA|rob.|gil.|NA|NA|NA||||cours des Tapis
+491|Croix-Rousse|Genou|Jacq.|||cours des Tapis|4|NA|gil.|rob.|NA|NA|NA||||cours des Tapis
+492|Croix-Rousse|Ginet|Barth.|||r. Henri-IV|5|NA|rob.|gil.|NA|NA|NA||||rue Henri IV
+493|Croix-Rousse|Gippet|Cl.|||r. Celu|3|NA|NA|NA|NA|NA|NA||||rue Celu
+494|Croix-Rousse|Gipet|Ls.|||r. du Mail|5|NA|NA|NA|NA|NA|NA||||rue du Mail
+495|Croix-Rousse|Giraud|Vict.|||r. Pailleron|6|NA|mouch.|ch. soie 6/4|NA|NA|NA||||rue Pailleron
+496|Croix-Rousse|Giraud|Vict.|||cours d'Herbouville|33|NA|NA|NA|NA|NA|NA||||cours d'Herbouville
+497|Croix-Rousse|Girard|Casimir|||r. de Cuire|40|NA|vel. un.|NA|NA|NA|NA||||rue de Cuire
+498|Croix-Rousse|Girard|Adolphe|||r. des Gloriettes|16|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+499|Croix-Rousse|Girard|Cambilée|||r. des Fossés|19|NA|ch. s.|et au quart|NA|NA|NA||||rue des Fossés
+500|Croix-Rousse|Giraudet|Jn.|||r. des Gloriettes|5|NA|nouv.|NA|NA|NA|NA||||rue des Gloriettes
+501|Croix-Rousse|Giraudier cadet|NA|||r. Henri-IV|2|NA|rob.|nouv.|NA|NA|NA||||rue Henri IV
+502|Croix-Rousse|Giraudier aîné|NA|||Gr.-R.|8|NA|rob.|nouv.|NA|NA|NA||||Grande-Rue
+503|Croix-Rousse|Girerd|Ls.|||r. des Fossés|7|NA|ch. soie 6/4|NA|NA|NA|NA||||rue des Fossés
+504|Croix-Rousse|Glatoux|Mich.|||r. Ste-Catherine|3|NA|un.|NA|NA|NA|NA||||rue sainte-Catherine
+505|Croix-Rousse|Glenard|Et.|||r. du Chariot-d'Or|3|NA|plx de soie|gr. pel.|NA|NA|NA||||rue du Chariot-d'Or
+506|Croix-Rousse|Godard|Ls.|||r. Sully|6|NA|vel. f.|NA|NA|NA|NA||||rue Sully
+507|Croix-Rousse|Gomel|Guill.|||Gr.-Pl.|24|NA|rob.|gil.|NA|NA|NA||||Grande Place
+508|Croix-Rousse|Gonnot|Cl.|||r. de la Terrasse|2|NA|rob.|un.|NA|NA|NA||||rue de la Terrasse
+509|Croix-Rousse|Gonaz|Anth.|||cours d'Herbouville|21|NA|NA|NA|NA|NA|NA||||cours d'Herbouville
+510|Croix-Rousse|Gonin|Pre.-Ls.|||r. du Chapeau-Rouge|21|NA|ch. ind.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+511|Croix-Rousse|Gouttenoire|Bt.|||mtée Chaumais|11|NA|rob.|nouv.|NA|NA|NA||||montée Chaumais
+512|Croix-Rousse|Gouttenoire veuve|NA|||r. des Fossés|19|NA|gil.|crav.|NA|NA|NA||||rue des Fossés
+513|Croix-Rousse|Gouge|Fr.|||r. Pailleron|NA|m. Large|gil.|crav.|nouv.|monteur|appar., remet.||||rue Pailleron
+514|Croix-Rousse|Gouttaret|Bt.|||r. de la Citadelle|16|NA|vel. un.|NA|NA|NA|NA||||rue de la Citadelle
+515|Croix-Rousse|Gouton|Jn.-Cl.|||Gr.-Pl.|23|NA|NA|NA|NA|NA|NA||||Grande Place
+516|Croix-Rousse|Gay|Jn.-Pre.|||r. Dumont|12|NA|ch. s. en tous genres|NA|NA|NA|NA||||rue Dumont
+517|Croix-Rousse|Goy|NA|||r. Lafayette|11|NA|ch. s.|meubl.|NA|NA|NA||||rue Lafayette
+518|Croix-Rousse|Goy|Jn.-Ls.|||Gr.-Pl.|22|NA|mouch.|ch. s.|NA|NA|NA||||Grande Place
+519|Croix-Rousse|Goy|Didier|||r. des Fossés|8|NA|gil.|crav.|NA|NA|NA||||rue des Fossés
+520|Croix-Rousse|Grand-Perret|Pre.|||r. de la Terrasse|2|NA|rob.|gil.|crav.|NA|NA||||rue de la Terrasse
+521|Croix-Rousse|Grand|Jn.-Mar.|||Gr.-Pl.|24|NA|NA|NA|NA|NA|NA||||Grande Place
+522|Croix-Rousse|Grand|Ant.|||Gr.-R.|76|NA|NA|NA|NA|NA|NA||||Grande-Rue
+523|Croix-Rousse|Grand|Clém.-Ferréol|||pet. r. de Cuire|NA|NA|un.|NA|NA|NA|NA||||petite rue de Cuire
+524|Croix-Rousse|Grand|Jn.-Ph.|||r. Pailleron|6|NA|un.|NA|NA|NA|NA||||rue Pailleron
+525|Croix-Rousse|Grangés|qh.|||r. des Fossés|5|NA|un.|NA|NA|NA|NA||||rue des Fossés
+526|Croix-Rousse|Graveleuse|Jn.-Cl.|||r. des Fossés|17|NA|ch. au quart|NA|NA|NA|NA||||rue des Fossés
+527|Croix-Rousse|Grenet|Jn.-Fr.|||Gr.-R.|25|NA|un.|arm.|nouv.|NA|NA||||Grande-Rue
+528|Croix-Rousse|Grenard|Cl.|||r. Ste-Catherine|1|NA|coll. sat.|crav.|id.|arm.|NA||||rue sainte-Catherine
+529|Croix-Rousse|Greppo|Fr.|||imp. St-Clair|7|NA|NA|NA|NA|NA|NA||||impasse saint-Clair
+530|Croix-Rousse|Gros can|Den.|||r. du Viare|2|NA|rob.|gil.|NA|NA|NA||||rue du Viare
+531|Croix-Rousse|Gros|Jn.-Bte.|||r. Lafayette|8|NA|un.|vel. un.|NA|NA|NA||||rue Lafayette
+532|Croix-Rousse|Gudet|NA|||r. Lafayette|8|NA|rob.|gil.|mouch.|nouv.|NA||||rue Lafayette
+533|Croix-Rousse|Guerre|Cl.|||imp. St-Clair|12|NA|crav.|gil.|mouch.|NA|NA||||impasse saint-Clair
+534|Croix-Rousse|Guerrier|Ant.|||r. de la Visitation|15|NA|rob.|gil.|éch.|NA|NA||||rue de la Visitation
+535|Croix-Rousse|Guerrier|Pre.|||r. Henri-IV|15|NA|NA|NA|NA|NA|NA||||rue Henri IV
+536|Croix-Rousse|Guerin|Adolph.|||r. du Mail|22|NA|rob.|NA|NA|NA|NA||||rue du Mail
+537|Croix-Rousse|Guétan-Bon|Vinc.|||Gr.-Pl.|18|NA|NA|NA|NA|NA|NA||||Grande Place
+538|Croix-Rousse|Guibaud|Jn.-Bte.|||r. Henri-IV|9|NA|ch. lanc.|NA|NA|NA|NA||||rue Henri IV
+539|Croix-Rousse|Guignand|Cl.|||r. du Mail|13|NA|ch. soie|NA|NA|NA|NA||||rue du Mail
+540|Croix-Rousse|Guillermain|Jacq.|||r. des Tapis|1|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+541|Croix-Rousse|Guillermain|Jn.|||r. Celu|3|NA|NA|NA|NA|NA|NA||||rue Celu
+542|Croix-Rousse|Guillermet|Fr.|||Gr.-Pl.|22|NA|gr. sat. un.|NA|NA|NA|NA||||Grande Place
+543|Croix-Rousse|Guillermet|Laur.|||r. des Gloriettes|6|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+544|Croix-Rousse|Guillet|Bt.|||r. du Mail|24|NA|vel. un.|NA|NA|NA|NA||||rue du Mail
+545|Croix-Rousse|Guilret|Jn.|||r. Pailleron|15|NA|arm.|rob.|NA|NA|NA||||rue Pailleron
+546|Croix-Rousse|Guillot|Ant.|||r. de la Citadelle|1|NA|rob.|gil.|mouch.|fich.|et ch.||||rue de la Citadelle
+547|Croix-Rousse|Guillot|Fr.|||r. du Mail|13|NA|gil.|vel. faç.|NA|NA|NA||||rue du Mail
+548|Croix-Rousse|Guillet|Bt.|||r. des Fossés|2|NA|NA|NA|NA|NA|NA||||rue des Fossés
+549|Croix-Rousse|Guinet|Did.|||r. de la Citadelle|1|NA|gil.|crav.|vel. faç.|NA|NA||||rue de la Citadelle
+550|Croix-Rousse|Guitar|Cl.|||r. du Chapeau-Rouge|19|NA|rob.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+551|Croix-Rousse|Guy|Jn.-Mar.|||clos Fayolle|NA|m. Perisse|NA|NA|NA|NA|NA||||clos Fayolle
+552|Croix-Rousse|Hain|NA|||r. du Mail|37|NA|vel. faç.|nouv.|NA|NA|NA||||rue du Mail
+553|Croix-Rousse|Houra|Sébast.|||r. Jacquard|12|NA|NA|NA|NA|NA|NA||||rue Jacquard
+554|Croix-Rousse|Hugues|Ls.-Ant.|||Gr.-Pl.|17|NA|ch. au quart|NA|NA|NA|NA||||Grande Place
+555|Croix-Rousse|Imbert|NA|||imp. St-Clair|8|NA|un.|et faç.|gr. larg.|NA|NA||||impasse saint-Clair
+556|Croix-Rousse|Jacquemet|Jn.-Pre.|||pl. de la Visitation|20|NA|nouv.|NA|NA|NA|NA||||place de la Visitation
+557|Croix-Rousse|Jacquemet|Th.|||Gr.-Rue|91|NA|arm.|rob.|NA|NA|NA||||Grande-Rue
+558|Croix-Rousse|Jacquet|Jn.|||r. des Tapis|1|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+559|Croix-Rousse|Jacquin|Mart.|||r. du Mail|32|NA|NA|NA|NA|NA|NA||||rue du Mail
+560|Croix-Rousse|Jacquys|Mar.|||r. des Gloriettes|34|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+561|Croix-Rousse|Jaillet|Ant.|||clos Fayolle|NA|m. Soignot|vel. un.|NA|NA|NA|NA||||clos Fayolle
+562|Croix-Rousse|Jalu|Pre.|||cours d'Herbouville|9|NA|NA|NA|NA|NA|NA||||cours d'Herbouville
+563|Croix-Rousse|Jambaud|Ls.|||r. Henri-IV|15|NA|NA|NA|NA|NA|NA||||rue Henri IV
+564|Croix-Rousse|Jambon|Ant.|||cours des Tapis|4|NA|vel. un.|NA|NA|NA|NA||||cours des Tapis
+565|Croix-Rousse|Jance|Fr.|||pl. de la Visitation|20|NA|ch.|gil.|cachem.|NA|NA||||place de la Visitation
+566|Croix-Rousse|Jance|Pre.-Ls.|||Gr.-Rue|99|NA|gil.|crav.|NA|NA|NA||||Grande-Rue
+567|Croix-Rousse|Jaud|Pre.-Laur.|||Gr.-Rue|97|NA|satins|taffetas|unis|NA|NA||||Grande-Rue
+568|Croix-Rousse|Jay|Mar.|||r. des Tapis|21|NA|robes tous genres|NA|NA|NA|NA||||rue des Tapis
+569|Croix-Rousse|Jeannard|Bt.|||r. de la Citadelle|18|NA|rob.|gil.|NA|NA|NA||||rue de la Citadelle
+570|Croix-Rousse|Jeannot|Célest.|||passage Lamure|1|NA|rob.|mouch.|NA|NA|NA||||passage Lamure
+571|Croix-Rousse|Jogand|Ls.|||r. St-Eucher|NA|m. Vettard|br.|ornem.|NA|NA|NA||||rue saint-Eucher
+572|Croix-Rousse|Josserand|Jn.-Mich.|||r. du Mail|27|NA|rob.|NA|NA|NA|NA||||rue du Mail
+573|Croix-Rousse|Josserand|Ls.|||r. des Tapis|18|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+574|Croix-Rousse|Jourdoux|Philippe|||r. des Gloriettes|38|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+575|Croix-Rousse|Journaux|Bt.-Mar.|||r. des Gloriettes|22|NA|nouv.|NA|NA|NA|NA||||rue des Gloriettes
+576|Croix-Rousse|Journet|Ant.|||r. d'Enfert|NA|m. Dethieu|gil.|crav.|vel. f.|NA|NA||||rue d'Enfert
+577|Croix-Rousse|Jousselme|Ls.|||r. du Chapeau-Rouge|27|NA|NA|NA|NA|NA|NA||||rue du Chapeau-Rouge
+578|Croix-Rousse|Jubin|Jn.-Bte.|||r. de la Visitation|6|NA|un.|rib.|arm.|NA|NA||||rue de la Visitation
+579|Croix-Rousse|Julien|Anth.|||r. des Fossés|27|NA|NA|NA|NA|NA|NA||||rue des Fossés
+580|Croix-Rousse|Julien|Ls.|||r. Lafayette|8|NA|rob.|mouch.|crav.|broch.|NA||||rue Lafayette
+581|Croix-Rousse|Jullien|Ennem.|||r. St-Denis|6|NA|NA|NA|NA|NA|NA||||rue saint-Denis
+582|Croix-Rousse|Julliard|NA|||r. des Fossés|25|NA|lustr.|gr. grains|gr. larg.|NA|NA||||rue des Fossés
+583|Croix-Rousse|Julliers|Nicolas|||r. du Mail|4|NA|NA|NA|NA|NA|NA||||rue du Mail
+584|Croix-Rousse|Kaire|Jn.-Bte.|||r. d'Enfert|NA|m. Kaire|ch. au quart|NA|NA|NA|NA||||rue d'Enfert
+585|Croix-Rousse|Krauss|Aug.|||r. du Pavillon|4|NA|nouv.|NA|NA|NA|NA||||rue du Pavillon
+586|Croix-Rousse|Labaume|Ant.|||mtée Rey|9|NA|mouch.|ch. soie|NA|NA|NA||||montée Rey
+587|Croix-Rousse|Lablanche|Cl.|||r. des Fossés|15|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+588|Croix-Rousse|Labotte|Jh.|||r. de la Citadelle|1|NA|gil.|lanc.|crav.|NA|NA||||rue de la Citadelle
+589|Croix-Rousse|Lacroix|Cl.|||r. du Chapeau-Rouge|19|NA|châle au quart|NA|NA|NA|NA||||rue du Chapeau-Rouge
+590|Croix-Rousse|Lacombe|Jacq.|||cours des Tapis|5|NA|gil.|crav.|pel.|vel.|nouv., fa., gaze d'artois||||cours des Tapis
+591|Croix-Rousse|Lacroix|Fr.|||r. du Mail|12 bis|NA|vel. faç.|NA|NA|NA|NA||||rue du Mail
+592|Croix-Rousse|Lacroix|Jh.|||r. de la Visitation|3|NA|mouch.|ch. soie|NA|NA|NA||||rue de la Visitation
+593|Croix-Rousse|Lagur|Ch.|||r. des Fossés|9|NA|mouch.|ch. soie|NA|NA|NA||||rue des Fossés
+594|Croix-Rousse|Lalechère|Cl.|||r. Dumenge|12|NA|NA|NA|NA|NA|NA||||rue Dumenge
+595|Croix-Rousse|Laloge|Ls.-Jn.-Bte.|||cours des Tapis|5|NA|crav.|mouch.|gil.|NA|tient café.||||cours des Tapis
+596|Croix-Rousse|Laloge|FRed.|||clos Fayolle|NA|NA|rob.|gil.|crav.|NA|NA||||clos Fayolle
+597|Croix-Rousse|Lambert|Jn.-Pre.|||mtée Rey|12|NA|rob.|gil.|NA|NA|NA||||montée Rey
+598|Croix-Rousse|Lamel|Pre.|||Gr.-Rue|3|NA|NA|NA|NA|NA|NA||||Grande-Rue
+599|Croix-Rousse|Lange|Maur.|||r. du Mail|27|NA|unis|NA|NA|NA|NA||||rue du Mail
+600|Croix-Rousse|Laplace|Jn.|||r. de la Visitation|1|NA|NA|NA|NA|NA|NA||||rue de la Visitation
+601|Croix-Rousse|Larandon|Fr.-Ant.|||r. Ste-Catherine|1|NA|gil.|crav.|NA|NA|NA||||rue sainte-Catherine
+602|Croix-Rousse|Larçon|Jn.|||r. des Tapis|16|NA|unis|NA|NA|NA|NA||||rue des Tapis
+603|Croix-Rousse|Latour|Jh.|||cours d'Herbouville|19|NA|un.|et faç.|NA|NA|NA||||cours d'Herbouville
+604|Croix-Rousse|Latreille|Amable|||r. Dumenge|8|NA|crav.|gil.|NA|NA|NA||||rue Dumenge
+605|Croix-Rousse|Latreille|Pre.-Domin.|||r. des Fossés|10|NA|ch. soie 6/4|NA|NA|NA|NA||||rue des Fossés
+606|Croix-Rousse|Laurençon|Jean|||Frères|NA|NA|rob.|gil.|NA|NA|NA||||Frères
+607|Croix-Rousse|Laurent|Sébast.|||r. Camille-Jordan|NA|m. Gros|ch. soie|NA|NA|NA|NA||||rue Camille-Jordan
+608|Croix-Rousse|Laurin|Cl.|||r. des Fossés|21|NA|vel. faç.|NA|NA|NA|NA||||rue des Fossés
+609|Croix-Rousse|Lauvergnais|Fr.|||r. d'Enfert|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+610|Croix-Rousse|Lauvergne|Gasp.|||r. du Chapeau-Rouge|2|NA|unis|NA|NA|NA|NA||||rue du Chapeau-Rouge
+611|Croix-Rousse|Laviolette|Théodore|||r. des Tapis|1|NA|ch. soie|NA|NA|NA|NA||||rue des Tapis
+612|Croix-Rousse|Lazard|Jn.|||Gr.-Rue|93|NA|un.|arm.|NA|NA|NA||||Grande-Rue
+613|Croix-Rousse|Leroy|NA|||r. Sully|6|NA|ch. au quart|NA|NA|NA|NA||||rue Sully
+614|Croix-Rousse|Lestrot|Pre.|||r. de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+615|Croix-Rousse|Levet|Jn.-Mar.|||r. de Cuire|2|NA|ch. laine|NA|NA|NA|NA||||rue de Cuire
+616|Croix-Rousse|Levis|Mich.|||r. du Chapeau-Rouge|27|NA|gil.|?|NA|NA|NA||||rue du Chapeau-Rouge
+617|Croix-Rousse|Levrat|Ls.|||r. du Chariot-d'Or|5|NA|rob.|nouv.|NA|NA|NA||||rue du Chariot-d'Or
+618|Croix-Rousse|Liaufre|Augustin|||r. des Fossés|15|NA|NA|NA|NA|NA|NA||||rue des Fossés
+619|Croix-Rousse|Liormer|Ch.|||r. des Fossés|5|NA|NA|NA|NA|NA|NA||||rue des Fossés
+620|Croix-Rousse|Loga|Ant.|||r. Celu|3|NA|vel. faç.|NA|NA|NA|NA||||rue Celu
+621|Croix-Rousse|Loire|Pre.-Augte|||r. Perrot|1|NA|NA|NA|NA|NA|NA||||rue Perrot
+622|Croix-Rousse|Lombard|Mar.|||pl. de la Visitation|1|NA|mouch.|ch. soie|NA|NA|NA||||place de la Visitation
+623|Croix-Rousse|Lonchard|Nicolas|||r. Celu|2|NA|robes|NA|NA|NA|NA||||rue Celu
+624|Croix-Rousse|Louis|NA|||r. Henri-IV|3|NA|ch. au quart|NA|NA|NA|NA||||rue Henri IV
+625|Croix-Rousse|Loup|Jn.-Ls.|||r. du Mail|32|NA|NA|NA|NA|NA|NA||||rue du Mail
+626|Croix-Rousse|Lyant|Pre.|||mtée Rey|10|NA|NA|NA|NA|NA|NA||||montée Rey
+627|Croix-Rousse|Maillan|NA|||r. Celu|12|NA|rob.|NA|NA|NA|NA||||rue Celu
+628|Croix-Rousse|Maillou|Jn.-Fr.|||cours des Tapis|4|NA|NA|NA|NA|NA|NA||||cours des Tapis
+629|Croix-Rousse|Maître|Domin.|||r. Dumenge|11|NA|rob.|éch.|nouv.|NA|NA||||rue Dumenge
+630|Croix-Rousse|Maître|Ant.|||r. Pailleron|9|NA|gil.|crav.|rob.|NA|NA||||rue Pailleron
+631|Croix-Rousse|Maistre|Fr.|||r. Celu|4|NA|rob.|NA|NA|NA|NA||||rue Celu
+632|Croix-Rousse|Maistre|Cyprien|||r. du Chariot-d'Or|10|NA|faç.|NA|NA|NA|NA||||rue du Chariot-d'Or
+633|Croix-Rousse|Magnin|Et.|||r. des Gloriettes|8|NA|gil.|crav.|NA|NA|NA||||rue des Gloriettes
+634|Croix-Rousse|Magnin|César|||cours d'Herbouville|9|NA|vel. de goût|et f.|NA|NA|NA||||cours d'Herbouville
+635|Croix-Rousse|Magnin|Mich.|||Gr.-Pl.|18|NA|faç.|crav.|NA|NA|NA||||Grande Place
+636|Croix-Rousse|Magnin|Ant.|||Gr.-Pl.|18|NA|rob.|gil.|NA|NA|NA||||Grande Place
+637|Croix-Rousse|Malaquet|Jacq.|||r. du Mail|26|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+638|Croix-Rousse|Manelier|Jn.|||r. de la Visitation|13|NA|un.|sat.|NA|NA|NA||||rue de la Visitation
+639|Croix-Rousse|Mania|NA|||r. Dumont|8|NA|NA|NA|NA|NA|NA||||rue Dumont
+640|Croix-Rousse|Manion|Jn.-Mar.|||r. Perrot|1|NA|NA|NA|NA|NA|NA||||rue Perrot
+641|Croix-Rousse|Mantellin|Pre.-Jn.|||r. du Mail|4|NA|rob.|gil.|NA|NA|NA||||rue du Mail
+642|Croix-Rousse|Manuel|Joach.|||r. du Mail|21|NA|gil.|crav.|NA|NA|NA||||rue du Mail
+643|Croix-Rousse|Marcellot|Jn.|||r. Pailleron|15|NA|NA|NA|NA|NA|NA||||rue Pailleron
+644|Croix-Rousse|Marietton|Ls.|||r. des Fossés|8|NA|ch. 6/4|tartans|NA|NA|NA||||rue des Fossés
+645|Croix-Rousse|Mariller|Jh.|||r. Celu|6|NA|rob.|NA|NA|NA|NA||||rue Celu
+646|Croix-Rousse|Marion|Et.|||r. Ste-Catherine|3|NA|meubl.|NA|NA|NA|NA||||rue sainte-Catherine
+647|Croix-Rousse|Maron|Jn.|||Gr.-Rue|97|NA|br.|gil.|NA|NA|Jn. dit Marchand||||Grande-Rue
+648|Croix-Rousse|Marteau|Jn.|||r. du Mail|28|NA|crav.|gil.|NA|NA|NA||||rue du Mail
+649|Croix-Rousse|Martin|Pre.|||r. des Tapis|1|NA|gil.|crav.|NA|NA|NA||||rue des Tapis
+650|Croix-Rousse|Martin|Pre.|||r. des Tapis|19|NA|gil.|crav.|NA|NA|NA||||rue des Tapis
+651|Croix-Rousse|Martin|Jn.-Cl.|||r. des Fossés|27|NA|rob.|gil.|NA|NA|NA||||rue des Fossés
+652|Croix-Rousse|Martin|Jn.|||Gr.-Rue|99|NA|vel. unis|NA|NA|NA|NA||||Grande-Rue
+653|Croix-Rousse|Martin|Jn.|||pl. de la Visitation|1|NA|rob.|éch.|nouv.|NA|NA||||place de la Visitation
+654|Croix-Rousse|Martin|Et.|||r. des Tapis|16|NA|vel. un.|NA|NA|NA|NA||||rue des Tapis
+655|Croix-Rousse|Martinet|Pre.|||cours des Tapis|10|NA|arm.|rob.|NA|NA|NA||||cours des Tapis
+656|Croix-Rousse|Martinière|Jn.-Ant.|||r. Celu|6|NA|vel. un.|NA|NA|NA|NA||||rue Celu
+657|Croix-Rousse|Martinière|Fr.|||r. des Fossés|13|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+658|Croix-Rousse|Martinon|Jn.-Mar.|||pl. de la Visitation|16|NA|vel. faç.|gr. larg.|brochés|NA|NA||||place de la Visitation
+659|Croix-Rousse|Masset|Jn.-Mar.|||r. des Fossés|17|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+660|Croix-Rousse|Masson|Clém.|||r. Sully|2|NA|ch. soie|NA|NA|NA|NA||||rue Sully
+661|Croix-Rousse|Mauban|Jn.-Bte.|||r. Dumenge|15|NA|meubl.|NA|NA|NA|NA||||rue Dumenge
+662|Croix-Rousse|Mathier|Jh.|||mtée Rey|1|NA|NA|NA|NA|NA|NA||||montée Rey
+663|Croix-Rousse|Matrod|Jn.-Ant.|||r. des Gloriettes|12|NA|rob.|crav.|NA|NA|NA||||rue des Gloriettes
+664|Croix-Rousse|Maussor|Régis|||Gr.-Pl.|18|NA|NA|NA|NA|NA|NA||||Grande Place
+665|Croix-Rousse|Mayennaut|Pre.|||r. Lafayette|1|NA|mouch.|ch. soie|nouv.|NA|NA||||rue Lafayette
+666|Croix-Rousse|Mazier|Vinc.|||r. des Fossés|15|NA|unis|NA|NA|NA|NA||||rue des Fossés
+667|Croix-Rousse|Mazoyer|Jn.-Félix|||r. Celu|6|NA|un.|vel.|NA|NA|NA||||rue Celu
+668|Croix-Rousse|Melin|Cl.|||pl. de la Visitation|1|NA|arm.|rob.|mouch.|NA|NA||||place de la Visitation
+669|Croix-Rousse|Menard|NA|||r. du Mail|24|NA|NA|NA|NA|NA|Menard dit Bouquet||||rue du Mail
+670|Croix-Rousse|Mennel|Jn.|||r. du Mail|27|NA|rob.|gil.|crêp. de chine|NA|NA||||rue du Mail
+671|Croix-Rousse|Merchon|Mich.|||r. des Tapis|1|NA|nouv. un.|et faç.|NA|NA|NA||||rue des Tapis
+672|Croix-Rousse|Mercier|And.|||r. du Chapeau Rouge|15|NA|rob.|gil.|NA|NA|NA||||rue du Chapeau-Rouge
+673|Croix-Rousse|Mercier|Jn.-Bte.|||r. des Fossés|NA|m. Martin|NA|NA|NA|NA|NA||||rue des Fossés
+674|Croix-Rousse|Mermet|Cl.|||r. des Tapis|1|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+675|Croix-Rousse|Mery|Ch.|||r. du Chapeau Rouge|7|NA|rob.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+676|Croix-Rousse|Messy|Jn.|||Gr.-Rue|97|NA|rob.|NA|NA|NA|NA||||Grande-Rue
+677|Croix-Rousse|Metral|Jn.-Marie|||rue de la Citadelle|2|NA|ch. au quart|NA|NA|NA|NA||||rue de la Citadelle
+678|Croix-Rousse|Meunier|Marie|||rue d'Enfert|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+679|Croix-Rousse|Meyer|Jacques|||rue du Pavillon|8|NA|rob.|NA|NA|NA|NA||||rue du Pavillon
+680|Croix-Rousse|Michallet|Nicolas|||r. des Gloriettes|6|NA|crav.|gil.|NA|NA|NA||||rue des Gloriettes
+681|Croix-Rousse|Michel|Arnaud|||mtée Rey|5|NA|nouv.|NA|NA|NA|NA||||montée Rey
+682|Croix-Rousse|Michin|Ch.-Fr.|||mtée Rey|12|NA|rob.|gil.|NA|NA|NA||||montée Rey
+683|Croix-Rousse|Mignard fils|NA|||mtée Rey|13|NA|mouch.|crav.|NA|NA|NA||||montée Rey
+684|Croix-Rousse|Mignot|Jn.|||imp. Dumont|14|NA|NA|NA|NA|NA|NA||||impasse Dumont
+685|Croix-Rousse|Mignon|Jn.-Bte.|||cours d'Herbouville|27|NA|vel. faç.|NA|NA|NA|NA||||cours d'Herbouville
+686|Croix-Rousse|Mignot|Ant.|||Gr.-Rue|88|NA|NA|NA|NA|NA|NA||||Grande-Rue
+687|Croix-Rousse|Milan|Jn.|||clos Fayolle|NA|m. Périsse|NA|NA|NA|NA|NA||||clos Fayolle
+688|Croix-Rousse|Mille|Jn.-Fr.|||r. de la Citadelle|4|NA|rob.|mouch.|NA|NA|NA||||rue de la Citadelle
+689|Croix-Rousse|Mille|Pre.|||r. des Tapis|26|NA|velours unis|NA|NA|NA|NA||||rue des Tapis
+690|Croix-Rousse|Mille|Bt.|||r. du Chapeau Rouge|9|NA|rob.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+691|Croix-Rousse|Milleron|Pre.|||r. Celu|10|NA|mouch.|éch.|gaz.|nouv.|NA||||rue Celu
+692|Croix-Rousse|Millet|Ls.|||r. des Fossés|17|NA|ch. au quart|NA|NA|NA|NA||||rue des Fossés
+693|Croix-Rousse|Millet|Jn.|||r. des Tapis|1|NA|unis|NA|NA|NA|NA||||rue des Tapis
+694|Croix-Rousse|Millet|Pre.|||r. de Cuire|35|NA|ch.|gil.|cach.|NA|NA||||rue de Cuire
+695|Croix-Rousse|Moine|Et.|||imp. St-Clair|6|NA|gil.|mouch.|ch. au quart|NA|NA||||impasse saint-Clair
+696|Croix-Rousse|Moirdoux|Nicolas|||r. du Mail|31|NA|NA|NA|NA|NA|NA||||rue du Mail
+697|Croix-Rousse|Mliquet|Jn.|||Gr.-Rue|2|NA|NA|NA|NA|NA|NA||||Grande-Rue
+698|Croix-Rousse|Mollard|André|||clos Lafayette|NA|m. Planchy|NA|NA|NA|NA|NA||||clos Lafayette
+699|Croix-Rousse|Mollard|Fr.|||imp. St-Clair|6|NA|rob.|gil.|NA|NA|NA||||impasse saint-Clair
+700|Croix-Rousse|Mollex|Ant.|||r. du Chapeau-Rouge|15|NA|nouv.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+701|Croix-Rousse|Monaton|Philippe|||r. Ste-Catherine|4|NA|nouv.|NA|NA|NA|NA||||rue sainte-Catherine
+702|Croix-Rousse|Monat|Cl.|||r. des Fossés|9|NA|NA|NA|NA|NA|NA||||rue des Fossés
+703|Croix-Rousse|Mondragon|NA|||r. Perrot|1|NA|rob. en tous genres|crav.|NA|NA|NA||||rue Perrot
+704|Croix-Rousse|Monneret|Jh.|||r. des Fossés|10|NA|rob.|NA|NA|NA|NA||||rue des Fossés
+705|Croix-Rousse|Monnet|Jh.|||r. du Mail|23|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+706|Croix-Rousse|Monnet|Noël|||r. du Mail|24|NA|rob.|gil.|nouv.|NA|NA||||rue du Mail
+707|Croix-Rousse|Monnet|NA|||r. Lafayette|19|NA|unis|NA|NA|NA|NA||||rue Lafayette
+708|Croix-Rousse|Monin|Pre.|||r. de Cuire|2|NA|robes|gilets|mouch.|NA|NA||||rue de Cuire
+709|Croix-Rousse|Montel|André|||r. des Fossés|8|NA|rob.|NA|NA|NA|NA||||rue des Fossés
+710|Croix-Rousse|Montreil|Jh.|||mtée Rey|13|NA|nouv.|NA|NA|NA|NA||||montée Rey
+711|Croix-Rousse|Morand|Jn.-Pl.|||clos Fayolle|NA|m. Darr.|NA|NA|NA|NA|NA||||clos Fayolle
+712|Croix-Rousse|Morel|Ls.|||r. Pailleron|6|NA|rob.|mouch.|crav.|NA|NA||||rue Pailleron
+713|Croix-Rousse|Morel|Cornélius|||cours d'Herbouville|19|NA|unis noirs|NA|NA|NA|NA||||cours d'Herbouville
+714|Croix-Rousse|Morel|Georg.|||imp. St-Clair|3|NA|unis|poulx de soie|NA|NA|NA||||impasse saint-Clair
+715|Croix-Rousse|Morel|Jn.-Bte.|||mtée Rey|17|NA|gil.|NA|NA|NA|NA||||montée Rey
+716|Croix-Rousse|Morel|Bt.|||Gr.-Rue|12|NA|NA|NA|NA|NA|NA||||Grande-Rue
+717|Croix-Rousse|Morin|Aug.|||r. Celu|12|NA|ch.6/4 au quart|NA|NA|NA|NA||||rue Celu
+718|Croix-Rousse|Moretton|Fr.|||mtée Rey|12|NA|crav.|arm.|NA|NA|NA||||montée Rey
+719|Croix-Rousse|Morget|Pre.|||r. du Chariot-d'Or|12|NA|châle au quart|cach.|NA|NA|NA||||rue du Chariot-d'Or
+720|Croix-Rousse|Morlon|Jn.-Bte.|||Gr.-Rue|3|NA|robes|crav.|NA|NA|NA||||Grande-Rue
+721|Croix-Rousse|Marthelin|Ant.|||Gr.-Pl.|24|NA|châle soie unis|et faç.|NA|NA|NA||||Grande Place
+722|Croix-Rousse|Morthey|Ant.|||r. d'Enfert|NA|m. Mothey|châle au quart|NA|NA|NA|NA||||rue d'Enfert
+723|Croix-Rousse|Mortier|Jacques|||mtée Rey|15|NA|châle au quart|NA|NA|NA|NA||||montée Rey
+724|Croix-Rousse|Mouchon|Michel|||imp. St-Clair|14|NA|NA|NA|NA|NA|NA||||impasse saint-Clair
+725|Croix-Rousse|Mouchon|Jn.-Michel|||rue Pailleron|2|NA|unis|gr. larg.|NA|NA|NA||||rue Pailleron
+726|Croix-Rousse|Moulin|Fr.-Marie|||Gr.-Rue|3|NA|NA|NA|NA|NA|NA||||Grande-Rue
+727|Croix-Rousse|Moyat|Ant.-Marie|||r. du Mail|27|NA|unis|NA|NA|NA|NA||||rue du Mail
+728|Croix-Rousse|Mozanceux|Joseph|||r. d'Enfert|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+729|Croix-Rousse|Muguet|Cl.-Marie|||rue Sully|6|NA|gil.|ch.|cachem.|thib.|NA||||rue Sully
+730|Croix-Rousse|Muguet|Cl.|||rue Lafayette|11|NA|nouv. à lice|autres|NA|NA|NA||||rue Lafayette
+731|Croix-Rousse|Munier|Jean|||rue du Chapeau-Rouge|25|NA|unis|NA|NA|NA|NA||||rue du Chapeau-Rouge
+732|Croix-Rousse|Muriat|Pierre|||r. du Mail|12 bis|NA|velours unis|et faç.|NA|NA|NA||||rue du Mail
+733|Croix-Rousse|Muttin|Claude|||rue de la Citadelle|6|NA|vel. un.|NA|NA|NA|NA||||rue de la Citadelle
+734|Croix-Rousse|Nantes|Joseph|||rue Celu|12|NA|NA|NA|NA|NA|NA||||rue Celu
+735|Croix-Rousse|Nardon|Philib.|||r. Ste-Catherine|3|NA|rob.|NA|NA|NA|NA||||rue sainte-Catherine
+736|Croix-Rousse|Nardon|Jacques|||mtée Rey|13|NA|gilets|crav.|NA|NA|NA||||montée Rey
+737|Croix-Rousse|Nemoz|Jean-Claude|||rue du Mail|20|NA|vel. faç.|NA|NA|NA|NA||||rue du Mail
+738|Croix-Rousse|Nemoz|Pierre|||rue Henri-IV|3|NA|vel. faç.|NA|NA|NA|NA||||rue Henri IV
+739|Croix-Rousse|Nicolas|Claude-Marie|||place de la Visitation|16|NA|nouv.|NA|NA|NA|NA||||place de la Visitation
+740|Croix-Rousse|Nigro|Philib.|||rue des Fossés|21|NA|gilets|crav.|NA|NA|NA||||rue des Fossés
+741|Croix-Rousse|Nonet|Ant.|||r. des Tapis|1|NA|rob.|mouch.|NA|NA|NA||||rue des Tapis
+742|Croix-Rousse|Novet|Pre.|||r. de la Citadelle|4|NA|rob.|gil.|NA|NA|NA||||rue de la Citadelle
+743|Croix-Rousse|Nugues|Pre.|||r. de la Citadelle|1|NA|rob.|vel. faç.|NA|NA|NA||||rue de la Citadelle
+744|Croix-Rousse|Olagnier|Fr.|||rue du Mail|22|NA|(ant.) forts un.|ch. soie|NA|NA|NA||||rue du Mail
+745|Croix-Rousse|Olagnier|Jn.-Jh.|||Gr.-Pl.|18|NA|mouch.|crav.|nouv.|NA|NA||||Grande Place
+746|Croix-Rousse|Olagnon|Annet|||r. du Chapeau-Rouge|3|NA|gilets|NA|NA|NA|NA||||rue du Chapeau-Rouge
+747|Croix-Rousse|Octreux|Ant.|||r. des Gloriettes|8|NA|rob.|gil.|NA|NA|NA||||rue des Gloriettes
+748|Croix-Rousse|Page|Henri|||Gr.-Pl.|19|NA|vel. faç.|NA|NA|NA|NA||||Grande Place
+749|Croix-Rousse|Paillet|Jn.|||r. du Pavillon|3|NA|NA|NA|NA|NA|NA||||rue du Pavillon
+750|Croix-Rousse|Pain|Ant.|||r. d'Enfert|10|NA|vel. unis|NA|NA|NA|NA||||rue d'Enfert
+751|Croix-Rousse|Panisset|Jn.-Gasp.|||Gr.-Pl.|18|NA|nouv.|NA|NA|NA|NA||||Grande Place
+752|Croix-Rousse|Paques|Jh.|||r. Lafayette|1|NA|rob.|arm.|vel. fris.|nouv.|NA||||rue Lafayette
+753|Croix-Rousse|Paradis|Georges|||r. du Mail|23|NA|NA|NA|NA|NA|NA||||rue du Mail
+754|Croix-Rousse|Parret|Ch.|||r. du Mail|37|NA|ch. soie|nouv.|NA|NA|NA||||rue du Mail
+755|Croix-Rousse|Pascal|Jh.|||r. Sully|6|NA|ch. au quart|NA|NA|NA|NA||||rue Sully
+756|Croix-Rousse|Pascal|Pre.|||imp. Dumond|6|NA|NA|NA|NA|NA|NA||||impasse Dumont
+757|Croix-Rousse|Pasquier|Cl.-Ant.|||r. d'Enfert|NA|m. Terrond|NA|NA|NA|NA|NA||||rue d'Enfert
+758|Croix-Rousse|Passeron fils|NA|||r. Sully|6|NA|crêpes|nouv.|NA|NA|NA||||rue Sully
+759|Croix-Rousse|Pastre|Jn.|||r. de Cuire|2|NA|gil.|vel. de goût|et faç.|NA|NA||||rue de Cuire
+760|Croix-Rousse|Pastre|G.|||Gr.-Rue|91|NA|ch. lancés|gil.|rob.|NA|NA||||Grande-Rue
+761|Croix-Rousse|Patoud|Jn.|||mtée Rey|12|NA|rob.|NA|NA|NA|NA||||montée Rey
+762|Croix-Rousse|Patras|Jh.|||mtée Rey|1|NA|rob.|gil.|NA|NA|NA||||montée Rey
+763|Croix-Rousse|Patras|Henri|||r. Dumenge|8|NA|rob.|arm.|NA|NA|NA||||rue Dumenge
+764|Croix-Rousse|Paturel|Pre.|||mtée Rey|9|NA|rob.|NA|NA|NA|NA||||montée Rey
+765|Croix-Rousse|Pantrier|Cl.-Ant.|||r. des Fossés|8|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+766|Croix-Rousse|Pavot|Fr.|||r. Ste-Catherine|5|NA|gil.|nouv.|NA|NA|NA||||rue sainte-Catherine
+767|Croix-Rousse|Payan|Cl.-Ant.|||NA|NA|NA|rob.|gil.|NA|NA|NA||||NA
+768|Croix-Rousse|Pellast|Fr.|||r. des Fossés|6|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+769|Croix-Rousse|Pellegrin|Jn.-Pre.|||r. des Tapis|1|NA|rob.|crav.|NA|NA|NA||||rue des Tapis
+770|Croix-Rousse|Pelletier|Jn.-Alex.|||r. d'Enfert|10|m. Vettard|NA|NA|NA|NA|NA||||rue d'Enfert
+771|Croix-Rousse|Pelisson|Pre.|||r. des Fossés|23|NA|étoffes|meubl. unis|NA|NA|NA||||rue des Fossés
+772|Croix-Rousse|Pelly|NA|||r. des Fossés|25|NA|NA|NA|NA|NA|NA||||rue des Fossés
+773|Croix-Rousse|Penos|Ant.|||r. de la Citadelle|1|NA|rob.|gil.|arm.|NA|NA||||rue de la Citadelle
+774|Croix-Rousse|Perceveau|Ant.|||r. Lafayette|8|NA|serges|taff.|NA|NA|NA||||rue Lafayette
+775|Croix-Rousse|Pernet|NA|||clos Bougnols|NA|NA|vel. unis|NA|NA|NA|NA||||clos Bougnols
+776|Croix-Rousse|Pernollet|Fr.|||r. Dumenge|8|NA|rob.|art. riches|NA|NA|NA||||rue Dumenge
+777|Croix-Rousse|Perra|Jérôme|||r. Celu|6|NA|ch. soie 6/4|NA|NA|NA|NA||||rue Celu
+778|Croix-Rousse|Perrat|Fr.|||pet. r. de Cuire|NA|NA|vel. un.|NA|NA|NA|NA||||petite rue de Cuire
+779|Croix-Rousse|Perret|Ant.|||r. Sully|4|NA|éch.|mouch.|nouv.|NA|NA||||rue Sully
+780|Croix-Rousse|Perret|Jh.|||r. des Tapis|16|NA|vel. faç.|NA|NA|NA|NA||||rue des Tapis
+781|Croix-Rousse|Perret|Félix|||Gr.-Pl.|17|NA|mouch.|ch.|NA|NA|NA||||Grande Place
+782|Croix-Rousse|Perret|Ls|||r. Pailleron|6|NA|ch. soie|NA|NA|NA|NA||||rue Pailleron
+783|Croix-Rousse|Perretier|Ls-Jh.|||r. Dumenge|15|NA|rob.|NA|NA|NA|NA||||rue Dumenge
+784|Croix-Rousse|Perrier|Cl.|||r. des Tapis|1|NA|vel. faç.|NA|NA|NA|NA||||rue des Tapis
+785|Croix-Rousse|Perrier|Jn.-Fr.|||cours d'Herbouville|33|NA|rob.|gil.|crav.|NA|NA||||cours d'Herbouville
+786|Croix-Rousse|Perrin|Jn.-Cl.|||r. Pailleron|13|NA|arm.|rob.|NA|NA|NA||||rue Pailleron
+787|Croix-Rousse|Perrin|Jn.|||r. du Chapeau-Rouge|29|NA|rob.|mouch.|ch.|NA|NA||||rue du Chapeau-Rouge
+788|Croix-Rousse|Perrix|Jh.|||r. Dumenge|12|NA|un.|et faç.|NA|NA|NA||||rue Dumenge
+789|Croix-Rousse|Perrod|Mich.|||r. St-Eucher|8|NA|ch. soie|nouv.|NA|NA|NA||||rue saint-Eucher
+790|Croix-Rousse|Perron|Fr.|||r. des Fossés|19|NA|rob.|NA|NA|NA|NA||||rue des Fossés
+791|Croix-Rousse|Perron|Fréd.|||passage Lamure|3|NA|rob.|gil.|crav.|NA|NA||||passage Lamure
+792|Croix-Rousse|Perron|Jn.|||r. Pailleron|6|NA|rob.|gil.|NA|NA|NA||||rue Pailleron
+793|Croix-Rousse|Perroncel|And.|||r. du Chapeau-Rouge|13|NA|rob.|gil.|NA|NA|NA||||rue du Chapeau-Rouge
+794|Croix-Rousse|Perroton|Ant.|||r. de la Visitation|NA|NA|unis|NA|NA|NA|NA||||rue de la Visitation
+795|Croix-Rousse|Perry|Ls.|||Gr.-Pl.|23|NA|vel.|gil.|NA|NA|NA||||Grande Place
+796|Croix-Rousse|Petillot|Cl.|||r. de Cuire|2|NA|ch. soie|gil.|nouv.|NA|NA||||rue de Cuire
+797|Croix-Rousse|Petit|Honoré|||mtée Rey|12|NA|rob.|NA|NA|NA|NA||||montée Rey
+798|Croix-Rousse|Perton|Ch.|||mtée Rey|13|NA|nouv.|NA|NA|NA|NA||||montée Rey
+799|Croix-Rousse|Petlat|Ant.|||r. du Chariot-d'Or|3|NA|rob.|NA|NA|NA|NA||||rue du Chariot-d'Or
+800|Croix-Rousse|Petlat|Jacq.|||r. Celu|6|NA|vel.|gil.|NA|NA|NA||||rue Celu
+801|Croix-Rousse|Pérod|Julien|||r. de la Visitation|15|NA|rob.|gil.|NA|NA|NA||||rue de la Visitation
+802|Croix-Rousse|Pétrod|Laurent|||mtée Rey|11|NA|rob.|NA|NA|NA|NA||||montée Rey
+803|Croix-Rousse|Piard|Fr.-Aug.|||Gr.-Pl.|25|NA|rob.|gil.|mouch.|NA|NA||||Grande Place
+804|Croix-Rousse|Piard|Fr.|||r. du Chapeau-Rouge|3|NA|nouv.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+805|Croix-Rousse|Picard|Jérôme|||Gr.-Pl.|18|NA|NA|NA|NA|NA|NA||||Grande Place
+806|Croix-Rousse|Pichegru|Alex.|||r. des Fossés|27|NA|rob.|nouv.|NA|NA|NA||||rue des Fossés
+807|Croix-Rousse|Pichet|Jn.-Mar.|||r. Celu|6|NA|meubl.|NA|NA|NA|NA||||rue Celu
+808|Croix-Rousse|Philippe|Jn.|||r. du Mail|26|NA|un|et faç.|NA|NA|NA||||rue du Mail
+809|Croix-Rousse|Pichon|Pre.|||r. Dumenge|8|NA|ch. fantaisie 6/4|NA|NA|NA|NA||||rue Dumenge
+810|Croix-Rousse|Pichon|Fr.|||r. des Tapis|16|NA|unis|NA|NA|NA|NA||||rue des Tapis
+811|Croix-Rousse|Picottin|Fr.|||r. du Chapeau-Rouge|19|NA|vel. unis|NA|NA|NA|NA||||rue du Chapeau-Rouge
+812|Croix-Rousse|Picotin|Jn.|||r. Sully|2|NA|rob.|gil.|NA|NA|NA||||rue Sully
+813|Croix-Rousse|Piélmas|Anth.|||r. du Mail|25|NA|rob.|NA|NA|NA|NA||||rue du Mail
+814|Croix-Rousse|Pierry|Jn.-Bte.|||r. Lafayette|8|NA|uni.|faç.|vel.|NA|NA||||rue Lafayette
+815|Croix-Rousse|Pifady|Jn.-Bte.|||r. Dumenge|8|NA|gil.|crav.|nouv.|NA|NA||||rue Dumenge
+816|Croix-Rousse|Pignon|Jn.-Mar.|||r. des Gloriettes|6|NA|nouv.|NA|NA|NA|NA||||rue des Gloriettes
+817|Croix-Rousse|Pin|Jn.-Mar.|||r. du Pavillon|1|NA|meubl.|br.|NA|NA|NA||||rue du Pavillon
+818|Croix-Rousse|Pinatton|Jn.|||imp. St-Clair|14|NA|un.|gr.-gr.|gr. sat.|NA|NA||||impasse saint-Clair
+819|Croix-Rousse|Pines|Anth.|||r. du Mail|2|NA|unis|NA|NA|NA|NA||||rue du Mail
+820|Croix-Rousse|Pilotta|Fr.|||r. Lafayette|1|NA|vel. unis|NA|NA|NA|NA||||rue Lafayette
+821|Croix-Rousse|Pittaval|Ant.|||r. du Chapeau-Rouge|23|NA|rob.|gil.|NA|NA|NA||||rue du Chapeau-Rouge
+822|Croix-Rousse|Pithion|NA|||r. Lafayette|8|NA|unis|NA|NA|NA|NA||||rue Lafayette
+823|Croix-Rousse|Pithon|Jn.-Mar.|||r. du Chapeau-Rouge|13|NA|gil. riche.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+824|Croix-Rousse|Pivanné|Jn.|||r. des Fossés|9|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+825|Croix-Rousse|Pizard|Et.|||r. Ste-Catherine|3|NA|crav.|gil.|NA|NA|NA||||rue sainte-Catherine
+826|Croix-Rousse|Plantier|Jn.|||r. Jacquard|12|NA|NA|NA|NA|NA|NA||||rue Jacquard
+827|Croix-Rousse|Platre|Fr.|||r. des Fossés|19|NA|unis|arm.|NA|NA|NA||||rue des Fossés
+828|Croix-Rousse|Plumet|Cl.|||Gr.-Pl.|24|NA|mouch.|ch. soie|NA|NA|NA||||Grande Place
+829|Croix-Rousse|Podesta|Pre.|||r. de la Visitation|3|NA|rob.|gil.|NA|NA|NA||||rue de la Visitation
+830|Croix-Rousse|Poly|Ph.|||r. des Fossés|25|NA|ch. soie|et au quart|NA|NA|NA||||rue des Fossés
+831|Croix-Rousse|Poncet|Cl.|||r. Perrot|1|NA|unis|NA|NA|NA|NA||||rue Perrot
+832|Croix-Rousse|Poncet|Jn.-Marie|||r. du Mail|17|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+833|Croix-Rousse|Pont|Et.|||r. du Pavillon|6|NA|nouv.|NA|NA|NA|NA||||rue du Pavillon
+834|Croix-Rousse|Pont|Pre.|||r. des Fossés|10|NA|ch. soie 6/4|NA|NA|NA|NA||||rue des Fossés
+835|Croix-Rousse|Pontet|Marcellin|||r. du Chariot-d'Or|3|NA|ch. soie|gil.|cravattes|NA|NA||||rue du Chariot-d'Or
+836|Croix-Rousse|Pouchon|Fr.|||mtée Chaumais|NA|m. Quillon|unis|NA|NA|NA|NA||||montée Chaumais
+837|Croix-Rousse|Poulet|Barth.|||mtée Rey|10|NA|NA|NA|NA|NA|NA||||montée Rey
+838|Croix-Rousse|Poupin|Pre.|||r. des Fossés|16|NA|nouv.|NA|NA|NA|NA||||rue des Fossés
+839|Croix-Rousse|Pourchet|Cl.|||r. St-Denis|6|NA|nouv. unies|NA|NA|NA|NA||||rue saint-Denis
+840|Croix-Rousse|Pourchet|Pre.|||Gr.-Pl.|18|NA|mouch.|éch|ch.|NA|NA||||Grande Place
+841|Croix-Rousse|Poyard|Jn.-Mar.|||Gr.-Rue|3|NA|rob.|mouch.|crav.|NA|NA||||Grande-Rue
+842|Croix-Rousse|Pradis|Pre.|||pl. de la Visitation|1|NA|vel. faç.|NA|NA|NA|NA||||place de la Visitation
+843|Croix-Rousse|Puchard|Ant.|||Gr.-Pl.|21|NA|gil.|rob.|NA|NA|NA||||Grande Place
+844|Croix-Rousse|Purpan|Ch.|||imp. St-Clair|7|NA|mouch.|éch.|nouv.|NA|NA||||impasse saint-Clair
+845|Croix-Rousse|Putet|NA|||clos Fayolle|NA|NA|ch. lancé|NA|NA|NA|NA||||clos Fayolle
+846|Croix-Rousse|Quinard|NA|||r. Lafayette|NA|NA|ch. au quart|NA|NA|NA|NA||||rue Lafayette
+847|Croix-Rousse|Quinet|Jh.|||r. de Cuire|37|NA|NA|NA|NA|NA|NA||||rue de Cuire
+848|Croix-Rousse|Rabatel|Ant.|||mtée Rey|5|NA|vel. unis|NA|NA|NA|NA||||montée Rey
+849|Croix-Rousse|Raggio|Jn.-Bte.|||Gr.-Rue|91|NA|vel. unis|NA|NA|NA|NA||||Grande-Rue
+850|Croix-Rousse|Raggio|Mich.|||Gr.-Rue|99|NA|vel. unis|NA|NA|NA|NA||||Grande-Rue
+851|Croix-Rousse|Raggio|NA|||r. Coste|NA|NA|vel. unis|NA|NA|NA|NA||||rue Coste
+852|Croix-Rousse|Raisin|Pre.|||r. du Mail|32|NA|rob.|mouch.|NA|NA|NA||||rue du Mail
+853|Croix-Rousse|Ratelet|Cl.|||r. des Fossés|7|NA|NA|NA|NA|NA|NA||||rue des Fossés
+854|Croix-Rousse|Ratton|Jn.-Mar.|||mtée Rey|15|NA|meubles|NA|NA|NA|NA||||montée Rey
+855|Croix-Rousse|Ravattei|Pre.|||r. St-Eucher|NA|m. Décote|unis|NA|NA|NA|NA||||rue saint-Eucher
+856|Croix-Rousse|Ravier|Denis|||imp. St-Clair|10|NA|unis|rob.|gil.|NA|NA||||impasse saint-Clair
+857|Croix-Rousse|Rebattu|Jn.-Mar.|||mtée Rey|17|NA|rob.|gil.|NA|NA|NA||||montée Rey
+858|Croix-Rousse|Renaud|Ant.|||r. des Fossés|8|NA|rob.|NA|NA|NA|NA||||rue des Fossés
+859|Croix-Rousse|Renaud|Aug.|||cours des Tapis|10|NA|meubl.|br.|NA|NA|NA||||cours des Tapis
+860|Croix-Rousse|Renaud|Jh.|||r. du Pavillon|1|NA|crav.|gil.|NA|NA|NA||||rue du Pavillon
+861|Croix-Rousse|Renaud|Jn.-Cl.|||imp. Dumond|14|NA|NA|NA|NA|NA|NA||||impasse Dumont
+862|Croix-Rousse|Renaud|Pre.|||Gr.-Pl.|17|NA|meubl.|ornem.|NA|NA|NA||||Grande Place
+863|Croix-Rousse|Regnier|Pre.|||NA|NA|NA|ch. soie 6/4|NA|NA|NA|NA||||NA
+864|Croix-Rousse|René|Jn.-Mich.|||r. du Failleron|9|NA|NA|NA|NA|NA|NA||||rue du Failleron
+865|Croix-Rousse|Ressier|Cl.|||Gr.-Rue|91|NA|vel. unis|NA|NA|NA|NA||||Grande-Rue
+866|Croix-Rousse|Reveneau|Martin|||r. du Mail|32|NA|NA|NA|NA|NA|NA||||rue du Mail
+867|Croix-Rousse|Revenu|Ant.|||r. Lafayette|6|NA|unis|NA|NA|NA|NA||||rue Lafayette
+868|Croix-Rousse|Reverchon|Fr.|||r. du Pavillon|1|NA|ch. soie 6/4|NA|NA|NA|NA||||rue du Pavillon
+869|Croix-Rousse|Revier|Jn.-Fr.|||r. Dumenge|15|NA|rob.|NA|NA|NA|NA||||rue Dumenge
+870|Croix-Rousse|Rey|Fr.|||r. Dumenge|7|NA|rob.|gil.|NA|NA|NA||||rue Dumenge
+871|Croix-Rousse|Reymond|Jn.|||r. Henri-IV|3|NA|ch. au quart|cachem.|NA|NA|NA||||rue Henri IV
+872|Croix-Rousse|Reymond|Jn.-Mar.|||pl. de la Visitation|NA|NA|un.|rob.|crav.|NA|NA||||place de la Visitation
+873|Croix-Rousse|Reyre|Jn.-Pre.|||r. Dumenge|8|NA|poulx de soie|unis|NA|NA|NA||||rue Dumenge
+874|Croix-Rousse|Richeu|Jn.|||imp. St-Clair|4|NA|ch. au quart|NA|NA|NA|son successeur||||impasse saint-Clair
+875|Croix-Rousse|Rigaud|Nicolas|||r. des Fossés|9|NA|un.|vel. un.|NA|NA|NA||||rue des Fossés
+876|Croix-Rousse|Rigollet|Désiré|||r. du Mail|14|NA|vel. un.|NA|NA|NA|NA||||rue du Mail
+877|Croix-Rousse|Rigollet|Pre.|||mtée Rey|1|NA|rob.|NA|NA|NA|NA||||montée Rey
+878|Croix-Rousse|Riguisola|Jn.|||Gr.-R.|85|NA|vel. un.|NA|NA|NA|NA||||Grande-Rue
+879|Croix-Rousse|Rivet|Jn.-Mar.|||r. Jacquard|12|NA|NA|NA|NA|NA|NA||||rue Jacquard
+880|Croix-Rousse|Robert|Jn.-Cl.|||r. des Fossés|8|NA|rob.|NA|NA|NA|NA||||rue des Fossés
+881|Croix-Rousse|Rodet|Ant.|||r. du Chapeau-Rouge|3|NA|nouv.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+882|Croix-Rousse|Rodet|Gabr.|||Gr.-Pl.|13|NA|NA|NA|NA|NA|NA||||Grande Place
+883|Croix-Rousse|Rogeuve|Jacq.|||Gr.-R.|3|NA|rob.|fich.|NA|NA|NA||||Grande-Rue
+884|Croix-Rousse|Roizon|Jn.-Mar.|||r. du Chariot-d'Or|10|NA|rob. un.|et f.|NA|NA|NA||||rue du Chariot-d'Or
+885|Croix-Rousse|Rollin|Jn.-Mar.|||r. des Fossés|11|NA|gil.|NA|NA|NA|NA||||rue des Fossés
+886|Croix-Rousse|Rosse|Nicolas|||r. de Cuire|88|NA|rob.|gil.|arm.|NA|NA||||rue de Cuire
+887|Croix-Rousse|Rossignol|Laur.|||r. Celu|8|NA|rob.|NA|NA|NA|NA||||rue Celu
+888|Croix-Rousse|Rostaing|Pre.|||r. Sully|6|NA|arm. unis|NA|NA|NA|NA||||rue Sully
+889|Croix-Rousse|Rostaing|Anth.|||r. de la Visitation|16|NA|ch. au quart|NA|NA|NA|NA||||rue de la Visitation
+890|Croix-Rousse|Rosset|Fr.|||r. du Mail|13|NA|uni|arm.|NA|NA|NA||||rue du Mail
+891|Croix-Rousse|Rost|Fr.|||r. du Mail|12 bis|NA|NA|NA|NA|NA|NA||||rue du Mail
+892|Croix-Rousse|Rottan|NA|||pl. de la Visitation|1|NA|ch. un.|et faç.|NA|NA|NA||||place de la Visitation
+893|Croix-Rousse|Rousset|Pre.-Jn.|||r. du Chariot-d'Or|12|NA|uni en large|NA|NA|NA|NA||||rue du Chariot-d'Or
+894|Croix-Rousse|Roux|Fr.|||mtée Rey|11|NA|NA|NA|NA|NA|NA||||montée Rey
+895|Croix-Rousse|Roux|André|||r. Sully|4|NA|ch. soie|uni 6/4|NA|NA|NA||||rue Sully
+896|Croix-Rousse|Roy|Jn.|||r. Perrot|3|NA|rob.|gil.|nouv.|NA|NA||||rue Perrot
+897|Croix-Rousse|Royaume|Simon|||r. du Chapeau-Rouge|3|NA|pel.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+898|Croix-Rousse|Royer|Bt.|||r. du Chapeau-Rouge|19|NA|gil.|ch. soie|NA|NA|NA||||rue du Chapeau-Rouge
+899|Croix-Rousse|Ruet|Jn.-Mar.|||pet. r. de Cuire|NA|NA|ch. soie|NA|NA|NA|NA||||petite rue de Cuire
+900|Croix-Rousse|Sablon|Jn.-Bte.|||r. des Fossés|11|NA|vel. unis|NA|NA|NA|NA||||rue des Fossés
+901|Croix-Rousse|Sabot|Jn.-Mar.|||Gr.-Pl.|23|NA|gil.|rob.|mouch.|NA|NA||||Grande Place
+902|Croix-Rousse|Saunier|Laur.|||r. Lafayette|11|NA|ch. soie uni|et faç.|NA|NA|NA||||rue Lafayette
+903|Croix-Rousse|Savigny|Jh.|||r. des Gloriettes|5|NA|rob.|NA|NA|NA|NA||||rue des Gloriettes
+904|Croix-Rousse|Scharovtz|Jacob.|||r. Celu|10|NA|rob.|NA|NA|NA|NA||||rue Celu
+905|Croix-Rousse|Séard|Jn.|||Gr.-Pl.|18|NA|NA|NA|NA|NA|NA||||Grande Place
+906|Croix-Rousse|Seliman|Jh.|||r. du Mail|7|NA|rob. riche.|NA|NA|NA|NA||||rue du Mail
+907|Croix-Rousse|Serviez|Jn.|||cours des Tapis|NA|m. Pontarlier|NA|NA|NA|NA|NA||||cours des Tapis
+908|Croix-Rousse|Servoz|Jn.-Pre.|||rue du Mail|27|NA|rob.|gil.|vel.|NA|NA||||rue du Mail
+909|Croix-Rousse|Servenet|Jh.|||imp. St-Clair|14|NA|vel. uni.|NA|NA|NA|NA||||impasse saint-Clair
+910|Croix-Rousse|Silve|Pre.|||r. de la Citadelle|1|NA|vel. faç.|NA|NA|NA|NA||||rue de la Citadelle
+911|Croix-Rousse|Sillon|Jn.|||r. Dumond|10|NA|ch. soie|et laine|NA|NA|NA||||rue Dumont
+912|Croix-Rousse|Simon|André|||r. Pailleron|6|NA|gil.|crav.|NA|NA|NA||||rue Pailleron
+913|Croix-Rousse|Simonet|Jn.|||r. des Fossés|25|NA|nouv.|NA|NA|NA|prof. de théorie||||rue des Fossés
+914|Croix-Rousse|Simplet|NA|||r. Lafayette|8|NA|taff.|lustr.|NA|NA|plieur||||rue Lafayette
+915|Croix-Rousse|Soignot|Jh.|||r. Henri-IV|5|NA|NA|NA|NA|NA|NA||||rue Henri IV
+916|Croix-Rousse|Solichon|Pre.|||r. des Gloriettes|38|NA|rob.|gil.|NA|NA|NA||||rue des Gloriettes
+917|Croix-Rousse|Soulary|Ant.|||Gr.-Rue|93|NA|vel. unis|NA|NA|NA|NA||||Grande-Rue
+918|Croix-Rousse|Soulary|Jn.-Cl.|||r. Dumenge|15|NA|vel. unis|NA|NA|NA|NA||||rue Dumenge
+919|Croix-Rousse|Souvanet|Fr.|||r. de la Terrasse|2|NA|ch. soie|nouv.|NA|NA|NA||||rue de la Terrasse
+920|Croix-Rousse|Sprecher|Ch.|||r. Perrot|2|NA|mouch.|rob.|NA|NA|NA||||rue Perrot
+921|Croix-Rousse|Sprecher|Ch. Léon|||r. des Tapis|1|NA|gil.|cot.|mouss.|NA|NA||||rue des Tapis
+922|Croix-Rousse|Sudit|Ant.|||r. Lafayette|16|NA|arm.|rob.|pel. de goût|NA|NA||||rue Lafayette
+923|Croix-Rousse|Suisse|NA|||r. de la Visitation|NA|NA|rob.|NA|NA|NA|NA||||rue de la Visitation
+924|Croix-Rousse|Sybille|Fr.|||Gr.-Rue|88|NA|unis|NA|NA|NA|NA||||Grande-Rue
+925|Croix-Rousse|Tamain|Pre.-Mar.|||r. du Chapeau-Rouge|2|NA|rob.|NA|NA|NA|NA||||rue du Chapeau-Rouge
+926|Croix-Rousse|Tarcher|Jn.|||r. du Mail|33|NA|ch. au quart|NA|NA|NA|NA||||rue du Mail
+927|Croix-Rousse|Tavernier|Baltha.|||cours d'Herbouville|25|NA|uni|lustr.|sat.|NA|NA||||cours d'Herbouville
+928|Croix-Rousse|Terrasse|Jn.|||Gr.-Rue|88|NA|mouch.|ch. au quart|NA|NA|NA||||Grande-Rue
+929|Croix-Rousse|Térolle|Fr.|||r. Dumenge|7|NA|rob.|gil.|NA|NA|NA||||rue Dumenge
+930|Croix-Rousse|Terrenoire|Fr.|||r. Dumond|8|NA|nouv.|NA|NA|NA|NA||||rue Dumont
+931|Croix-Rousse|Teston|Bruno|||imp. Dumond|16|NA|NA|NA|NA|NA|NA||||impasse Dumont
+932|Croix-Rousse|Testu|Jh.|||r. Dumenge|8|NA|nouv.|NA|NA|NA|NA||||rue Dumenge
+933|Croix-Rousse|Thaudier|Gasp.|||r. des Tapis|15|NA|NA|NA|NA|NA|NA||||rue des Tapis
+934|Croix-Rousse|Theillard|Jn.-Mar.|||r. des Tapis|9|NA|pel.|NA|NA|NA|NA||||rue des Tapis
+935|Croix-Rousse|Thermitton|Jn.-Mar.|||r. des Fossés|8|NA|gil.|rob.|NA|NA|NA||||rue des Fossés
+936|Croix-Rousse|Theurel|Marès|||r. Sully|5|NA|NA|NA|NA|NA|NA||||rue Sully
+937|Croix-Rousse|Thevenet|Ls.|||r. Lafayette|8|NA|vel. unis|NA|NA|NA|NA||||rue Lafayette
+938|Croix-Rousse|Thibaudier|Jn.|||r. de Cuire|2|NA|NA|NA|NA|NA|NA||||rue de Cuire
+939|Croix-Rousse|Thielman|Aug.|||r. de Cuire|39|NA|ch. au quart|NA|NA|NA|NA||||rue de Cuire
+940|Croix-Rousse|Thomasset|Ant.|||r. des Tapis|21|NA|rob.|gil.|NA|NA|NA||||rue des Tapis
+941|Croix-Rousse|Thovet|Ant.|||r. d'Enfert|3|NA|NA|NA|NA|NA|NA||||rue d'Enfert
+942|Croix-Rousse|Thurigny|Pre.|||r. Perrot|2|NA|gil. unis|et faç.|NA|NA|NA||||rue Perrot
+943|Croix-Rousse|Tissot|Ant.|||r. Perrot|1|NA|vel. faç.|NA|NA|NA|NA||||rue Perrot
+944|Croix-Rousse|Tissot|Jn.|||r. de Cuire|2|NA|gaze damassé|nouv.|NA|NA|NA||||rue de Cuire
+945|Croix-Rousse|Tondu|NA|||r. Sully|6|NA|gil.|cach.|NA|NA|NA||||rue Sully
+946|Croix-Rousse|Tollet|Guill.|||r. St-Eucher|NA|m. Décolte|vel. unis|NA|NA|NA|NA||||rue saint-Eucher
+947|Croix-Rousse|Toquet|Jn.-Bte.|||r. des Gloriettes|NA|NA|NA|NA|NA|NA|NA||||rue des Gloriettes
+948|Croix-Rousse|Torey|Cl.|||r. du Viare|2|NA|NA|NA|NA|NA|NA||||rue du Viare
+949|Croix-Rousse|Toscanelly|Ant.|||r. du Pavillon|1|NA|crav.|gil.|NA|NA|NA||||rue du Pavillon
+950|Croix-Rousse|Trambouza|NA|||clos Fayolle|NA|NA|ch. lancé.|NA|NA|NA|NA||||clos Fayolle
+951|Croix-Rousse|Travaille|Pre.|||r. du Mail|32|NA|ch. soie 6/4|NA|NA|NA|NA||||rue du Mail
+952|Croix-Rousse|Trichon|Mich.|||r. du Mail|27|NA|nouv.|NA|NA|NA|NA||||rue du Mail
+953|Croix-Rousse|Trouille|Bt.|||r. Sully|6|NA|NA|NA|NA|NA|NA||||rue Sully
+954|Croix-Rousse|Trouillon|Cl.|||r. Henri-IV|15|NA|rob.|gil.|NA|NA|NA||||rue Henri IV
+955|Croix-Rousse|Truchon|Ant.|||r. St-Eucher|NA|m. Vettard|vel. unis|NA|NA|NA|NA||||rue saint-Eucher
+956|Croix-Rousse|Turquet|Jn.-Mar.|||r. du Mail|33|NA|NA|NA|NA|NA|NA||||rue du Mail
+957|Croix-Rousse|Vachet|Cl.|||r. de Cuire|2|NA|crav.|gil.|rob.|châle soie|NA||||rue de Cuire
+958|Croix-Rousse|Vachez|Ant.|||r. Dumenge|13|NA|rob.|NA|NA|NA|NA||||rue Dumenge
+959|Croix-Rousse|Vaillant|Ant.|||mtée Rey|9|NA|NA|NA|NA|NA|NA||||montée Rey
+960|Croix-Rousse|Vailler|Pre.|||r. Dumenge|8|NA|rob.|NA|NA|NA|NA||||rue Dumenge
+961|Croix-Rousse|Vaginet|Ant.|||NA|NA|m. Poitrarson|ch. lancé.|NA|NA|NA|NA||||NA
+962|Croix-Rousse|Valencin|Allard|||r. du Chariot-d'Or|14|NA|NA|NA|NA|NA|NA||||rue du Chariot-d'Or
+963|Croix-Rousse|Valentin|Jn.-Urbain|||Gr.-Pl.|20|NA|rob.|gil.|NA|NA|NA||||Grande Place
+964|Croix-Rousse|Valentin|Pre.|||r. Henri-IV|1|NA|mouch.|éch.|nouv.|NA|NA||||rue Henri IV
+965|Croix-Rousse|Vallet|Jn.-Bte.|||r. des Tapis|1|NA|uni|rob.|NA|NA|NA||||rue des Tapis
+966|Croix-Rousse|Vallin|Ls.|||pl. de la Visitation|18|NA|ch. soie 6/4|NA|NA|NA|NA||||place de la Visitation
+967|Croix-Rousse|Vallot|Ls.|||r. des Fossés|17|NA|rob.|arm.|NA|NA|NA||||rue des Fossés
+968|Croix-Rousse|Vanien|Nicolas|||r. des Fossés|8|NA|rob.|mouch.|NA|NA|NA||||rue des Fossés
+969|Croix-Rousse|Veillot|Jn.|||r. du Mail|13|NA|uni en tous genres|NA|NA|NA|NA||||rue du Mail
+970|Croix-Rousse|Verderet|Bonav.|||r. Henri-IV|1|NA|unis|NA|NA|NA|NA||||rue Henri IV
+971|Croix-Rousse|Vergeot|Jn.-Cl.|||Gr.-Pl.|18|NA|mouch.|ch. soie|nouv.|NA|NA||||Grande Place
+972|Croix-Rousse|Vermay|Cl.|||r. Perrot|2|NA|ch. soie 6/4|NA|NA|NA|NA||||rue Perrot
+973|Croix-Rousse|Verpillat|Jn.-Emman.|||mtée Rey|12|NA|ch. fantaisie|NA|NA|NA|NA||||montée Rey
+974|Croix-Rousse|Vericel|Bt.|||cours d'Herbouville|19|NA|un.|bl.|arm.|NA|NA||||cours d'Herbouville
+975|Croix-Rousse|Vernellay|Bern.|||mtée Rey|13|NA|NA|NA|NA|NA|NA||||montée Rey
+976|Croix-Rousse|Verrier|Jacq.|||r. Celu|12|NA|ch. fantaisie lance.|NA|NA|NA|NA||||rue Celu
+977|Croix-Rousse|Verrier|Cl.|||cours d'Herbouville|22|NA|NA|NA|NA|NA|NA||||cours d'Herbouville
+978|Croix-Rousse|Verot|Jacq.|||cours d'Herbouville|33|NA|mouch.|ch.|vel.|NA|NA||||cours d'Herbouville
+979|Croix-Rousse|Verro|Nicolas|||cours des Tapis|4|NA|NA|NA|NA|NA|NA||||cours des Tapis
+980|Croix-Rousse|Vert|Cl.|||Gr.-R.|33|NA|NA|NA|NA|NA|NA||||Grande-Rue
+981|Croix-Rousse|Veuillet|Fr.|||r. Dumenge|3|NA|NA|NA|NA|NA|NA||||rue Dumenge
+982|Croix-Rousse|Vialler|Mich.|||mtée Rey|11|NA|NA|NA|NA|NA|NA||||montée Rey
+983|Croix-Rousse|Viallon|NA|||r. de la Citadelle|5|NA|vel. unis|NA|NA|NA|NA||||rue de la Citadelle
+984|Croix-Rousse|Vignand|NA|||r. du Mail|12|NA|ch. soie|nouv.|NA|NA|NA||||rue du Mail
+985|Croix-Rousse|Vignard|Jn.|||r. S. Eucher|NA|m. Boirivan|rob.|gil.|NA|NA|NA||||rue saint-Eucher
+986|Croix-Rousse|Vignard|René|||Gr.-Pl.|23|NA|rob.|NA|NA|NA|NA||||Grande Place
+987|Croix-Rousse|Vignard|Jacq.|||mtée Rey|15|NA|rob.|NA|NA|NA|NA||||montée Rey
+988|Croix-Rousse|Vignard|Fr.|||r. du Chapeau-Rouge|2|NA|NA|NA|NA|NA|NA||||rue du Chapeau-Rouge
+989|Croix-Rousse|Villard|Cl.-Mar.|||r. du Chapeau-Rouge|13|NA|rob.|gil.|NA|NA|NA||||rue du Chapeau-Rouge
+990|Croix-Rousse|Villard|Ls.|||r. du Pavillon|6|NA|rob.|gil.|NA|NA|NA||||rue du Pavillon
+991|Croix-Rousse|Villard|Pre.|||pl. de la Visitation|1|NA|crav.|mouch.|ch.|NA|NA||||place de la Visitation
+992|Croix-Rousse|Ville|Ant.|||r. Pailleron|6|NA|vel. unis|NA|NA|NA|NA||||rue Pailleron
+993|Croix-Rousse|Ville|Pre.|||r. de Cuire|40|NA|NA|NA|NA|NA|NA||||rue de Cuire
+994|Croix-Rousse|Villoud|Ls.|||Gr.-Pl.|13|NA|rob.|gil.|NA|NA|NA||||Grande Place
+995|Croix-Rousse|Villoud|Alex.|||cours des Tapis|10|NA|rob.|mouch.|NA|NA|NA||||cours des Tapis
+996|Croix-Rousse|Viollet|Jn.|||Gr.-Rue|39|NA|NA|NA|NA|NA|NA||||Grande-Rue
+997|Croix-Rousse|Vioud|NA|||r. des Fossés|21|NA|ch. soie|NA|NA|NA|NA||||rue des Fossés
+998|Croix-Rousse|Vincent|Et.|||mtée Rey|1|NA|ch. soie|NA|NA|NA|NA||||montée Rey
+999|Croix-Rousse|Vincent|Fr.|||r. du Mail|14|NA|rob.|nouv.|NA|NA|NA||||rue du Mail
+1000|Croix-Rousse|Vincent|Jn.|||r. du Chariot-d'Or|3|NA|rob.|gil.|NA|NA|NA||||rue du Chariot-d'Or
+1001|Croix-Rousse|Vincent|Jn.|||r. Pailleron|6|NA|rob.|gil.|crav.|NA|NA||||rue Pailleron
+1002|Croix-Rousse|Vincent|Jn.|||imp. St-Clair|7|NA|rob.|gil.|mouch.|crav.|NA||||impasse saint-Clair
+1003|Croix-Rousse|Vire|Pre.|||r. Lafayette|9|NA|unis|NA|NA|NA|NA||||rue Lafayette
+1004|Croix-Rousse|Vital|Jn.-Bte.|||r. du Mail|35|NA|gil.|ch. soie|NA|NA|NA||||rue du Mail
+1005|Croix-Rousse|Vittard|Mart.|||r. d'Enfert|NA|m. Vittard|NA|NA|NA|NA|NA||||rue d'Enfert
+1006|Croix-Rousse|Viviers|Fr.-Et.|||mtée Rey|5|NA|nouv.|NA|NA|NA|NA||||montée Rey
+1007|Croix-Rousse|Voiron|Jn.-Mar.|||Gr.-Pl.|6|NA|unis|NA|NA|NA|NA||||Grande Place
+1008|Croix-Rousse|Vollant|Nicolas|||mtée Rey|13|NA|rob.|gil.|NA|NA|NA||||montée Rey
