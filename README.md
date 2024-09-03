@@ -1,5 +1,8 @@
-# Mémoire M2 TNAH
-Ce dépôt est dédié aux livrables techniques du mémoire de M2 TNAH "D'un bout à l'autre d'une chaîne de traitement de données historiques ouvertes. Le cas de Geovistory et du projet de recherche Univers Textiles".
+# Livrable techniques du mémoire de M2 TNAH, Ronan Vichot
+Ce dépôt est dédié aux livrables techniques du mémoire de M2 TNAH suivant :
+
+Ronan Vichot, _D’un bout à l’autre d’une chaîne de traitement de données historiques ouvertes. Le cas de Geovistory et du projet de recherche Univers Textiles_, mémoire de master « Technologies numériques appliquées à
+l’histoire », dir. Chloé Pochon à l’École nationale des chartes, et dir. Pierre Vernus et Manuela Martini au Laboratoire de recherche historique Rhône-Alpes, 2024.
 
 L'ensemble du contenu ci-dessous provient d'un autre fichier README.md à l'origine écrit à destination de l'équipe ARHN devant récupérer les fichiers produits dans le cadre de mon stage. Pour plus de clarté, j'ai seulement modifié les noms de quelques fichiers, qui ont changé depuis. La description ci-dessous répète parfois des éléments développés dans le mémoire, mais j'ai pris le parti de tout garder pour préserver la cohésion et l'unité de la description. Elle aborde l'ensemble des fichiers, dans leur version la plus aboutie, que j'ai produit ou modifié dans le cadre de mon stage. Certains sont déposés dans ce dépôt GitHub, les autres sont présents directement dans le mémoire.
 
