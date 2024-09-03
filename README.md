@@ -180,8 +180,6 @@ Pour la modélisation finale, seuls les **chemins** importent, mais les autres i
 
 Les fichiers contenus ici sont ceux qui m'ont permis de réaliser les **graphes issus des mappings**. J'ai choisi d'utiliser l'outil en ligne gratuit draw.io, qui permet de dessiner facilement les classes sous forme de boîtes et de les relier entre elles par des lignes qui représentent les propriétés.
 
-Plusieurs versions des graphes sont possibles. Si tel est le cas, le dossier ./old contient les versions précédentes.
-
 ### Le dossier ./png
 
 Le dossier ./png comporte, comme son nom l'indique, des fichiers **images**. Il s'agit des fichiers .drawio convertis afin d'être collés dans tous types de documents de traitement de texte, de présentation, etc.
