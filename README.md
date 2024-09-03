@@ -5,7 +5,8 @@ L'ensemble du contenu ci-dessous provient d'un autre fichier README.md à l'orig
 ---
 
 Crée par Ronan Vichot le 19 juillet 2024.
-Modifié par Ronan Vichot le 3 septembre 2024 dans la perspective du dépôt sous forme de livrable technique du mémoire de master TNAH
+
+Modifié par Ronan Vichot le 3 septembre 2024 dans la perspective du dépôt sous forme de livrable technique du mémoire de master TNAH.
 
 # Guide des productions du stage de Ronan Vichot (avril-juillet 2024)
 
