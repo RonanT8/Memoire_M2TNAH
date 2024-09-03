@@ -1,4 +1,4 @@
-# Livrables techniques du mémoire de M2 TNAH, Ronan Vichot
+# Livrables techniques du mémoire de M2 TNAH réalisé par Ronan Vichot
 Ce dépôt est dédié aux livrables techniques du mémoire de M2 TNAH suivant :
 
 Ronan Vichot, _D’un bout à l’autre d’une chaîne de traitement de données historiques ouvertes. Le cas de Geovistory et du projet de recherche Univers Textiles_, mémoire de master « Technologies numériques appliquées à
