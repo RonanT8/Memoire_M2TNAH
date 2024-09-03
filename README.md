@@ -4,7 +4,7 @@ Ce dépôt est dédié aux livrables techniques du mémoire de M2 TNAH suivant :
 Ronan Vichot, _D’un bout à l’autre d’une chaîne de traitement de données historiques ouvertes. Le cas de Geovistory et du projet de recherche Univers Textiles_, mémoire de master « Technologies numériques appliquées à
 l’histoire », dir. Chloé Pochon à l’École nationale des chartes, et dir. Pierre Vernus et Manuela Martini au Laboratoire de recherche historique Rhône-Alpes, 2024.
 
-L'ensemble du contenu ci-dessous provient d'un autre fichier README.md à l'origine écrit à destination de l'équipe ARHN devant récupérer les fichiers produits dans le cadre de mon stage. Pour plus de clarté, j'ai seulement modifié les noms de quelques fichiers, qui ont changé depuis. La description ci-dessous répète parfois des éléments développés dans le mémoire, mais j'ai pris le parti de tout garder pour préserver la cohésion et l'unité de la description. Elle aborde l'ensemble des fichiers, dans leur version la plus aboutie, que j'ai produit ou modifié dans le cadre de mon stage. Certains sont déposés dans ce dépôt GitHub, les autres sont présents directement dans le mémoire.
+L'ensemble du contenu ci-dessous provient d'un autre fichier README.md à l'origine écrit à destination de l'équipe ARHN devant récupérer les fichiers produits dans le cadre de mon stage. La description ci-dessous répète parfois des éléments développés dans le mémoire, mais j'ai pris le parti de tout garder pour préserver la cohésion et l'unité de la description. Elle aborde l'ensemble des fichiers, dans leur version la plus aboutie, que j'ai produit ou modifié dans le cadre de mon stage. Certains sont déposés dans ce dépôt GitHub, les autres sont présents directement dans le mémoire.
 
 ---
 
@@ -29,7 +29,7 @@ Afin de partager mes fichiers avec les responsables du projet, Mme Manuela MARTI
 
 Chacune des sources a fait l'objet d'un travail préliminaire à mon stage, réalisé par **deux stagiaires antérieures que sont Laura BEY puis Juliette ZANETTA**. Leur rôle a été de produire les tables et de les compléter au mieux en lisant les sources.
 
-J'ai été chargé de conserver l'ensemble des fichiers produits avant mon arrivé, c'est pourquoi certains dossiers contiennent plus de fichiers que d'autres. J'ai récupéré la table la plus complète dans chaque dossier et j'ai crée un doublon sur lequel je pouvais travailler.
+J'ai été chargé de conserver l'ensemble des fichiers produits avant mon arrivée, c'est pourquoi certains dossiers contiennent plus de fichiers que d'autres. J'ai récupéré la table la plus complète dans chaque dossier et j'ai crée un doublon sur lequel je pouvais travailler.
 
 Tous les dossiers contiennent donc des **fichiers obsolètes** et un fichier à jour. Les **fichiers à jour** comportent toujours **edit** dans leur nom. Exemple : 1851_recensement_edit_03-07.
 
@@ -45,9 +45,9 @@ Parmi les autres fichiers stockés directement dans ./Univers_textiles_jeu_de_do
 
 ### ./Univers_textiles_design_system_et_website
 
-En parallèle du traitement de données et des modélisations se trouve un dossier voisin dédié au développement web et aux _web components_. Dans ce dossier, intitulé [**./Univers_textiles_design_system_et_website**](#Le-développement-web-et-les-web-components), se tiennent deux autres dossiers, respectivement ./website et ./design-system, qui correspondent à des imports de dépôts GitHub.
+En parallèle du traitement de données et des modélisations se trouve un dossier voisin dédié au développement web et aux _web components_. Dans ce dossier, intitulé [**./Univers_textiles_design_system_et_website**](#Le-développement-web-et-les-web-components), se tiennent dans mon stockage local deux autres dossiers, respectivement ./website et ./design-system, qui correspondent à des imports des dépôts GitHub Geovistory en question.
 
-Plusieurs fichiers package-lock.json sont présents à différents niveaux : il s'agit de fichier de configuration. En effet, pour bien utiliser ces fichiers, il faut d'abord suivre une procédure indiquée dans les README.md des deux dépôts GitHub en question.
+Pour ne pas polluer ce dépôt GitHub, j'ai seulement déposé les fichiers que j'ai modifiés tout en gardant leur chemin respectif dans les dépôts d'origine. En l'occurrence, je n'ai importé ici que les modifications que j'ai effectuée dans le dépôt Website, c'est-à-dire la page d'accueil du projet _Univers Textiles_.
 
 ### ./Univers_textiles_dataviz
 
@@ -95,15 +95,15 @@ Pour des raisons pratiques, j'ai récupéré les individus d'abord dans un fichi
     - 1849_indicateur_indiv_distincts_edit.xlsx
     - 1846_recensement_vernaison.xlsx
 
-Notez que, pour les deux fichiers d'indicateur, j'ai dû créer un nouveau document pour relever les individus uniques. Ce point est développé dans PARTIE.
+Notez que, pour les deux fichiers d'indicateur, j'ai dû créer un nouveau document pour relever les individus uniques. Ce point est développé dans [la partie dédiée aux indicateurs](#Le-individus-dans-les-fichiers-indicateurs-:-cas-particulier).
 
-Le nom de domaine du fichier n'est pas à prendre en compte : il est celui qui était utilisé à mon arrivé mais il a pu changer après mes interventions (notamment parce qu'OpenRefine ne peut pas exporter de table en format CSV).
+Le nom de domaine du fichier n'est pas à prendre en compte : il est celui qui était utilisé à mon arrivée mais il a pu changer après mes interventions (notamment parce qu'OpenRefine ne peut pas exporter de table en format CSV).
 
-De plus, considérez qu'une date doit désormais figurée dans la version la plus récente de chacun de ces fichiers.
+De plus, considérez qu'une date figure dans la version la plus récente de chacun de ces fichiers.
 
 ### Les champs du dictionnaire des individus
 
-Les champs du fichier peuvent être groupées en cinq sections.
+Les champs du fichier peuvent être groupés en cinq sections.
 
 1. L'**identifiant unique** (id_unique) et le score qui permet de le calculer (score_similarite_total).
 
@@ -111,7 +111,7 @@ Les champs du fichier peuvent être groupées en cinq sections.
    - L'ordre d'attribution de l'identifiant unique est basé sur un tri alphabétique de l'ensemble des individus, d'abord par leur nom de famille (nom_usage) puis par leur prénom (prenom), et troisièmement un tri croissant des dates de naissance.
    - Par défaut, j'ai déterminé que deux entrées sont considérées comme faisant référence à un même individu si leur score de similarité est supérieur à 90%. De même, j'ai fixé la tolérance de la date de naissance à +/- 3 ans.
 
-     Dans la formule, la borne inférieure est 3 année en dessous car j'ai retenu pour le calcul la date inférieure lorsque l'année était incertaine. Par exemple : pour 1790/1791, je retiens 1790, donc les bornes sont 1797-1794
+     Dans la formule, la borne inférieure est 3 année en dessous car j'ai retenu pour le calcul la date inférieure lorsque l'année était incertaine. Par exemple : pour 1790/1791, je retiens 1790, de sorte que les bornes soient 1787-1794.
 
    Ces paramètres peuvent être changés (ici, dans la cellule A2 ) :
 
@@ -119,16 +119,16 @@ Les champs du fichier peuvent être groupées en cinq sections.
 
 2. L'**identité** de l'individu : nom_usage, nom_naissance, prenom, genre, date_naissance_ISO.
 
-   - Dans la plupart des cas, le genre était explicite dans le fichier d'origine.
+   - Dans la plupart des cas, le genre était explicité dans le fichier d'origine.
    - Dans des cas spécifiques, comme les témoins dans les quatre fichiers de mariages, j'ai déduit le genre en fonction des prénoms et/ou des liens familiaux (frère, oncle, cousin).
-   - Le nom_naissance sert à identifier le nom de jeune fille des femmes mariés ou veuves. Pour tous les hommes, nom_usage et nom_naissance sont identiques.
+   - Le nom_naissance sert à identifier le nom de jeune fille des femmes mariées ou veuves. Pour tous les hommes, nom_usage et nom_naissance sont identiques.
 
-3. L'**adresse de résidence** de l'individu : numero_ordre_menages, adr_residence_numero, adr_residence_type_voie, adr_residence_nom_voie, adr_residence_commune, adr_residence_dpt_fr, adr_residence_pays.
+3. L'**adresse de résidence** de l'individu : numero_ordre_menages, adr_residence_numero, adr_residence_type_voie, adr_residence_nom_voie, adr_residence_commune, adr_residence_dpt_region, adr_residence_pays.
 
    - Le champ numero_ordre_menages ne sert que pour le fichier 1836_recensement_edit car ce dernier ne contient pas les adresses des individus, seulement un index dont la pertinence nous échappe encore.
-   - Les subdivisions administratives des adresses hors de France ne sont pas contenues dans adr_residence_dpt_fr mais dans adr_residence_pays. Exemple : Royaume de Piémont-Sardaigne (Savoie).
+   - Les subdivisions administratives des adresses hors de France sont contenues dans adr_residence_dpt_region, d'où "_region". Exemple : Savoie | Royaume de Piémont-Sardaigne.
 
-4. L'**adresse de naissance** de l'individu : lieu_naissance_commune, lieu_naissance_dpt, lieu_naissance_pays
+4. L'**adresse de naissance** de l'individu : lieu_naissance_commune, lieu_naissance_dpt_region, lieu_naissance_pays
 
    - Comme pour l'adresse de résidence, ces champs ont permis de générer des data visualisations sur les mouvements de population sans import dans Geovistory, urgence formulée par Mme MARTINI dans la perspective de son séminaire en septembre prochain.
 
@@ -136,16 +136,16 @@ Les champs du fichier peuvent être groupées en cinq sections.
 
    - L'id_fichier_de_provenance est la **clé étrangère**.
    - Le champ role a pour but d'indiquer l'activité de l'individu mentionnée dans le fichier de provenance. Il sert d'indice pour déterminer rapidement l'essentiel de l'information spécifique le concernant dans ledit fichier.
-   - Le champ id_source indique l'ordre dans lequel j'ai ajouté les entrées dans le dictionnaire des individus. Elle est à rapprocher de fichier_de_provenance.
+   - Le champ id_source indique l'ordre dans lequel j'ai ajouté les entrées dans le dictionnaire des individus. Cet identifiant est à rapprocher de fichier_de_provenance.
 
 ## Le individus dans les fichiers indicateurs : cas particulier
 
 En effet, les entrées du fichier d'origine indiquent parfois plusieurs individus dans une même entrée, les copropriétaires des ateliers, notamment.
 J'ai donc été amené à reconstituer les individus à partir des groupes.
 
-Pour ce faire, j'ai crée dans chaque dossier indicateur un nouveau fichier avec le suffixe **\_indiv_distincts_edit**. Grâce à un système de clés primaire et étrangère, les individus regroupés dans une même entrée dans le fichier source ont un identifiant de groupe relié à leur identifiant individuel dans le fichier \_indiv_distincts_edit.
+Pour ce faire, j'ai crée dans chaque dossier indicateur un nouveau fichier avec le suffixe **\_indiv_distincts_edit**. Grâce à un système de clés primaire et étrangère, les individus regroupés dans une même entrée dans le fichier source ont un identifiant de groupe relié à leur identifiant individuel dans le fichier \_indiv_distincts_edit qui correspond.
 
-Ainsi, dans les fichiers \_indiv_distincts_edit, le champ id_unique renseigne leur identifiant individuel, tandis que le champ id_groupe indique leur identifiant dans le document source.
+Ainsi, dans les fichiers \_indiv_distincts_edit, le champ id_unique renseigne leur identifiant individuel, tandis que le champ id_groupe indique l'identifiant commun des associés dans le document source.
 
 ## Un script de transformation GREL conservé en cas de besoin
 
@@ -157,9 +157,9 @@ Ces opérations concernent l'harmonisation et le réagencement des adresses dans
 
 À l'origine, mon stage devait aboutir sur l'import des tables de données dans la _Geovistory Toolbox_ afin qu'ils soient intégrés à la base de données en RDF. Or, la durée de mon stage s'avère finalement insuffisante pour modéliser complètement les données.
 
-Cependant, j'ai réalisé la **modélisation de trois fichiers clés**, c'est-à-dire une pour le fichier des mariages de 1851, une pour le recensement de 1836 et une pour l'indicateur de 1843. Celui du recensement de 1836 constitue le modèle le plus avancé et doit servir à compléter les deux autres avant qu'ils soient appliquées au reste des tables.
+Cependant, j'ai réalisé la **modélisation de trois fichiers clés**, c'est-à-dire une pour le fichier des mariages de 1851, une pour le recensement de 1836 et une pour l'indicateur de 1843. Celui du recensement de 1836 constitue le modèle le plus avancé et doit servir à compléter les deux autres avant qu'ils soient appliqués au reste des tables.
 
-Tout ce qui a attrait à ces modélisations est stocké dans le dossier ./modelisation aux emplacements qui correspondent. Les modélisations effectuées peuvent être récupérées pour les fichiers similaires (par exemple, la modélisation du fichier des mariages de 1851 peut servir aux trois autres fichiers de mariages, puisque chacun a la même structure).
+Tout ce qui a trait à ces modélisations est stocké dans le dossier ./modelisation aux emplacements qui correspondent. Les modélisations effectuées peuvent être récupérées pour les fichiers similaires (par exemple, la modélisation du fichier des mariages de 1851 peut servir aux trois autres fichiers de mariages, puisque chacun a la même structure).
 
 Chaque dossier ./modelisation contient :
 
@@ -188,7 +188,7 @@ Les fichiers dans ce dossier ont donc une fin de valorisation et doivent être m
 
 ## Le développement web et les _web components_
 
-Avec l'aide de l'équipe ARHN, j'ai importé deux dépôts GitHub dans le dossier ./Univers_textiles_design_system_et_website :
+Avec l'aide de l'équipe ARHN, j'ai importé localement deux dépôts GitHub dans le dossier ./Univers_textiles_design_system_et_website :
 
 1. https://github.com/geovistory/website ; que nous appelerons website.
 2. https://github.com/geovistory/design-system ; que nous appelerons design-system.
@@ -197,23 +197,27 @@ Avec l'aide de l'équipe ARHN, j'ai importé deux dépôts GitHub dans le dossie
 
 Ce dépôt est dédié au développement des pages web Geovistory. Il est d'ordinaire réservé aux développeurs des équipes ARHN et Kleio Lab. Il permet d'afficher en local le portail Geovistory dans son intégralité : page d'accueil, sites web des projets de recherche et points d'accès SPARQL.
 
-Je l'ai utilisé pour créer une maquette de la **page d'accueil du projet _Univers Textiles_** conforme à la direction artistique de Geovistory.
+Je l'ai utilisé pour créer une maquette de la **page d'accueil du projet _Univers Textiles_** conforme à l'esthétique de Geovistory.
 
 Pour ce faire, j'ai crée le dossier ./lib/projectHomePages/textile-worlds ainsi que les deux fichiers (CSS et TSX) de la même manière que dans les autres projets. J'ai d'ailleurs utilisé le projet Softpowarts comme modèle. Je n'ai pas modifié le fichier CSS mais j'ai entièrement retravaillé le fichier TSX.
+
+Dans projectParams.ts, j'ai ajouté _Univers Textiles_ de sorte à ce qu'il soit intégré et accessible depuis le portail Geovistory en local.
 
 J'ai également ajouté une image au format JPG dans le dossier ./public ainsi que dans ./public/socialimage afin qu'elle s'affiche correctement dans le menu Geovistory et sur la page d'accueil générée par le fichier TSX.
 
 ### Design System
 
-Cet autre dépôt a plutôt attrait aux _web components_. Il faut d'ailleurs le rapprocher de la documentation du même nom : https://design.geovistory.org/?path=/story/welcome--welcome. Cette page permet d'expliquer aux utilisateurs Geovistory comment utiliser les _web components_ de leur choix.
+Cet autre dépôt a plutôt trait aux _web components_. Il faut d'ailleurs le rapprocher de la documentation du même nom : https://design.geovistory.org/?path=/story/welcome--welcome. Cette page permet d'expliquer aux utilisateurs Geovistory comment utiliser les _web components_ de leur choix.
 
-Je l'ai personnellement utilisé pour créer des **data visualisations grâce à l'outil Mermaid.js** intégré, ainsi que pour essayer de développer un **nouveau _web component_** basique à partir de la librairie Stencil.js et des autres _web components_ déjà existants. Malheureusement, je n'ai pas eu le temps d'aboutir à un résultat probant et j'ai donc dû abandonner l'idée de créer un nouveau _web component_ dans les derniers jours.
+Je l'ai personnellement utilisé pour **observer le code des _web components_** ainsi que pour essayer de développer un **nouveau _web component_** à partir de la librairie Stencil.js et des autres _web components_ déjà existants. Malheureusement, je n'ai pas eu le temps d'aboutir à un résultat probant et j'ai donc dû abandonner l'idée de créer un nouveau _web component_ dans les derniers jours.
+
+Par conséquent, comme toutes mes modifications étaient éphémères ou incomplètes, je n'ai pas importé le dossier .\design-system dans le présent dépôt.
 
 ## La création de visualisations de données
 
 ### Avec Mermaid.js
 
-La librairie Mermaid.js permet de créer simplement des visualisations de données avec du texte seulement. J'ai choisi de l'utiliser car elle est déjà implémentée dans les _packages_ du dossier design-system : certains _web components_ développés pour Geovistory reposent en partie sur Mermaid.js. La [documentation](https://mermaid.js.org/intro/). en ligne m'a guidée.
+La librairie Mermaid.js permet de créer simplement des visualisations de données avec du texte seulement. J'ai choisi de l'utiliser car elle est déjà implémentée dans les _packages_ du dossier design-system : certains _web components_ développés pour Geovistory reposent d'ailleurs en partie sur Mermaid.js. La [documentation](https://mermaid.js.org/intro/) en ligne m'a guidée. 
 
 ### Avec Tableau Public
 
