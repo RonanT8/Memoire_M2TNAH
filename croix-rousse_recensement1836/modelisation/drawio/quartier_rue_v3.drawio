@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:18:59.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NbE4c5cvGC2Q69cBzFJs" version="24.4.6" type="device">
+  <diagram name="Page-1" id="0SBXd49LUMcfFHOJyT-W">
+    <mxGraphModel dx="715" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-1" value="C13&lt;div&gt;Geographical Place&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#FFC933;" parent="1" vertex="1">
+          <mxGeometry x="770" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-2" value="C51 Geographical Place Kind" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-3" value="E44&lt;div&gt;Place Appellation&lt;/div&gt;&lt;div&gt;(&lt;b&gt;quartier_rue&lt;/b&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1108" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LVzLQ8PIczJLZQD4RkMt-1" target="LVzLQ8PIczJLZQD4RkMt-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="330" as="sourcePoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-7" value="sdh:P20 has geographical place kind" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="590" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LVzLQ8PIczJLZQD4RkMt-1" target="LVzLQ8PIczJLZQD4RkMt-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-9" value="C28 Legal Location of an Actor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="770" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-10" value="sdh-so:P49 is location of" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="760" y="500" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-11" value="E74 Group" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LVzLQ8PIczJLZQD4RkMt-9" target="LVzLQ8PIczJLZQD4RkMt-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="850" as="sourcePoint" />
+            <mxPoint x="830" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-17" value="C33 Legal Location Type&lt;div&gt;(&quot;Résidence&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="LVzLQ8PIczJLZQD4RkMt-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="619.41" as="sourcePoint" />
+            <mxPoint x="540" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-19" value="sdh-so:P51 has legal location type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="590" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-44" value="C11 Appellation in a Language" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="1108" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1168" y="390" as="sourcePoint" />
+            <mxPoint x="1168" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-5" value="sdh:P13 refers to name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1102" y="300" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-46" value="E56 Language&lt;div&gt;(&quot;Français&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LVzLQ8PIczJLZQD4RkMt-44" target="LVzLQ8PIczJLZQD4RkMt-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1178" y="400" as="sourcePoint" />
+            <mxPoint x="1178" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LVzLQ8PIczJLZQD4RkMt-44" target="LVzLQ8PIczJLZQD4RkMt-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1238" y="430" as="sourcePoint" />
+            <mxPoint x="1390" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-50" value="sdh:P11 is appellation for language of" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="940" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-51" value="sdh:P12 used in language" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-53" value="sdh-so:P52 is legal connotation of" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="770" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-54" value="E52 Time-Span (&quot;1836&quot;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="LVzLQ8PIczJLZQD4RkMt-54" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="620" as="sourcePoint" />
+            <mxPoint x="530" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-16" value="crm:P4 has time-span" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="940" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

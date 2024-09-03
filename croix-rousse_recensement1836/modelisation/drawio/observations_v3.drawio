@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:11:47.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EGxtcGMA1PhXHSDR1kFG" version="24.4.6" type="device">
+  <diagram name="Page-1" id="0SBXd49LUMcfFHOJyT-W">
+    <mxGraphModel dx="841" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-1" value="C3 Expression Portion Type (&quot;Cellule&quot;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="270" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-3" value="C6 Expression fragment&lt;div&gt;(&lt;b&gt;observations&lt;/b&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1104" y="265" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-46" value="E35 Title&lt;div&gt;(&quot;Observations&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1463" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="LVzLQ8PIczJLZQD4RkMt-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1243" y="295" as="sourcePoint" />
+            <mxPoint x="1181" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="LVzLQ8PIczJLZQD4RkMt-1" edge="1" source="LVzLQ8PIczJLZQD4RkMt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1103" y="295" as="sourcePoint" />
+            <mxPoint x="1393" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-51" value="crm:P102 has title" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1283" y="275" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="k4S215dzI5b8nacuZygM-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1171" y="325" as="sourcePoint" />
+            <mxPoint x="533" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4S215dzI5b8nacuZygM-1" value="F2 Expression" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="1111" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4S215dzI5b8nacuZygM-3" value="sdh-int:P4 is part of" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1113" y="385" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k4S215dzI5b8nacuZygM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="k4S215dzI5b8nacuZygM-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1241" y="525" as="sourcePoint" />
+            <mxPoint x="893" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4S215dzI5b8nacuZygM-6" value="C6 Expression Type (&quot;Registre de recensements&quot;)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="480" width="143" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k4S215dzI5b8nacuZygM-9" value="crm-sup:P4 has expression type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="943" y="495" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-2" value="E35 Title&lt;div&gt;(&quot;#Le titre original du registre&quot;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[voir source]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1451" y="485" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HAUt-S14t3uU3Z7pO_b0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1231" y="515" as="sourcePoint" />
+            <mxPoint x="1169" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-4" value="crm:P102 has title" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1271" y="495" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-6" value="E22 Man-Made Object" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1283" y="670" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k4S215dzI5b8nacuZygM-1" target="HAUt-S14t3uU3Z7pO_b0-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="620" as="sourcePoint" />
+            <mxPoint x="1370" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1201" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-8" value="E21 Person" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="934" y="670" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k4S215dzI5b8nacuZygM-1" target="HAUt-S14t3uU3Z7pO_b0-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1211" y="555" as="sourcePoint" />
+            <mxPoint x="1293" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1141" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-10" value="crm:P129 is about" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="630" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HAUt-S14t3uU3Z7pO_b0-11" value="crm:P128 is carried by" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-50" value="sdh-int:P5 has expression portion type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="935" y="275" width="127" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,2023 @@
+identifiant|quartier_rue|numero_ordre_menages|nom|nom_jeune_fille|prenom|titre_profession|etat_civil|age|observations|PSTI|source
+0|Tour de la Belle Allemande|284|Lacroix||Louis|cabaretier|homme marié|64|Mon. Gage|3, 5, 1, 2, 1,  4|6M15
+1|Tour de la Belle Allemande|284|Lacroix|Gauthier|Marie|cabaretière|femme mariée|60|NA|3, 5, 1, 2, 1,  4|6M15
+2|Tour de la Belle Allemande|284|Lacroix||Michel|marinier|garçon|33|NA|3, 6, 4,98, 1,  8|6M15
+3|Tour de la Belle Allemande|285|Galler||François|voiturier par eau|homme marié|49|NA|3, 5,25, 2, 1,  2|6M15
+4|Tour de la Belle Allemande|285|Galler|Dubier|Mauricette|NA|femme mariée|46|NA||6M15
+5|Tour de la Belle Allemande|286|Mibos||François|domestique jardinier|garçon|28|propriété Mon. Maury N.|1, 1, 3,98, 1,  5|6M15
+6|Tour de la Belle Allemande|287|Anselme||Baptiste|domestique jardinier|homme marié|36|propriétaire Mon. Chapelle orph.re quai villeroi|1, 1, 3,98, 1,  5|6M15
+7|Tour de la Belle Allemande|287|Anselme|Beaujelin|Louise|domestique jardinière|femme mariée|34|NA|1, 1, 3,98, 1,  5|6M15
+8|Tour de la Belle Allemande|287|Anselme||Jeanne|NA|fille|5|NA||6M15
+9|Tour de la Belle Allemande|287|Anselme||Joseph|NA|garçon|3,5|jumeaux||6M15
+10|Tour de la Belle Allemande|287|Anselme||Marie|NA|fille|3,5|jumeaux||6M15
+11|Tour de la Belle Allemande|287|Anselme||Louis|NA|garçon|8 mois|NA||6M15
+12|Tour de la Belle Allemande|288|Pasquez||Jerome|jardinier|homme marié|50|Mon. Pasquet Jérome|1, 1, 3,98, 1,  1|6M15
+13|Tour de la Belle Allemande|288|Pasquez|Rainaud|Louise|jardinière|femme mariée|45|NA|1, 1, 3,98, 1,  1|6M15
+14|Tour de la Belle Allemande|288|Pasquez||Françoise|jardinière|fille|18|NA|1, 1, 3,98, 1,  1|6M15
+15|Tour de la Belle Allemande|289|Duchamp||Antoine|domestique jardinier|homme marié|40|NA|1, 1, 3,98, 1,  5|6M15
+16|Tour de la Belle Allemande|289|Duchamp|Berdujon|Marie|domestique jardinière|femme mariée|38|NA|1, 1, 3,98, 1,  5|6M15
+17|Tour de la Belle Allemande|289|Duchamp||Jean Louis|NA|garçon|18|NA||6M15
+18|Tour de la Belle Allemande|289|Duchamp||Jeanne|NA|fille|8|NA||6M15
+19|Tour de la Belle Allemande|290|Dun||Alexis|domestique jardinier|homme marié|48|Mon. Roux quai St Vincent|1, 1, 3,98, 1,  5|6M15
+20|Tour de la Belle Allemande|290|Dun|Noire|Claudine|domestique jardinière|femme mariée|36|NA|1, 1, 3,98, 1,  5|6M15
+21|Tour de la Belle Allemande|290|Dun||Claudine|domestique jardinière|fille|10|NA|1, 1, 3,98, 1,  5|6M15
+22|Tour de la Belle Allemande|290|Duchamp||Louise|domestique|fille|11|NA|3, 5,25, 1, 1,  2|6M15
+23|Tour de la Belle Allemande|291|Deville||David|fermier jardinier|garçon (ou homme marié ?)|44|Mon. Couders|1, 1, 3,98, 1,  2|6M15
+24|Tour de la Belle Allemande|291|veuve Drevez|Deville|Marie|jardinière|veuve|50|soeur de la femme|1, 1, 3,98, 1,  1|6M15
+25|Tour de la Belle Allemande|291|Drevez||Jeanne|jardinière|fille|21|fille de la précédente|1, 1, 3,98, 1,  1|6M15
+26|Tour de la Belle Allemande|291|Drevez||Jacques|jardinier|garçon|18|NA|1, 1, 3,98, 1,  1|6M15
+27|Tour de la Belle Allemande|292|Courtois||Claudine|domestique concierge|fille|32|Mon. Teroncel|3, 5,25, 1, 1,  2|6M15
+28|Impasse du boulevard|403|Barrel||Jean|boulanger|homme marié|46|NA|2, 2, 1, 3, 1,  1|6M15
+29|Impasse du boulevard|403|Barrel|Forest|Madeleine|NA|femme mariée|40|NA||6M15
+30|Impasse du boulevard|404|Picottet||Jean Marie|marchand de farine|garçon|40|NA|3, 3, 1, 1, 1,  2|6M15
+31|Impasse du boulevard|404|Picottet||Louis|NA|garçon|38|NA||6M15
+32|Impasse du boulevard|405|Gitibert||François|charpentier|homme marié|32|NA|2, 3,80, 4, 1,  2|6M15
+33|Impasse du boulevard|405|Gitibert|Gormanet|Marguerite|NA|femme mariée|28|NA||6M15
+34|Impasse du boulevard|405|Gitibert||François|NA|garçon|3|NA||6M15
+35|Impasse du boulevard|405|Gitibert||Pierre|NA|garçon|2|NA||6M15
+36|Impasse du boulevard|406|veuve Birmanot|Dupuis|Marguerite|lingère|veuve|50|NA|3, 5,20, 4, 1,  1|6M15
+37|Impasse du boulevard|407|veuve Champarchet|Buffel|Rosalie|rentière|veuve|60|NA|4,98, 1,98, 98,  7|6M15
+38|Impasse du boulevard|407|Champarchet||Charles|capitaine du génie|garçon|25|NA|3, 5,50, 1,80, 10|6M15
+39|Impasse du boulevard|407|Perriest||Marie|domestique|fille|40|NA|3, 5,25, 1, 1,  2|6M15
+40|Impasse du boulevard|408|Barbaret||Emmanuel|maitre menier|homme marié|58|NA|2, 2, 1, 2, 1,  1|6M15
+41|Impasse du boulevard|408|Barbaret|Hounnes (?)|Aimée|NA|femme mariée|40|NA||6M15
+42|Impasse du boulevard|408|Barbaret||Claude|NA|garçon|19|NA||6M15
+43|Impasse du boulevard|408|Barbaret||François|NA|garçon|17|NA||6M15
+44|Impasse du boulevard|408|Barbaret||Antoinette|NA|fille|21|NA||6M15
+45|Impasse du boulevard|408|Barbaret||Aline|NA|fille|20|NA||6M15
+46|Impasse du boulevard|408|Barbaret||Marie|NA|fille|17|NA||6M15
+47|Impasse du boulevard|409|Marchand||François|maitre menier|homme marié|48|NA|2, 2, 1, 2, 1,  1|6M15
+48|Impasse du boulevard|409|Marchand|Dossorp|Marie|NA|femme mariée|20|NA||6M15
+49|Impasse du boulevard|409|Marchand||Jacques|NA|garçon|25 jours|NA||6M15
+50|Impasse du boulevard|409|Marchand||Jacques|maitre menier|garçon|42|NA|2, 2, 1, 2, 1,  1|6M15
+51|Impasse du boulevard|410|veuve Malherbes|Finet|Marie|rentière|veuf|55|NA|4,98, 1,98, 98,  7|6M15
+52|Impasse du boulevard|411|Billat||Piter (?)|rentier|homme marié|35|NA|4,98, 1,98, 98,  7|6M15
+53|Impasse du boulevard|411|Billat||Ginette (?)|NA|femme mariée|24|NA||6M15
+54|Impasse du boulevard|411|Aubert||Julie|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+55|Impasse du boulevard|412|Tripier||Jean Marie|(illisible)|homme marié|30|NA||6M15
+56|Impasse du boulevard|412|Tripier|Raymond|Claudine|NA|femme mariée|22|NA||6M15
+57|Impasse du boulevard|413|Genesy||Jacques|(illisible)|homme marié|66|NA||6M15
+58|Impasse du boulevard|413|Genesy|Goryet|Victoire|NA|femme mariée|34|NA||6M15
+59|Impasse du boulevard|414|Bertrand||Victore|garçon meunier|homme marié|30|NA|2, 2, 1, 2, 1,  1|6M15
+60|Impasse du boulevard|414|Bertrand||Claudine|NA|femme mariée|25|NA||6M15
+61|Impasse du boulevard|415|Berges||François|teinturier|homme marié|48|NA|2, 2,20,98, 1, 17|6M15
+62|Impasse du boulevard|415|Berges|Bonneroy|Etiennette|NA|femme mariée|46|NA||6M15
+63|Impasse du boulevard|416|Janin||Laurent|garçon meunier|homme marié|30|NA|2, 2, 1, 2, 1,  1|6M15
+64|Impasse du boulevard|416|Janin|Gauthier|Antoinette|NA|femme mariée|25|NA||6M15
+65|Impasse du boulevard|416|Janin||François|NA|garçon|6|NA||6M15
+66|Impasse du boulevard|416|Janin||Louise|NA|fille|2|NA||6M15
+67|Impasse du boulevard|417|Pillow||Jean|journalier|homme marié|55|NA|4,96,98,98,30,  1|6M15
+68|Impasse du boulevard|417|Pillow|Chamont|Marie|NA|femme mariée|40|NA||6M15
+69|Impasse du boulevard|418|Poncet||Jean|garçon de magasin|homme marié|31|NA|3, 4,10, 1, 1,  4|6M15
+70|Impasse du boulevard|418|Poncet|Monfroy|Claudine|NA|femme mariée|25|NA||6M15
+71|Impasse du boulevard|419|Perroud||Antoine|(illisible)|homme marié|34|NA||6M15
+72|Impasse du boulevard|419|Perroud|Berjon|Antoinette|NA|femme mariée|30|NA||6M15
+73|Impasse du boulevard|419|Perroud||Antoine|NA|garçon|8|NA||6M15
+74|Impasse du boulevard|419|Perroud||Laurent|NA|garçon|6|NA||6M15
+75|Impasse du boulevard|419|Perroud||Eugénie|NA|fille|4 mois|NA||6M15
+76|Impasse du boulevard|420|Cinquin||Jacques|instituteur|homme marié|36|Impasse du boulevard, n°1. Mr. Faussier (?)|3, 5,35, 4, 1,  6|6M15
+77|Impasse du boulevard|420|Cinquin|Monnet|Anne|NA|femme mariée|40|NA||6M15
+78|Impasse du boulevard|420|Cinquin||Marie|NA|fille|9|NA||6M15
+79|Impasse du boulevard|420|Cinquin||Anne Marie|NA|fille|4|NA||6M15
+80|Impasse du boulevard|420|Cinquin||Claude|NA|garçon|3 mois|NA||6M15
+81|Impasse du boulevard|421|Saussier||André|rentier|homme marié|60|NA|4,98, 1,98, 98,  7|6M15
+82|Impasse du boulevard|421|Saussier|Vertasson|Marie|NA|femme mariée|54|NA||6M15
+83|Impasse du boulevard|421|Saussier||André|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+84|Impasse du boulevard|422|Burle||Emile|NA|garçon|32|NA||6M15
+85|Impasse du boulevard|422|Burle|Ecoiffier|Colette|NA|femme mariée|34|NA||6M15
+86|Impasse du boulevard|422|Burle||Antoine|NA|garçon|6|NA||6M15
+87|Impasse du boulevard|422|Burle||Marguerite|NA|fille|10|NA||6M15
+88|Rue Calas|805|Weindee||Antoine François|vinaigrier|homme marié|39|NA|2, 2, 1, 7, 1,  4|6M15
+89|Rue Calas|805|Weindee|Souzy|Marguerite|vinaigrière|femme mariée|39|NA|2, 2, 1, 7, 1,  4|6M15
+90|Rue Calas|805|Weindee||Marie|NA|fille|6,5|NA||6M15
+91|Rue Calas|806|Souzy||René|serrurier|homme marié|36|NA|2, 2,65, 2, 1,  7|6M15
+92|Rue Calas|806|Souzy|Berthez|Marie|NA|femme mariée|36|NA||6M15
+93|Rue Calas|806|Souzy||Jean Marie|NA|garçon|14|NA||6M15
+94|Rue Calas|806|Souzy||Jacques Jean|NA|garçon|13|NA||6M15
+95|Rue Calas|806|Souzy||Alexandre|NA|garçon|12|NA||6M15
+96|Rue Calas|806|veuve Souzy|née Guinoz|Jacques Marie|NA|veuve|61|Merc. du F. (?)||6M15
+97|Rue Calas|807|Palloy||Jean Baptiste|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+98|Rue Calas|807|Palloy|Danoly|Jeanne Marie|repasseuse|femme mariée|28|NA|2, 2,61,90, 1,  1|6M15
+99|Rue Calas|808|Jeuillez||Jean François|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+100|Rue Calas|808|Jeuillez|Gonin|Anne|ouvrière|femme mariée|20|NA|2, 2,20, 7, 1,  3|6M15
+101|Rue Calas|809|Bonhomme||Jean|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+102|Rue Calas|809|Bonhomme|Ferlaz|Jacqueline (?) Jeanne Marie|ouvrière|femme mariée|33|NA|2, 2,20, 7, 1,  3|6M15
+103|Rue Calas|809|veuve Ferlaz|Filleron|Catherine|ouvrière|veuve|55|NA|2, 2,20, 7, 1,  3|6M15
+104|Rue Calas|810|Riffon||Jean Claude|employé d'octroi|homme marié|56|NA|5,42, 1, 1|6M15
+105|Rue Calas|810|Riffon|Braquin|Jacqueline|ouvrière en soie|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+106|Rue Calas|810|Riffon||Michel Auguste|ouvrier en soie|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+107|Rue Calas|810|Riffon||Pierre|NA|garçon|15|NA||6M15
+108|Rue Calas|810|Riffon||Louise Victorine|NA|fille|8 mois|NA||6M15
+109|Rue Calas|811|Guillet||Antoine|ouvrier f.|homme marié|54 (?)|NA|2, 2,20, 7, 1,  3|6M15
+110|Rue Calas|811|Guillet|Gros|Marie|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+111|Rue Calas|811|Guillet||Jean Antoine|NA|garçon|10|NA||6M15
+112|Rue Calas|812|Lever||Philippe|menuisier|homme marié|49|NA|2, 2,25, 7, 1,  2|6M15
+113|Rue Calas|812|Lever|Richoud|Sophie|ouvrier f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+114|Rue Calas|812|Lever||François|NA|garçon|9|NA||6M15
+115|Rue Calas|812|Lever||Joséphine|NA|fille|2,5|NA||6M15
+116|Rue Calas|813|Bouche||Benoit|ouvrier en soie|homme marié|36|n°5 sur Sourdillon (?)|2, 2,20, 7, 1,  3|6M15
+117|Rue Calas|813|Bouche|Rippard|Henriette|ouvrière en soie|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+118|Rue Calas|813|Bouche||Claude|NA|garçon|16|NA||6M15
+119|Rue Calas|813|Bouche||Annette|NA|fille|9|NA||6M15
+120|Rue Calas|814|Duclos||Benoit|ouvrier en soie|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+121|Rue Calas|814|Duclos|Ravier|Françoise|ouvrière en soie|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+122|Rue Calas|814|Duclos||Catherine|NA|fille|9|fille des S.||6M15
+123|Rue Calas|814|Duclos||Jean|NA|garçon|10 mois|idem||6M15
+124|Rue Calas|814|Duclos||Mariette|NA|fille|17|fille du 1er (lien ?)||6M15
+125|Rue Calas|814|Ravier||Benoite Antoinette|NA|fille|13|fille de la S.||6M15
+126|Rue Calas|815|Bruyas||Jean|ouvrier en soie|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+127|Rue Calas|815|Bruyas|Garrion|Adelaide|NA|femme mariée|50|NA||6M15
+128|Rue Calas|815|Bruyas||Claudius|NA|garçon|16|NA||6M15
+129|Rue Calas|815|Bruyas||Victor|NA|garçon|14|NA||6M15
+130|Rue Calas|816|Tourez||Michel (?)|crochetteur|garçon non marié|40|NA||6M15
+131|Rue Calas|817|Mariette||Marie|cannetière|fille non mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+132|Rue Calas|818|Marduel||Pierre|ouvrier en soie|homme marié|24|NA|2, 2,20, 7, 1,  3|6M15
+133|Rue Calas|818|Marduel||Marie Elizabeth|repasseuse|femme mariée|19|NA|2, 2,61,90, 1,  1|6M15
+134|Rue Calas|818|Marduel||Claudine|NA|fille|1,5|NA||6M15
+135|Rue Calas|818|Marduel||Elizabeth|NA|fille|10 mois|NA||6M15
+136|Rue Calas|819|veuve Robin|Boissier|Mariette|dévideuse|veuve|68|NA|2, 2,20, 7, 1,  3|6M15
+137|Rue Calas|820|veuve Boucher||Jeanne (?)|dévideuse|veuve|50|NA|2, 2,20, 7, 1,  3|6M15
+138|Rue Calas|821|Chabrie||Pierre|ouvrier en soie|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+139|Rue Calas|821|Chabrie||Marianne|ouvrière en soie|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+140|Rue Calas|821|Chabrie||Iphigénie|NA|fille|7|NA||6M15
+141|Rue Calas|822|Bonnefois||Pierre|ouvrier jardinier|homme marié|40|NA|1, 1, 3,98, 1,  3|6M15
+142|Rue Calas|822|Bonnefois|Nouailler|Antoinette|revendeuse|femme mariée|40|NA|3, 4, 3, 1|6M15
+143|Rue Calas|822|Bonnefois||Jean|NA|garçon|8|NA||6M15
+144|Rue Calas|822|Bonnefois||Antoine|NA|garçon|6|NA||6M15
+145|Rue Calas|823|Badelon||André|ouvrier charpentier|veuf|57|NA|2, 3,80, 4, 1,  2|6M15
+146|Rue Calas|823|Badelon|Lasalla|Claudine|dévideuse|fille|36|NA|2, 2,20, 7, 1,  3|6M15
+147|Rue Calas|823|Badelon||Claude|ouvrier charpentier|garçon|24|NA|2, 3,80, 4, 1,  2|6M15
+148|Rue Calas|824|Blondez||Claude|ouvrier maçon|homma marié|32|n°1|2, 3,80, 3, 1,  2|6M15
+149|Rue Calas|824|Blondez|Souzy|Marie|NA|femme mariée|32|NA||6M15
+150|Rue Calas|824|Blondez||Marguerite|NA|fille|7|NA||6M15
+151|Rue Calas|825|Buissac||Jean|maitre glacier|homme marié|37|n°15|2, 2, 1, 6, 1,  4|6M15
+152|Rue Calas|825|Buissac|Galez|Henriette|repasseuse|femme mariée|32|NA|2, 2,61,90, 1,  1|6M15
+153|Rue Calas|825|Buissac||Claudine|NA|fille|9|NA||6M15
+154|Rue Calas|826|Mailliarg||Antoine|journalier|homme marié|45|NA|4,96,98,98,30,  1|6M15
+155|Rue Calas|826|Mailliarg||Clébastiene (?)|dévideuse|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+156|Rue Calas|827|Gauthier||Jacques|cordier|garçon|26|NA|2, 2,31, 1, 1,  1|6M15
+157|Rue Calas|827|Pin||Jean|cordier|garçon|21|NA|2, 2,31, 1, 1,  1|6M15
+158|Rue Calas|827|Dufour||Etienne|cordier|garçon|15|NA|2, 2,31, 1, 1,  1|6M15
+159|Rue Calas|828|Cannot||Antoine|journalier|homme marié|81|NA|4,96,98,98,30,  1|6M15
+160|Rue Calas|828|Cannot|Cazcaux|Angélique|journalière|femme mariée|79|NA|4,96,98,98,30,  1|6M15
+161|Rue Calas|829|Jeannicot||Anne |maçon|homme marié|51|NA|2, 3,80, 3, 1,  2|6M15
+162|Rue Calas|829|Jeannicot|Quinsieux|Jeanne|ouvrier f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+163|Rue Calas|829|Jeannicot||Louis|ouvrier maçon|garçon|23|fils du d.|2, 3,80, 3, 1,  2|6M15
+164|Rue Calas|830|Ponsard||Antoine|ouvrier f.|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+165|Rue Calas|830|Ponsard|Miebaud|Claudine|ouvrier|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+166|Rue Calas|831|Loup||Jean|ouvrier f.|homme marié|22|NA|2, 2,20, 7, 1,  3|6M15
+167|Rue Calas|831|Loup|Heurtier|Françoise|ouvrière|femme mariée|21|NA|2, 2,20, 7, 1,  3|6M15
+168|Rue Calas|832|veuve Poncez|née Plassard|Laurence|ouvrière f.|veuve|34|NA|2, 2,20, 7, 1,  3|6M15
+169|Rue Calas|832|Poncez||Antoine|ouvrier|garçon|12|NA|2, 2,20, 7, 1,  3|6M15
+170|Rue Calas|832|Poncez||Jacques|NA|garçon|6|NA||6M15
+171|Rue Calas|833|Ollier||Jean Baptiste|ouvrier f.|homme marié|44|NA|2, 2,20, 7, 1,  3|6M15
+172|Rue Calas|833|Ollier||Louise Marie|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+173|Rue Calas|833|Ollier||Antoinette|NA|fille|7|NA||6M15
+174|Rue Calas|833|Ollier||Joseph|NA|garçon|5|NA||6M15
+175|Rue Calas|833|Ollier||Marguerite|NA|fille|2|NA||6M15
+176|Rue Calas|833|Ollier||Agarine|NA|fille|6 mois|NA||6M15
+177|Rue Calas|834|veuve Dufour|née Gaime|Françoise|ouvrière en soie|veuve|38|Chambéry, Savoie|2, 2,20, 7, 1,  3|6M15
+178|Rue Calas|834|Gaime||Marie|NA|femme mariée|57|mère de la précédente||6M15
+179|Rue Calas|835|Peny||François|voiturier par terre|homme marié|51|NA|3, 5,25, 2, 1,  6|6M15
+180|Rue Calas|835|Peny||Antoinette|rempailleuse de chaise|femme mariée|49|NA|2, 2,20,98, 1, 52|6M15
+181|Rue Calas|835|Peny||Philippe|NA|garçon|15|NA||6M15
+182|Rue Calas|836|Baille||Pierre|peintre en bâtiment|homme marié|39|Mon. Lamberton n°2|2, 3,80, 6, 1,  5|6M15
+183|Rue Calas|836|Baille|Joly|Seraphine|ouvrière en soie|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+184|Rue Calas|836|Baille||Françoise|NA|fille|9 mois|NA||6M15
+185|Rue Calas|837|Keyrronet||Etienne|menuisier|garçon|27|NA|2, 2,25, 7, 1,  2|6M15
+186|Rue Calas|838|veuve Lamberton|née Rambeau|Jeanne Marie Anthelmette|rentière|veuve|58|NA|4,98, 1,98, 98,  7|6M15
+187|Rue Calas|838|Balais||Feroline|domestique|fille|20|NA|3, 5,25, 1, 1,  2|6M15
+188|Rue Calas|839|Damiron||Verand|ouvrier en soie|homme marié|22|NA|2, 2,20, 7, 1,  3|6M15
+189|Rue Calas|839|Damiron||Françoise|ouvrière en soie|femme mariée|18|NA|2, 2,20, 7, 1,  3|6M15
+190|Rue Calas|839|Damiron||Joseph|NA|garçon|2|NA||6M15
+191|Rue Calas|840|Bollay||Madelaine|ouvrière f.|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+192|Rue Calas|841|Cséaliger (?)||Madelaine|dévideuse|fille|63|NA|2, 2,20, 7, 1,  3|6M15
+193|Rue Calas|842|Maillet||Henry|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+194|Rue Calas|842|Maillet|Ballet|Catherine Cézarine|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+195|Rue Calas|842|Maillet||Marie Constance|NA|fille|5|NA||6M15
+196|Rue Calas|842|Maillet||Paul Alexis Cl.|NA|garçon|2,5|NA||6M15
+197|Rue Calas|842|Maillet||Antoine|NA|garçon|18 mois|NA||6M15
+198|Rue Calas|842|Maillet||Marie Joséphine|NA|fille|16 mois|NA||6M15
+199|Rue Calas|843|Drevet||Louise|ouvrière en soie|fille|15|St Genis d'Auste (Savoie)|2, 2,20, 7, 1,  3|6M15
+200|Rue Calas|844|Druz||Antoine|ouvrier en soie|garçon non marié|31|NA|2, 2,20, 7, 1,  3|6M15
+201|Rue Calas|845|Duon||Mathieu|ouvrier en soie|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+202|Rue Calas|845|Duon|Chapillon|Claire|ouvrière en soie|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+203|Rue Calas|845|Duon||Annette|NA|fille|2,5|NA||6M15
+204|Rue Calas|845|Duon||Marguerite|NA|fille|5|NA||6M15
+205|Rue Calas|845|Duon||Charlotte|NA|fille|3,5|NA||6M15
+206|Rue Calas|845|Papet||Marianne|ouvrière en soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+207|Rue Calas|846|Ivron||Marie|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+208|Rue Calas|847|Blandine||Annette|ouvrière f.|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+209|Rue Calas|847|Zobine||Claire|ouvrière f.|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+210|Rue Calas|848|Molleton||Marie|journalière|veuve|48|NA|4,96,98,98,30,  1|6M15
+211|Rue Calas|848|Molleton||Henry|ouvrière en soie|garçon|13|NA|2, 2,20, 7, 1,  3|6M15
+212|Rue Calas|848|Molleton||Elisabeth|NA|fille|8|NA||6M15
+213|Rue Calas|849|Poudre||Auguste Claude|dégraisseur|homme marié|50|Mon. Dubot n°6 |2, 2,20, 7, 1,  3|6M15
+214|Rue Calas|849|Poudre|Perret|Mariette|dégraisseuse|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+215|Rue Calas|849|Poudre||Benoit Honoré|NA|garçon|9|NA||6M15
+216|Rue Calas|850|Bouvier|née Labony|Françoise|garde malade|veuf|(5)9 ?|NA|3, 5,36, 2, 1,  1|6M15
+217|Rue Calas|850|veuve Bouvier|née|Suzanne|NA|fille|86|NA||6M15
+218|Rue Calas|851|Charlin||Thérèse|ouvrière en soie|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+219|Rue Calas|852|Allemand||Pascal|maitre d'école|homme marié|48|NA|3, 5,35, 4, 1,  8|6M15
+220|Rue Calas|852|Allemand||Marie|NA|femme mariée|40|NA||6M15
+221|Rue Calas|852|Allemand||David|élève en pharmacie|garçon|19|NA|3, 4,55, 1, 1,  3|6M15
+222|Rue Calas|852|Charles||Mariette|tireuse de soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+223|Rue Calas|852|Gunon||Benoite|tireuse de soie|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+224|Rue Calas|853|Boeuf||André|journalier|homme marié|40|Louny n°8|4,96,98,98,30,  1|6M15
+225|Rue Calas|853|Boeuf|Chambry|Marie|journalière|femme mariée|34|NA|4,96,98,98,30,  1|6M15
+226|Rue Calas|853|Boeuf||Mariette|NA|fille|9|NA||6M15
+227|Rue Calas|853|Boeuf||Angélique|NA|fille|2|NA||6M15
+228|Rue Calas|854|Dalby||Françoise|couturière|fille|50|NA|2, 2,10, 1, 1, 15|6M15
+229|Rue Calas|855|Gayet||Claude|ouvrier en soie|homme marié|51|NA|2, 2,20, 7, 1,  3|6M15
+230|Rue Calas|855|Gayet|Berthelemy|Margerite|ouvrière en soie|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+231|Rue Calas|855|Gayet||Adrienne|NA|fille|8|NA||6M15
+232|Rue Calas|855|Gayet||Claude|NA|garçon|5|NA||6M15
+233|Rue Calas|856|veuve Ferrière|née Chaume|Marguerite|ouvrière en soie|veuve|47|NA|2, 2,20, 7, 1,  3|6M15
+234|Rue Calas|856|veuve Chaume|née Luzac|Catherine|NA|veuve|75|NA||6M15
+235|Rue Calas|857|Blanc||Jean Marie|dévideur|homme marié|70|NA|2, 2,20, 7, 1,  3|6M15
+236|Rue Calas|857|Blanc|Champalay|Antoinette|dévideuse|femme mariée|62|NA|2, 2,20, 7, 1,  3|6M15
+237|Rue Calas|857|veuve Bonjour|née Lance|Marie|NA|veuve|78|NA||6M15
+238|Rue Saint-Denis|858|Nicolas Din Vivarais||Antoine|forgeur|homme marié|55|n° Vondiere|2, 2,61,98, 1,  7|6M15
+239|Rue Saint-Denis|858|Nicolas|Bounardet|Antoinette|NA|femme mariée|50|NA||6M15
+240|Rue Saint-Denis|858|Nicolas||Jean|apprenti forgeur|garçon|16|NA|2, 2,61,98, 1,  7|6M15
+241|Rue Saint-Denis|859|Puis||Claude Eustache|Mon. de santé|homme marié|56|Mon. Monternier n°5 f.|3, 5,36, 2, 1,  5|6M15
+242|Rue Saint-Denis|859|Puis|Escoffier|Claudine|Mon. de santé|femme mariée|36|NA|3, 5,36, 2, 1,  5|6M15
+243|Rue Saint-Denis|859|Puis||Benoitte|NA|fille|13|NA||6M15
+244|Rue Saint-Denis|859|Puis||Maria|NA|fille|7,5|NA||6M15
+245|Rue Saint-Denis|859|Bailly||Jeannette|domestique|fille|24|NA|3, 5,25, 1, 1,  2|6M15
+246|Rue Saint-Denis|860|Cournaux||Jean|affaneur|homme marié|30|Mon. Peconnet n°9|4,96,98,98,30,  1|6M15
+247|Rue Saint-Denis|860|Cournaux|Pardon|Marguerite|repasseuse|femme mariée|39|NA|2, 2,61,90, 1,  1|6M15
+248|Rue Saint-Denis|860|Cournaux||Marie|NA|fille|11|NA||6M15
+249|Rue Saint-Denis|860|Cournaux||Catherine|NA|fille|10|NA||6M15
+250|Rue Saint-Denis|860|Cournaux||Caroline|NA|fille|9|NA||6M15
+251|Rue Saint-Denis|860|Cournaux||Catherine|lingère|fille|33|NA|3, 5,20, 4, 1,  1|6M15
+252|Rue Saint-Denis|861|Burino||Marie|rentière|fille|62|NA|4,98, 1,98, 98,  7|6M15
+253|Rue Saint-Denis|862|Raimbau||Jean Jospeh|ouvrier cordonnier|homme marié|48|NA|2, 2,15, 1, 2,  6|6M15
+254|Rue Saint-Denis|862|Raimbau|Varion|Jeannette|NA|femme mariée|52|NA||6M15
+255|Rue Saint-Denis|862|Raimbau||Claudine|NA|fille|17|NA||6M15
+256|Rue Saint-Denis|862|Raimbau||Jean Baptiste|NA|garçon|15|NA||6M15
+257|Rue Saint-Denis|862|Raimbau||Joseph|NA|garçon|10|NA||6M15
+258|Rue Saint-Denis|863|Poulet||Pierre|ouvrier f.|homma marié|40|NA|2, 2,20, 7, 1,  3|6M15
+259|Rue Saint-Denis|863|Poulet||Ermine/Corine (?)|ouvrière f.|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+260|Rue Saint-Denis|863|Poulet||Joseph|NA|garçon|10|NA||6M15
+261|Rue Saint-Denis|863|Poulet||Pierre|NA|garçon|9|NA||6M15
+262|Rue Saint-Denis|864|Verain||Louis|commis|homme marié|34|NA|3, 5,31,98,40,  1|6M15
+263|Rue Saint-Denis|864|Verain|Bouillon|Claire|modiste|femme mariée|24|NA|2, 2,10, 2, 1,  5|6M15
+264|Rue Saint-Denis|864|Bouillon||Marie|NA|fille|50|mère de la précédente||6M15
+265|Rue Saint-Denis|865|Chainussy||Jean|sacristain|homme marié|36|NA|3, 5, 35, 3,60,  1|6M15
+266|Rue Saint-Denis|865|Chainussy|Guillen|Marie|NA|femme mariée|37|NA||6M15
+267|Rue Saint-Denis|865|Chainussy||Jean Baptiste|NA|garçon|14|NA||6M15
+268|Rue Saint-Denis|865|Chainussy||Pierre Marie|NA|garçon|13|NA||6M15
+269|Rue Saint-Denis|866|Nicod||Claude|curé|garçon|49|n° 2|3, 5,35, 3, 1,  6|6M15
+270|Rue Saint-Denis|866|Ferrand||Madelaine|domestique|fille|40|NA|3, 5,25, 1, 1,  2|6M15
+271|Rue Saint-Denis|866|Garein||Toinette|domestique|fille|30|NA|3, 5,25, 1, 1,  2|6M15
+272|Rue Saint-Denis|867|Vial||Jean|vicaire|garçon|36|NA|3, 5,35, 3, 1,  1|6M15
+273|Rue Saint-Denis|868|Molert||Etienne|vicaire|garçon|32|NA|3, 5,35, 3, 1,  1|6M15
+274|Rue Saint-Denis|869|Ferrand||François|vicaire|garçon|60|NA|3, 5,35, 3, 1,  1|6M15
+275|Rue Saint-Denis|870|Schessal||Jean Baptiste|Mon. des enfants de coeur|garçon|40|NA|3, 5,35, 3, 1,  4|6M15
+276|Rue Saint-Denis|871|Vidalin||Nicolas|tuliste|homme marié|40|NA|2, 2,20,90, 1,  1|6M15
+277|Rue Saint-Denis|871|Vidalin|Laurent|Pierrette|NA|femme mariée|26|NA||6M15
+278|Rue Saint-Denis|871|Vidalin||Jeanne|NA|fille|5|NA||6M15
+279|Rue Saint-Denis|871|Vidalin||François|NA|garçon|3 mois|NA||6M15
+280|Rue Saint-Denis|871|Guy||Marie|domestique|fille|32|NA|3, 5,25, 1, 1,  2|6M15
+281|Rue Saint-Denis|871|Laric||Jacques|ouvrier tulliste|garçon|68|NA|2, 2,20,90, 1,  1|6M15
+282|Rue Saint-Denis|871|Vidalin||François|ouvrier tulliste|garçon|26|frère du précédent|2, 2,20,90, 1,  1|6M15
+283|Rue Saint-Denis|871|Mesanty||Anthelme|ouvrier tulliste|garçon|19|NA|2, 2,20,90, 1,  1|6M15
+284|Rue Saint-Denis|871|Jacques||Jean|ouvrier tulliste|garçon|19,5|NA|2, 2,20,90, 1,  1|6M15
+285|Rue Saint-Denis|871|Dufour||Jacques|ouvrier tulliste|garçon|16|f. à d. (?)|2, 2,20,90, 1,  1|6M15
+286|Rue Saint-Denis|871|Dufour||Thomas|ouvrier tulliste|garçon|77|n° 4|2, 2,20,90, 1,  1|6M15
+287|Rue Saint-Denis|872|Defféche||Cristophe|(illisible)|garçon|77|dquel d. f. (?)||6M15
+288|Rue Saint-Denis|872|Defféche|Condamain|Marie|NA|femme mariée|67|NA||6M15
+289|Rue Saint-Denis|873|Sibile||Pierre|ouvrier en soie|homme marié|29|NA|2, 2,20, 7, 1,  3|6M15
+290|Rue Saint-Denis|873|Sibile|Nicolas|Marie|ouvrière en soie|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+291|Rue Saint-Denis|873|Sibile||Toinette|NA|fille|4,5|NA||6M15
+292|Rue Saint-Denis|873|Sibile||Antoine|NA|garçon|9 mois|NA||6M15
+293|Rue Saint-Denis|874|Challet||Henry Anthelme Napoléon|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+294|Rue Saint-Denis|874|Challet|Truc|Françoise|dévideuse|femme mariée|29|NA|2, 2,20, 7, 1,  3|6M15
+295|Rue Saint-Denis|874|Challet||Jean Baptiste|NA|garçon|1 mois|NA||6M15
+296|Rue Saint-Denis|874|Truc||Jean Benoit|(le Ge. de ligne a illimité) journalier|garçon|27|NA||6M15
+297|Rue Saint-Denis|874|Davoine|Aubert|Jeannette|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+298|Rue Saint-Denis|874|Davoine||Marie|NA|fille|5|NA||6M15
+299|Rue Saint-Denis|875|Roussau||Clodine|ouvrière f.|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+300|Rue Saint-Denis|875|Termous||Brigitte|ouvrière f.|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+301|Rue Saint-Denis|875|Musse||Therese|ouvrière f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+302|Rue Saint-Denis|876|Dufour||Armand|ouvrier en soie|homme marié|43|NA|2, 2,20, 7, 1,  3|6M15
+303|Rue Saint-Denis|876|Dufour|Morigeon|Madelaine|tailleuse|femme mariée|40|NA|2, 2, 4, 1, 1,  1|6M15
+304|Rue Saint-Denis|877|Burel||Benoit|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+305|Rue Saint-Denis|877|Burel|Veren|Joséphine|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+306|Rue Saint-Denis|877|Burel||Madelaine|NA|fille|6|NA||6M15
+307|Rue Saint-Denis|878|Marel||Baptiste|journalier|homme marié|36|NA|4,96,98,98,30,  1|6M15
+308|Rue Saint-Denis|878|Marel|Ichard|Françoise|NA|femme mariée|25|NA||6M15
+309|Rue Saint-Denis|878|Marel||Charles|NA|garçon|3,5|NA||6M15
+310|Rue Saint-Denis|878|Marel||Claudius|NA|garçon|19 mois|NA||6M15
+311|Rue Saint-Denis|879|Douillet||Emile|ouvrier f.|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+312|Rue Saint-Denis|879|Sribaut||Reine|ouvrier f.|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+313|Rue Saint-Denis|879|Dunnirrand||Marie|ouvrier f.|fille|32|NA|2, 2,20, 7, 1,  3|6M15
+314|Rue Saint-Denis|879|Morel||Marie|ouvrier f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+315|Rue Saint-Denis|880|Plance||Jacques|ouvrier tailleur de pierre|homme marié|35|NA||6M15
+316|Rue Saint-Denis|880|Plance|Magnion|Georgette|ouvrier modiste|femme mariée|32|NA|2, 2,10, 2, 1,  5|6M15
+317|Rue Saint-Denis|880|Plance||Joseph|NA|garçon|7|NA||6M15
+318|Rue Saint-Denis|881|Geoffrey||Jean|ouvrier tulliste|homme marié|27|NA|2, 2,20,90, 1,  1|6M15
+319|Rue Saint-Denis|881|Geoffrey|Lhopital|Toinette|(illisible)|femme mariée|23|NA||6M15
+320|Rue Saint-Denis|882|Roma||Claude|maitre d'école|veuf|57|n°6|3, 5,35, 4, 1,  8|6M15
+321|Rue Saint-Denis|882|Roma|Aléon|Marie Antoinette|domestique|fille|40|NA|3, 5,25, 1, 1,  2|6M15
+322|Rue Saint-Denis|883|Sixte||Claude Victor|menuisier|homme marié|52|NA|2, 2,25, 7, 1,  2|6M15
+323|Rue Saint-Denis|883|Sixte|Billion|Margueritte|menuisière|femme mariée|50|NA|2, 2,25, 7, 1,  2|6M15
+324|Rue Saint-Denis|884|Durand||Françoise Marie|ouvrier en soie|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+325|Rue Saint-Denis|884|Durand|Gouvi|Micol|ouvrière en soie|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+326|Rue Saint-Denis|884|Durand||Joseph|NA|garçon|8|NA||6M15
+327|Rue Saint-Denis|885|Pourchez||Claude|ouvrier f.|homme marié|38|NA|2, 2,20, 7, 1,  3|6M15
+328|Rue Saint-Denis|885|Pourchez|Marechal|Léonore|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+329|Rue Saint-Denis|885|Pourchez||Henriette|NA|fille|13 mois|NA||6M15
+330|Rue Saint-Denis|885|Piquet||Emilie|ouvrière en soie|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+331|Rue Saint-Denis|886|Buchet||Françoise|cannetière|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+332|Rue Saint-Denis|887|Perrin||François|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+333|Rue Saint-Denis|887|Perrin|Albal|Françoise Thérèse|ouvrière f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+334|Rue Saint-Denis|887|Poutrel||Noel|apprenti|garçon|18|fils de la Dlle Albal|4,96,98,98,60,  1|6M15
+335|Rue Saint-Denis|887|Poutrel||Jean|apprenti|garçon|16|NA|4,96,98,98,60,  1|6M15
+336|Rue Saint-Denis|888|Gros||Jean|ouvrier en soie|homme marié|47|NA|2, 2,20, 7, 1,  3|6M15
+337|Rue Saint-Denis|888|Gros|Perrin|Joséphine|ouvrière en soie|femme mariée|50|NA|2, 2,20, 7, 1,  3|6M15
+338|Rue Saint-Denis|888|Gros||Lucresse Joséphine|ouvrière en soie|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+339|Rue Saint-Denis|889|Gogne||Jean|rentier|homme marié|38|NA|4,98, 1,98, 98,  7|6M15
+340|Rue Saint-Denis|889|Gogne|Lacroix|Antonia|rentière|femme mariée|21|NA|4,98, 1,98, 98,  7|6M15
+341|Rue Saint-Denis|890|Billion||Jean Baptiste|ouvrier f.|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+342|Rue Saint-Denis|890|Billion|Criquet|Catherine|ouvrière f.|femme mariée|47|NA|2, 2,20, 7, 1,  3|6M15
+343|Rue Saint-Denis|890|Billion||François Louis|ouvrier f.|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+344|Rue Saint-Denis|890|Billion||Annette|ouvrière f.|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+345|Rue Saint-Denis|890|Billion||Louisette|ouvrière f.|fille|13|NA|2, 2,20, 7, 1,  3|6M15
+346|Rue Saint-Denis|890|Billion||Jeanne|ouvrière f.|fille|12|NA|2, 2,20, 7, 1,  3|6M15
+347|Rue Saint-Denis|890|Billion||Benoitte|NA|fille|8|NA||6M15
+348|Rue Saint-Denis|890|Billion||Benoit|ouvrier f.|garçon|15|NA|2, 2,20, 7, 1,  3|6M15
+349|Rue Saint-Denis|891|Julien||M.|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+350|Rue Saint-Denis|891|Julien||J.|ouvrière f.|femme mariée|29|NA|2, 2,20, 7, 1,  3|6M15
+351|Rue Saint-Denis|891|Julien||Jean marie|NA|garçon|3|NA||6M15
+352|Rue Saint-Denis|892|Favrot||Jacques|ouvrier f.|homme marié|60|NA|2, 2,20, 7, 1,  3|6M15
+353|Rue Saint-Denis|892|Favrot|Baquonelle|Prudence|ouvrière f.|femme mariée|60|NA|2, 2,20, 7, 1,  3|6M15
+354|Rue Saint-Denis|893|Germain||Pierre|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+355|Rue Saint-Denis|893|Germain|Garnier|Claudine|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+356|Rue Saint-Denis|894|Maudrin||Jean Baptiste|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+357|Rue Saint-Denis|894|Maudrin||Armelle|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+358|Rue Saint-Denis|894|Maudrin||Rose|NA|fille|11|NA||6M15
+359|Rue Saint-Denis|894|Maudrin||Mariette|NA|fille|10|NA||6M15
+360|Rue Saint-Denis|894|Maudrin||Tony Antoine|NA|garçon|6|NA||6M15
+361|Rue Saint-Denis|894|Maudrin||Jean Marie|NA|garçon|4|NA||6M15
+362|Rue Saint-Denis|894|Dangle||Jean|ouvrier en soie|garçon|66|NA|2, 2,20, 7, 1,  3|6M15
+363|Rue Saint-Denis|895|Chabrier||Scipion|ouvrière f.|homme marié|60|NA|2, 2,20, 7, 1,  3|6M15
+364|Rue Saint-Denis|895|Chabrier|Dufet|Catherine|ouvrière f.|femme mariée|56|NA|2, 2,20, 7, 1,  3|6M15
+365|Rue Saint-Denis|895|Chabrier||Antoine|ouvrier f.|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+366|Rue Saint-Denis|896|Prot||Dominique|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+367|Rue Saint-Denis|896|Prot|Gauthier|Izabet|ouvrier f.|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+368|Rue Saint-Denis|896|Prot||Jacques|NA|garçon|12|NA||6M15
+369|Rue Saint-Denis|897|Navrey||Etienne|ouvrier f.|homme marié|43|NA|2, 2,20, 7, 1,  3|6M15
+370|Rue Saint-Denis|897|Navrey|Cocanier|Annette|ouvrière f.|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+371|Rue Saint-Denis|897|Cachet||Laurent|ouvrier en soie|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+372|Rue Saint-Denis|897|Billot||Jacques|apprenti|garçon|19|NA|4,96,98,98,60,  1|6M15
+373|Rue Saint-Denis|898|Guillaume||Rose|ouvrière en soie|fille|42|NA|2, 2,20, 7, 1,  3|6M15
+374|Rue Saint-Denis|899|Cadier||Catherine|rentière|fille|89|n° 8 Mm. Cadier|4,98, 1,98, 98,  7|6M15
+375|Rue Saint-Denis|899|Cadier|Guinard|Annette|domestique|fille|25|NA|3, 5,25, 1, 1,  2|6M15
+376|Rue Saint-Denis|900|Cadier||Marie|rentière|fille|50|NA|4,98, 1,98, 98,  7|6M15
+377|Rue Saint-Denis|900|Cadier||Marguerite|rentière|fille|48|NA|4,98, 1,98, 98,  7|6M15
+378|Rue Saint-Denis|900|Rave||Suzanne|domestique|fille|45|NA|3, 5,25, 1, 1,  2|6M15
+379|Rue Saint-Denis|901|Fucheron||Antoine|marchand charbonnier|homme marié|78|NA|3, 4,58, 1, 1,  3|6M15
+380|Rue Saint-Denis|901|Fucheron|Dubauchet|Jeanne|marchande charbonnière|femme mariée|55|NA|3, 4,58, 1, 1,  3|6M15
+381|Rue Saint-Denis|902|Duviard||Pierre|médecin|veuf|54|NA|3, 5,35, 2, 1,  3|6M15
+382|Rue Saint-Denis|902|Duviard||Louis|NA|garçon|19|NA||6M15
+383|Rue Saint-Denis|902|Duviard||Cecile|NA|fille|10|NA||6M15
+384|Rue Saint-Denis|902|Dimonait||Thérèse|domestique|fille|29|NA|3, 5,25, 1, 1,  2|6M15
+385|Rue Saint-Denis|903|Billion||Michel|menuisier|homme marié|42|NA|2, 2,25, 7, 1,  2|6M15
+386|Rue Saint-Denis|903|Billion|Dalère|Françoise|NA|femme mariée|39|NA||6M15
+387|Rue Saint-Denis|903|Billion||François|ouvrier maçon|garçon|16|NA|2, 3,80, 3, 1,  2|6M15
+388|Rue Saint-Denis|904|Besson||Marie|ouvrière f.|fille|35|NA|2, 2,20, 7, 1,  3|6M15
+389|Rue Saint-Denis|904|Buffard||Marie|ouvrière f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+390|Rue Saint-Denis|904|Berthez||Françoise|ouvrière f.|fille|25|St Genis d'Auste (Savoie)|2, 2,20, 7, 1,  3|6M15
+391|Rue Saint-Denis|904|Gorce||Blanche|ouvrière f.|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+392|Rue Saint-Denis|904|Drevet||Annette|apprentie|fille|14|St Genis d'Auste (Savoie)|4,96,98,98,60,  1|6M15
+393|Rue Saint-Denis|905|Derussy||Anne|lingère|fille|42|NA|3, 5,20, 4, 1,  1|6M15
+394|Rue Saint-Denis|906|Barlier||Pierre|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+395|Rue Saint-Denis|906|Barlier|Veilliez|Marie|ouvrière f.|femme mariée|43|NA|2, 2,20, 7, 1,  3|6M15
+396|Rue Saint-Denis|906|Cabanel||Léon|ouvrier en soie|garçon|40|NA|2, 2,20, 7, 1,  3|6M15
+397|Rue Saint-Denis|907|Michel||Marie Madelaine|ouvrière en soie|fille|34|NA|2, 2,20, 7, 1,  3|6M15
+398|Rue Saint-Denis|907|Noble||Marguerite|ouvrière en soie|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+399|Rue Saint-Denis|907|Devert||Marie Madelaine|ouvrière en soie|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+400|Rue Saint-Denis|907|Vincent||Elizabet|ouvrière en soie|fille|16|orpheline|2, 2,20, 7, 1,  3|6M15
+401|Rue Saint-Denis|907|Benaud||Annette|ouvrière en soie|fille|26|NA|2, 2,20, 7, 1,  3|6M15
+402|Rue Saint-Denis|908|Petin||Marie|prop.re rentière|fille|60|NA|4,98, 1,98, 98,  7|6M15
+403|Rue Saint-Denis|909|veuve Guillot|née Jaillut|Marie|ouvrière f.|veuve|50|NA|2, 2,20, 7, 1,  3|6M15
+404|Rue Saint-Denis|909|Guillot||François|ouvrier f.|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+405|Rue Saint-Denis|909|Guillot||Marie Claire (?)|ouvrière f.|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+406|Rue Saint-Denis|910|veuve Truchot|née Noirot|Marie|rentière|veuve|55|NA|4,98, 1,98, 98,  7|6M15
+407|Rue Saint-Denis|910|Truchot||Reine Eliza|NA|fille|25|NA||6M15
+408|Rue Saint-Denis|911|Marcelin||Barthélémy (?)|rentier|homme marié|72|NA|4,98, 1,98, 98,  7|6M15
+409|Rue Saint-Denis|911|Marcelin|Schumasser|Barbe|rentière|femme mariée|67|NA|4,98, 1,98, 98,  7|6M15
+410|Rue Saint-Denis|912|Reignier||Angélique|rentière|fille|64|NA|4,98, 1,98, 98,  7|6M15
+411|Rue Saint-Denis|912|Comte||Jean Claude|retraité rentier|veuf|63|NA|4,99, 2,98,98,  6|6M15
+412|Rue Saint-Denis|912|Comte||Jenny|NA|fille|18|NA||6M15
+413|Rue Saint-Denis|912|Comte||Maria|NA|fille|17|NA||6M15
+414|Rue Saint-Denis|912|Pellier||Rose|domestique|fille|42|NA|3, 5,25, 1, 1,  2|6M15
+415|Rue Saint-Denis|913|Raffeneau de Lile||Dauphin Loger (?)|comte de Polui|homme marié|54|NA|4,98, 2,98, 98,  6|6M15
+416|Rue Saint-Denis|913|Raffenau de Lile|Kremer|Marianne|NA|femme mariée|45|NA||6M15
+417|Rue Saint-Denis|913|Ausier||Thérèse|domestique|fille|18|NA|3, 5,25, 1, 1,  2|6M15
+418|Rue Saint-Denis|914|veuve Chaulet|née Guillermon|Marie|rentière|veuve|66|NA|4,98, 1,98, 98,  7|6M15
+419|Rue Saint-Denis|914|veuve Viandet|née Badin|Marie|rentière|veuve|56|NA|4,98, 1,98, 98,  7|6M15
+420|Rue Saint-Denis|915|Bressac||Claudine|tailleuse|fille|50|NA|2, 2, 4, 1, 1,  1|6M15
+421|Rue Saint-Denis|915|Bressac||Augustine|tailleuse|fille|16|NA|2, 2, 4, 1, 1,  1|6M15
+422|Rue Saint-Denis|916|Ristre||Jean Marie Théodore|rentier|homme marié|57|NA|4,98, 1,98, 98,  7|6M15
+423|Rue Saint-Denis|916|Ristre|Guigale|Anne|rentière|femme mariée|45|NA|4,98, 1,98, 98,  7|6M15
+424|Rue Saint-Denis|917|Fritz||Hentiette|rentière|fille|60|NA|4,98, 1,98, 98,  7|6M15
+425|Rue Saint-Denis|918|Gouverne||Jean Marie|rentier|veuf|82|NA|4,98, 1,98, 98,  7|6M15
+426|Rue Saint-Denis|919|Cabias||Joseph|prop.re rentier|homme marié|63|NA|4,98, 1,98, 98,  7|6M15
+427|Rue Saint-Denis|919|Cabias|née Rossignol|Jeanne|prop.re rentière|femme mariée|48|NA|4,98, 1,98, 98,  7|6M15
+428|Rue Saint-Denis|919|Valette||Jean|domestique|homme marié|30|NA|3, 5,25, 1, 1,  2|6M15
+429|Rue Saint-Denis|919|Valette|née Nesme|Benoitte|domestique|femme mariée|29|NA|3, 5,25, 1, 1,  2|6M15
+430|Rue Saint-Denis|920|veuve Detour|née Vernes|Elizabet|prop.re rentière|veuve|73|NA|4,98, 1,98, 98,  7|6M15
+431|Rue Saint-Denis|921|veuve Nioche|née Choisy|M (Michelle ?)|prop.re rentière|veuve|73|NA|4,98, 1,98, 98,  7|6M15
+432|Rue Saint-Denis|922|Hernozan||Henriette|rentière|fille|39|NA|4,98, 1,98, 98,  7|6M15
+433|Rue Saint-Denis|922|Velain||Reine|domestique|fille|38|NA|3, 5,25, 1, 1,  2|6M15
+434|Rue Saint-Denis|923|Stefanopoly||Demetrius|employé à la préfecture|homme marié|54|NA|5,41, 1,60|6M15
+435|Rue Saint-Denis|923|Stefanopoly|Koch|Marie Louise|NA|femme mariée|47|NA||6M15
+436|Rue Saint-Denis|923|Stefanopoly||Ange François|armée d'Affrique|garçon|22|NA|3, 5,50, 1, 1,  2|6M15
+437|Rue Saint-Denis|923|Idem (?)||Louise|NA|fille|25|NA||6M15
+438|Rue Saint-Denis|924|Dessambes||Martin|porteur de livres|garçon|45|NA|3, 5,30,98, 1,  1|6M15
+439|Rue Saint-Denis|925|veuve Noel|née Ivrat|Marie|marchande épicière|veuve|74|n° 11 Mon. Pelonnier|3, 4, 1,90, 1,  3|6M15
+440|Rue Saint-Denis|925|Laurent||Anne|marchande épicière|fille|50|NA|3, 4, 1,90, 1,  3|6M15
+441|Rue Saint-Denis|926|Bridel||Guillaume|journalier|homme marié|49|NA|4,96,98,98,30,  1|6M15
+442|Rue Saint-Denis|926|Bridel|Buys|Marguerite|repasseuse|femme mariée|38|NA|2, 2,61,90, 1,  1|6M15
+443|Rue Saint-Denis|926|Bridel||Louise|NA|fille|19|NA||6M15
+444|Rue Saint-Denis|926|Bridel||Antoine|NA|garçon|16|NA||6M15
+445|Rue Saint-Denis|926|Bridel||Maria|NA|fille|15|NA||6M15
+446|Rue Saint-Denis|926|Bridel||Benoitte|NA|fille|8|NA||6M15
+447|Rue Saint-Denis|926|Bridel||Joseph|NA|garçon|6|NA||6M15
+448|Rue Saint-Denis|926|Bridel||Marie|NA|fille|3|NA||6M15
+449|Rue Saint-Denis|926|Bridel||Virginie|NA|fille|2|NA||6M15
+450|Rue Saint-Denis|927|Bonnet||Rose|lingère|fille|83|NA|3, 5,20, 4, 1,  1|6M15
+451|Rue Saint-Denis|927|Puissant||Marie Angélique|lingère|fille|23|NA|3, 5,20, 4, 1,  1|6M15
+452|Rue Saint-Denis|928|Moreau||Jeanne|raccommodeuse de tulle|fille|46|NA|2, 2,20,90, 1,  1|6M15
+453|Rue Saint-Denis|928|Barbe||Julie|raccommodeuse de tulle|fille|15|NA|2, 2,20,90, 1,  1|6M15
+454|Rue Saint-Denis|928|Barbe||Mariette|raccommodeuse de tulle|fille|16|NA|2, 2,20,90, 1,  1|6M15
+455|Rue Saint-Denis|928|Gomiard||Clothilde|raccommodeuse de tulle|fille|15|NA|2, 2,20,90, 1,  1|6M15
+456|Rue Saint-Denis|929|Deschamp||Annette|lingère|fille|50|NA|3, 5,20, 4, 1,  1|6M15
+457|Rue Saint-Denis|930|Randin||Charles|rentier|veuf|76|NA|4,98, 1,98, 98,  7|6M15
+458|Rue Saint-Denis|931|Verdaulon||Irène|rentier|veuf|60|NA|4,98, 1,98, 98,  7|6M15
+459|Rue Saint-Denis|931|Vanier||Marie|domestique|fille|50|NA|3, 5,25, 1, 1,  2|6M15
+460|Rue Saint-Denis|932|Lasserve||Jean Sival (?)|rentier|veuf|87|NA|4,98, 1,98, 98,  7|6M15
+461|Rue Saint-Denis|932|Rochet||Margueritte|domestique|fille|56|NA|3, 5,25, 1, 1,  2|6M15
+462|Rue Saint-Denis|933|Roche||Pierrette|sauv. St Charles (?)|fille|35|NA|3, 5,35, 3, 1,  4|6M15
+463|Rue Saint-Denis|933|Bronssy||Benoitte|idem|fille|25|NA||6M15
+464|Rue Saint-Denis|933|Demure||Annette|idem|fille|23|NA||6M15
+465|Rue Saint-Denis|933|Rondy||Anne|idem|fille|28|NA||6M15
+466|Rue Saint-Denis|933|Cuisson||Benoitte|idem|fille|35|NA||6M15
+467|Grande Place|1|veuve Bergeron||Joséphine Grand|modiste|veuve|32|NA|2, 2,10, 2, 1,  5|6M15
+468|Grande Place|2|veuve Champon|née Perachon|Benoitte|rentière|veuve|66|NA|4,98, 1,98, 98,  7|6M15
+469|Grande Place|2|Mariette dit labri||Marie|ouvrière en soie|fille|26|cousine de la précédente|2, 2,20, 7, 1,  3|6M15
+470|Grande Place|3|Fusil||Claude Andre|platrier|homma marié|46|NA|2, 3,80, 6, 1,  1|6M15
+471|Grande Place|3|Fusil|Delestra|Suzanne|lingère|femme mariée|50|NA|3, 5,20, 4, 1,  1|6M15
+472|Grande Place|3|Fusil||Mariette|lingère|fille|17|fille du précédent|3, 5,20, 4, 1,  1|6M15
+473|Grande Place|3|Fusil||Jenny|lingère|fille|15|NA|3, 5,20, 4, 1,  1|6M15
+474|Grande Place|4|veuve Gontier|Decrand|Claudine|dévideuse|veuve|54|prop. de la Mon. n°1|2, 2,20, 7, 1,  3|6M15
+475|Grande Place|4|Gontier||Auguste|commis|garçon|24|NA|3, 5,31,98,40,  1|6M15
+476|Grande Place|4|Belley||Rosalie|apprentie|fille|16|NA|4,96,98,98,60,  1|6M15
+477|Grande Place|5|Chaponot||Jacques|ouvrière f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+478|Grande Place|5|Chaponot|Dephillion|Marie Marguerite|ouvrière f.|femme mariée|27|NA|2, 2,20, 7, 1,  3|6M15
+479|Grande Place|5|Chaponot||Marguerite|NA|fille|3|fille du précédent||6M15
+480|Grande Place|5|Chaponot||Josephine Jeanne|NA|fille|2|fille du précédent||6M15
+481|Grande Place|5|Chaponot||Marguerite Henriette Serraphine|NA|fille|9 mois|fille du précédent||6M15
+482|Grande Place|5|Arnaud||Julie|ouvrière en soie|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+483|Grande Place|6|Arnaud||Charles Antoine|ouvrier f.|homme marié|49|NA|2, 2,20, 7, 1,  3|6M15
+484|Grande Place|6|Arnaud|Pomer|Marie Claire|ouvrière f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+485|Grande Place|6|Arnaud||André Anne|NA|fille|16|fille du précédent||6M15
+486|Grande Place|6|Arnaud||Louise|NA|fille|11|fille du précédent||6M15
+487|Grande Place|6|Arnaud||Charles Joseph|NA|garçon|9|fils du précédent||6M15
+488|Grande Place|6|Arnaud||Antoine|NA|garçon|5|fils du précédent||6M15
+489|Grande Place|6|Andry||Françoise|apprentie|fille|22|NA|4,96,98,98,60,  1|6M15
+490|Grande Place|7|Brouger|Lever|François|écrivain|homme marié|61|NA|3, 5,31,98, 1,  4|6M15
+491|Grande Place|7|Brouger||Constance|garde malade|femme mariée|56|NA|3, 5,36, 2, 1,  1|6M15
+492|Grande Place|7|Brouger||Henry François|ouvrière en soie|garçon|22|fils du précédent|2, 2,20, 7, 1,  3|6M15
+493|Grande Place|8|Nesme||NA|tordeuse|fille|44|NA|2, 2,20, 7, 1,  3|6M15
+494|Grande Place|9|veuve Sauvaget||NA|ouvrière en soie|veuve|45|NA|2, 2,20, 7, 1,  3|6M15
+495|Grande Place|10|Cailliez|Bonenfant|Adelle|NA|femme mariée|40|son mari lieutenant au 84eme||6M15
+496|Grande Place|11|Damery||Jean|cabaretier|homme marié|40|Mon. n°3 M. Richard prop. à Lyon|3, 5, 1, 2, 1,  4|6M15
+497|Grande Place|11|Damery|née Rousset|Françoise|cabaretière|femme mariée|40|NA|3, 5, 1, 2, 1,  4|6M15
+498|Grande Place|11|Damery||Benoit|garçon boucher|garçon|18|fils du précédent|2, 2, 1, 5, 1,  1 |6M15
+499|Grande Place|12|Dlle Pafimac||Eugenie|tailleuse|fille|24|NA|2, 2, 4, 1, 1,  1|6M15
+500|Grande Place|13|Genevrat||Antoine|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+501|Grande Place|13|Genevrat||Françoise|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+502|Grande Place|14|Boyer||Dominique|ouvrier f.|homme marié|70|NA|2, 2,20, 7, 1,  3|6M15
+503|Grande Place|14|Boyer|Dubost|Jeanne|ouvrière f.|femme mariée|48|NA|2, 2,20, 7, 1,  3|6M15
+504|Grande Place|14|Boyer||Horace|ouvrier en soie|garçon|26|fils du précédent|2, 2,20, 7, 1,  3|6M15
+505|Grande Place|14|Poncet||Annette|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+506|Grande Place|15|Méger||Joseph|ouvrier en soie|garçon|27|NA|2, 2,20, 7, 1,  3|6M15
+507|Grande Place|16|Montanier||Etienne|propriétaire|garçon|58|n°4 Mon. du Gymnase / Mon. n°5|4,98, 1,98, 98,  1|6M15
+508|Grande Place|16|Rapin||Lucile|domestique|fille|45|NA|3, 5,25, 1, 1,  2|6M15
+509|Grande Place|17|Chauvin||Alexandre|prop.re rentier|veuf|68|Mon. n°6|4,98, 1,98, 98,  7|6M15
+510|Grande Place|18|Fombarlet||Marie|domestique|fille|23|NA|3, 5,25, 1, 1,  2|6M15
+511|Grande Place|18|Cretin||Jean Philippe|dévideur|homme marié|69|NA|2, 2,20, 7, 1,  3|6M15
+512|Grande Place|18|Cretin|Dessertine|Marie Françoise|dévideuse|femme mariée|68|NA|2, 2,20, 7, 1,  3|6M15
+513|Grande Place|19|Valantin||Jean Urbin|ouvrier f.|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+514|Grande Place|19|Valantin|Cortet|Marie|ouvrière f.|femme mariée|29|NA|2, 2,20, 7, 1,  3|6M15
+515|Grande Place|19|Valantin||Jean Jacques Urbin|NA|garçon|16 mois|NA||6M15
+516|Grande Place|19|Blanc||Augustin|apprenti|garçon|16|NA|4,96,98,98,60,  1|6M15
+517|Grande Place|20|Michaud||Antoine|ouvrier f.|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+518|Grande Place|20|Michaud||Joseph Marie|ouvrier f.|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+519|Grande Place|21|Masson||Romain Etienne|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+520|Grande Place|21|Masson|Chauvin|Mariette|tailleuse|femme mariée|20|NA|2, 2, 4, 1, 1,  1|6M15
+521|Grande Place|22|Pascal||Hipolitte Michel|ouvrier f.|homme marié|53|NA|2, 2,20, 7, 1,  3|6M15
+522|Grande Place|22|Pascal|Chaillier|Anne|ouvrier f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+523|Grande Place|22|Pascal||Louise|ouvrière|fille|26|fille du précédent|2, 2,20, 7, 1,  3|6M15
+524|Grande Place|22|Pascal||Eléonore|ouvrière|fille|24|fille du précédent|2, 2,20, 7, 1,  3|6M15
+525|Grande Place|22|Pascal||Joseph|ouvrier|garçon|20|fils du précédent|2, 2,20, 7, 1,  3|6M15
+526|Grande Place|22|Pascal||Claudine|NA|fille|10|fille du précédent||6M15
+527|Grande Place|22|Pascal||Joseph|ouvrier en soie|garçon|23|neveux du précédent|2, 2,20, 7, 1,  3|6M15
+528|Grande Place|22|Pascal||Marguerite|NA|fille|8|nièsse en fillieulle (?)||6M15
+529|Grande Place|23|Begez||Pierre|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+530|Grande Place|23|Begez|Francillon|Marie|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+531|Grande Place|23|Begez||Françoise|ouvrière f.|fille|8 mois|fille du précédent|2, 2,20, 7, 1,  3|6M15
+532|Grande Place|23|Bastard||Marie Celestine|ouvrière|fille|26|NA|2, 2,20, 7, 1,  3|6M15
+533|Grande Place|24|Mollard||Jascques|jardinier|homme marié|34|NA|1, 1, 3,98, 1,  1|6M15
+534|Grande Place|24|Mollard|Barrieux|Barbe|ouvrière f.|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+535|Grande Place|25|Vernay||André|perruquier coiffeur|homme marié|27|Mon. n°7 (tache) prop.|2, 2,30, 4, 1,  4|6M15
+536|Grande Place|25|Vernay|Maitre|Claudine|lisseuse|femme mariée|23|NA|2, 2,20, 7, 1,  3|6M15
+537|Grande Place|25|Vacheron||Jean|garçon perruquier|garçon|20|NA|2, 2,30, 4, 1,  4|6M15
+538|Grande Place|26|Beaujolin||François|marchand de métier|homme marié|38|NA|3, 4,98, 1, 1,  6|6M15
+539|Grande Place|26|Beaujolin|Chabert|Madelaine|NA|femme mariée|42|NA||6M15
+540|Grande Place|26|Beaujolin||Reine|NA|fille|6|fille du précédent||6M15
+541|Grande Place|26|Beaujolin||Louise|NA|fille|5|fille du précédent||6M15
+542|Grande Place|27|Monteur|Gelim|Reine|propriétaire|veuve|70|NA|4,98, 1,98, 98,  1|6M15
+543|Grande Place|28|Courn||Louis|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+544|Grande Place|28|Courn|Richard|Marie|ouvrière f.|femme mariée|47|NA|2, 2,20, 7, 1,  3|6M15
+545|Grande Place|28|Courn||Marie|ouvrière f.|fille|18|fille du précédent|2, 2,20, 7, 1,  3|6M15
+546|Grande Place|28|Courn||Claude|ouvrier f.|garçon|16|fils du précédent|2, 2,20, 7, 1,  3|6M15
+547|Grande Place|28|Courn||Pierre|ouvrier f.|garçon|15|fils|2, 2,20, 7, 1,  3|6M15
+548|Grande Place|29|veuve Geladier||Madelaine|remetteuse (?)|veuve|66|NA|2, 2,20, 7, 1,  3|6M15
+549|Grande Place|30|veuve Vilman||Sophie|rentière|veuve|70|NA|4,98, 1,98, 98,  7|6M15
+550|Grande Place|30|Vilman||Marie|rentière|garçon|40|fils de la précédente|4,98, 1,98, 98,  7|6M15
+551|Grande Place|31|Depierre||André|cordonnier|homme marié|35|Mon. Louis n°8|2, 2,15, 1, 2,  6|6M15
+552|Grande Place|31|Depierre|Berlioz|Margueritte|ouvrier en soie|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+553|Grande Place|31|Depierre||René|ouvrier cordonnier|garçon|26|cousin du précédent|2, 2,15, 1, 2,  6|6M15
+554|Grande Place|31|Jeay||Joseph|ouvrier cordonnier|garçon|20|NA|2, 2,15, 1, 2,  6|6M15
+555|Grande Place|32|Sabatier||Honoré|cabaretier|homme marié|41|NA|3, 5, 1, 2, 1,  4|6M15
+556|Grande Place|32|Sabatier|née Collon|Catherine|cabaretière|femme mariée|39|NA|3, 5, 1, 2, 1,  4|6M15
+557|Grande Place|32|Sabatier||Jean|ouvrier cordonnier|garçon|14|fils du précédent|2, 2,15, 1, 2,  6|6M15
+558|Grande Place|32|Sabatier||Joséphine|NA|fille|7|fille du précédent||6M15
+559|Grande Place|32|Sabatier||Henri|NA|garçon|3|fils du précédent||6M15
+560|Grande Place|32|Sabatier||Honoré|NA|garçon|1|fils du précédent||6M15
+561|Grande Place|33|Galle||Louis|ferblantier|homme marié|37|NA|2, 2,62, 2, 1,  1|6M15
+562|Grande Place|33|Galle|Belingard|Elizabet|NA|femme mariée|43|NA||6M15
+563|Grande Place|34|Louis||Claude|prop. rentier n° mécanicien|veuf|82|NA|4,98, 1,98, 98,  7|6M15
+564|Grande Place|35|Louis||André|ouvrier f.|homme marié|52|fils du précédent|2, 2,20, 7, 1,  3|6M15
+565|Grande Place|35|Louis|Charpine|Marie|ouvrière f.|femme mariée|47|NA|2, 2,20, 7, 1,  3|6M15
+566|Grande Place|35|Louis||Marie|ouvrière f.|fille|17|fille du précédent|2, 2,20, 7, 1,  3|6M15
+567|Grande Place|35|Louis||Caroline|NA|fille|13|fille du précédent||6M15
+568|Grande Place|35|Louis||Emilie|NA|fille|10|fille du précédent||6M15
+569|Grande Place|35|Louis||Jeanne|NA|fille|9|fille du précédent||6M15
+570|Grande Place|35|Louis||François|NA|garçon|7|fils du précédent||6M15
+571|Grande Place|35|Curieux||Benoitte|domestique|fille|25|NA|3, 5,25, 1, 1,  2|6M15
+572|Grande Place|36|Sarrazin||Claude|officier de santé|homme marié|57|NA|3, 5,36, 2, 1,  5|6M15
+573|Grande Place|36|Sarrazin|Poncet|Thérèse|sage femme|femme mariée|34|NA|3, 5,36, 2, 1,  2|6M15
+574|Grande Place|36|Sarrazin||Elizabette|NA|fille|15 jours|NA||6M15
+575|Grande Place|37|Gerin||Camile|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+576|Grande Place|37|Gerin|Rolin|Gabrielle|ouvrière f.|femme mariée|33|NA|2, 2,20, 7, 1,  3|6M15
+577|Grande Place|37|Gerin||Simone|ouvrière f.|fille|11|NA|2, 2,20, 7, 1,  3|6M15
+578|Grande Place|37|Gerin||Louis|ouvrier f.|garçon|4|NA|2, 2,20, 7, 1,  3|6M15
+579|Grande Place|37|Laurant||Louis|ouvrier en soie|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+580|Grande Place|38|Gattaze||Pierre|ouvrier f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+581|Grande Place|38|Gattaze|née Laquaix|Claudine|ouvrier f.|femme mariée|68|NA|2, 2,20, 7, 1,  3|6M15
+582|Grande Place|38|Coquaze||Izac|ouvrier en soie|garçon|26|neveu des précédent|2, 2,20, 7, 1,  3|6M15
+583|Grande Place|39|Ravel||Jean Pierre|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+584|Grande Place|39|Ravel|Perret|Sophie|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+585|Grande Place|39|Ravel||Laurentine|ouvrière f.|fille|9|fille du précédent|2, 2,20, 7, 1,  3|6M15
+586|Grande Place|39|Poncez||Benoit|ouvrier en soie|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+587|Grande Place|39|Vincent||Etienne|ouvrier f.|garçon|38|NA|2, 2,20, 7, 1,  3|6M15
+588|Grande Place|40|Cuzin||Benoit|ouvrier f.|homma marié|30|NA|2, 2,20, 7, 1,  3|6M15
+589|Grande Place|40|Cuzin|Martin|Jeanne Elizabet|ouvrière f.|femme mariée|33|NA|2, 2,20, 7, 1,  3|6M15
+590|Grande Place|40|Cuzin||Abel Aimée|NA|garçon|1|NA||6M15
+591|Grande Place|40|Cuzin||Benoit|NA|garçon|15 jours|NA||6M15
+592|Grande Place|41|Favier||Gabrielle|couturière|fille|32|NA|2, 2,10, 1, 1, 15|6M15
+593|Grande Place|41|Favier||Gabrielle|NA|fille|10|fille de la précédente||6M15
+594|Grande Place|42|veuve Cordelle|Perrin|Margueritte|revendeuse d'herbage|veuve|64|NA|3, 4, 3, 1|6M15
+595|Grande Place|42|Cordelle|née Grillat|Marie|revendeuse d'herbage|femme mariée|45|bru de la précédente|3, 4, 3, 1|6M15
+596|Grande Place|42|Cordelle||François|NA|garçon|14|fils de la précédente||6M15
+597|Grande Place|42|Cordelle||Jeanne|NA|fille|11|fille de la précédente||6M15
+598|Grande Place|43|Fournaud||Pierre|marchand tailleur|homme marié|38|maison n°9 (Louis prop.)|2, 2, 4, 1, 1,  1|6M15
+599|Grande Place|43|Fournaud|Morez|Anne Marie|NA|femme mariée|40|NA||6M15
+600|Grande Place|43|Fournaud||Elizabet|NA|fille|3,5|fille de la précédente||6M15
+601|Grande Place|43|Fournaud||Pauline|NA|fille|1|fille de la précédente||6M15
+602|Grande Place|43|Prat||Antoine|ouvrier tailleur|garçon|19|Tour de beauvoisin (Savoie)|2, 2, 4, 1, 1,  1|6M15
+603|Grande Place|44|veuve Térail||Françoise|NA|veuve|40|NA||6M15
+604|Grande Place|45|veuve La Rivière|née Suzen|Anne|ouvrier f.|veuve|53|NA|2, 2,20, 7, 1,  3|6M15
+605|Grande Place|45|La Rivière||Catherine|apprentie|fille|15|fille de la précédente|4,96,98,98,60,  1|6M15
+606|Grande Place|45|Dechamp||Benoitte|ouvrière f.|fille|18|fille de Duchamp et de dlle Suzen|2, 2,20, 7, 1,  3|6M15
+607|Grande Place|46|Louis||Claude|ouvrier f.|homme marié|52|NA|2, 2,20, 7, 1,  3|6M15
+608|Grande Place|46|Louis|née Louis|Rose|ouvrière f.|femme mariée|49|NA|2, 2,20, 7, 1,  3|6M15
+609|Grande Place|46|Pacot||Claudine|dévideuse|fille|24|cousine des précédents|2, 2,20, 7, 1,  3|6M15
+610|Grande Place|47|Chabert||Louis|ouvrier f.|homme marié|55|NA|2, 2,20, 7, 1,  3|6M15
+611|Grande Place|47|Chabert|née Noireaux|Marie|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+612|Grande Place|48|veuve Pommier|née Musc|Jeanne Marie|rentière|veuve|60|NA|4,98, 1,98, 98,  7|6M15
+613|Grande Place|48|Jantin|Savarin|Olimpe|ouvrière|femme mariée|26|nièce de la précédente|2, 2,20, 7, 1,  3|6M15
+614|Grande Place|48|Jantin||Joséphine|NA|fille|4|fille de la précédente||6M15
+615|Grande Place|49|Rocher||Magdelaine|blanchisseuse|fille|35|NA|3, 5,20, 4, 1,  1|6M15
+616|Grande Place|50|veuve Tavernier||Marie|rentière|veuve|60|NA|4,98, 1,98, 98,  7|6M15
+617|Grande Place|51|Rose||Jean Louis|revendeur de gage|homme marié|35|NA|3, 4,90, 2, 1,  5|6M15
+618|Grande Place|51|Rose|Bijon|Rosalie |revendeuse de gage|femme mariée|36|NA|3, 4,90, 2, 1,  5|6M15
+619|Grande Place|51|Rose||Josephe|NA|fille|3|fille du précédent||6M15
+620|Grande Place|52|Maranchon||Claude|bureau de tabac|homme marié|32|Mon. n° 10|2, 2, 3, 1|6M15
+621|Grande Place|52|Maranchon|de Ravalen|Rose|bureau de tabac|femme mariée|30|NA|2, 2, 3, 1|6M15
+622|Grande Place|52|Maranchon||Jule|NA|garçon|9|NA||6M15
+623|Grande Place|52|Girardin||Mariette (?)|domestique|fille|19|NA|3, 5,25, 1, 1,  2|6M15
+624|Grande Place|53|Morlon||Michel|ouvrier f.|homme marié|56|NA|2, 2,20, 7, 1,  3|6M15
+625|Grande Place|53|Morlon|Bertolme|Françoise|ouvrière f.|femme mariée|42|f.|2, 2,20, 7, 1,  3|6M15
+626|Grande Place|53|Morlon||Catherine|ouvrière f.|fille|17|fille du précédent|2, 2,20, 7, 1,  3|6M15
+627|Grande Place|53|Morlon||Pierre|ouvrier f.|garçon|9|fils du précédent|2, 2,20, 7, 1,  3|6M15
+628|Grande Place|53|Morlon||Catherine|ouvrière f.|fille|2|fille du précédent|2, 2,20, 7, 1,  3|6M15
+629|Grande Place|54|Offroy||Jean Antoine|monteur de 10|homme marié|32|NA||6M15
+630|Grande Place|54|Offroy|Bouillon|Lucine (?)|lisseuse|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+631|Grande Place|54|Offroy||Clotilde|NA|fille|4|fille du précédent||6M15
+632|Grande Place|55|Clement||Joseph|ouvrier f.|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+633|Grande Place|55|Clement|Lauradou|Françoise|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+634|Grande Place|55|Clement||Jeanne Marie|NA|fille|5|fille du précédent||6M15
+635|Grande Place|55|Clement||Jean Vincent|NA|garçon|3|fils du précédent||6M15
+636|Grande Place|55|Buchart||Luci|ouvrière en soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+637|Grande Place|56|Ferre||Gaspard|ouvrier f.|homme marié|35|Mon. n° 11 n° Ferre|2, 2,20, 7, 1,  3|6M15
+638|Grande Place|56|Ferre|Trucet|Margueritte|ouvrière f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+639|Grande Place|56|veuve Ferre|Marguin|Thérèse|ouvrière f.|veuve|72|mère du précédent|2, 2,20, 7, 1,  3|6M15
+640|Grande Place|56|Ferre||Marie|NA|fille|12|fille du précédent||6M15
+641|Grande Place|56|Ferre||Louise|NA|fille|9|fille du précédent||6M15
+642|Grande Place|56|Ferre||Antoine|NA|garçon|6|fils du précédent||6M15
+643|Grande Place|57|Donnay||Maria|rentière|femme mariée|50|NA|4,98, 1,98, 98,  7|6M15
+644|Grande Place|57|Donnay||Maria|NA|fille|14|NA||6M15
+645|Grande Place|58|Pinet|Tavernier|Véronique|cabaretière|veuve|40|NA|3, 5, 1, 2, 1,  4|6M15
+646|Grande Place|58|Pinet||André|NA|garçon|14|fils du précédent||6M15
+647|Grande Place|58|Pinet||Mariette|NA|fille|5|fille du précédent||6M15
+648|Grande Place|59|Thevenet||Pierre|marchand de fayence|homme marié|41|Mon. n°12 Thevenet|3, 3,45, 1, 1,  1|6M15
+649|Grande Place|59|Thevenet|Desfarge|Thérèse|NA|femme mariée|38|NA||6M15
+650|Grande Place|60|Berthelot||Benoitte|journalier|fille|21|NA|4,96,98,98,30,  1|6M15
+651|Grande Place|61|Cret||Jean|boucher|homme marié|33|NA|2, 2, 1, 5, 1,  1 |6M15
+652|Grande Place|61|Cret|Perret|Claudine|bouchère|femme mariée|31|NA|2, 2, 1, 5, 1,  1 |6M15
+653|Grande Place|61|Cret||Marie|NA|garçon|5|fils du précédent||6M15
+654|Grande Place|61|Cret||Marie|NA|fille|2|fille du précédent||6M15
+655|Grande Place|61|Cret||Louis|NA|garçon|1|fils du précédent||6M15
+656|Grande Place|62|Regipas||André|boulanger|homme marié|42|Mon. n° 13 Dumenge|2, 2, 1, 3, 1,  1|6M15
+657|Grande Place|62|Regipas|Decran|Suzanne|boulangère|femme mariée|40|NA|2, 2, 1, 3, 1,  1|6M15
+658|Grande Place|62|Regipas||Pierrette|NA|fille|12|fille du précédent||6M15
+659|Grande Place|62|Regipas||Clotilde|NA|fille|6|fille du précédent||6M15
+660|Grande Place|62|Séjalon||Jean Baptiste|O. boulanger|garçon|32|NA|2, 2, 1, 3, 1,  1|6M15
+661|Grande Place|63|Deroben||Joseph|épicier|homme marié|30|NA|3, 4, 1,90, 1,  2|6M15
+662|Grande Place|63|Deroben|Bilion|Françoise|épicière|femme mariée|21|NA|3, 4, 1,90, 1,  2|6M15
+663|Grande Place|63|Clert||François|garçon|garçon|32|NA|4,99,60,98,98,  2|6M15
+664|Grande Place|64|Burder||Joseph|tripier|homme marié|32|NA|2, 1, 4, 2|6M15
+665|Grande Place|64|Burder|Magnien|Marie|tripière|femme mariée|24|NA|2, 1, 4, 2|6M15
+666|Grande Place|64|Burder||Jules|NA|garçon|5,5|NA||6M15
+667|Grande Place|64|Burder||Louis|NA|garçon|3|NA||6M15
+668|Grande Place|64|Burder||Françoise|NA|fille|2|NA||6M15
+669|Grande Place|64|Théodore||François|garçon|garçon|21|de la charité|4,99,60,98,98,  2|6M15
+670|Grande Place|65|Durand|Michaud|Guillaume|cabaretier|homme marié|57|NA|3, 5, 1, 2, 1,  4|6M15
+671|Grande Place|65|Durand||Elizabet|cabaretière|femme mariée|37|NA|3, 5, 1, 2, 1,  4|6M15
+672|Grande Place|65|Michaud||Antoine|NA|garçon|11|fils de la précédente||6M15
+673|Grande Place|65|Michaud||Jean Marie|NA|garçon|6|fils de la précédente||6M15
+674|Grande Place|66|Marion||Jean Baptiste|ligneuriste (?)|homme marié|34|NA||6M15
+675|Grande Place|66|Marion|Aubrion|Margueritte|ligneuriste (?)|femme mariée|34|NA||6M15
+676|Grande Place|66|Marion||Margueritte|NA|fille|28 mois|fille de la précédente||6M15
+677|Grande Place|67|Paris||Jean Baptiste|marchand mécanicien|homme marié|41|NA|3, 5,35, 7, 1,  4|6M15
+678|Grande Place|67|Paris|Roseuse Juge|Antoinette|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+679|Grande Place|67|Paris||Pierre|ouvrier f.|garçon|18|fils du précédent|2, 2,20, 7, 1,  3|6M15
+680|Grande Place|67|Paris||Luce|ouvrière f.|fille|15|fille du précédent|2, 2,20, 7, 1,  3|6M15
+681|Grande Place|67|Paris||Marguerite|NA|fille|17|fille du précédent||6M15
+682|Grande Place|67|Paris||Marie|NA|fille|2,5|fille du précédent||6M15
+683|Grande Place|68|Buffard||François|plieur|homma marié|40|NA|2, 2,20, 7, 1,  3|6M15
+684|Grande Place|68|Buffard|Dumonget|Marie|plieuse|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+685|Grande Place|68|Buffard||Marie|NA|fille|20|fille du précédent||6M15
+686|Grande Place|68|Buffard||Clémence|NA|fille|11|fille du précédent||6M15
+687|Grande Place|68|Paviot||Françoise|ouvrière|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+688|Grande Place|68|Paviot||Françoise|NA|fille|5|soeur du précédent||6M15
+689|Grande Place|69|Rolachon||Pierre|ouvrière f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+690|Grande Place|69|Rolachon|Brunet|Gabrielle|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+691|Grande Place|69|Chabame||André|ouvrier|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+692|Grande Place|69|Duffour||Jean Aimé|ouvrier|garçon|32|L'hopital (Savoie)|2, 2,20, 7, 1,  3|6M15
+693|Grande Place|69|Marcher||Toinette|ouvrière|fille|32|NA|2, 2,20, 7, 1,  3|6M15
+694|Grande Place|70|Guibet||Jean|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+695|Grande Place|70|Guibet|Dussange|Claudine|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+696|Grande Place|71|Cardinal||Auguste|ouvrier f.|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+697|Grande Place|71|Cardinal|Bren|Julie|ouvrière f.|femme mariée|27|NA|2, 2,20, 7, 1,  3|6M15
+698|Grande Place|71|Cardinal||Etienne|NA|garçon|5|fils du précédent||6M15
+699|Grande Place|71|Chanod||Jean Pierre|ouvrier|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+700|Grande Place|72|Valen||Pierre Simon|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+701|Grande Place|72|Valen|Fabre|Jeanne|ouvrière f.|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+702|Grande Place|72|Valen||Pierre|NA|garçon|10|fils du précédent||6M15
+703|Grande Place|72|Valen||Louise|NA|fille|3|fille du précédent||6M15
+704|Grande Place|72|Larchenal||Lucresse|ouvrière|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+705|Grande Place|73|Villoud||Louis|ouvrier f.|homme marié|48|NA|2, 2,20, 7, 1,  3|6M15
+706|Grande Place|73|Villoud|Coizen|Suzanne|ouvrière f.|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+707|Grande Place|73|Villoud||Claude|ouvrier|garçon|20|fils du précédent|2, 2,20, 7, 1,  3|6M15
+708|Grande Place|73|Villoud||Marie|ouvrière|fille|15|fille du précédent|2, 2,20, 7, 1,  3|6M15
+709|Grande Place|73|Villoud||Philibert|ouvrier|garçon|13|fils du précédent|2, 2,20, 7, 1,  3|6M15
+710|Grande Place|73|Villoud||Magdelaine|NA|fille|6|fille du précédent||6M15
+711|Grande Place|73|Chollet||Jean|ouvrier|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+712|Grande Place|74|Cordier||Laurent|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+713|Grande Place|74|Cordier|Magnien|Marie|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+714|Grande Place|74|Joffray||Jean|ouvrier|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+715|Grande Place|74|Mermel||Jean|ouvrier|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+716|Grande Place|75|Tissot||Pierre|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+717|Grande Place|75|Tissot|Verpilliar|Marie (Etiennette ?)|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+718|Grande Place|75|Tissot||Jacques (Dignene)|ouvrier f.|garçon|6|fils de la précédente|2, 2,20, 7, 1,  3|6M15
+719|Grande Place|75|Tissot||Suzanne|NA|fille|2,5|fille des précédents||6M15
+720|Grande Place|75|Blanche||Hélaine|ouvrière|fille|18|V. Sicard (Piémont)|2, 2,20, 7, 1,  3|6M15
+721|Grande Place|76|Roux||Jean Pierre|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+722|Grande Place|76|Roux|Jacquet|Benoitte|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+723|Grande Place|76|Roux||Pierre|NA|garçon|3|fils du précédent||6M15
+724|Grande Place|76|Roux||François|NA|garçon|1,5|fils du précédent||6M15
+725|Grande Place|76|Deveaux||Claudine|ouvrière|fille|30|NA|2, 2,20, 7, 1,  3|6M15
+726|Grande Place|77|Ruder||Gabriel Marie|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+727|Grande Place|77|Ruder|Baruca|Claudine Françoise|ouvrière f.|femme mariée|33|NA|2, 2,20, 7, 1,  3|6M15
+728|Grande Place|77|Ruder||Pierre Marie|NA|garçon|9|fils du précédent||6M15
+729|Grande Place|77|Ruder||Louis Antoine|NA|garçon|7|fils du précédent||6M15
+730|Grande Place|77|Ruder||Laurance Marie|NA|fille|5 mois|fille du précédent||6M15
+731|Grande Place|77|Collon||Geneviève|ouvrière|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+732|Grande Place|78|Chabert||Mathieu|ouvrier f.|homme marié|55|NA|2, 2,20, 7, 1,  3|6M15
+733|Grande Place|78|Chabert|Rubi|Pierrette|ouvrière f.|femme mariée|50|NA|2, 2,20, 7, 1,  3|6M15
+734|Grande Place|79|Castiodore||Jean Claude|ouvrier f.|homme marié|45|NA|2, 2,20, 7, 1,  3|6M15
+735|Grande Place|79|Castiodore|Jubert|Marie|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+736|Grande Place|79|Martinou||Magdelaine|NA|fille|11|fille ad.le||6M15
+737|Grande Place|80|Balard||Claude|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+738|Grande Place|80|Balard|Rivière|Margueritte|ouvrière f.|femme mariée|43|NA|2, 2,20, 7, 1,  3|6M15
+739|Grande Place|81|Berthet||Jean Antoine Louis|ouvrier f.|homme marié|43|NA|2, 2,20, 7, 1,  3|6M15
+740|Grande Place|81|Berthet|Marnas|Margueritte|ouvrière f.|femme mariée|43|NA|2, 2,20, 7, 1,  3|6M15
+741|Grande Place|81|Berthet||Pierre|NA|garçon|13|NA||6M15
+742|Grande Place|82|Gauthier||Jean Baptiste|ouvrier cordonnier|homme marié|34|NA|2, 2,15, 1, 2,  6|6M15
+743|Grande Place|83|veuve Pichon|Ginot|Marie Anne|ouvrier f.|veuve|45|NA|2, 2,20, 7, 1,  3|6M15
+744|Grande Place|83|Pichon||François|apprenti|garçon|15|fils de la précédente|4,96,98,98,60,  1|6M15
+745|Grande Place|83|Pichon||Claudine|NA|fille|13|fille de la précédente||6M15
+746|Grande Place|84|Gauthier|Roux|Jeanne|garde malade|femme mariée|41|NA|3, 5,36, 2, 1,  1|6M15
+747|Grande Place|85|Guerin||Pierre|marchand de fayence|homme marié|50|NA|3, 3,45, 1, 1,  1|6M15
+748|Grande Place|85|Guerin|Chambon|Thérèse|marchande de fayence|femme mariée|32|NA|3, 3,45, 1, 1,  1|6M15
+749|Grande Place|85|Guerin||Virginie|NA|fille|13|NA||6M15
+750|Grande Place|86|Andry||Pierre|ouvrier en soie|garçon|29|NA|2, 2,20, 7, 1,  3|6M15
+751|Grande Place|87|Julien||Nicolas|Md mercier|homme marié|30|Mon. vetenoire n°14|3, 4,10, 1, 1,  1|6M15
+752|Grande Place|87|Julien|Beaumon|Marie Claudine|marchande mercière|femme mariée|30|NA|3, 4,10, 1, 1,  1|6M15
+753|Grande Place|87|Julien||Louis|NA|garçon|5|fils de la précédente||6M15
+754|Grande Place|88|Bonnebouche||François|platrier|homme marié|28|NA|2, 3,80, 6, 1,  1|6M15
+755|Grande Place|88|Bonnebouche|Joffray|Françoise|ouvrier en soie|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+756|Grande Place|89|Dubost||Aimé|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+757|Grande Place|89|Dubost|Rivoine|Marie Antoinette|ouvrière f.|femme mariée|19|NA|2, 2,20, 7, 1,  3|6M15
+758|Grande Place|89|Labarre||Claude dit Grosperd (?)|ouvrier|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+759|Grande Place|90|Vincent||Sire Alphonse|ouvrier f.|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+760|Grande Place|90|Vincent|Joly|Marie Antoinette|ouvrière f.|femme marié|25|NA|2, 2,20, 7, 1,  3|6M15
+761|Grande Place|90|Vallier||Nicolas|apprenti|garçon|17|cousin du précédent|4,96,98,98,60,  1|6M15
+762|Grande Place|90|Bocquain||Jean Marie|ouvrier|garçon|20|Rumilli (Savoie)|2, 2,20, 7, 1,  3|6M15
+763|Grande Place|91|Segdy||Louis Joseph|ouvrier f.|homme marié|23|NA|2, 2,20, 7, 1,  3|6M15
+764|Grande Place|91|Segdy|Boyer|Marie Anne|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+765|Grande Place|91|Segdy||Claire|NA|fille|18 mois|NA||6M15
+766|Grande Place|91|Sedgy||Jean André|NA|garçon|2 mois|NA||6M15
+767|Grande Place|91|Segdy||Jean André|ouvrier f.|veuf|31|NA|2, 2,20, 7, 1,  3|6M15
+768|Grande Place|91|Segdy||Louis|NA|garçon|1|NA||6M15
+769|Grande Place|92|Dangle||Auguste|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+770|Grande Place|92|Dangle|Kergonet|Louise|ouvrière f.|femme mariée|24|NA|2, 2,20, 7, 1,  3|6M15
+771|Grande Place|92|Dangle||Felix|NA|garçon|8|NA||6M15
+772|Grande Place|92|Guerin||Jean|apprenti|garçon|12,5|neveu de la précédente|4,96,98,98,60,  1|6M15
+773|Grande Place|92|Ducloa||Séraphine|ouvrière|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+774|Grande Place|93|Balfin||Benoit|ouvrier f.|homme marié|43|NA|2, 2,20, 7, 1,  3|6M15
+775|Grande Place|93|Balfin|Vernay|Magdelaine|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+776|Grande Place|93|Balfin||Marie|ouvrière f.|fille|15|NA|2, 2,20, 7, 1,  3|6M15
+777|Grande Place|93|Balfin||Catherine|ouvrière f.|fille|12|NA|2, 2,20, 7, 1,  3|6M15
+778|Grande Place|93|Brun||Désiré|ouvrier|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+779|Grande Place|93|Spissey||George|ouvrier|garçon|22|St Gal (Suisse)|2, 2,20, 7, 1,  3|6M15
+780|Grande Place|93|Buisson||Charles|ouvrier|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+781|Grande Place|93|Muller||Jacques|ouvrier|garçon|26|Badem|2, 2,20, 7, 1,  3|6M15
+782|Grande Place|94|Vincent||Jean Baptiste|ouvrier f.|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+783|Grande Place|94|Boyer||Antoine|ouvrier|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+784|Grande Place|95|Deborde||Louis|ouvrier f.|homme marié|22|NA|2, 2,20, 7, 1,  3|6M15
+785|Grande Place|95|Deborde|Benon|Françoise|ouvrière f.|femme mariée|23|NA|2, 2,20, 7, 1,  3|6M15
+786|Grande Place|95|Deborde||Louis Nicolas|NA|garçon|7 mois |NA||6M15
+787|Grande Place|95|Benon||Marie|ouvrière|fille|18|soeur de la précédente|2, 2,20, 7, 1,  3|6M15
+788|Grande Place|96|Chenod||Auguste|ouvrier f.|homme marié|50|Berlin|2, 2,20, 7, 1,  3|6M15
+789|Grande Place|96|Chenod|Dervier|Quinette|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+790|Grande Place|96|Chenod||Gaspard|NA|garçon|9|NA||6M15
+791|Grande Place|96|Chenod||Glorius (?)|NA|garçon|2|NA||6M15
+792|Grande Place|96|Chenod||Clémentine|NA|fille|1,5|NA||6M15
+793|Grande Place|97|Dupré||Antoine Marie|ouvrier f.|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+794|Grande Place|97|Dupré|Favre|Claudine|ouvrière f.|femme mariée|47|NA|2, 2,20, 7, 1,  3|6M15
+795|Grande Place|97|Dupré||Jacqueline|ouvrière f.|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+796|Grande Place|97|Dupré||Marie|ouvrier f.|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+797|Grande Place|98|Veillot||Jean|ouvrière f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+798|Grande Place|98|Veillot|Baroudel|Marie Melanie|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+799|Grande Place|98|Moiret||Françoise|ouvrière|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+800|Grande Place|98|Chappet||Joséphine|ouvrière|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+801|Grande Place|98|Clément||Marie Aimé|ouvrière|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+802|Grande Place|99|veuve Villard|née Fournier|Margueritte|journalière|veuve|24|NA|4,96,98,98,30,  1|6M15
+803|Grande Place|100|Villard||Annette|NA|fille|5|NA||6M15
+804|Grande Place|101|Roussin||Jacques Etienne|traiteur|homme marié|48|n° 15 Mon. Orsière||6M15
+805|Grande Place|101|Roussin|Orsière|Benoitte|traiteur|femme mariée|41|NA||6M15
+806|Grande Place|101|Roussin||Adelle|NA|fille|20|NA||6M15
+807|Grande Place|101|Roussin||Florinne|NA|fille|19|NA||6M15
+808|Grande Place|101|Roussin||Claude|NA|garçon|17|NA||6M15
+809|Grande Place|101|Roussin||Mariette|NA|fille|14|NA||6M15
+810|Grande Place|101|Roussin||Jean Baptiste|chef de cuisine|garçon|28|neveu du précédent|3, 5, 1, 2, 1,  5|6M15
+811|Grande Place|101|Merlin||Jeannette|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+812|Grande Place|102|Fevre||Jean Daniel|horloger|homme marié|37|n°4 n°16 Orsière|2, 2,52, 1, 1,  1|6M15
+813|Grande Place|102|Fevre|Hugomid|Adelle|NA|femme mariée|23|NA||6M15
+814|Grande Place|102|Fevre||Alexandre|NA|garçon|22 mois|NA||6M15
+815|Grande Place|102|Fevre||Hortance|NA|fille|8 mois|NA||6M15
+816|Grande Place|103|Coignez||Perronne|marchande mercière|fille|50|NA|3, 4,10, 1, 1,  1|6M15
+817|Grande Place|103|Pinmartin||Agarithe|Dlle de boutique|fille|20|cousine de la précédente|3, 4,10, 1, 1,  4|6M15
+818|Grande Place|104|Orsière||Pierre|prop.re rentier|homme marié|53|NA|4,98, 1,98, 98,  7|6M15
+819|Grande Place|104|Orsière|Benon|Louise|NA|femme mariée|40|NA||6M15
+820|Grande Place|104|Orsière||Pierre|NA|garçon|17|NA||6M15
+821|Grande Place|105|Vivier||Edmond|ouvrier f.|homme marié|46|NA|2, 2,20, 7, 1,  3|6M15
+822|Grande Place|105|Vivier|Tissier|Catherine|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+823|Grande Place|105|Vivier||Claude|ouvrier|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+824|Grande Place|105|Vivier||Philiberthe|NA|fille|13|NA||6M15
+825|Grande Place|105|Vivier||Pierrette|NA|fille|8|NA||6M15
+826|Grande Place|105|Cherrin||Frederic|ouvrier|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+827|Grande Place|106|Panisser||Laurent|ouvrier f.|homme marié|58|NA|2, 2,20, 7, 1,  3|6M15
+828|Grande Place|106|Panisser|Montaberd|Madelaine|ouvrière f.|femme mariée|50|NA|2, 2,20, 7, 1,  3|6M15
+829|Grande Place|106|Panisser|Berger|Suzette|ouvrière f.|fille|17|fille de la précédente|2, 2,20, 7, 1,  3|6M15
+830|Grande Place|106|Berger||Laurent|ouvrier f.|garçon|10|fils de la précédente|2, 2,20, 7, 1,  3|6M15
+831|Grande Place|106|Gailliard||Benoit|ouvrier|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+832|Grande Place|106|Gailliard||Daniel|ouvrier|garçon|20|Petit Bourman (Savoie)|2, 2,20, 7, 1,  3|6M15
+833|Grande Place|107|Duchamp||Claude|ouvrier f.|homme marié|54|NA|2, 2,20, 7, 1,  3|6M15
+834|Grande Place|107|Duchamp|Bossier|Marie|ouvrière f.|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+835|Grande Place|107|Duchamp||Antoine|ouvrier|garçon|20|fils du précédent|2, 2,20, 7, 1,  3|6M15
+836|Grande Place|107|Duchamp||Adrienne|ouvrière|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+837|Grande Place|107|Duchamp||Antoine|ouvrier|garçon|15|NA|2, 2,20, 7, 1,  3|6M15
+838|Grande Place|107|Duchamp||Elie|NA|fille|5|NA||6M15
+839|Grande Place|107|Revero||Marie|ouvrière f.|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+840|Grande Place|108|Fournier||Louis Mathieu|ouvrier f.|homme marié|45|NA|2, 2,20, 7, 1,  3|6M15
+841|Grande Place|108|Fournier|Garnier|Margueritte|ouvrière f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+842|Grande Place|108|Fournier||Mathieu|ouvrier|garçon|15|fils du précédent|2, 2,20, 7, 1,  3|6M15
+843|Grande Place|108|Fournier||François|NA|garçon|17|fils du précédent||6M15
+844|Grande Place|108|Fournier||Fanchette|ouvrière|fille|22|fils du précédent|2, 2,20, 7, 1,  3|6M15
+845|Grande Place|108|Cornelly||Jeannette|ouvrière|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+846|Grande Place|108|Guerin||Catherine|ouvrière|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+847|Grande Place|109|André||Etienne|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+848|Grande Place|109|André||Pierrette|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+849|Grande Place|109|André||Mariette|appareilleuse|fille|15|fille du précédent|2, 2,55, 4, 1,  3 |6M15
+850|Grande Place|109|André||Tonny Jean|NA|garçon|12|NA||6M15
+851|Grande Place|109|André||Joanny|NA|garçon|8|NA||6M15
+852|Grande Place|109|Musy||Jean Toussain|ouvrier|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+853|Grande Place|109|Bertrand||Auguste|ouvrier|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+854|Grande Place|110|veuve Fournier|née Fourcheron|Jeannette|journalière|veuve|82|NA|4,96,98,98,30,  1|6M15
+855|Grande Place|111|Lonet||NA|ouvrier en soie|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+856|Grande Place|112|Rigothe||François|ouvrier en soie|garçon|24|de Savoie|2, 2,20, 7, 1,  3|6M15
+857|Grande Place|113|Balandra||Joseph|cafetier|garçon|22|Mon. n° 17 (Orsière)|3, 5, 1, 2, 1,  4|6M15
+858|Grande Place|113|veuve Balandra|Vincent|Françoise|NA|veuve|56|mère du précédent||6M15
+859|Grande Place|113|Remery||Hipolite|garçon|garçon|19|NA|4,99,60,98,98,  2|6M15
+860|Grande Place|114|Dumolard||Charles Pierre|ouvrier en soie|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+861|Grande Place|114|Dumolard|Caillen|Anne|dévideuse|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+862|Grande Place|115|Fillien||Guillaume|musicien|homme marié|36|NA|3, 5,15, 2, 1,  3|6M15
+863|Grande Place|115|Fillien|Marchand|Henriette Marie|revendeuse|femme mariée|28|NA|3, 4, 3, 1|6M15
+864|Grande Place|115|Bruna||Catherine|NA|fille|10|nièce du précédent||6M15
+865|Grande Place|116|Terrillon||Claude|chapellier|homme marié|38|NA|2, 2,10, 2, 1,  4|6M15
+866|Grande Place|116|Terrillon|Planche|Thérèse|NA|femme mariée|38|NA||6M15
+867|Grande Place|116|Terrillon||Mariette|NA|fille|19|NA||6M15
+868|Grande Place|116|Terrillon||Etienne|NA|garçon|17|NA||6M15
+869|Grande Place|117|Larochette||Denis|cordonnier|homme marié|39|NA|2, 2,15, 1, 2,  6|6M15
+870|Grande Place|117|Larochette|Méron|Luce|NA|femme mariée|27|NA||6M15
+871|Grande Place|117|Larochette||Gustave|NA|garçon|5|NA||6M15
+872|Grande Place|117|Larochette||Azeline|NA|fille|2|NA||6M15
+873|Grande Place|118|Faurax||François Marie|ouvrière f.|homme marié|49|NA|2, 2,20, 7, 1,  3|6M15
+874|Grande Place|118|Faurax|Dumas|Marie|ouvrière f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+875|Grande Place|118|Faurax||Anne|ouvrière f.|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+876|Grande Place|118|Faurax||Françoise|NA|fille|17|NA||6M15
+877|Grande Place|118|Faurax||Pierre|NA|garçon|13|NA||6M15
+878|Grande Place|118|Faurax||Marie|NA|fille|10|NA||6M15
+879|Grande Place|118|Faurax||Jenny|NA|fille|9|NA||6M15
+880|Grande Place|118|Fayolle||Victor|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+881|Grande Place|119|Renaud||Pierre|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+882|Grande Place|119|Renaud|Guion|Jeanne|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+883|Grande Place|119|Renaud||Marieta|ouvrière f.|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+884|Grande Place|119|Pitioz||Frederic|ouvrier en soie|garçon|27|NA|2, 2,20, 7, 1,  3|6M15
+885|Grande Place|120|Martinon||Jean Marie|ouvrier f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+886|Grande Place|120|Martinon|Ferran|Madelaine|ouvrière f.|femme mariée|31|NA|2, 2,20, 7, 1,  3|6M15
+887|Grande Place|120|Martinon||Charlotte|NA|fille|9,5|NA||6M15
+888|Grande Place|120|Durand||Jean|ouvrier en soie|garçon|18|Pont de Beauvoisin (Savoie)|2, 2,20, 7, 1,  3|6M15
+889|Grande Place|120|Godemard||Dominique|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+890|Grande Place|120|Mesia||Sébastien|ouvrier en soie|garçon|14,5|NA|2, 2,20, 7, 1,  3|6M15
+891|Grande Place|120|Cléman||Jean|ouvrier en soie|garçon|22,5|NA|2, 2,20, 7, 1,  3|6M15
+892|Grande Place|120|Duchon||Jean|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+893|Grande Place|120|Perrot||François|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+894|Grande Place|120|Dubois||Louis|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+895|Grande Place|120|veuve Martinon|née Jaunode|Charlotte|NA|veuve|70|mère du précédent||6M15
+896|Grande Place|121|Hugues||Antoine|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+897|Grande Place|121|Hugues|Lelong|(illisible)|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+898|Grande Place|121|Hugues||Isabelle|NA|fille|3|NA||6M15
+899|Grande Place|121|Clément||François|ouvrier en soie|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+900|Grande Place|121|Papillon||François|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+901|Grande Place|121|Charles||François|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+902|Grande Place|121|Audifray||Antoine|ouvrier en soie|garçon|36|NA|2, 2,20, 7, 1,  3|6M15
+903|Grande Place|121|Peurvat||Adelaide|domestique|fille|17|NA|3, 5,25, 1, 1,  2|6M15
+904|Grande Place|121|Courvat||Marie|domestique|fille|15|soeur de la précédente|3, 5,25, 1, 1,  2|6M15
+905|Grande Place|122|Brun||Jean Benoit|ouvrier f.|homme marié|41|NA|2, 2,20, 7, 1,  3|6M15
+906|Grande Place|122|Brun|Hostin|Louise|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+907|Grande Place|122|Brun||Françoise|NA|fille|11|fille du précédent||6M15
+908|Grande Place|122|Brun||Fleury|NA|garçon|9|fils du précédent||6M15
+909|Grande Place|122|Brun||Jeanne Marie|NA|fille|7|fille du précédent||6M15
+910|Grande Place|122|Bomard||Jean François|ouvrier en soie|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+911|Grande Place|122|Combez||Louis|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+912|Grande Place|123|Buffavan||Jean Claude|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+913|Grande Place|123|Buffavan|Noire|Catherine|ouvrière f.|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+914|Grande Place|123|Buffavan||Charles|NA|garçon|5|NA||6M15
+915|Grande Place|123|Buffavan||Joséphine|NA|fille|1|NA||6M15
+916|Grande Place|123|Edouard||Jean|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+917|Grande Place|123|Deffillon||Françoise|ouvrière en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+918|Grande Place|124|Guillet||(Mariette) Louise|journalière|fille|46|NA|4,96,98,98,30,  1|6M15
+919|Grande Place|125|Guillet||Adolphe|NA|garçon|7|NA||6M15
+920|Grande Place|127|Fayet||Jean|(illisible)|homme marié|57|Mon. n°18 Sarcey||6M15
+921|Grande Place|127|Vincent||Guillaume|ouvrier|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+922|Grande Place|128|Bichard||François|coutellier|homme marié|27|NA|2, 2,65, 2, 1, 19|6M15
+923|Grande Place|128|Bichard|Pernier|Silvie|NA|femme mariée|22|NA||6M15
+924|Grande Place|129|Grange||Benoit|épicier|homme marié|31|NA|3, 4, 1,90, 1,  2|6M15
+925|Grande Place|129|Grange|Laurand|Jeanne|épicière|femme mariée|32|NA|3, 4, 1,90, 1,  2|6M15
+926|Grande Place|129|Grange||Marie|NA|fille|7|fille du précédent||6M15
+927|Grande Place|129|Grange||André|NA|garçon|2,5|fils du précédent||6M15
+928|Grande Place|129|Grange||Marie|NA|fille|8 mois|fille du précédent||6M15
+929|Grande Place|130|Thève||Pierre|ouvrier f.|homme marié|29|NA|2, 2,20, 7, 1,  3|6M15
+930|Grande Place|130|Thève|Forestier|Louise|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+931|Grande Place|130|Thève||Petrus Jacques|NA|garçon|5|fils du précédent||6M15
+932|Grande Place|130|Thève||Pierre|NA|garçon|3|fils du précédent||6M15
+933|Grande Place|130|Savoyer||Jean|ouvrier en soie|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+934|Grande Place|131|Felix||Pierre|ouvrier f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+935|Grande Place|131|Felix|Lian|Louise|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+936|Grande Place|131|Felix||Clotilde|ouvrière f.|fille|15|fille du précédent|2, 2,20, 7, 1,  3|6M15
+937|Grande Place|131|Felix||Mathieu|NA|garçon|12|NA||6M15
+938|Grande Place|131|Felix||Henriette|NA|fille|11|NA||6M15
+939|Grande Place|131|Felix||Pascal|NA|garçon|10|NA||6M15
+940|Grande Place|131|Felix||Jenny|NA|fille|5|NA||6M15
+941|Grande Place|131|Fritz||François dit Georges|ouvrier f.|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+942|Grande Place|131|Cottisson||Auguste|ouvrier f.|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+943|Grande Place|132|David||Nicolas|ouvrier f.|homme marié|48|NA|2, 2,20, 7, 1,  3|6M15
+944|Grande Place|132|David|Gaudallière|Jeanne Marie|ouvrier f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+945|Grande Place|132|David||Antonia|ouvrière f.|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+946|Grande Place|132|David||Margueritte|ouvrière f.|fille|14|NA|2, 2,20, 7, 1,  3|6M15
+947|Grande Place|132|Jailler||Jean|ouvrier en soie|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+948|Grande Place|132|Pimen||Victor|ouvrier en soie|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+949|Grande Place|133|Bren||Jean|ouvrier en soie|veuf|73|NA|2, 2,20, 7, 1,  3|6M15
+950|Grande Place|133|Bren||Jean Marie|lieutenant de ligne|garçon|24|NA|3, 5,50, 1,80, 10|6M15
+951|Grande Place|133|Bren||Jean|ouvrier f.|garçon|38|NA|2, 2,20, 7, 1,  3|6M15
+952|Grande Place|133|Bren||Jean Bonne|ouvrier f.|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+953|Grande Place|133|Niézon||Jean|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+954|Grande Place|133|Godon||Claude|ouvrier en soie|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+955|Grande Place|133|Madelon||Antoine|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+956|Grande Place|133|Longbois||Cécile|domestique|fille|40|NA|3, 5,25, 1, 1,  2|6M15
+957|Grande Place|134|Reiff||Michel|ouvrier f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+958|Grande Place|134|Reiff|Lavigne|Marie|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+959|Grande Place|134|Reiff||Jean|ouvrier f.|garçon|14,5|NA|2, 2,20, 7, 1,  3|6M15
+960|Grande Place|134|Reiff||Augustine Maria|NA|fille|17 mois|NA||6M15
+961|Grande Place|135|Edouard||Jean|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+962|Grande Place|135|Edouard|Ronlen|Margueritte|ouvrière f.|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+963|Grande Place|135|Robier||Louise|ouvrière f.|fille|17|fille de la précédente|2, 2,20, 7, 1,  3|6M15
+964|Grande Place|135|Robier||Félicité|ouvrière f.|fille|16|fille de la précédente|2, 2,20, 7, 1,  3|6M15
+965|Grande Place|135|Edouard||Rosalie|ouvrière f.|fille|6|fille des précédents|2, 2,20, 7, 1,  3|6M15
+966|Grande Place|135|Bignes||André|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+967|Grande Place|136|Dupon||Julien|ouvrier f.|homme marié|56|NA|2, 2,20, 7, 1,  3|6M15
+968|Grande Place|136|Dupon|Gautillon|Jeanne Marie|ouvrière f.|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+969|Grande Place|136|Nicolas||Claude|marinier|homme marié|25|NA|3, 6, 4,98, 1,  8|6M15
+970|Grande Place|136|Nicolas|Verne|Etiennette|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+971|Grande Place|136|Muscat||Françoise|ouvrière en soie|femme mariée|23|NA|2, 2,20, 7, 1,  3|6M15
+972|Grande Place|137|Ollagnier||Jean|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+973|Grande Place|137|Ollagnier|Seignord|Suzanne|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+974|Grande Place|137|Ollagnier||François|NA|garçon|11|NA||6M15
+975|Grande Place|137|Ollagnier||Antoine|NA|garçon|6,5|NA||6M15
+976|Grande Place|137|Ollagnier||Jean|NA|garçon|4|NA||6M15
+977|Grande Place|138|Guillarmen||François|ouvrier f.|homme marié|48|NA|2, 2,20, 7, 1,  3|6M15
+978|Grande Place|138|Guillarmen|Monnaton|Fleury|ouvrière f.|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+979|Grande Place|138|Guillarmen||Jean|NA|garçon|14|NA||6M15
+980|Grande Place|138|Guillarmen||Petrus|NA|garçon|12|NA||6M15
+981|Grande Place|138|Guillarmen||Marie Claudine|NA|fille|10|NA||6M15
+982|Grande Place|138|Guillarmen||André|NA|garçon|3|NA||6M15
+983|Grande Place|139|Samber||Etienne|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+984|Grande Place|139|Samber|Rigoltier|Marie Hipolite|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+985|Grande Place|139|Samber||Jenny|NA|fille|10|NA||6M15
+986|Grande Place|139|Samber||Victorine|NA|fille|6|NA||6M15
+987|Grande Place|139|Samber||Louise|NA|fille|1|NA||6M15
+988|Grande Place|139|Faure||Barthelemy|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+989|Grande Place|140|Armand||Babé|ouvrière en soie|fille|23|NA|2, 2,20, 7, 1,  3|6M15
+990|Grande Place|141|Fonbonne||Pierre|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+991|Grande Place|141|Fonbonne|Germain|Marie|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+992|Grande Place|141|Fonbonne||Marie|NA|fille|3|NA||6M15
+993|Grande Place|142|Romberot||Baptiste|ouvrier en soie|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+994|Grande Place|143|Compagnon||André|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+995|Grande Place|144|Chalamel||Jean|ouvrier en soie|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+996|Grande Place|145|Robert||Joseph Alexandre|ouvrier f.|homme marié|29|NA|2, 2,20, 7, 1,  3|6M15
+997|Grande Place|145|Robert|Ducre|Catherine|ouvrière f.|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+998|Grande Place|145|Robert||Catherine|NA|fille|1,5|NA||6M15
+999|Grande Place|146|Valon|Bouvanier|Louise|ouvrière en soie|femme mariée|41|NA|2, 2,20, 7, 1,  3|6M15
+1000|Grande Place|147|Bon||Gaétan|ouvrier f.|homme marié|45|NA|2, 2,20, 7, 1,  3|6M15
+1001|Grande Place|147|Bon|Bonin|Marie|ouvrière f.|femme mariée|48|NA|2, 2,20, 7, 1,  3|6M15
+1002|Grande Place|148|Banger||Xavier|ouvrier en soie|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1003|Grande Place|149|Tribodin||Antoine|ouvrier en soie|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+1004|Grande Place|149|Tribodin||Thomas|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1005|Grande Place|150|veuve Bonin||Thérèse|sans profession|veuve|73|mère de la précédente|4,98, 3,98, 98,  1|6M15
+1006|Grande Place|151|Reignier||Jean Pierre|ouvrier f.|homme marié|52|NA|2, 2,20, 7, 1,  3|6M15
+1007|Grande Place|151|Reigner|Grand|Mariette|ouvrière f.|femme mariée|60|NA|2, 2,20, 7, 1,  3|6M15
+1008|Grande Place|151|Reigner||Anthelme|NA|garçon|17|fils du précédent||6M15
+1009|Grande Place|151|Meunier||Jeannette|ouvrière en soie|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+1010|Grande Place|151|Meunier||Mariette|ouvrière en soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1011|Grande Place|152|Bois||Louis|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+1012|Grande Place|152|Bois|Vacher|Marie|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1013|Grande Place|152|Bois||Charles|NA|garçon|4|jumeau ; fils du précédent||6M15
+1014|Grande Place|152|Bois||Alexandrine|NA|fille|4|jumeau ; fille du précédent||6M15
+1015|Grande Place|152|Bois||Adelaide|NA|fille|2|fille du précédent||6M15
+1016|Grande Place|152|Moriaz||François|ouvrier en soie|garçon|28|NA|2, 2,20, 7, 1,  3|6M15
+1017|Grande Place|152|Rendu||Edouard|ouvrier en soie|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+1018|Grande Place|152|Hutin||Marie|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+1019|Grande Place|153|veuve Boirot|Garnier|Marie|lingère|veuve|50|NA|3, 5,20, 4, 1,  1|6M15
+1020|Grande Place|153|Boirot||Fortune (?)|NA|garçon|12|NA||6M15
+1021|Grande Place|154|Douar||George|ouvrier en soie|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+1022|Grande Place|154|Douar|Dare|Margueritte|ouvrière en soie|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+1023|Grande Place|154|Douar||François Marie|NA|garçon|2|NA||6M15
+1024|Grande Place|154|Douar||Marie Etiennette|NA|fille|6 mois|NA||6M15
+1025|Grande Place|154|Boucher||Pascal|ouvrier f.|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+1026|Grande Place|155|Solary||Colette|dévideuse|fille|36|NA|2, 2,20, 7, 1,  3|6M15
+1027|Grande Place|155|Cazare||Colette|dévideuse|fille|57|NA|2, 2,20, 7, 1,  3|6M15
+1028|Grande Place|156|Magnin||Anthelme|ouvrier f.|homme marié|27|Le. M. Sarsay (?)|2, 2,20, 7, 1,  3|6M15
+1029|Grande Place|157|Magnin|Berroué|Adrienne|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1030|Grande Place|157|Magnin||Jean Marie|NA|garçon|18 mois|NA||6M15
+1031|Grande Place|157|Magnin||Rosalie|NA|fille|4 mois|NA||6M15
+1032|Grande Place|158|Teston||Brunot|ouvrier f.|homme marié|26|NA|2, 2,20, 7, 1,  3|6M15
+1033|Grande Place|158|Teston|Pardon|Benoitte|ouvrière f.|femme mariée|27|NA|2, 2,20, 7, 1,  3|6M15
+1034|Grande Place|158|Rusau||Romain|apprenti|garçon|17|neveu du précédent|4,96,98,98,60,  1|6M15
+1035|Grande Place|158|Tournier||Célestine|ouvrière en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1036|Grande Place|159|Nicolas||Jean François|ouvrier f.|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+1037|Grande Place|160|Armand||Jean Baptiste|ouvrier f.|garçon|29|NA|2, 2,20, 7, 1,  3|6M15
+1038|Grande Place|160|Armand||Jean François|ouvrier f.|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1039|Grande Place|161|Vachery||Pierre|cafetier|homme marié|35|NA|3, 5, 1, 2, 1,  4|6M15
+1040|Grande Place|161|Vachery|Bidon|Pierrette|cafetière|femme mariée|25|NA|3, 5, 1, 2, 1,  4|6M15
+1041|Grande Place|161|Vachery||Claude|NA|garçon|4,5|NA||6M15
+1042|Grande Place|161|Blanc||(Ngène) Auguste|garçon de caffé|garçon|22|NA|3, 5, 1, 2, 1,  8|6M15
+1043|Grande Place|161|Vacher||Marie|domestique|fille|21|NA|3, 5,25, 1, 1,  2|6M15
+1044|Grande Place|162|Delany||Philippe|pharmacien|homme marié|26|M(dr) Laval n°19|3, 4,55, 1, 1,  1|6M15
+1045|Grande Place|162|Delany|Simone|Elisa|NA|femme mariée|26|NA||6M15
+1046|Grande Place|162|Roubaud||Eugène|élève pharmacien|garçon|21|NA|3, 4,55, 1, 1,  3|6M15
+1047|Grande Place|162|Sigaud||Casimir|élève pharmacien|garçon|19|NA|3, 4,55, 1, 1,  3|6M15
+1048|Grande Place|163|Robin||Laurent|C. B. de tabac|homme marié|30|NA|2, 2, 3, 1|6M15
+1049|Grande Place|163|Robin|Boncher|Jeanne|C. B. de tabac|femme mariée|25|NA|2, 2, 3, 1|6M15
+1050|Grande Place|164|Audibert||Anthelme|ouvrier f.|homme marié|69|NA|2, 2,20, 7, 1,  3|6M15
+1051|Grande Place|164|Audibert|Gibon|Catherine|ouvrière f.|femme mariée|68|NA|2, 2,20, 7, 1,  3|6M15
+1052|Grande Place|165|Audibert||Anne|ouvrier f.|homme marié|24|NA|2, 2,20, 7, 1,  3|6M15
+1053|Grande Place|165|Audibert|Marchand|Magdelaine Marie|ouvrière f.|femme mariée|19|NA|2, 2,20, 7, 1,  3|6M15
+1054|Grande Place|166|Amy||Antoine|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+1055|Grande Place|166|Amy|Majolet|Emilie|ouvrière f.|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+1056|Grande Place|166|Amy||Jean|NA|garçon|9|NA||6M15
+1057|Grande Place|166|Amy||Auguste|NA|garçon|4|NA||6M15
+1058|Grande Place|166|Ribeaud||Louis|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1059|Grande Place|166|Gonnes||Thérèse|ouvrière en soie|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+1060|Grande Place|167|veuve Ravier|née Félix|Jeanne|ouvrière en soie|veuve|45|NA|2, 2,20, 7, 1,  3|6M15
+1061|Grande Place|167|Thomas||Jean François|ouvrier en soie|garçon|35|NA|2, 2,20, 7, 1,  3|6M15
+1062|Grande Place|167|Vuillot||Joseph|ouvrier en soie|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+1063|Grande Place|167|Meunier||François|ouvrier en soie|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+1064|Grande Place|167|Bordes||Mathieu|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1065|Grande Place|168|Moyaz||Jean Marie|platrier|homme marié|31|Mon. Chaudomen|2, 3,80, 6, 1,  1|6M15
+1066|Grande Place|168|Moyaz|Mamier|Jeanne|ouvrière en soie|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1067|Grande Place|168|Moyaz||Marie Antoinette|NA|fille|8|NA||6M15
+1068|Grande Place|168|Moyaz||Gabriel|NA|garçon|7|NA||6M15
+1069|Grande Place|168|Moyaz||Claude Philippe|NA|garçon|5|NA||6M15
+1070|Grande Place|168|Moyaz||Suzette|NA|fille|2|NA||6M15
+1071|Grande Place|168|Pichon||Catherine|ouvrière en soie|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1072|Grande Place|169|Gauthier||Pierre|ouvrier teinturier|homme marié|41|NA|2, 2,20,98, 1, 17|6M15
+1073|Grande Place|169|Gauthier|Detras|Françoise|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+1074|Grande Place|170|veuve Chevelu|née Neroz|Jeanne Marie|ouvrière f.|veuve|55|NA|2, 2,20, 7, 1,  3|6M15
+1075|Grande Place|170|Tardy||NA|ouvrier en soie|garçon|67|NA|2, 2,20, 7, 1,  3|6M15
+1076|Grande Place|171|veuve Chaules|née Boiron|Pauline|ouvrière f.|veuve|66|NA|2, 2,20, 7, 1,  3|6M15
+1077|Grande Place|171|Chaules||Anthelme|ouvrier f.|fille|45|NA|2, 2,20, 7, 1,  3|6M15
+1078|Grande Place|171|Chaules||Mariette|ouvrière f.|fille|35|NA|2, 2,20, 7, 1,  3|6M15
+1079|Grande Place|171|Audenis||Jeny|ouvrière|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1080|Grande Place|171|Joly||Marguerite|ouvrière|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1081|Grande Place|172|Pegouse||François|ouvrier f.|homme marié|31|Mon. Balaffet|2, 2,20, 7, 1,  3|6M15
+1082|Grande Place|172|Pegouse|Varnay|Marie|ouvrière f.|femme mariée|21|NA|2, 2,20, 7, 1,  3|6M15
+1083|Grande Place|172|Pegouse||Julie|ouvrière f.|fille|9|NA|2, 2,20, 7, 1,  3|6M15
+1084|Grande Place|173|Cravotte||François|plieur|homme marié|66|NA|2, 2,20, 7, 1,  3|6M15
+1085|Grande Place|173|Cravotte|Domer|Pierrette|plieuse|femme mariée|62|NA|2, 2,20, 7, 1,  3|6M15
+1086|Grande Place|173|Cravotte||Jeanne Françoise|plieuse|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1087|Grande Place|174|Delastre||Pierre Jean|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+1088|Grande Place|174|Delastre|Audibert|Marguerite|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+1089|Grande Place|174|Delastre||Auguste|NA|garçon|7|NA||6M15
+1090|Grande Place|174|Delastre||Tony|NA|garçon|4,5|NA||6M15
+1091|Grande Place|174|Valen||Marie|ouvrière en soie|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1092|Grande Place|175|Mandin||Antoine|cafetier|homme marié|39|NA|3, 5, 1, 2, 1,  4|6M15
+1093|Grande Place|175|Mandin|Francose|Jeanne|cafetière|femme mariée|39|NA|3, 5, 1, 2, 1,  4|6M15
+1094|Grande Place|175|Mandin||Jean|NA|garçon|15|NA||6M15
+1095|Grande Place|175|Mandin||Fulcran|NA|garçon|14|NA||6M15
+1096|Grande Place|175|Mandin||Adrienne|NA|fille|9|NA||6M15
+1097|Grande Place|175|Mandin||Jenny|NA|fille|7|NA||6M15
+1098|Grande Place|175|Mandin||Victor|NA|garçon|4|NA||6M15
+1099|Grande Place|176|Audenis||Philippe|cafetier|homme marié|44|NA|3, 5, 1, 2, 1,  4|6M15
+1100|Grande Place|176|Audenis|Magenson|Claudine|cafetière|femme mariée|36|NA|3, 5, 1, 2, 1,  4|6M15
+1101|Grande Place|176|Audenis||Jean Marie|NA|fille|19|NA||6M15
+1102|Grande Place|176|Audenis||Jean|NA|garçon|14|NA||6M15
+1103|Grande Place|176|Audenis||Jean Baptiste|NA|garçon|10|NA||6M15
+1104|Grande Place|176|Audenis||Jacques|NA|garçon|4,5|NA||6M15
+1105|Grande Place|176|Magenson||Claude|tailleur|garçon|19|neveu de la précédente|2, 2, 4, 1, 1,  1|6M15
+1106|Grande Place|177|Gordier||Michel|garçon cafetier|garçon|19|autres (Savoie)|3, 5, 1, 2, 1,  8|6M15
+1107|Grande Place|177|Didier||Jean|garçon cafetier|garçon|17|autres (Savoie)|3, 5, 1, 2, 1,  8|6M15
+1108|Grande Place|178|Auger||Viral|boulanger|homme marié|42|Mon. de Mme Connite n°21|2, 2, 1, 3, 1,  1|6M15
+1109|Grande Place|178|Auger|Patin|Annette|boulangère|femme mariée|42|NA|2, 2, 1, 3, 1,  1|6M15
+1110|Grande Place|178|Auger||Jean Pierre|dessinateur|garçon|20|NA|3, 5,35, 4, 1, 11|6M15
+1111|Grande Place|178|Auger||Benoit|NA|garçon|8|NA||6M15
+1112|Grande Place|179|Chevallier||François|garçon boulanger|garçon|22|NA|3, 4, 1, 2, 1,  2|6M15
+1113|Grande Place|180|Bathu||Jean François|cabaretier|homme marié|34|NA|3, 5, 1, 2, 1,  4|6M15
+1114|Grande Place|180|Bathu|Péchu|Antoinette|cabaretière|femme mariée|36|NA|3, 5, 1, 2, 1,  4|6M15
+1115|Grande Place|181|Sarcon||Etienne|propriétaire|homme marié|55|Pre sur la place n°18|4,98, 1,98, 98,  1|6M15
+1116|Grande Place|181|Sarcon|Louis|Jeanne|propriétaire|femme mariée|55|NA|4,98, 1,98, 98,  1|6M15
+1117|Grande Place|182|Ferrier||André|revend. sur place|homme marié|50|NA|3, 4, 3, 1|6M15
+1118|Grande Place|182|Ferrier|Revolaz|Marie|revend. sur place|femme mariée|35|NA|3, 4, 3, 1|6M15
+1119|Grande Place|182|Ferrier||Marie|NA|fille|6|NA||6M15
+1120|Grande Place|182|Ferrier||Joseph|NA|garçon|3|NA||6M15
+1121|Grande Place|183|Vuchard||Antoine|ouvrier f.|homme marié|48|Mon de Mme Poutre n°21|2, 2,20, 7, 1,  3|6M15
+1122|Grande Place|183|Vuchard|Defanis|(Aimé)|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+1123|Grande Place|183|Vuchard||Jenny|ouvrière f.|fille|11|NA|2, 2,20, 7, 1,  3|6M15
+1124|Grande Place|183|Vuchard||Jean Philisen|NA|garçon|10|NA||6M15
+1125|Grande Place|183|Vuchard||Honorine|NA|fille|8|NA||6M15
+1126|Grande Place|183|Merey||Julie|ouvrière f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1127|Grande Place|183|Berthau||Jean|ouvrière en soie|garçon|42|NA|2, 2,20, 7, 1,  3|6M15
+1128|Grande Place|183|Ajas||Pierre|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1129|Grande Place|184|veuve Camus|née Audibon|Benoitte|ouvrière f.|veuve|50|NA|2, 2,20, 7, 1,  3|6M15
+1130|Grande Place|184|Camus||Claude|ouvrier f.|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1131|Grande Place|184|Camus||Jules|ouvrier f.|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1132|Grande Place|184|Cony||Alexandre|ouvrier f.|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+1133|Grande Place|184|Iderla||Jean|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1134|Grande Place|184|Serre||(Martin)|ouvrier en soie|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+1135|Grande Place|184|Serre|Lavest|Marie|ouvrière en soie|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1136|Grande Place|184|Serre||Antoinette|NA|fille|7|NA||6M15
+1137|Grande Place|184|Lavest||Jeannette|ouvrière f.|fille|36|NA|2, 2,20, 7, 1,  3|6M15
+1138|Grande Place|185|Roux||Hubert Antoine|ouvrier f.|veuve|46|NA|2, 2,20, 7, 1,  3|6M15
+1139|Grande Place|185|Vivier||Claude|ouvrier|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1140|Grande Place|185|Annequin||Jean Marie|ouvrier|garçon|35|NA|2, 2,20, 7, 1,  3|6M15
+1141|Grande Place|185|Meunier||(Baptiste)|ouvrier|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+1142|Grande Place|186|Camus||Claude|ouvrier f.|veuf|74|NA|2, 2,20, 7, 1,  3|6M15
+1143|Grande Place|186|Gaillard||Marie|ouvrière|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+1144|Grande Place|186|Montrer||Benoitte|ouvrière|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1145|Grande Place|186|Billez||Eliza|ouvrière|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+1146|Grande Place|187|Demard||Jean Antoine|ouvrier f.|homme marié|51|NA|2, 2,20, 7, 1,  3|6M15
+1147|Grande Place|187|Demard|Martin|Marie|ouvrière f.|femme mariée|41|NA|2, 2,20, 7, 1,  3|6M15
+1148|Grande Place|187|Demard||Pierre Louis|ouvrier f.|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1149|Grande Place|187|Rey||Pierre|ouvrier|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+1150|Grande Place|187|Bouchard||Barthélémy|ouvrier|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+1151|Grande Place|188|Morel||Jean|ouvrier f.|homme marié|78|NA|2, 2,20, 7, 1,  3|6M15
+1152|Grande Place|188|Morel|Fournion|Pierrette|ouvrière f.|femme mariée|73|NA|2, 2,20, 7, 1,  3|6M15
+1153|Grande Place|188|femme Cronchy|née Morel|Philiberthe|tordeuse|femme mariée|43|NA|2, 2,20, 7, 1,  3|6M15
+1154|Grande Place|188|Cronchy||Jean|NA|garçon|16|fils de la précédente, aux aliénés à Lyon||6M15
+1155|Grande Place|188|Cronchy||Henry|ouvrier|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+1156|Grande Place|188|Curbillon||Jean Baptiste|ouvrier|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1157|Grande Place|189|Cuchez||Louis|ouvrier f.|homme marié|47|NA|2, 2,20, 7, 1,  3|6M15
+1158|Grande Place|189|Cuchez|Proty|Etiennette|ouvrière f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+1159|Grande Place|189|Cuchez||Elodine|ouvrière f.|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+1160|Grande Place|189|Cuchez||Jeanne|ouvrière f.|fille|15|NA|2, 2,20, 7, 1,  3|6M15
+1161|Grande Place|189|Cuchez||Adrienne|ouvrière f.|fille|9|NA|2, 2,20, 7, 1,  3|6M15
+1162|Grande Place|189|Bompart||Frosine|ouvrière f.|fille|34|de Bardanche (?) (Savoie)|2, 2,20, 7, 1,  3|6M15
+1163|Grande Place|190|Mollard||Joseph|ouvrier f.|homme marié|28|Mon. Cazaux n°21 B|2, 2,20, 7, 1,  3|6M15
+1164|Grande Place|190|Mollard|Lapierre|Lucy|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1165|Grande Place|191|veuve Reynaud|née Ainard|Catherine|ouvrière f.|veuve|49|NA|2, 2,20, 7, 1,  3|6M15
+1166|Grande Place|191|Reynaud||Antoine|ouvrier f.|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1167|Grande Place|191|Reynaud||Jean Baptiste|cartonnier|garçon|21|NA|2, 2,11,90, 1,  1|6M15
+1168|Grande Place|191|Reynaud||Laurence|ouvrière|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1169|Grande Place|191|Reynaud||Jeny|ouvrière|fille|8|NA|2, 2,20, 7, 1,  3|6M15
+1170|Grande Place|191|Reynaud||Théodore|ouvrier|garçon|10|NA|2, 2,20, 7, 1,  3|6M15
+1171|Grande Place|191|Olagnier||Elizabeth|ouvrière|fille|40|NA|2, 2,20, 7, 1,  3|6M15
+1172|Grande Place|192|Veuillon||Catherine|ouvrière f.|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+1173|Grande Place|193|Guinard||Jean|ouvrier cordier|homme marié|41|NA|2, 2,31, 1, 1,  1|6M15
+1174|Grande Place|193|Guinard|Janin|Françoise|dévideuse|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1175|Grande Place|193|Guinard||Anays|NA|fille|3|NA||6M15
+1176|Grande Place|193|Guinard||Claude|NA|fille|1|NA||6M15
+1177|Grande Place|193|Micollier||Mariette|dévideuse|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1178|Grande Place|193|Meyrieux||Marianne|dévideuse|fille|32|NA|2, 2,20, 7, 1,  3|6M15
+1179|Grande Place|194|Echallier||Jacques|cabaretier|homme marié|32|NA|3, 5, 1, 2, 1,  4|6M15
+1180|Grande Place|194|Echallier|Amiller|Françoise|cabaretière|femme mariée|32|NA|3, 5, 1, 2, 1,  4|6M15
+1181|Grande Place|194|Echallier||Félix|NA|garçon|8|NA||6M15
+1182|Grande Place|194|Echallier||Pierre|NA|garçon|5|NA||6M15
+1183|Grande Place|195|Madinier||Joseph|menuisier|homme marié|39|Mon. Laurent n°22|2, 2,25, 7, 1,  2|6M15
+1184|Grande Place|195|Madinier|Prot|Joséphine|dévideuse|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+1185|Grande Place|195|Robin||Catherine|dévideuse|fille|15|la nièce de la précédente|2, 2,20, 7, 1,  3|6M15
+1186|Grande Place|195|Putan||Julie|dévideuse|fille|17|Petit Bornan (Savoie)|2, 2,20, 7, 1,  3|6M15
+1187|Grande Place|195|Gaillard||Marie|dévideuse|fille|15|Petit Bornan (Savoie)|2, 2,20, 7, 1,  3|6M15
+1188|Grande Place|196|Ferrand||Antoine|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1189|Grande Place|196|Ferrand|Demiras|Françoise|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+1190|Grande Place|196|Ferrand||Marthe|NA|fille|8|NA||6M15
+1191|Grande Place|196|Ferrand||Etiennette Elizabeth|NA|fille|4|NA||6M15
+1192|Grande Place|196|Ferrand||Jeanne Joséphine|NA|fille|15 mois|NA||6M15
+1193|Grande Place|196|veuve Ferrand|née Gayet|Madelaine|NA|veuve|66|NA||6M15
+1194|Grande Place|196|Garnaudier||Marie|ouvrière|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1195|Grande Place|197|Champ||Barthélémy|ouvrier f.|homme marié|26|NA|2, 2,20, 7, 1,  3|6M15
+1196|Grande Place|197|Champ|Petitjean|Claudine|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+1197|Grande Place|197|Laporte||Cécile|cannetière|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+1198|Grande Place|198|Vital||Antoine|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1199|Grande Place|198|Vital|Biard|Victoire|ouvrière f.|femme mariée|31|NA|2, 2,20, 7, 1,  3|6M15
+1200|Grande Place|198|Vital||Marie Mariette|NA|fille|5|NA||6M15
+1201|Grande Place|198|Vital||Marie Augustine|NA|fille|4|NA||6M15
+1202|Grande Place|199|Manban||Antoine|ouvrier f.|veuf|64|NA|2, 2,20, 7, 1,  3|6M15
+1203|Grande Place|199|Guillez||Marie|domestique|fille|65|NA|3, 5,25, 1, 1,  2|6M15
+1204|Grande Place|199|Arniebolioz||Louis|ouvrier f.|garçon|22|Turin (Piémont)|2, 2,20, 7, 1,  3|6M15
+1205|Grande Place|199|Cour||Jean|ouvrier f.|garçon|28|Turin (Piémont)|2, 2,20, 7, 1,  3|6M15
+1206|Grande Place|199|Brun||Jacques|ouvrier f.|garçon|24|Turin (Piémont)|2, 2,20, 7, 1,  3|6M15
+1207|Grande Place|199|Michel||Laurent Jean|ouvrier f.|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1208|Grande Place|200|Vidal||Jeannette|tailleuse|fille|32|NA|2, 2, 4, 1, 1,  1|6M15
+1209|Grande Place|201|Colombin||Cristophe|ouvrier f.|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+1210|Grande Place|201|Colombin|Poncet|Victoire|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1211|Grande Place|201|Pecru||Véronique|NA|fille|9|nièce et orpheline des précédents||6M15
+1212|Grande Place|201|Poncet||Cecile|ouvrière|fille|20|Suse (Savoie)|2, 2,20, 7, 1,  3|6M15
+1213|Grande Place|201|Poncet||Madelaine|ouvrière|fille|18|Suse (Savoie)|2, 2,20, 7, 1,  3|6M15
+1214|Grande Place|201|Naly||Marie|ouvrière|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+1215|Grande Place|202|Bonet||NA|ouvrier|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+1216|Grande Place|202|femme Bonet||NA|ouvrière|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1217|Grande Place|203|Lautan||Jean|danseur au théâtre|homme marié|33|NA|3, 5,15, 1, 1,  2|6M15
+1218|Grande Place|203|Lautan|Cabardel|Toinette|tailleuse|femme mariée|28|NA|2, 2, 4, 1, 1,  1|6M15
+1219|Grande Place|204|Duvin||Jeanne|cannetière|fille|50|Mon. Mulatton n°22|2, 2,20, 7, 1,  3|6M15
+1220|Grande Place|204|Duvin||Louis|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1221|Grande Place|205|Poncez||Véronique|ouvrière en soie|fille|38|NA|2, 2,20, 7, 1,  3|6M15
+1222|Grande Place|206|Desvignes||André|marinier|homme marié|60|NA|3, 6, 4,98, 1,  8|6M15
+1223|Grande Place|206|Desvignes|Narbonnes|Elizabeth|cabaretière|femme mariée|45|NA|3, 5, 1, 2, 1,  4|6M15
+1224|Grande Place|206|Desvignes||Antoine Alexandre|2e génie|garçon|28|NA|3, 5,50, 1, 1,  2|6M15
+1225|Grande Place|207|Poncez||Jean|navettier|homme marié|39|NA||6M15
+1226|Grande Place|207|Poncez|Gonnes|Anne|ouvrière f.|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+1227|Grande Place|207|Poncez||Jean|NA|garçon|15|NA||6M15
+1228|Grande Place|207|Poncez||Benoitte|NA|fille|12|NA||6M15
+1229|Grande Place|208|Delilier||Claude|Md mercier|homme marié|43|NA|3, 4,10, 1, 1,  1|6M15
+1230|Grande Place|208|Delilier|Ponnet|Marie|idem (Mde)|femme mariée|42|NA||6M15
+1231|Grande Place|208|Delilier||Marie|NA|fille|15|NA||6M15
+1232|Grande Place|209|Louis||Michel|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1233|Grande Place|209|Louis|Vassera|Jeanne|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1234|Grande Place|209|Louis||Edouard|NA|garçon|7|NA||6M15
+1235|Grande Place|209|Louis||Laurence|NA|fille|5|NA||6M15
+1236|Grande Place|209|Louis||Jean|NA|garçon|4|NA||6M15
+1237|Grande Place|209|Tardive||Antoine|ouvrier|garçon|29|NA|2, 2,20, 7, 1,  3|6M15
+1238|Grande Place|209|Corneloup||Claude|ouvrier|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+1239|Grande Place|210|Comte||Jean Baptiste|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+1240|Grande Place|210|Comte|Denis|Jeanne|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+1241|Grande Place|210|Comte||Clara|NA|fille|8,5|NA||6M15
+1242|Grande Place|210|Comte||Elisa|NA|fille|7,5|NA||6M15
+1243|Grande Place|210|Comte||(?)|NA|fille|5,5|NA||6M15
+1244|Grande Place|210|Comte||Pierre|NA|garçon|2,5|NA||6M15
+1245|Grande Place|210|Gervais||Pierre|ouvrier|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+1246|Grande Place|210|Ragus||Claude|ouvrier|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1247|Grande Place|211|Chanel||Jean|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+1248|Grande Place|211|Chanel|Martinon|Louise Fraçoise|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1249|Grande Place|211|Chanel||Caroline|NA|fille|7|NA||6M15
+1250|Grande Place|211|Chanel||Jean Marie|NA|garçon|4|NA||6M15
+1251|Grande Place|211|Colomb||Marie|ouvrière en soie|fille|20|nièce de la précédente|2, 2,20, 7, 1,  3|6M15
+1252|Grande Place|212|Mottin||André|ouvrier f.|homme marié|52|NA|2, 2,20, 7, 1,  3|6M15
+1253|Grande Place|212|Mottin|Giraud|Antoinette|ouvrière f.|femme mariée|51|NA|2, 2,20, 7, 1,  3|6M15
+1254|Grande Place|212|Mottin||Pierre Marie|ouvrier f.|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1255|Grande Place|212|Mottin||Benoitte|ouvrière f.|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+1256|Grande Place|212|Mottin||Grégoire (Clerc)|commis|garçon|20|NA|3, 5,31,98,40,  1|6M15
+1257|Grande Place|213|Ruez||Jean Marie|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+1258|Grande Place|213|Ruez|Bonnet|Caroline|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1259|Grande Place|214|Pons||Pierre|ouvrier|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+1260|Grande Place|214|Pons|Groselle|Fauchette|ouvrière|femme mariée|27|NA|2, 2,20, 7, 1,  3|6M15
+1261|Grande Place|215|Rosser||Germain|ouvrier f.|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+1262|Grande Place|215|Rosser|Guillon|Sophie|ouvrière f.|femme mariée|31|NA|2, 2,20, 7, 1,  3|6M15
+1263|Grande Place|215|Rosser||Annette|NA|fille|6|NA||6M15
+1264|Grande Place|215|Rosser||Germain|NA|garçon|6 mois|NA||6M15
+1265|Grande Place|215|Rosser||Benoit|apprenti|garçon|21|NA|4,96,98,98,60,  1|6M15
+1266|Grande Place|215|Rosser||Felix|apprenti|garçon|21|NA|4,96,98,98,60,  1|6M15
+1267|Grande Place|216|Reynaud||Jean|ouvrier f.|homme marié|66|NA|2, 2,20, 7, 1,  3|6M15
+1268|Grande Place|216|Reynaud|Guetune|Marie|ouvrière f.|femme mariée|60|NA|2, 2,20, 7, 1,  3|6M15
+1269|Grande Place|216|Silver||Jean Marie|ouvrier en soie|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+1270|Grande Place|216|Chevrier||Pierre Noël Antoine|ouvrier en soie|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1271|Grande Place|217|Felix||Jacques|ouvrier f.|homme marié|49|NA|2, 2,20, 7, 1,  3|6M15
+1272|Grande Place|217|Felix|Brossot|Marie|ouvrière f.|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+1273|Grande Place|217|Felix||Thomas|ouvrier f.|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+1274|Grande Place|217|Felix||Fannie|NA|fille|13|NA||6M15
+1275|Grande Place|217|Felix||Louise|NA|fille|11|NA||6M15
+1276|Grande Place|217|Felix||Charles|NA|garçon|8|NA||6M15
+1277|Grande Place|217|Bourdelin||Barthelemy|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1278|Grande Place|218|Darnon||Jean Pierre|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1279|Grande Place|218|Darnon|Renaud|Jeanne|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+1280|Grande Place|218|Darnon||Jean Marie|NA|garçon|7|NA||6M15
+1281|Grande Place|218|Darnon||Caroline|NA|fille|5|NA||6M15
+1282|Grande Place|218|Renaud||Claire|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1283|Grande Place|218|Regis||François|ouvrier|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1284|Grande Place|219|Poneet||Grégoire|ouvrier f.|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+1285|Grande Place|219|Poneet|Maeler|Henriette|ouvrière f.|femme mariée|27|NA|2, 2,20, 7, 1,  3|6M15
+1286|Grande Place|219|Garin||Henriette|NA|fille|8|filieule et orpheline des précédents||6M15
+1287|Grande Place|219|Berthet||Jenny|ouvrière f.|fille|26|NA|2, 2,20, 7, 1,  3|6M15
+1288|Grande Place|220|Verner||Jean|cabaretier caffetier|homme marié|34|de la Saxe|3, 5, 1, 2, 1,  4|6M15
+1289|Grande Place|220|Verner|Carabon|Françoise|cabaretière caffetière|femme mariée|30|NA|3, 5, 1, 2, 1,  4|6M15
+1290|Grande Place|221|Castillon||Jean|perruquier|homme marié|25|NA|2, 2,30, 4, 1,  4|6M15
+1291|Grande Place|221|Castillon|Lambert|Clemence|NA|femme mariée|21|NA||6M15
+1292|Grande Place|221|Julieron||Jean François|ouvrier perruquier|garçon|20|NA|2, 2,30, 4, 1,  4|6M15
+1293|Grande Place|222|Rampon||Pierre|épicier|homme marié|47|NA|3, 4, 1,90, 1,  2|6M15
+1294|Grande Place|222|Rampon|Meuren|Catherine|épicière|femme mariée|44|NA|3, 4, 1,90, 1,  2|6M15
+1295|Grande Place|223|Bonnalez||Jean Louis|ouvrier f.|homme marié|38|NA|2, 2,20, 7, 1,  3|6M15
+1296|Grande Place|223|Bonnalez|Piemain (illisible)|Jeanne|ouvrière f.|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+1297|Grande Place|223|Bonnalez||Joséphine|NA|fille|9|NA||6M15
+1298|Grande Place|223|Bonnalez||Adelaïde Catherine|NA|fille|5|NA||6M15
+1299|Grande Place|223|Bonnalez||François|NA|garçon|2|NA||6M15
+1300|Grande Place|223|Bonnalez||Jean Pierre|NA|garçon|2 mois|NA||6M15
+1301|Grande Place|223|Schleff||Jean|ouvrier f.|garçon|31|Apenzel (Suisse)|2, 2,20, 7, 1,  3|6M15
+1302|Grande Place|224|Vignard||Rémi|ouvrier f.|homme marié|63|NA|2, 2,20, 7, 1,  3|6M15
+1303|Grande Place|224|Vignard|Seve|Jeanne Marie|ouvrière f.|femme mariée|41|NA|2, 2,20, 7, 1,  3|6M15
+1304|Grande Place|224|Chevassu||Joséphine|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1305|Grande Place|225|Gouroux||Jean|portier|homme marié|53|NA|5,25, 2, 2|6M15
+1306|Grande Place|225|Gouroux|Rival|Rose|portière|femme mariée|42|NA|5,25, 2, 2|6M15
+1307|Grande Place|225|Gouroux||Marte Madeleine|dévideuse|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1308|Grande Place|225|Gouroux||François|ouvrier en soie|garçon|18|NA|2, 2,20, 7, 1,  3|6M15
+1309|Grande Place|225|Gouroux||Sezarine|ouvrière en soie|fille|16|NA|2, 2,20, 7, 1,  3|6M15
+1310|Grande Place|225|Gouroux||Adelle|NA|fille|3|NA||6M15
+1311|Grande Place|225|Gouroux||Louis|NA|garçon|2|NA||6M15
+1312|Grande Place|226|Thivers||Antoine|ouvrier f.|homme marié|41|NA|2, 2,20, 7, 1,  3|6M15
+1313|Grande Place|226|Thivers|Monin|Jeanne|ouvrière f.|femme mariée|41|NA|2, 2,20, 7, 1,  3|6M15
+1314|Grande Place|226|Belmon||Mariette|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1315|Grande Place|226|femme Burel|née Garioux|Mariette|ouvrière en soie|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1316|Grande Place|227|André||Antoine|ouvrier f.|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+1317|Grande Place|227|André|Bisson|Charlotte|ouvrière f.|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+1318|Grande Place|227|André||Marianne|NA|fille|13 mois|NA||6M15
+1319|Grande Place|227|Garnier||Marguerite|ouvrière|fille|26|de la Charité|2, 2,20, 7, 1,  3|6M15
+1320|Grande Place|228|Sabot||Jean Marie|ouvrier f.|homme marié|46|NA|2, 2,20, 7, 1,  3|6M15
+1321|Grande Place|228|Sabot||Marie Clémence|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+1322|Grande Place|228|Sabot||Françoise|ouvrière f.|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1323|Grande Place|228|Sabot||Henry|NA|garçon|7|NA||6M15
+1324|Grande Place|228|Sabot||Antoine|NA|garçon|4|NA||6M15
+1325|Grande Place|228|Lacroix||Alexandrine|ouvrière f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1326|Grande Place|229|Galet||Benoit|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+1327|Grande Place|229|Galet|Lagloniche|Pierrette|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+1328|Grande Place|229|Galet||Jean|NA|garçon|11|NA||6M15
+1329|Grande Place|229|Galet||Pierre|NA|garçon|8|NA||6M15
+1330|Grande Place|229|Couturier||Annette|ouvrière f.|fille|27|NA|2, 2,20, 7, 1,  3|6M15
+1331|Grande Place|229|Lever||Mariette|ouvrière f.|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+1332|Grande Place|230|St Maurice||Jacques François|ouvrier f.|homme marié|45|NA|2, 2,20, 7, 1,  3|6M15
+1333|Grande Place|230|St Maurice|Girard|Mariette|ouvrière f.|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+1334|Grande Place|230|St Maurice||Mariette|NA|fille|10|NA||6M15
+1335|Grande Place|230|St Maurice||Marie|NA|fille|9|NA||6M15
+1336|Grande Place|230|St Maurice||Zephirion|NA|garçon|15 mois|NA||6M15
+1337|Grande Place|230|Reybaud||Antoinette|ouvrière en soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1338|Grande Place|230|Reybaud||Mariette|ouvrière en soie|fille|24|NA|2, 2,20, 7, 1,  3|6M15
+1339|Grande Place|231|Clary||Jacques|ouvrier f.|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+1340|Grande Place|231|Clary|Rambaud|Philippe|ouvrière en soie|femme mariée|23|NA|2, 2,20, 7, 1,  3|6M15
+1341|Grande Place|231|Charpin||Jean|ouvrier en soie|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+1342|Grande Place|232|Podesta||Joseph|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+1343|Grande Place|232|Podesta|Barrot|Marguerite|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+1344|Grande Place|232|Podesta||Jean Marie|NA|garçon|7|NA||6M15
+1345|Grande Place|232|Podesta||Jeromine|NA|fille|1,5|NA||6M15
+1346|Grande Place|233|Giraud||Rodolphe|ouvrier f.|homme marié|42|NA|2, 2,20, 7, 1,  3|6M15
+1347|Grande Place|233|Giraud|Perain|Catherine|ouvrière f.|femme mariée|37|NA|2, 2,20, 7, 1,  3|6M15
+1348|Grande Place|233|Biche||Auguste|dessinateur|garçon|17|fils de la précédente|3, 5,35, 4, 1, 11|6M15
+1349|Grande Place|233|Ferrioz||Xavier|ouvrier en soie|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+1350|Grande Place|233|Galian||François|ouvrier en soie|garçon|48|NA|2, 2,20, 7, 1,  3|6M15
+1351|Grande Place|233|Perrodin||Hubert|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1352|Grande Place|233|Andriot||Vivant|ouvrier en soie|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1353|Grande Place|234|Bruer||Antoine|ouvrier f.|homme marié|25|NA|2, 2,20, 7, 1,  3|6M15
+1354|Grande Place|234|Bruer|Jeans|Benoite|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1355|Grande Place|234|Bruer||Joseph|ouvrier en soie|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1356|Grande Place|235|Place||François|ouvrier f. plieur|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+1357|Grande Place|235|Place|Berger|Joséphine|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1358|Grande Place|235|Place||Jean André|ouvrier f.|garçon|9|NA|2, 2,20, 7, 1,  3|6M15
+1359|Grande Place|235|Place||(?)|NA|garçon|5|NA||6M15
+1360|Grande Place|235|Place||Fany|NA|fille|2|NA||6M15
+1361|Grande Place|235|Place||Joséphine|NA|fille|12 mois|NA||6M15
+1362|Grande Place|235|Besson||Jean|ouvrier en soie|garçon|22|Sieur Jean Pinarol Savoie|2, 2,20, 7, 1,  3|6M15
+1363|Grande Place|235|Place||Claude|ouvrier en soie|garçon|18|neveu du précédent|2, 2,20, 7, 1,  3|6M15
+1364|Grande Place|236|Praz||François|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+1365|Grande Place|236|Praz|Barrié|Félicité|ouvrière f.|femme mariée|20|NA|2, 2,20, 7, 1,  3|6M15
+1366|Grande Place|236|Praz||Joséphine|NA|fille|6|NA||6M15
+1367|Grande Place|236|Praz||Rosalie|NA|fille|5|NA||6M15
+1368|Grande Place|236|Damon||Jean|ouvrier en soie|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+1369|Grande Place|236|Berthier||François|ouvrier en soie|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+1370|Grande Place|236|Bartier||Napoléon|ouvrier en soie|garçon|27|NA|2, 2,20, 7, 1,  3|6M15
+1371|Grande Place|236|Gatelen||Joseph|ouvrier en soie|garçon|27|Rumilli (Savoie)|2, 2,20, 7, 1,  3|6M15
+1372|Grande Place|237|Perry||Louis|ouvrier f.|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+1373|Grande Place|237|Perry|Bal|Françoise|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1374|Grande Place|237|Perry||Joseph|NA|garçon|7|NA||6M15
+1375|Grande Place|237|Meunier||Joseph|ouvrier en soie|garçon|40|NA|2, 2,20, 7, 1,  3|6M15
+1376|Grande Place|237|Couin||Alexandre|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1377|Grande Place|237|Desmoulins||Marius Célestin|ouvrier en soie|garçon|37|NA|2, 2,20, 7, 1,  3|6M15
+1378|Grande Place|238|Pré||François|ouvrier f.|homme marié|33|NA|2, 2,20, 7, 1,  3|6M15
+1379|Grande Place|238|Pré|Manissier|Agathe|ouvrière f.|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+1380|Grande Place|238|Cothard||Jean|ouvrier|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1381|Grande Place|239|Meurez||Nicolas|ouvrier f.|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+1382|Grande Place|240|Verand||Mariette|lingère|fille|28|NA|3, 5,20, 4, 1,  1|6M15
+1383|Grande Place|241|Poncet||Joseph Alexis|ouvrier f.|homme marié|61|NA|2, 2,20, 7, 1,  3|6M15
+1384|Grande Place|241|Poncet|Faconin|Joséphine|ouvrière f.|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+1385|Grande Place|242|Brisson||Jean Louis|ouvrier f.|homme marié|38|NA|2, 2,20, 7, 1,  3|6M15
+1386|Grande Place|242|Brisson|Monin|Mariette|ouvrière f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+1387|Grande Place|242|Brisson||Guillaume|NA|garçon|7|NA||6M15
+1388|Grande Place|242|Brisson||Pierrette|NA|fille|3|NA||6M15
+1389|Grande Place|242|Chameau||Pierre Auguste|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1390|Grande Place|243|Merlin||Arnaud|ouvrier f.|homme marié|70|NA|2, 2,20, 7, 1,  3|6M15
+1391|Grande Place|243|Merlin|Pitaval|Elizabeth|ouvrière f.|femme mariée|53|NA|2, 2,20, 7, 1,  3|6M15
+1392|Grande Place|243|Merlin||Françoise (Arnaude) Joséphine|ouvrière f.|fille|14|NA|2, 2,20, 7, 1,  3|6M15
+1393|Grande Place|243|Lassale||Marie|ouvrière en soie|fille|42|NA|2, 2,20, 7, 1,  3|6M15
+1394|Grande Place|243|Fleury||Louis|crochetteur|homme marié|48|NA||6M15
+1395|Grande Place|243|Julien||Paul Auguste|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1396|Grande Place|244|Françoise||Françoise|cannetière|fille|32|NA|2, 2,20, 7, 1,  3|6M15
+1397|Grande Place|245|veuve Diez|née Desaye|Françoise|dévideuse|veuve|72|NA|2, 2,20, 7, 1,  3|6M15
+1398|Grande Place|246|Pochet||Jean Joseph|ouvrier f.|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+1399|Grande Place|246|Pochet||Catherine|ouvrière f.|femme mariée|33|NA|2, 2,20, 7, 1,  3|6M15
+1400|Grande Place|247|Brian||Françoise|ouvrière f.|fille|28|NA|2, 2,20, 7, 1,  3|6M15
+1401|Grande Place|247|Brian||Laurentine|ouvrière f.|fille|5|fille de la précédente|2, 2,20, 7, 1,  3|6M15
+1402|Grande Place|248|femme Chiaffier|née Goury|Jeannette|ouvrière en soie|femme mariée|31|Albin (Savoie)|2, 2,20, 7, 1,  3|6M15
+1403|Grande Place|248|Chiaffier||Antoine|ouvrier en soie|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+1404|Grande Place|249|Carrier||Laurence|dévideuse|fille|26|NA|2, 2,20, 7, 1,  3|6M15
+1405|Grande Place|250|Fontaine||François|ancien charron|homme marié|72|NA|2, 2,70,98, 1,  1|6M15
+1406|Grande Place|250|Fontaine|Quettan|Marie|tordeuse|femme mariée|67|NA|2, 2,20, 7, 1,  3|6M15
+1407|Grande Place|251|Dayat||Benoitte|ouvrière f.|fille|35|NA|2, 2,20, 7, 1,  3|6M15
+1408|Grande Place|252|Sabatier||Joseph|cabaretier|homme marié|36|Mon. Laporte N° 24|3, 5, 1, 2, 1,  4|6M15
+1409|Grande Place|252|Sabatier|Paulin|Jeanne Marie|cabaretière|femme mariée|42|NA|3, 5, 1, 2, 1,  4|6M15
+1410|Grande Place|252|Chazal||Jeannette|domestique|fille|18|NA|3, 5,25, 1, 1,  2|6M15
+1411|Grande Place|252|Saulary||Antoine|ouvrier en soie|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+1412|Grande Place|252|Fauque||Jean Baptiste|ouvrier en soie|garçon|21|NA|2, 2,20, 7, 1,  3|6M15
+1413|Grande Place|252|Berger||Jean|ouvrier en soie|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1414|Grande Place|253|Guigue||Pierre|charcutier|homme marié|39|NA|2, 2, 1, 5, 1,  4 |6M15
+1415|Grande Place|253|Guigue|Bois|Lucresse|charcutière|femme mariée|37|NA|2, 2, 1, 5, 1,  4 |6M15
+1416|Grande Place|253|Guigue||Louise|NA|fille|9|NA||6M15
+1417|Grande Place|254|Cury||François|boulanger|homme marié|40|NA|2, 2, 1, 3, 1,  1|6M15
+1418|Grande Place|254|Cury|Glenard|Jeanne|boulangère|femme mariée|30|NA|2, 2, 1, 3, 1,  1|6M15
+1419|Grande Place|254|Franques||Antoine|garçon boulanger|garçon|40|NA|3, 4, 1, 2, 1,  2|6M15
+1420|Grande Place|255|Gardebois||Augustin|dégraisseur|homme marié|55|NA|2, 2,20, 7, 1,  3|6M15
+1421|Grande Place|255|Gardebois|Gauthier|Jenny|dégraisseuse|femme mariée|55|NA|2, 2,20, 7, 1,  3|6M15
+1422|Grande Place|256|Nicod||Antoine|portier|homme marié|41|NA|5,25, 2, 2|6M15
+1423|Grande Place|256|Nicod|Brogard|Marie Jeanne|NA|femme mariée|40|NA||6M15
+1424|Grande Place|256|Nicod||Rosalie|NA|fille|16|NA||6M15
+1425|Grande Place|256|Nicod||Gabriel|NA|garçon|9|NA||6M15
+1426|Grande Place|256|Nicod||Jean Baptiste|NA|garçon|5|NA||6M15
+1427|Grande Place|256|Nicod||Jean|NA|garçon|1,5|NA||6M15
+1428|Grande Place|257|Denay||François|ouvrier f.|homme marié|52|NA|2, 2,20, 7, 1,  3|6M15
+1429|Grande Place|257|Denay|Ribeaud|Catherine|ouvrière f.|femme mariée|50|NA|2, 2,20, 7, 1,  3|6M15
+1430|Grande Place|257|Denay||Louis|ouvrier f.|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1431|Grande Place|257|Denay||Vincent|ouvrier f.|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+1432|Grande Place|257|Denay||Pierre|ouvrier f.|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1433|Grande Place|257|Denay||Pierre Ugenre|ouvrier f.|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+1434|Grande Place|257|Denay||Jules|ouvrier f.|garçon|12|NA|2, 2,20, 7, 1,  3|6M15
+1435|Grande Place|258|Marthelin||Anthelme|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1436|Grande Place|258|Marthelin|Chanteur|Madelaine|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1437|Grande Place|258|Chevasson||Claude|ouvrier en soie|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+1438|Grande Place|258|Vivier||Jean Baptiste|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1439|Grande Place|258|Bruyas||Jean Claude|ouvrier f.|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+1440|Grande Place|258|Bruyas|Comte|Catherine|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1441|Grande Place|258|Bruyas||François|NA|garçon|6,5|NA||6M15
+1442|Grande Place|258|Bruyas||Mariette|NA|fille|5|NA||6M15
+1443|Grande Place|258|Bruyas||Auguste|NA|garçon|3,5|NA||6M15
+1444|Grande Place|259|Petillot||Claude|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+1445|Grande Place|259|Petillot|Cayot|Anne|NA|femme mariée|31|NA||6M15
+1446|Grande Place|259|Petillot||Catherine|NA|fille|9|NA||6M15
+1447|Grande Place|259|Colombat||Marin|ouvrier en soie|garçon|23|NA|2, 2,20, 7, 1,  3|6M15
+1448|Grande Place|259|Sornin||Joseph|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1449|Grande Place|260|Gagnière||Pierre|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+1450|Grande Place|260|Gagnière|Demartin|Etiennette|ouvrière f.|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+1451|Grande Place|260|Chapuis||François|apprenti|garçon|29|NA|4,96,98,98,60,  1|6M15
+1452|Grande Place|260|Gagé||Francis|ouvrier en soie|garçon|23|Savoie|2, 2,20, 7, 1,  3|6M15
+1453|Grande Place|260|Garin||Claude|NA|garçon|16|neveu du précédent||6M15
+1454|Grande Place|261|Villion||Jean Marie|ouvrier f.|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+1455|Grande Place|261|Villion|Pottard|Marie Rose|ouvrière f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+1456|Grande Place|262|Grand||Jean Marie|ouvrier f.|homme marié|34|NA|2, 2,20, 7, 1,  3|6M15
+1457|Grande Place|262|femme Grand|née Pitavau|Marie Françoise|ouvrière f.|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+1458|Grande Place|262|Messie||Jean|apprenti|garçon|15|Chalonge (Savoie)|4,96,98,98,60,  1|6M15
+1459|Grande Place|263|Petillot||Jacques|ouvrier f.|homme marié|68|NA|2, 2,20, 7, 1,  3|6M15
+1460|Grande Place|263|Petillot|Genauder|Marie|ouvrière f.|femme mariée|68|NA|2, 2,20, 7, 1,  3|6M15
+1461|Grande Place|264|Buisson||Pierre Joseph|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1462|Grande Place|264|Buisson|Morel|Louise|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1463|Grande Place|264|Morel||Louis|ouvrier f.|garçon|22|frère de la précédente|2, 2,20, 7, 1,  3|6M15
+1464|Grande Place|265|Gauchon||Claude|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1465|Grande Place|266|Gauchon|née Gerin|Laurence|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1466|Grande Place|267|Palayron||Jacques|ouvrier f.|homme marié|39|NA|2, 2,20, 7, 1,  3|6M15
+1467|Grande Place|267|Palayron|Barbier|Jeanne Marie|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1468|Grande Place|267|Palayron||Ugène|NA|garçon|8|NA||6M15
+1469|Grande Place|268|Duvivier||Jacques|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+1470|Grande Place|268|Duvivier|Pionchon|Mariette|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1471|Grande Place|268|Duvivier||Joséphine|NA|fille|2,5|NA||6M15
+1472|Grande Place|268|Duvivier||Joséphine|NA|fille|2 mois|NA||6M15
+1473|Grande Place|268|Dunon||Louise|ouvrière|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+1474|Grande Place|268|Giraud||Charles|apprenti|garçon|22|St Julien (Savoie)|4,96,98,98,60,  1|6M15
+1475|Grande Place|269|Decotte||Claude|ouvrier f.|homme marié|38|NA|2, 2,20, 7, 1,  3|6M15
+1476|Grande Place|269|Decotte|Villon|Mariette|ouvrière f.|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+1477|Grande Place|269|Decotte||Agniès|NA|fille|2,5|NA||6M15
+1478|Grande Place|269|Massin||Joseph|ouvrier en soie|garçon|28|Turin (Piémont)|2, 2,20, 7, 1,  3|6M15
+1479|Grande Place|269|Grosjean||Jean Baptiste|ouvrier en soie|garçon|22|NA|2, 2,20, 7, 1,  3|6M15
+1480|Grande Place|270|Emonnen||Claude|ouvrier f.|homme marié|30|Massenge (Savoie)|2, 2,20, 7, 1,  3|6M15
+1481|Grande Place|270|Emonnen|Dunien|Marie|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1482|Grande Place|270|Petelat||Jean|ouvrier en soie|garçon|24|Massenge (Savoie)|2, 2,20, 7, 1,  3|6M15
+1483|Grande Place|270|Petelat||François|ouvrier en soie|garçon|18|Massenge (Savoie)|2, 2,20, 7, 1,  3|6M15
+1484|Grande Place|270|Bouvier||Pierre|ouvrier en soie|garçon|17|Massenge (Savoie)|2, 2,20, 7, 1,  3|6M15
+1485|Grande Place|271|Brunet||Giliber|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1486|Grande Place|271|Brunet|Buffer|Anthelmette|ouvrière f.|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+1487|Grande Place|271|Brunet||(Denin)|NA|garçon|11 mois|NA||6M15
+1488|Grande Place|271|Ratural||(Bone)|apprenti ouvrier en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1489|Grande Place|271|Fond||Mariette|apprentie|fille|24|NA|4,96,98,98,60,  1|6M15
+1490|Grande Place|272|Colomb||Marie|ouvrière f.|garçon|26|Chambéry (Savoie)|2, 2,20, 7, 1,  3|6M15
+1491|Grande Place|273|Batteau||Jean Baptiste|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+1492|Grande Place|273|Batteau|née Berard|Angélique|ouvrière f.|femme mariée|29|NA|2, 2,20, 7, 1,  3|6M15
+1493|Grande Place|273|Batteau||Leonard|NA|garçon|5|NA||6M15
+1494|Grande Place|273|Batteau||Elizabeth Charlotte|NA|fille|4|NA||6M15
+1495|Grande Place|273|Batteau||Claude Marie|NA|garçon|2|NA||6M15
+1496|Grande Place|273|Veyrier||Jeanne Marie|ouvrière en soie|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1497|Grande Place|274|Barbier||Barthélémy|ouvrier f.|homme marié|50|NA|2, 2,20, 7, 1,  3|6M15
+1498|Grande Place|274|Barbier|Moiraux|Claudine|ouvrière f.|femme mariée|61|NA|2, 2,20, 7, 1,  3|6M15
+1499|Grande Place|274|femme Roma|née Barbier|Jeanne|ouvrière f.|femme mariée|19|fille de la précédente|2, 2,20, 7, 1,  3|6M15
+1500|Grande Place|274|Bennetton||Jean Baptiste|ouvrier f.|garçon|44|Crana (Savoie)|2, 2,20, 7, 1,  3|6M15
+1501|Grande Place|275|Dumas||Michel|ouvrier f.|veuf|79|NA|2, 2,20, 7, 1,  3|6M15
+1502|Grande Place|275|Menan||Pierrette|ouvrière|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+1503|Grande Place|275|Dibenon||Joséphine|ouvrière|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1504|Grande Place|276|Thion||Jean François|ouvrier f.|homme marié|36|Détenu (à Doulens)|2, 2,20, 7, 1,  3|6M15
+1505|Grande Place|276|Thion|Curial|Rosalie|ouvrière f.|femme mariée|35|NA|2, 2,20, 7, 1,  3|6M15
+1506|Grande Place|276|Thion||Jean Baptiste|NA|garçon|7,5|NA||6M15
+1507|Grande Place|276|Thion||Marie Cezarine|NA|fille|6|NA||6M15
+1508|Grande Place|276|veuve Ausermot|née Musan|Bernarde|journalière|veuve|65|NA|4,96,98,98,30,  1|6M15
+1509|Grande Place|276|Ausermot||Claudine|ouvrière en soie|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+1510|Grande Place|277|Perren||Claude François|ouvrier f.|veuf|36|NA|2, 2,20, 7, 1,  3|6M15
+1511|Grande Rue|278|Fauvre||François|boucher|homme marié|33|Mon. Ferrand n°1|2, 2, 1, 5, 1,  1 |6M15
+1512|Grande Rue|278|Fauvre|Penod|Jeanne|bouchère|femme mariée|25|NA|2, 2, 1, 5, 1,  1 |6M15
+1513|Grande Rue|278|Fauvre||Agarite|NA|fille|3|NA||6M15
+1514|Grande Rue|279|Monneren||Claude|ouvrier en soie|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1515|Grande Rue|279|Monneren|Clapoz|Joséphine|Mde lingère|femme mariée|23|NA|3, 4,10, 1, 1,  2|6M15
+1516|Grande Rue|279|Monneren||Maria|NA|fille|4|NA||6M15
+1517|Grande Rue|279|Raine||NA|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+1518|Grande Rue|280|Charpy||Ceslestin|cabaretier|homme marié|33|NA|3, 5, 1, 2, 1,  4|6M15
+1519|Grande Rue|280|Charpy|Delucis|Jeanne|cabaretière|femme mariée|35|NA|3, 5, 1, 2, 1,  4|6M15
+1520|Grande Rue|280|Charpy||Antonia|NA|fille|6|NA||6M15
+1521|Grande Rue|280|Charpy||Caroline|NA|fille|4|NA||6M15
+1522|Grande Rue|280|Charpy||Jenny|NA|fille|3|NA||6M15
+1523|Grande Rue|281|Decouras||Pierre|portier|homme marié|51|NA|5,25, 2, 2|6M15
+1524|Grande Rue|281|Decouras|Colin|Emilie|portière|femme mariée|50|NA|5,25, 2, 2|6M15
+1525|Grande Rue|282|Gayde||Adolphe|médecin|homme marié|32|NA|3, 5,35, 2, 1,  3|6M15
+1526|Grande Rue|282|Gayde||Suzanne|NA|fille|40|NA||6M15
+1527|Grande Rue|282|Gayde||Dorothée|NA|fille|39|soeur du précédent||6M15
+1528|Grande Rue|282|Sale||Marie|domestique|fille|17|soeur du précédent|3, 5,25, 1, 1,  2|6M15
+1529|Grande Rue|283|Ravaz||Edmond|ouvrier f.|homme marié|36|NA|2, 2,20, 7, 1,  3|6M15
+1530|Grande Rue|283|Ravaz|Gron|Anne|ouvrière f.|femme mariée|48|NA|2, 2,20, 7, 1,  3|6M15
+1531|Grande Rue|283|Ravaz||Pierre|NA|garçon|7|NA||6M15
+1532|Grande Rue|284|Ferran||Jeanne|propriétaire|fille|52|NA|4,98, 1,98, 98,  1|6M15
+1533|Grande Rue|284|Melcot||Rosalie|domestique|fille|28|NA|3, 5,25, 1, 1,  2|6M15
+1534|Grande Rue|285|Chaleard||Louise|employé d'octroi|homme marié|52|NA|5,42, 1, 1|6M15
+1535|Grande Rue|285|Chaleard|Auger|Claudine|NA|femme mariée|36|NA||6M15
+1536|Grande Rue|285|Chaleard||Charles|apprenti|garçon|12|NA|4,96,98,98,60,  1|6M15
+1537|Grande Rue|285|Chaleard||Auguste|NA|garçon|6|NA||6M15
+1538|Grande Rue|286|Garçon||Jean Baptiste|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+1539|Grande Rue|286|Garçon|Didier|Julienne|ouvrière f.|femme mariée|29|NA|2, 2,20, 7, 1,  3|6M15
+1540|Grande Rue|286|Garçon||Jeanne|NA|fille|15 mois|NA||6M15
+1541|Grande Rue|286|Carré Olivier||Ufrasine|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1542|Grande Rue|287|Magnin||Gerry (?)|fabricant de navettes|homme marié|38|Mon. Cocher||6M15
+1543|Grande Rue|287|Magnin|Buge|Françoise|NA|femme mariée|28|NA||6M15
+1544|Grande Rue|287|Magnin||Jeanne Marie Louise|NA|fille|1 mois|NA||6M15
+1545|Grande Rue|288|Melet||Jacques|boulanger|homme marié|40|Mon. Commarmot n°5|2, 2, 1, 3, 1,  1|6M15
+1546|Grande Rue|288|Melet|Moulin|Marie Louise|boulangère|femme mariée|35|NA|2, 2, 1, 3, 1,  1|6M15
+1547|Grande Rue|288|Melet||François|NA|garçon|10|NA||6M15
+1548|Grande Rue|288|Cabiraud||Romain|garçon boulanger|garçon|24|NA|3, 4, 1, 2, 1,  2|6M15
+1549|Grande Rue|289|Commarmot||Barthélémy|employé d'octroi receveur|homme marié|37|NA||6M15
+1550|Grande Rue|289|Commarmot|Veillez|Toinnette|ouvrier en soie|femme mariée|39|NA|2, 2,20, 7, 1,  3|6M15
+1551|Grande Rue|289|Commarmot||Marin|NA|fille|11|NA||6M15
+1552|Grande Rue|289|Commarmot||Izac|NA|garçon|6|NA||6M15
+1553|Grande Rue|289|Commarmot||Françoise|NA|fille|4|NA||6M15
+1554|Grande Rue|289|Commarmot||Toinette|NA|fille|2|NA||6M15
+1555|Grande Rue|290|Boulin||Pierre|journalier|homme marié|44|NA|4,96,98,98,30,  1|6M15
+1556|Grande Rue|290|Boulin|Rousset|Jeanne|ouvrière en soie|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+1557|Grande Rue|291|Bonny||Jeanne Laurence|maitresse d'école|femme mariée|41|NA|3, 5,35, 4, 1,  9|6M15
+1558|Grande Rue|292|Francon||Joseph Norber|employé de la régie|homme marié|49|Mon. Francon n°7||6M15
+1559|Grande Rue|292|Francon|Noirot|Marie (illisible)|NA|femme mariée|40|NA||6M15
+1560|Grande Rue|292|Francon||Camile Louis|NA|garçon|22|NA||6M15
+1561|Grande Rue|292|Francon||Alexandre|NA|garçon|20|NA||6M15
+1562|Grande Rue|292|Francon||Pauline|NA|garçon|15|NA||6M15
+1563|Grande Rue|292|Francon||Françoise Emilie|NA|fille|12|NA||6M15
+1564|Grande Rue|292|Antoinette||NA|domestique|fille|30|NA|3, 5,25, 1, 1,  2|6M15
+1565|Grande Rue|293|Meunier||Jean|janier (?)|homme marié|31|NA||6M15
+1566|Grande Rue|293|Meunier|Micolet|Antoinette|NA|femme mariée|39|NA||6M15
+1567|Grande Rue|293|Meunier||Auguste|NA|garçon|9|NA||6M15
+1568|Grande Rue|293|Meunier||Bonne|NA|fille|8|NA||6M15
+1569|Grande Rue|293|Meunier||Jacques|NA|garçon|3|NA||6M15
+1570|Grande Rue|293|Meunier||Pierre|NA|garçon|6 mois|NA||6M15
+1571|Grande Rue|294|Julliard||Jean|pharmacien|veuf|43|Mon. Flagolet n° 7|3, 4,55, 1, 1,  1|6M15
+1572|Grande Rue|294|Roux||Maria|NA|fille|15|NA||6M15
+1573|Grande Rue|295|Demoly||Laurent|cabaretier|homme marié|39|Mon. Flagolet n° 7|3, 5, 1, 2, 1,  4|6M15
+1574|Grande Rue|295|Demoly|Ganin|Josephine|cabaretière|femme mariée|28|NA|3, 5, 1, 2, 1,  4|6M15
+1575|Grande Rue|296|Goujon||Pierre|charbonnier|homme marié|47|NA|3, 5,31, 4, 1, 26|6M15
+1576|Grande Rue|296|Goujon|Rostain|Catherine|charbonnière|femme mariée|43|NA|3, 5,31, 4, 1, 26|6M15
+1577|Grande Rue|296|Rallan||Jean|garçon charbonnier|garçon|23|NA|3, 5,31, 4, 1, 21|6M15
+1578|Grande Rue|296|Goujon||Jean|garçon charbonnier|garçon|17|neveu du précédent|3, 5,31, 4, 1, 21|6M15
+1579|Grande Rue|297|Guiot||Benoitte|charbonnier|fille|34|NA|3, 5,31, 4, 1, 26|6M15
+1580|Grande Rue|297|Guiot-Meunier||Alphonse|NA|garçon|8|NA||6M15
+1581|Grande Rue|297|Guiot-Meunier||Philippe|NA|garçon|2|NA||6M15
+1582|Grande Rue|297|Rothy||Jean|maçon|homme marié|34|NA|2, 3,80, 3, 1,  2|6M15
+1583|Grande Rue|297|Rothy|Guiot|Toinette|logeuse|femme mariée|37|NA|3, 5, 1, 1, 1,  3|6M15
+1584|Grande Rue|297|Rothy||Mariette|tailleuse|fille|16|NA|2, 2, 4, 1, 1,  1|6M15
+1585|Grande Rue|297|Rothy||Gabriel|NA|garçon|13|NA||6M15
+1586|Grande Rue|297|Rothy||Maria|NA|fille|3|NA||6M15
+1587|Grande Rue|297|Rothy||Claudius|NA|garçon|3 mois|NA||6M15
+1588|Grande Rue|298|Falassyen||Louis|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+1589|Grande Rue|298|Falassyen|Duthel|Agathe|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+1590|Grande Rue|298|Falassyen||Jean|apprenti|garçon|15|NA|4,96,98,98,60,  1|6M15
+1591|Grande Rue|298|Falassyen||Gaspard|retiré|veuf|73|NA|4,99,60,98,98,  3|6M15
+1592|Grande Rue|298|Chiraz||François|crieur de journaux|homme marié|49|NA||6M15
+1593|Grande Rue|298|femme Chiraz|née Garin|Pierrette|garde malade|femme mariée|46|NA|3, 5,36, 2, 1,  1|6M15
+1594|Grande Rue|299|femme Waël||(Gogotte)|Mde revendeuse de linge|femme mariée|34|Mon. Richeron n° 13|3, 4,10, 1, 1,  2|6M15
+1595|Grande Rue|299|Waël||Elodie|NA|fille|12|NA||6M15
+1596|Grande Rue|299|Waël||Adele|NA|fille|10|NA||6M15
+1597|Grande Rue|299|Waël||Maria|NA|fille|9|NA||6M15
+1598|Grande Rue|299|Waël||Charles|NA|garçon|7|NA||6M15
+1599|Grande Rue|299|Joffroy||Catherine|NA|fille|30|NA||6M15
+1600|Grande Rue|300|Richeron||Philippe|prop.re rentier|homme marié|45|NA|4,98, 1,98, 98,  7|6M15
+1601|Grande Rue|300|Richeron|Rey|Marie|rentière|femme mariée|47|NA|4,98, 1,98, 98,  7|6M15
+1602|Grande Rue|301|Chorpe||(Xavier ?)|NA|veuf|84|NA||6M15
+1603|Grande Rue|301|Chorpe||Marie|dévideuse|fille|49|NA|2, 2,20, 7, 1,  3|6M15
+1604|Grande Rue|301|Penez||Marie|NA|fille|13|nièce des précédents||6M15
+1605|Grande Rue|302|femme Daygenperce|née Derbuel|Geneviève|ouvrière en soie|veuve|35|NA|2, 2,20, 7, 1,  3|6M15
+1606|Grande Rue|302|Daygenperce||Magdelaine|NA|fille|10|NA||6M15
+1607|Grande Rue|302|Daygenperce||Rose|NA|fille|7|NA||6M15
+1608|Grande Rue|302|Daygenperce||Benoitte|NA|fille|4,5|NA||6M15
+1609|Grande Rue|303|Fayez||Guy|O. poelier|homme marié|66|NA|2, 2,35, 4, 3,  8|6M15
+1610|Grande Rue|303|Fayez|Roux|Jeanne Agathe|NA|femme mariée|66|NA||6M15
+1611|Grande Rue|303|Fayez||François|O. veloutier|garçon|31|NA|2, 2,20, 7, 1, 13|6M15
+1612|Grande Rue|303|Fayez||Julienne|ouvrière Mon.|fille|26|NA||6M15
+1613|Grande Rue|304|Curabet||Pierre Jean Luc|agent de f.|homme marié|49|NA||6M15
+1614|Grande Rue|304|femme Giraud|veuve de Cours|Marie|idem|femme mariée|40|NA||6M15
+1615|Grande Rue|305|Cours||Claude|NA|garçon|11|NA||6M15
+1616|Grande Rue|305|Curabet||Félicité|NA|fille|3|NA||6M15
+1617|Grande Rue|305|Charvolin||Jeanne Marie|épicier R.|homme marié|53|Mon. Charvolin n°15|3, 4, 1,90, 1,  2|6M15
+1618|Grande Rue|305|Charvolin|Rabus|Reine|NA|femme mariée|49|NA||6M15
+1619|Grande Rue|305|Charvolin||Etienne|étudiant|garçon|21|NA|3, 5,35,98, 1,  1|6M15
+1620|Grande Rue|305|Charvolin||Claudine|tailleuse|fille|19|NA|2, 2, 4, 1, 1,  1|6M15
+1621|Grande Rue|305|Charvolin||Jenny|NA|fille|15|NA||6M15
+1622|Grande Rue|305|Charvolin||Reine|NA|fille|14|NA||6M15
+1623|Grande Rue|305|Charvolin||Antoine|NA|garçon|12|NA||6M15
+1624|Grande Rue|305|Charvolin||Claude|NA|garçon|6|NA||6M15
+1625|Grande Rue|306|veuve Badienprice|Garrot|Jeanne Agathe|dévideuse|veuve|72|NA|2, 2,20, 7, 1,  3|6M15
+1626|Grande Rue|306|Lafamille||Annette|(illisible)|fille|52|NA||6M15
+1627|Grande Rue|307|veuve Favre|née Vargon|Elizabeth|ouvrière f.|veuve|39|NA|2, 2,20, 7, 1,  3|6M15
+1628|Grande Rue|308|Boyet||François|Mde cordière|homme marié|48|Mon. Boyet n°17|3, 4,31, 1, 1,  1|6M15
+1629|Grande Rue|308|Boyet|Perrot|Marie|Mde cordière|femme mariée|47|NA|3, 4,31, 1, 1,  1|6M15
+1630|Grande Rue|308|Boyet||Jean Baptiste|étudiant|garçon|14|NA|3, 5,35,98, 1,  1|6M15
+1631|Grande Rue|308|Boyet||Jean|NA|garçon|11|NA||6M15
+1632|Grande Rue|308|Boyet||Marie|NA|fille|8|NA||6M15
+1633|Grande Rue|309|Marteau||Jean Marie Zacarie|Md opticien|homme marié|56|Mon. Chestain n°19|3, 4,52, 4, 1,  1|6M15
+1634|Grande Rue|309|Marteau|Raine|Jeanne (Baptiste)|Mde opticien|femme mariée|40|NA|3, 4,52, 4, 1,  1|6M15
+1635|Grande Rue|309|Marteau||Jean Claude|Md opticien|garçon|13|NA|3, 4,52, 4, 1,  1|6M15
+1636|Grande Rue|309|Daviet||Henry|apprenti|garçon|25|Savoie|4,96,98,98,60,  1|6M15
+1637|Grande Rue|309|Jean||NA|apprenti|garçon|21|Savoie|4,96,98,98,60,  1|6M15
+1638|Grande Rue|310|Chestain||Etienne|employé aux cont. directes|homme marié|45|NA||6M15
+1639|Grande Rue|310|Chestain|Trédot|Marie|NA|femme mariée|42|NA||6M15
+1640|Grande Rue|311|Bertine||Jean|fritteur|homme marié|40|Suisse - Mon. n°21 Bonnamour||6M15
+1641|Grande Rue|311|Bertine||(?)|fritteur|garçon|14|Suisse - fils des précédents||6M15
+1642|Grande Rue|311|Longuy||Cyprien|garçon vitrier|garçon|28|Suisse|2, 3,80, 7, 1,  3|6M15
+1643|Grande Rue|311|Bertine||Charles|garçon fritteur|garçon|32|Suisse - cousin du précédent||6M15
+1644|Grande Rue|311|Beltraming||Elie|vitrier|garçon|28|Suisse|2, 3,80, 7, 1,  3|6M15
+1645|Grande Rue|312|Chaussier||Jacques|écrivain|homme marié|64|NA|3, 5,31,98, 1,  4|6M15
+1646|Grande Rue|312|Chaussier|Vialet|Claudine|NA|femme mariée|25|NA||6M15
+1647|Grande Rue|312|Chaussier||Marie|NA|fille|7|NA||6M15
+1648|Grande Rue|313|veuve Feriol|née Bufter|Cécile|dévideuse|veuve|74|NA|2, 2,20, 7, 1,  3|6M15
+1649|Grande Rue|313|Fayol||Geneviève|revendeuse d'herbage|veuve|60|NA|3, 4, 3, 1|6M15
+1650|Grande Rue|314|Gros||Joachim|médecin|garçon|30|NA|3, 5,35, 2, 1,  3|6M15
+1651|Grande Rue|314|Chermoun||Anne|domestique|fille|44|NA|3, 5,25, 1, 1,  2|6M15
+1652|Grande Rue|315|veuve Gyeux|née Boucherdy|A Philipine|rentière|veuve|49|NA|4,98, 1,98, 98,  7|6M15
+1653|Grande Rue|316|veuve Rivet|née Sanglion|Philiberte|rentière|veuve|60|NA|4,98, 1,98, 98,  7|6M15
+1654|Grande Rue|316|Rivet||Marie|tailleuse|fille|29|fille des précédents|2, 2, 4, 1, 1,  1|6M15
+1655|Grande Rue|317|veuve Delafamillade|née Léger|Antoinette|rentière|veuve|70|NA|4,98, 1,98, 98,  7|6M15
+1656|Grande Rue|318|veuve Faverial||Claudine|fileuse|veuve|50|NA|2, 2,20, 7, 1,  3|6M15
+1657|Grande Rue|319|Turavel||Geneviève|ouvrière|fille|55|NA|2, 2,20, 7, 1,  3|6M15
+1658|Grande Rue|320|Rigon||Elizabeth|journalière|fille|42|NA|4,96,98,98,30,  1|6M15
+1659|Grande Rue|321|Janin||Julie|journalière|femme mariée|32|NA|4,96,98,98,30,  1|6M15
+1660|Grande Rue|321|Janin||Cezarine|NA|fille|12|NA||6M15
+1661|Grande Rue|322|Poirieux||NA|garde malade|femme mariée|40|NA|3, 5,36, 2, 1,  1|6M15
+1662|Grande Rue|323|Bonnamour||Eleonore|prop.re rentière|fille|50|NA|4,98, 1,98, 98,  7|6M15
+1663|Grande Rue|323|veuve Detour||Eleonore|prop.re rentière|veuve|28|NA|4,98, 1,98, 98,  7|6M15
+1664|Grande Rue|323|Reverchon||Suzanne|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+1665|Grande Rue|324|veuve Benand||NA|rentière|veuve|55|NA|4,98, 1,98, 98,  7|6M15
+1666|Grande Rue|325|Cazot||Claude François|cabaretier|homme marié|39|Mon. Berthaud n°23|3, 5, 1, 2, 1,  4|6M15
+1667|Grande Rue|325|Cazot|Menu|Rose|cabaretière|femme mariée|30|NA|3, 5, 1, 2, 1,  4|6M15
+1668|Grande Rue|325|Cazot||Joséphine|NA|fille|2,5|NA||6M15
+1669|Grande Rue|325|Cazot||Claudius|NA|garçon|8 mois|NA||6M15
+1670|Grande Rue|326|Chevelu||Joseph|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+1671|Grande Rue|326|Chevelu|Concert|Pierrette|ouvrière f.|femme mariée|24|NA|2, 2,20, 7, 1,  3|6M15
+1672|Grande Rue|327|Grenet||Pierre|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1673|Grande Rue|327|Grenet|Pelletier|Agathe|ouvrière|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1674|Grande Rue|327|Grenet||Jenny|ouvrière|fille|8|NA|2, 2,20, 7, 1,  3|6M15
+1675|Grande Rue|327|Grenet||Fanny|ouvrière|fille|1 mois|Berne Savoie|2, 2,20, 7, 1,  3|6M15
+1676|Grande Rue|327|Mayet||Françoise|apprentie|fille|14|NA|4,96,98,98,60,  1|6M15
+1677|Grande Rue|328|Besson||commis|commis|garçon|50|NA|3, 5,31,98,40,  1|6M15
+1678|Grande Rue|329|Grenet||Pierre|ouvrier f.|homme marié|61|NA|2, 2,20, 7, 1,  3|6M15
+1679|Grande Rue|329|Grenet|Audibert|Pierrette|ouvrière|femme mariée|56|NA|2, 2,20, 7, 1,  3|6M15
+1680|Grande Rue|330|Petelat||Jacques|ouvrier f.|homme marié|30|NA|2, 2,20, 7, 1,  3|6M15
+1681|Grande Rue|330|Petelat|Berthier|Julie|ouvrière|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1682|Grande Rue|330|Petelat||Jeanne Marie|NA|fille|6|NA||6M15
+1683|Grande Rue|330|Petelat||Marie Françoise|NA|fille|2|NA||6M15
+1684|Grande Rue|330|Petelat||Jeanne|ouvrière en soie|fille|32|soeur du précédent|2, 2,20, 7, 1,  3|6M15
+1685|Grande Rue|331|Sibele||Antoine|ouvrier f.|homme marié|29|NA|2, 2,20, 7, 1,  3|6M15
+1686|Grande Rue|331|Sibele|Gaquier|Jenny|ouvrière|femme mariée|44|NA|2, 2,20, 7, 1,  3|6M15
+1687|Grande Rue|331|Cezeria||Louise|ouvrière en soie|fille|26|NA|2, 2,20, 7, 1,  3|6M15
+1688|Grande Rue|332|Carimale||Louis Marie|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1689|Grande Rue|332|Carimale|Clamoron|Catherine|ouvrière|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+1690|Grande Rue|333|Cochet||Jean Claude|menuisier|homme marié|63|Mon. Dru n°25|2, 2,25, 7, 1,  2|6M15
+1691|Grande Rue|333|Cochet|Dubuisson|Jacqueline|NA|femme mariée|60|NA||6M15
+1692|Grande Rue|333|veuve Boucher||Toinette|fileuse de soie|fille|40|NA|2, 2,20, 7, 1,  3|6M15
+1693|Grande Rue|333|Chapelle||Zeterine (?)|ouvrière en soie|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1694|Grande Rue|334|Grenet||Jean François|ouvrier f.|homme marié|56|NA|2, 2,20, 7, 1,  3|6M15
+1695|Grande Rue|334|Grenet|Guichet|Laurence|ouvrière|femme mariée|40|NA|2, 2,20, 7, 1,  3|6M15
+1696|Grande Rue|334|Grenet||François|ouvrier|garçon|17|NA|2, 2,20, 7, 1,  3|6M15
+1697|Grande Rue|334|Grenet||Pierre|NA|garçon|14|NA||6M15
+1698|Grande Rue|334|Grenet||Jeanne Emilie|NA|fille|5|NA||6M15
+1699|Grande Rue|334|Grenet||Léonore|NA|fille|3|NA||6M15
+1700|Grande Rue|335|Benot||Pierre|ouvrier f.|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1701|Grande Rue|335|Benot|Noyar|Pierrette|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1702|Grande Rue|335|Benot||Pierre|NA|garçon|3,5|NA||6M15
+1703|Grande Rue|335|Benot||Pierre|NA|garçon|1|NA||6M15
+1704|Grande Rue|336|Chapelle||Jean Louis|pharmacien|homme marié|34|Mon. Parraux n°27|3, 4,55, 1, 1,  1|6M15
+1705|Grande Rue|336|Chapelle|Bonnamour|Jeanne Josephte|NA|femme mariée|28|NA||6M15
+1706|Grande Rue|336|Chapelle||Jean Baptiste Prospère|NA|garçon|4|NA||6M15
+1707|Grande Rue|336|Chapelle||Fanny|NA|fille|3|NA||6M15
+1708|Grande Rue|336|Chapelle||Henry|NA|garçon|1|NA||6M15
+1709|Grande Rue|336|Reverchon||Claude|élève pharmacien|garçon|20|NA|3, 4,55, 1, 1,  3|6M15
+1710|Grande Rue|336|Reverchon|Paquet|Claudine|domestique|fille|16|Chambéry (Savoie)|3, 5,25, 1, 1,  2|6M15
+1711|Grande Rue|336|Reverchon||Annette|domestique|fille|28|NA|3, 5,25, 1, 1,  2|6M15
+1712|Grande Rue|337|Parraux||Jacques|propriétaire|homme marié|55|NA|4,98, 1,98, 98,  1|6M15
+1713|Grande Rue|338|Dangle||Claude Samuel|teneur de livres|homme marié|63|NA|3, 5,30,98, 1,  1|6M15
+1714|Grande Rue|338|Dangle|Valen|Augustine Françoise|NA|femme mariée|42|NA||6M15
+1715|Grande Rue|338|Dangle||Hugues|apprenti|garçon|16|NA|4,96,98,98,60,  1|6M15
+1716|Grande Rue|339|Gaillion||Yerma|modiste|fille|28|NA|2, 2,10, 2, 1,  5|6M15
+1717|Grande Rue|340|Baille||François|Md bric à brac|homme marié|49|Mon. Rousset n°29|3, 3,20, 1, 1,  9|6M15
+1718|Grande Rue|340|Baille|Gros|Antonia Louise|Mde bric à brac|femme mariée|44|NA|3, 3,20, 1, 1,  9|6M15
+1719|Grande Rue|340|Baille||Claude François|apprenti ébéniste|garçon|18|NA|2, 2,35, 1, 1,  6|6M15
+1720|Grande Rue|340|Baille||Jeanne Marie|NA|fille|11|NA||6M15
+1721|Grande Rue|341|Rousset||Antoine|prop.re chef de B.on en retraite|homme marié|54|NA|4,99,60,98,98,  3|6M15
+1722|Grande Rue|341|Rousset||Marie|NA|femme mariée|54|NA||6M15
+1723|Grande Rue|342|Peyot||Jean|cabaretier|homme marié|28|Mon. Chepot n°31|3, 5, 1, 2, 1,  4|6M15
+1724|Grande Rue|342|Peyot|Moyret|Alexis|cabaretière|femme mariée|29|NA|3, 5, 1, 2, 1,  4|6M15
+1725|Grande Rue|342|Peyot||Françoise|NA|fille|3 mois|NA||6M15
+1726|Grande Rue|342|Sage||Pierre|garçon cabaretier|garçon|13|NA|3, 5, 1, 2, 1,  8|6M15
+1727|Grande Rue|343|Pallus||François|cabaretier|homme marié|27|Mon. Futin n°33|3, 5, 1, 2, 1,  4|6M15
+1728|Grande Rue|343|Pallus|Cadix|Marie|cabaretière|femme mariée|36|NA|3, 5, 1, 2, 1,  4|6M15
+1729|Grande Rue|344|Darrigues||Jean Paul|capitaine en retraite|homme marié|68|NA|4,99, 2,98,98, 11|6M15
+1730|Grande Rue|344|Darrigues|Beignier|Helaine|NA|femme mariée|67|NA||6M15
+1731|Grande Rue|344|Fonbarles||Olympe|domestique|fille|22|NA|3, 5,25, 1, 1,  2|6M15
+1732|Grande Rue|345|veuve Merlin|née Viamen|Marie|fileuse|veuve|60|NA|2, 2,20, 7, 1,  3|6M15
+1733|Grande Rue|346|Berme||Marie|repasseuse|fille|41|NA|2, 2,61,90, 1,  1|6M15
+1734|Grande Rue|347|veuve Burdian|née Raymond|Pierrette|NA|veuve|67|tenait un bureau de tabac rue des fossés||6M15
+1735|Grande Rue|348|femme Coron|née Laffon|Marie|cannetière|femme mariée|48|NA|2, 2,20, 7, 1,  3|6M15
+1736|Grande Rue|348|Coron||Louis|NA|garçon|9|NA||6M15
+1737|Grande Rue|349|veuve Bouvrat||Marie|rentière|fille|74|NA|4,98, 1,98, 98,  7|6M15
+1738|Grande Rue|350|veuve Fanton|née Cadix|Eulalie|fruitière|fille|41|Mon. Perrot n°35|3, 4, 1, 3, 1,  5|6M15
+1739|Grande Rue|350|Fanton||Pierre|15e léger 2e division|garçon|20|NA|3, 5,50, 1, 1,  2|6M15
+1740|Grande Rue|350|Fanton||Jeanne|NA|fille|10|NA||6M15
+1741|Grande Rue|351|Cret||Claude|galochier|homme marié|66|NA||6M15
+1742|Grande Rue|351|Cret|Valançon|Marie|galochière|femme mariée|68|NA||6M15
+1743|Grande Rue|352|Blin||Jeanne|repasseuse|fille|23|NA|2, 2,61,90, 1,  1|6M15
+1744|Grande Rue|352|Blin||Jeanne Marie|NA|fille|12|soeur de la précédente||6M15
+1745|Grande Rue|353|Perrot||Marie|tordeuse|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+1746|Grande Rue|354|Vaillant||Denis|capitaine en retraite|homme marié|68|NA|4,99, 2,98,98, 11|6M15
+1747|Grande Rue|354|Vaillant|Garçon|Thérèse|NA|femme mariée|63|NA||6M15
+1748|Grande Rue|355|Laforet||NA|garde malade|femme mariée|32|NA|3, 5,36, 2, 1,  1|6M15
+1749|Grande Rue|356|Marie||Marianne|NA|fille|32|NA||6M15
+1750|Grande Rue|357|veuve Davert|née Guinat|Antoinette|journalière|femme mariée|68|NA|4,96,98,98,30,  1|6M15
+1751|Grande Rue|358|Finette||Dodon|revendeuse|fille|61|NA|3, 4, 3, 1|6M15
+1752|Grande Rue|358|veuve Duffoumain|née Finette|Marie|revendeuse|veuve|63|NA|3, 4, 3, 1|6M15
+1753|Grande Rue|359|veuve Benon|née Clémant|Angélique Estelle|O. lingère|veuve|40|NA|3, 5,20, 4, 1,  1|6M15
+1754|Grande Rue|360|Rageon||Louise|dévideuse|fille|45|NA|2, 2,20, 7, 1,  3|6M15
+1755|Grande Rue|361|Rambert||François|ouvrier menuisier|homme marié|52|Mon. Lamy n°37|2, 2,25, 7, 1,  2|6M15
+1756|Grande Rue|361|Rambert|Luchat|Agnies|ouvrière f.|femme mariée|55|NA|2, 2,20, 7, 1,  3|6M15
+1757|Grande Rue|361|Alambert||Joséphine|NA|fille|7|nièce du précédent||6M15
+1758|Grande Rue|362|Zendel||Walter|commis|homme marié|48|NA|3, 5,31,98,40,  1|6M15
+1759|Grande Rue|362|Zendel|Pascal|Caroline|dévideuse|femme mariée|32|NA|2, 2,20, 7, 1,  3|6M15
+1760|Grande Rue|362|Zendel||Walterine|NA|fille|4|NA||6M15
+1761|Grande Rue|362|Zendel||Perrine|ouvrière en soie|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1762|Grande Rue|362|femme Pascal|née Josserand|Fanny|NA|femme mariée|50|NA||6M15
+1763|Grande Rue|363|veuve Lamy|née Burdet|(Boulangère) Antoinette|boulangère|veuve|57|NA|2, 2, 1, 3, 1,  1|6M15
+1764|Grande Rue|363|Lamy||Jean Marie|boulanger|garçon|26|NA|2, 2, 1, 3, 1,  1|6M15
+1765|Grande Rue|363|Lamy||Claudine|NA|fille|32|NA||6M15
+1766|Grande Rue|363|Lamy||Clothilde Marie|NA|fille|21|NA||6M15
+1767|Grande Rue|363|Lamy||Gabriel|ouvrier menuisier|garçon|18|NA|2, 2,25, 7, 1,  2|6M15
+1768|Grande Rue|363|Callez||André|garçon boulanger|garçon|25|NA|3, 4, 1, 2, 1,  2|6M15
+1769|Grande Rue|364|Masson||Claude|ouvrier f.|homme marié|22|NA|2, 2,20, 7, 1,  3|6M15
+1770|Grande Rue|364|Masson|Michaud|Marie|ouvrière f.|femme mariée|24|NA|2, 2,20, 7, 1,  3|6M15
+1771|Grande Rue|364|Masson||Jenny|ouvrière en soie|fille|16|(?) du précédent|2, 2,20, 7, 1,  3|6M15
+1772|Grande Rue|365|Peyronner||Joseph|plieur|veuf|49|NA|2, 2,20, 7, 1,  3|6M15
+1773|Grande Rue|365|Chance||Marie|ouvrière|fille|56|NA|2, 2,20, 7, 1,  3|6M15
+1774|Grande Rue|366|Pelissier||Jean|ouvrier f.|homme marié|38|NA|2, 2,20, 7, 1,  3|6M15
+1775|Grande Rue|366|Pelissier|Geliot|Benoitte|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1776|Grande Rue|366|Pelissier||Françoise|NA|fille|2|NA||6M15
+1777|Grande Rue|366|Pelissier||Claudine|NA|fille|1|NA||6M15
+1778|Grande Rue|367|Carefour||Jean Marie Vincent|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+1779|Grande Rue|367|Carefour|Brogua|Françoise|ouvrière f.|femme mariée|30|NA|2, 2,20, 7, 1,  3|6M15
+1780|Grande Rue|367|Veller||Louis|ouvrier en soie|garçon|24|NA|2, 2,20, 7, 1,  3|6M15
+1781|Grande Rue|367|Cochet||Jeanne Marie|ouvrière en soie|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1782|Grande Rue|367|Garçon||Marie|ouvrière f.|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+1783|Grande Rue|368|Coutelin||Marianne|ouvrière f.|fille|40|NA|2, 2,20, 7, 1,  3|6M15
+1784|Grande Rue|368|Coutelin||Françoise|ouvrière f.|fille|18|nièce du précédent|2, 2,20, 7, 1,  3|6M15
+1785|Grande Rue|369|Callet||Antoine|perruquier coiffeur|homme marié|25|Mon. Burdine n°39|2, 2,30, 4, 1,  4|6M15
+1786|Grande Rue|369|Callet|Marcelin|Marie Françoise|ouvrière f.|femme mariée|26|NA|2, 2,20, 7, 1,  3|6M15
+1787|Grande Rue|369|Callet||Marie Julie|NA|fille|5 jours|NA||6M15
+1788|Grande Rue|369|Rousset||Jean|garçon perruquier|garçon|22|NA|2, 2,30, 4, 1,  4|6M15
+1789|Grande Rue|370|Parraux||Pierre|cordonnier|homme marié|51|NA|2, 2,15, 1, 2,  6|6M15
+1790|Grande Rue|370|Parraux|Dumas|Marie|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+1791|Grande Rue|370|Parraux||Jacques|cordonnier|garçon|20|NA|2, 2,15, 1, 2,  6|6M15
+1792|Grande Rue|370|Parraux||François|NA|garçon|8|NA||6M15
+1793|Grande Rue|371|Cherblanc||Philippe|épicier R.|homme marié|35|NA|3, 4, 1,90, 1,  2|6M15
+1794|Grande Rue|371|Cherblanc|Forest|Suzanne|épicière R.|femme mariée|30|NA|3, 4, 1,90, 1,  2|6M15
+1795|Grande Rue|371|Cherblanc||Maria|NA|fille|10|NA||6M15
+1796|Grande Rue|371|Cherblanc||Armand|NA|garçon|2,5|NA||6M15
+1797|Grande Rue|372|Cottin||Nicolas|ouvrier f.|homme marié|48|NA|2, 2,20, 7, 1,  3|6M15
+1798|Grande Rue|372|Cottin|Vallet|Françoise|tailleuse|femme mariée|40|NA|2, 2, 4, 1, 1,  1|6M15
+1799|Grande Rue|372|Cottin||Jean Baptiste|ouvrier f.|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+1800|Grande Rue|372|Cottin||Isaac|apprenti|garçon|18|NA|4,96,98,98,60,  1|6M15
+1801|Grande Rue|373|perroud||Marie|ouvrière f.|fille|35|NA|2, 2,20, 7, 1,  3|6M15
+1802|Grande Rue|373|Billion||Constance|ouvrière en soie|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+1803|Grande Rue|373|Perrin||Toinette|ouvrière|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1804|Grande Rue|373|veuve Tropez|née Montelain|Claire|dévideuse|veuve|51|NA|2, 2,20, 7, 1,  3|6M15
+1805|Grande Rue|373|Tropez||(illisible)|dévideuse|fille|23|NA|2, 2,20, 7, 1,  3|6M15
+1806|Grande Rue|374|Cotton||Jean|lithographe|homme marié|57|NA|3, 5,35, 4, 1, 11|6M15
+1807|Grande Rue|374|Cotton|Magnien Duftayer|Joséphine|NA|femme mariée|55|NA||6M15
+1808|Grande Rue|374|Cotton||Henry|M. du 54e en (corge) illimité|garçon|26|NA|3, 5,50, 1, 1,  2|6M15
+1809|Grande Rue|374|Cotton||Alphonse|lithographe|garçon|16|jumeaux|3, 5,35, 4, 1, 11|6M15
+1810|Grande Rue|374|Cotton||Jean Baptiste|lithographe|garçon|16|jumeaux|3, 5,35, 4, 1, 11|6M15
+1811|Grande Rue|375|Mathurel||Adam Laurent|ouvrier f.|homme marié|21|NA|2, 2,20, 7, 1,  3|6M15
+1812|Grande Rue|375|Mathurel|Verduy|Françoise|repasseuse|femme mariée|25|NA|2, 2,61,90, 1,  1|6M15
+1813|Grande Rue|376|Burdin||Guillaume|propriétaire|homme marié|50|NA|4,98, 1,98, 98,  1|6M15
+1814|Grande Rue|376|Burdin|Dity|Pierrette|propriétaire|femme mariée|50|NA|4,98, 1,98, 98,  1|6M15
+1815|Grande Rue|376|femme Monneau|née Burdin|Mariette|NA|femme mariée|29|NA||6M15
+1816|Grande Rue|376|Monneau||Jean|NA|garçon|10|NA||6M15
+1817|Grande Rue|376|Poinne||Toinette|domestique|fille|28|NA|3, 5,25, 1, 1,  2|6M15
+1818|Grande Rue|377|veuve Pechinau|née Pelletier|Antoinette|rentière|veuve|82|NA|4,98, 1,98, 98,  7|6M15
+1819|Grande Rue|377|veuve Dupuy|née Ginier|Marie|blanchisseuse|veuve|50|NA|3, 5,20, 4, 1,  1|6M15
+1820|Grande Rue|378|Gilliard||Marie|ouvrière f.|fille|39|NA|2, 2,20, 7, 1,  3|6M15
+1821|Grande Rue|378|Forat||Anne|ouvrière en soie|fille|30|Bassil (Savoie)|2, 2,20, 7, 1,  3|6M15
+1822|Grande Rue|378|Meunier||Marguerite|ouvrière|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1823|Grande Rue|379|Vion||Izabette|ouvrière f.|fille|37|NA|2, 2,20, 7, 1,  3|6M15
+1824|Grande Rue|379|Belton||Marie|dévideuse|fille|64|NA|2, 2,20, 7, 1,  3|6M15
+1825|Grande Rue|379|Douet||Marie|ouvrière en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1826|Grande Rue|379|Reine||Sophie|ouvrière en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1827|Grande Rue|379|Dussoie||Elizabeth|apprenti|fille|14|NA|4,96,98,98,60,  1|6M15
+1828|Grande Rue|380|Monjustin||Antoinette|NA|fille|60|NA||6M15
+1829|Grande Rue|380|Vuillerme Dumand||Rosalie|ouvrière f.|fille|23|NA|2, 2,20, 7, 1,  3|6M15
+1830|Grande Rue|380|Barlerin||Anne|ouvrière en soie|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1831|Grande Rue|380|Barlerin||Françoise|apprentie|fille|17|NA|4,96,98,98,60,  1|6M15
+1832|Grande Rue|381|Rouget||Marguerite|ouvrière f.|fille|61|NA|2, 2,20, 7, 1,  3|6M15
+1833|Grande Rue|381|Francony||Jeanne|ouvrière en soie|fille|28|Chambéry Savoie|2, 2,20, 7, 1,  3|6M15
+1834|Grande Rue|381|Barriot||Marie|ouvrière en soie|fille|25|NA|2, 2,20, 7, 1,  3|6M15
+1835|Grande Rue|381|Rougy||Marie|ouvrière en soie|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1836|Grande Rue|382|Reymond||Daniel|cordonnier|homme marié|35|Mon. Cret n°41|2, 2,15, 1, 2,  6|6M15
+1837|Grande Rue|382|Reymond|Revelu|Jeannette|NA|femme mariée|40|NA||6M15
+1838|Grande Rue|382|Reymond||Françoise|NA|fille|6|NA||6M15
+1839|Grande Rue|382|Reymond||Louis|NA|garçon|2|NA||6M15
+1840|Grande Rue|383|Cret||Claude|menuisier|homme marié|27|NA|2, 2,25, 7, 1,  2|6M15
+1841|Grande Rue|383|Cret|Berthier|Virginy|NA|femme mariée|28|NA||6M15
+1842|Grande Rue|383|Cret||Claude|NA|garçon|37|NA||6M15
+1843|Grande Rue|383|veuve Grand|née Dalmés|Marguerite|NA|veuve|86|aieule des précédents||6M15
+1844|Grande Rue|384|Calandret||André|ouvrier f.|homme marié|27|NA|2, 2,20, 7, 1,  3|6M15
+1845|Grande Rue|385|Calandret|Barlaret|Elizabeth|ouvrière f.|femme mariée|20|NA|2, 2,20, 7, 1,  3|6M15
+1846|Grande Rue|385|Saumier||Charles|ouvrier f.|homme marié|73|NA|2, 2,20, 7, 1,  3|6M15
+1847|Grande Rue|385|Saumier|Quitant|Anne|ouvrière f.|femme mariée|78|NA|2, 2,20, 7, 1,  3|6M15
+1848|Grande Rue|386|Rabeau||Marie Félicité|ouvrière en soie|fille|30|NA|2, 2,20, 7, 1,  3|6M15
+1849|Grande Rue|386|Favre||Jean Marie|ouvrier f.|homme marié|35|NA|2, 2,20, 7, 1,  3|6M15
+1850|Grande Rue|386|Favre|Jacquet|Marie|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1851|Grande Rue|386|Favre||Mariette|NA|fille|3|NA||6M15
+1852|Grande Rue|386|Favre||Rosalie|NA|fille|21 mois|NA||6M15
+1853|Grande Rue|386|Favre||Rosalie|ouvrière en soie|fille|22|soeur des précédents|2, 2,20, 7, 1,  3|6M15
+1854|Grande Rue|386|Girain||Antoinette|ouvrière en soie|fille|19|NA|2, 2,20, 7, 1,  3|6M15
+1855|Grande Rue|387|Faure||Hipolite|ouvrier f.|homme marié|26|NA|2, 2,20, 7, 1,  3|6M15
+1856|Grande Rue|387|Faure|Bajan|Antoinette|ouvrière f.|femme mariée|25|NA|2, 2,20, 7, 1,  3|6M15
+1857|Grande Rue|387|Tournier||Maurice|ouvrier en soie|garçon|23|Ex les Bains Savoie|2, 2,20, 7, 1,  3|6M15
+1858|Grande Rue|387|Tritz||André|ouvrier f.|garçon|26|NA|2, 2,20, 7, 1,  3|6M15
+1859|Grande Rue|388|Gosseran||Joseph|ouvrier f.|homme marié|47|NA|2, 2,20, 7, 1,  3|6M15
+1860|Grande Rue|388|Gosseran|Pacally|Toinette|ouvrière f.|femme mariée|36|NA|2, 2,20, 7, 1,  3|6M15
+1861|Grande Rue|388|Gosseran||Pierre|apprenti ouvrier f.|garçon|15|fils des précédents|2, 2,20, 7, 1,  3|6M15
+1862|Grande Rue|388|Gosseran||Denis Faisan|apprenti ouvrier f.|garçon|14|fils des précédents|2, 2,20, 7, 1,  3|6M15
+1863|Grande Rue|388|(Gaspar) Tollon||Gaspard|apprenti|garçon|19|NA|4,96,98,98,60,  1|6M15
+1864|Grande Rue|388|Tollon||Pierre|apprenti|garçon|16|frère du précédent|4,96,98,98,60,  1|6M15
+1865|Grande Rue|389|Bertrand||Jean Marie|orphèvre|veuf|56|aux héritiers Latrile n°43|2, 2,50, 1, 1,  1|6M15
+1866|Grande Rue|389|Bertrand||Anne|NA|fille|18|NA||6M15
+1867|Grande Rue|389|veuve Dubièf|née Aussol|Thérèse Marie|rentière|veuve|60|NA|4,98, 1,98, 98,  7|6M15
+1868|Grande Rue|389|Claret||Jeannette|domestique|fille|20|NA|3, 5,25, 1, 1,  2|6M15
+1869|Grande Rue|390|Coignet||Victor|tailleur|homme marié|44|NA|2, 2, 4, 1, 1,  1|6M15
+1870|Grande Rue|390|femme Coignet||Marie Ambre|NA|femme mariée|44|orpheline||6M15
+1871|Grande Rue|390|Vernay||Jacques|ouvrier tailleur|fille|19|NA|2, 2, 4, 1, 1,  1|6M15
+1872|Grande Rue|391|De St Quintin||Gilibert|ouvrier f.|homme marié|69|NA|2, 2,20, 7, 1,  3|6M15
+1873|Grande Rue|391|De St Quintin|Grandin|Bonne|ouvrière f.|femme mariée|58|NA|2, 2,20, 7, 1,  3|6M15
+1874|Grande Rue|392|veuve Comini|née Rémily|Antoinette|rentière|veuve|62|NA|4,98, 1,98, 98,  7|6M15
+1875|Grande Rue|392|Guillin||Catherine|domestique|fille|23|NA|3, 5,25, 1, 1,  2|6M15
+1876|Grande Rue|393|Forget||Antoine|marchand de fayence|homme marié|30|Mon. Dussiu n°45|3, 3,45, 1, 1,  1|6M15
+1877|Grande Rue|393|Forget|Gouillon|Catherine|marchande de fayence|femme mariée|28|NA|3, 3,45, 1, 1,  1|6M15
+1878|Grande Rue|393|Forget||Pierrette|NA|fille|3|NA||6M15
+1879|Grande Rue|393|Forget||Marcelin|NA|garçon|4 mois|NA||6M15
+1880|Grande Rue|393|Coq||Marguerite|ouvrière en soie|fille|18|NA|2, 2,20, 7, 1,  3|6M15
+1881|Grande Rue|394|Vion||Antoine|ouvrier en soie|homme marié|41|NA|2, 2,20, 7, 1,  3|6M15
+1882|Grande Rue|394|Vion|Noire|Thérèse|ouvrière en soie|femme mariée|43|NA|2, 2,20, 7, 1,  3|6M15
+1883|Grande Rue|395|Carnavaliste||NA|journalier|homme marié|55|NA|4,96,98,98,30,  1|6M15
+1884|Grande Rue|395|femme Carnavaliste||NA|revendeuse d'herbage|femme mariée|53|NA|3, 4, 3, 1|6M15
+1885|Grande Rue|396|Duchamps||Julien|portier au cimetière|homme marié|58|NA||6M15
+1886|Grande Rue|396|Duchamps|Esparon|Georgette|blanchisseuse|femme mariée|57|NA|3, 5,20, 4, 1,  1|6M15
+1887|Grande Rue|397|Cret||Dominique|tonnelier|homme marié|37|Mon. Cret n°47|2, 2,25, 2, 1,  7|6M15
+1888|Grande Rue|397|Cret|Rey|Claudine|marchande mercière|femme mariée|31|NA|3, 4,10, 1, 1,  1|6M15
+1889|Grande Rue|397|Cret||Claude|NA|garçon|12|NA||6M15
+1890|Grande Rue|398|Piron||Benoit|ouvrier f.|homme marié|40|NA|2, 2,20, 7, 1,  3|6M15
+1891|Grande Rue|398|Piron|Pelletier|Jean Claudine|ouvrière f.|femme mariée|34|NA|2, 2,20, 7, 1,  3|6M15
+1892|Grande Rue|398|Piron||Pierre|NA|garçon|11|NA||6M15
+1893|Grande Rue|399|Jutha||Joseph|journalier|homme marié|50|NA|4,96,98,98,30,  1|6M15
+1894|Grande Rue|400|Reyling||Georges|ouvrier cordonnier|garçon|36|NA|2, 2,15, 1, 2,  6|6M15
+1895|Grande Rue|401|Faure||Antoine|ouvrier tailleur|garçon|28|NA|2, 2, 4, 1, 1,  1|6M15
+1896|Grande Rue|402|Chaussat||André|puisatier|homme marié|40|NA|2, 3,81,98,60,  1|6M15
+1897|Grande Rue|402|Chaussat|Putot|Lucy|NA|femme mariée|30|NA||6M15
+1898|Grande Rue|402|Chaussat||Françoise|NA|fille|5,5|NA||6M15
+1899|Grande Rue|402|Chaussat||Marie|NA|fille|3,5|NA||6M15
+1900|Grande Rue|402|Chaussat||Jean|NA|garçon|3 mois|NA||6M15
+1901|Grande Rue|403|Seyne||Benoitete|blanchisseuse|femme mariée|48|NA|3, 5,20, 4, 1,  1|6M15
+1902|Grande Rue|403|Seyne||Pierre|manoeuvre|homme marié|48|mari de la précédente|2, 2,65,98, 1,  1|6M15
+1903|Grande Rue|403|Seyne||Madelaine|NA|fille|13|() du précédent||6M15
+1904|Grande Rue|404|femme Vondière|née Mure|Antoinette|journalière|femme mariée|42|NA|4,96,98,98,30,  1|6M15
+1905|Grande Rue|404|Vondière||Nicolas|NA|garçon|16|NA||6M15
+1906|Grande Rue|404|Vondière||Julie|NA|fille|15|NA||6M15
+1907|Grande Rue|404|Vondière||Agarithe|NA|fille|5|NA||6M15
+1908|Grande Rue|404|veuve Mure|née Debavre|Anoitnette|tailleuse|veuve|60|NA|2, 2, 4, 1, 1,  1|6M15
+1909|Grande Rue|404|Mure||Madelaine|NA|fille|13|petite fille de la précédente||6M15
+1910|Grande Rue|405|Lecrec||Jean Baptiste|ouvrier en soie|homme marié|25|NA|2, 2,20, 7, 1,  3|6M15
+1911|Grande Rue|405|Lecrec|Guillot|Agate|dévideuse|femme mariée|28|NA|2, 2,20, 7, 1,  3|6M15
+1912|Grande Rue|405|Lecrec||Celestine|NA|fille|1 mois|NA||6M15
+1913|Grande Rue|406|Vuchard||François|ouvrier f.|homme marié|54|NA|2, 2,20, 7, 1,  3|6M15
+1914|Grande Rue|406|Vuchard|Meger|Jeanne Maurice|ouvrière f.|femme mariée|54|NA|2, 2,20, 7, 1,  3|6M15
+1915|Grande Rue|406|Vuchard||Antoine|ouvrier f.|garçon|19|NA|2, 2,20, 7, 1,  3|6M15
+1916|Grande Rue|406|Drevet||Marie|ouvrière en soie|fille|21|NA|2, 2,20, 7, 1,  3|6M15
+1917|Grande Rue|407|Odel||Toinette|ouvrière en soie|fille|62|Mon. Gardon n°47|2, 2,20, 7, 1,  3|6M15
+1918|Grande Rue|408|Dherrin||Marie|tordeuse|fille|66|NA|2, 2,20, 7, 1,  3|6M15
+1919|Grande Rue|409|veuve Roy|née Blondin dit Rose|Elizabeth|ouvrière en soie|veuve|48|NA|2, 2,20, 7, 1,  3|6M15
+1920|Grande Rue|410|Lyard||Gabriel|ouvrier en soie|homme marié|24|NA|2, 2,20, 7, 1,  3|6M15
+1921|Grande Rue|410|Lyard|Esquilan|Marie|ouvrière en soie|femme mariée|23|NA|2, 2,20, 7, 1,  3|6M15
+1922|Grande Rue|411|Coquet||Michel|ouvrier en soie|homme marié|32|NA|2, 2,20, 7, 1,  3|6M15
+1923|Grande Rue|411|Coquet|Boisson|Jeannette|ouvrière en soie|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+1924|Grande Rue|411|Coquet||Thomas|NA|garçon|2|NA||6M15
+1925|Grande Rue|411|Bouvier||Michel|ouvrier en soie|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+1926|Grande Rue|412|Gardon||Jean|propriétaire|homme marié|54|NA|4,98, 1,98, 98,  1|6M15
+1927|Grande Rue|412|Gardon|Revol|Marie|NA|femme mariée|56|NA||6M15
+1928|Grande Rue|413|Carle||Charles|journalière|homme marié|34|NA|4,96,98,98,30,  1|6M15
+1929|Grande Rue|413|Carle|Berthier|Catherine|tailleuse|femme mariée|38|NA|2, 2, 4, 1, 1,  1|6M15
+1930|Grande Rue|414|Lorrand||Anoine Noël|ouvrier f.|homme marié|60|NA|2, 2,20, 7, 1,  3|6M15
+1931|Grande Rue|414|femme Horrand|née Blanc|Anne Pierrette|ouvrière f.|femme mariée|53|NA|2, 2,20, 7, 1,  3|6M15
+1932|Grande Rue|414|Horrand||Marie Antoinette|ouvrière f.|fille|20|NA|2, 2,20, 7, 1,  3|6M15
+1933|Grande Rue|415|Saby||Benoit|ouvrier f.|homme marié|60|NA|2, 2,20, 7, 1,  3|6M15
+1934|Grande Rue|415|Saby|Clavel|Toinette|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+1935|Grande Rue|415|Joly||Claudine|ouvrière f.|fille|17|nièce de la précédente|2, 2,20, 7, 1,  3|6M15
+1936|Grande Rue|416|Ligourd||Guillaume|Md mercier|homme marié|49|NA|3, 4,10, 1, 1,  1|6M15
+1937|Grande Rue|416|Ligourd|Prom|Philiberthe|ouvrière f.|femme mariée|52|NA|2, 2,20, 7, 1,  3|6M15
+1938|Grande Rue|416|veuve Nomé|née Egourd|Françoise|ouvrière f.|veuve|28|NA|2, 2,20, 7, 1,  3|6M15
+1939|Grande Rue|417|Avril||Jean|cabaretier|homme marié|40|Mon. Dalmes n°53|3, 5, 1, 2, 1,  4|6M15
+1940|Grande Rue|417|Avril|Tiradon|Marie|cabaretière|femme mariée|30|NA|3, 5, 1, 2, 1,  4|6M15
+1941|Grande Rue|417|Avril||Françoise|NA|fille|9|NA||6M15
+1942|Grande Rue|417|Avril||Louis|NA|garçon|4|NA||6M15
+1943|Grande Rue|418|Geny||André|journalier|homme marié|38|NA|4,96,98,98,30,  1|6M15
+1944|Grande Rue|418|femme Geny||Marie|blanchisseuse|femme mariée|28|NA|3, 5,20, 4, 1,  1|6M15
+1945|Grande Rue|419|Ferles||Benoit|cantonnier|homme marié|36|NA|3, 6, 1,98, 1, 20|6M15
+1946|Grande Rue|419|Ferles|Therme|Marie|NA|femme mariée|27|NA||6M15
+1947|Grande Rue|419|Ferles||Marie Jeanne|NA|fille|14|NA||6M15
+1948|Grande Rue|420|Guyot||François|garde (gerin)|homme marié|45|Mon. Brodes n°53||6M15
+1949|Grande Rue|420|Guyot|Giraud|Louise|herboriste|femme mariée|45|NA|3, 4, 3, 1|6M15
+1950|Grande Rue|420|Boulard||Claudine|domestique|fille|26|NA|3, 5,25, 1, 1,  2|6M15
+1951|Grande Rue|420|Giraud||Anthelme|NA|homme marié|82|père de la précédente||6M15
+1952|Grande Rue|420|veuve Guyot|née Rety|Helaine|NA|femme mariée|70|mère du précédent||6M15
+1953|Grande Rue|421|Beurlin||Jean Antoine Hipolite|employé de la régie|homme marié|48|NA||6M15
+1954|Grande Rue|421|Beurlin|Vernay|Madelaine|NA|femme mariée|43|NA||6M15
+1955|Grande Rue|421|Beurlin||François|NA|garçon|14|NA||6M15
+1956|Grande Rue|422|Bussan||Adelaide|rentière|fille|45|NA|4,98, 1,98, 98,  7|6M15
+1957|Grande Rue|423|Laroche||Françoise|lingère|fille|45|NA|3, 5,20, 4, 1,  1|6M15
+1958|Grande Rue|424|Brodet||Pierre|ouvrier f.|homme marié|31|NA|2, 2,20, 7, 1,  3|6M15
+1959|Grande Rue|424|Brodet|Ponchon|Clémence|ouvrière f.|femme mariée|45|NA|2, 2,20, 7, 1,  3|6M15
+1960|Grande Rue|424|Brodet||Antoine|NA|garçon|4|NA||6M15
+1961|Grande Rue|424|Brodet||Antoine|ouvrier f.|veuf|71|NA|2, 2,20, 7, 1,  3|6M15
+1962|Grande Rue|424|Sard||Jean|ouvrier en soie|garçon|30|NA|2, 2,20, 7, 1,  3|6M15
+1963|Grande Rue|424|Bureau||Etienne|ouvrier en soie|garçon|20|NA|2, 2,20, 7, 1,  3|6M15
+1964|Grande Rue|424|Collot||Françoise|ouvrière en soie|fille|17|NA|2, 2,20, 7, 1,  3|6M15
+1965|Grande Rue|425|Mazoier||Jean Félix|ouvrier f.|homme marié|28|NA|2, 2,20, 7, 1,  3|6M15
+1966|Grande Rue|425|Mazoier|Didier|Flory|ouvrière f.|femme mariée|22|NA|2, 2,20, 7, 1,  3|6M15
+1967|Grande Rue|425|Mazoier||Clotilde|NA|fille|2|NA||6M15
+1968|Grande Rue|425|Mazoier||Mayse|NA|garçon|13 mois|NA||6M15
+1969|Grande Rue|426|veuve Devaix|née Franclet|Marie|lingère|veuve|48|NA|3, 5,20, 4, 1,  1|6M15
+1970|Grande Rue|427|Deplasse||Benoitte|rentière|fille|68|NA|4,98, 1,98, 98,  7|6M15
+1971|Grande Rue|428|Vert||Claude|ouvrier f.|homme marié|48|NA|2, 2,20, 7, 1,  3|6M15
+1972|Grande Rue|428|Vert|Dunon|Madelaine|ouvrière f.|femme mariée|46|NA|2, 2,20, 7, 1,  3|6M15
+1973|Grande Rue|428|Vert||Jeanne|ouvrière f.|fille|22|NA|2, 2,20, 7, 1,  3|6M15
+1974|Grande Rue|428|Vert||Gaspard|ouvrier f.|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+1975|Grande Rue|428|Vert||Pierre|ouvrier f.|garçon|9|NA|2, 2,20, 7, 1,  3|6M15
+1976|Grande Rue|428|Roz||Joséphine|ouvrière en soie|fille|36|NA|2, 2,20, 7, 1,  3|6M15
+1977|Grande Rue|429|Tardy||Charles|jardinier|homme marié|39|NA|1, 1, 3,98, 1,  1|6M15
+1978|Grande Rue|429|Tardy|Laury|Rosalie|jardinière|femme mariée|34|NA|1, 1, 3,98, 1,  1|6M15
+1979|Grande Rue|429|Tardy||Louis|NA|garçon|11|NA||6M15
+1980|Grande Rue|430|Sublet||Jacques|charcutier|homme marié|50|Mon. Sublet n°55|2, 2, 1, 5, 1,  4 |6M15
+1981|Grande Rue|430|Sublet|Missiney|Françoise|charcutière|femme mariée|45|NA|2, 2, 1, 5, 1,  4 |6M15
+1982|Grande Rue|430|Sublet||Charles|charcutier|garçon|17|NA|2, 2, 1, 5, 1,  4 |6M15
+1983|Grande Rue|430|Sublet||Laurent|NA|garçon|12|NA||6M15
+1984|Grande Rue|431|Rosan||Marc|ouvrier f.|homme marié|49|NA|2, 2,20, 7, 1,  3|6M15
+1985|Grande Rue|431|Rosan|Siméon|Elizabeth|ouvrière f.|femme mariée|38|NA|2, 2,20, 7, 1,  3|6M15
+1986|Grande Rue|431|Gillermain||Jeanne|ouvrière f.|fille|34|NA|2, 2,20, 7, 1,  3|6M15
+1987|Grande Rue|432|Fournet||François|ouvrier f.|homme marié|37|NA|2, 2,20, 7, 1,  3|6M15
+1988|Grande Rue|432|Fournet|Marron|Charlotte|ouvrière f.|femme mariée|31|NA|2, 2,20, 7, 1,  3|6M15
+1989|Grande Rue|432|Fournet||Rosalie|ouvrière f.|fille|5|NA|2, 2,20, 7, 1,  3|6M15
+1990|Grande Rue|433|Charpenel||Antoinette|ouvrier f.|fille|37|NA|2, 2,20, 7, 1,  3|6M15
+1991|Grande Rue|434|veuve Neunque|née Fert|Antoinette|ouvrière f.|veuve|56|NA|2, 2,20, 7, 1,  3|6M15
+1992|Grande Rue|435|Simon||Catherine|ouvrière f.|fille|40|NA|2, 2,20, 7, 1,  3|6M15
+1993|Grande Rue|435|Simon||Jean|ouvrier f.|garçon|31|NA|2, 2,20, 7, 1,  3|6M15
+1994|Grande Rue|435|Simon||Michel|ouvrier f.|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+1995|Grande Rue|436|Moutaud||Françoise|journalière|fille|50|NA|4,96,98,98,30,  1|6M15
+1996|Grande Rue|437|Rosan||François|ouvrier f.|homme marié|24|NA|2, 2,20, 7, 1,  3|6M15
+1997|Grande Rue|437|Rosan|Tardy|Pierrette|ouvrière f.|femme mariée|24|NA|2, 2,20, 7, 1,  3|6M15
+1998|Grande Rue|438|veuve Silvestre|née Marin|Jeanne|brodeuse|veuve|64|NA|2, 2,10, 3, 1,  7|6M15
+1999|Grande Rue|438|Silvestre||Madelaine|brodeuse|fille|38|NA|2, 2,10, 3, 1,  7|6M15
+2000|Grande Rue|439|Pochet||Colette|ouvrière f.|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+2001|Grande Rue|439|Dore||Anthelmette|ouvrière f.|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+2002|Grande Rue|440|Marin||Jeannette|cannetière|fille|50|NA|2, 2,20, 7, 1,  3|6M15
+2003|Grande Rue|441|Chaton||Jean|jardinier|homme marié|41|NA|1, 1, 3,98, 1,  1|6M15
+2004|Grande Rue|441|Chaton|Sadar|Jeanne Marie|jardinière|femme mariée|36|NA|1, 1, 3,98, 1,  1|6M15
+2005|Grande Rue|441|Chaton||Antoine|NA|garçon|10|NA||6M15
+2006|Grande Rue|441|Chaton||Thérèse|NA|fille|9|NA||6M15
+2007|Grande Rue|441|Chaton||Celestine|NA|fille|8|NA||6M15
+2008|Grande Rue|441|Chaton||Claude|NA|garçon|4|NA||6M15
+2009|Grande Rue|441|Chaton||Pierrette|NA|fille|1|NA||6M15
+2010|Grande Rue|442|Armand||Claude|ouvrier f.|homme marié|46|Mon. Poucon n°55|2, 2,20, 7, 1,  3|6M15
+2011|Grande Rue|442||Guy|Rosalie|ouvrière f.|femme mariée|42|NA|2, 2,20, 7, 1,  3|6M15
+2012|Grande Rue|442|||Jean|ouvrier f.|fille|7|NA|2, 2,20, 7, 1,  3|6M15
+2013|Grande Rue|442|Dupré||Jean Claude|ouvrière f.|garçon|25|NA|2, 2,20, 7, 1,  3|6M15
+2014|Grande Rue|443|veuve Malbos|née Verny|Catherine|ouvrière f.|veuve|36|NA|2, 2,20, 7, 1,  3|6M15
+2015|Grande Rue|443|Malbos||Antoine|ouvrier f.|garçon|16|NA|2, 2,20, 7, 1,  3|6M15
+2016|Grande Rue|443|Malbos||Marie|ouvrière f.|fille|29|NA|2, 2,20, 7, 1,  3|6M15
+2017|Grande Rue|443|Malbos||Marie|ouvrière f.|fille|7|NA|2, 2,20, 7, 1,  3|6M15
+2018|Grande Rue|443|veuve Dupré|née Bouvard|Marie|ouvrière f.|veuve|40|NA|2, 2,20, 7, 1,  3|6M15
+2019|Grande Rue|443|Dupré||Pierrette|NA|fille|7|NA||6M15
+2020|Grande Rue|444|Bladier||Alain|poelier|garçon|25|Mon. Macard n°57|2, 2,35, 4, 3,  8|6M15
+2021|||||||||||

@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:24:56.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TtH9YnW6OQxKPeMIMiPJ" version="24.4.6" type="device">
+  <diagram name="Page-1" id="0SBXd49LUMcfFHOJyT-W">
+    <mxGraphModel dx="834" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-1" value="C22 Legal Quality Type&lt;div&gt;(&quot;Statut marital&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="185" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-3" value="C26 Legal Quality&lt;div&gt;(&lt;b&gt;statut_marital&lt;/b&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1108" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="LVzLQ8PIczJLZQD4RkMt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="220" as="sourcePoint" />
+            <mxPoint x="1420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVzLQ8PIczJLZQD4RkMt-5" value="sdh-so:P39 has type" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LVzLQ8PIczJLZQD4RkMt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1248" y="310" as="sourcePoint" />
+            <mxPoint x="1168" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-2" value="C13 Social Role Embodiment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-3" value="E21 Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNf8NN8J0Cdc3LmISxKP-2" target="wNf8NN8J0Cdc3LmISxKP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="350" as="sourcePoint" />
+            <mxPoint x="1410" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-5" value="sdh-so:P37 is legal quality of" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNf8NN8J0Cdc3LmISxKP-6" value="sdh-so:P26 is embodiment by" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="400" width="125" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
