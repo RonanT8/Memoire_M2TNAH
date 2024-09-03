@@ -1,0 +1,96 @@
+.theme {
+    --ion-background-color: #fff;
+    --gv-bg-project-toolbar: #EBF8FF;
+}
+
+.logosTitle {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.logosContainer {
+    margin-top: 4rem;
+    background-color: white;
+    --ion-grid-column-padding: var(--ion-padding);
+}
+
+.bannerContainer {
+    position: relative;
+    height: 250px;
+    display: flex;
+    align-items: center;
+}
+
+.bannerImage {
+    object-position: 40% 20%;
+}
+
+.title {
+    color: #fff;
+    font-size: 1.4rem;
+    text-shadow: rgb(70, 76, 38) 1px 0 10px;
+    position: absolute;
+    left: 1rem;
+    right: 1rem;
+    bottom: 0.3rem;
+}
+
+/* sm and up */
+@media screen and (min-width: 576px) {
+    .title {
+        font-size: 2rem;
+    }
+
+    .bannerContainer {
+        height: 350px;
+    }
+
+    .bannerImage {
+        object-position: 100% 20%;
+    }
+}
+
+/* md and up */
+@media screen and (min-width: 768px) {
+    .title {
+        font-size: 2.1rem;
+    }
+
+    .bannerContainer {
+        height: 425px;
+    }
+
+    .bannerImage {
+        object-position: 100% 20%;
+    }
+}
+
+/* lg and up */
+@media screen and (min-width: 992px) {
+    .title {
+        font-size: 2.6rem;
+    }
+
+    .bannerContainer {
+        height: 500px;
+    }
+
+    .bannerImage {
+        object-position: 100% 20%;
+    }
+}
+
+/* xl and up */
+@media screen and (min-width: 1200px) {
+    .title {
+        font-size: 3.1rem;
+    }
+
+    .bannerContainer {
+        height: 650px;
+    }
+
+    .bannerImage {
+        object-position: 100% 20%;
+    }
+}
