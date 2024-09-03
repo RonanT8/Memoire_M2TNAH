@@ -1,0 +1,940 @@
+identifiant|quartiers|rue|maison|individu|nom_ménage|prenoms|qualifications|garcon|homme|veuf|fille|femme|veuve|age|observations
+1|Vernaison||1|1|THEVROT|Jean Pierre|propriétaire, chef de ménage||1|||||65 ans|
+2|Vernaison||1|2|REVENU|Marie|sa femme|||||1||60 ans|
+3|Vernaison||2|3|ROUNETON, femme COCHARD|Marie|ouvrière en soie, chef de ménage|||||1||40 ans|
+4|Vernaison||2|4|COCHARD|Séraphine|sa fille, ouvrière en soie||||1|||16 ans|
+5|Vernaison||2|5|BERTRANT|Benoite|leur mère||||||1|76 ans|
+6|Vernaison||3|6|BUY, veuve THIBAUDIER|Anne|lingère, chef de ménage||||||1|45 ans|
+7|Vernaison||3|7|THIBAUDIER|Françoise|sa fille, lingère||||1|||23 ans|
+8|Vernaison||3|8|THIBAUDIER|Joséphine|sa fille, repasseuse||||1|||18 ans|
+9|Vernaison||3|9|BUY|Eugénie|sa fille||||1|||7 ans|
+10|Vernaison||4|10|DUCRENE|Mathieu|journalier, chef de ménage||1|||||34 ans|
+11|Vernaison||4|11|GUINET|Anne|sa femme|||||1||38 ans|
+12|Vernaison||5|12|GORGET, veuve Binet|Louise|propriétaire, chef de ménage||||||1|40 ans|
+13|Vernaison||5|13|BINET|Marie|sa fille||||1|||10 ans|
+14|Vernaison||6|14|FAURE|Françoise|veloutier, chef de ménage||1|||||26 ans|
+15|Vernaison||6|15|EYMIN|Claudine|sa femme|||||1||24 ans|
+16|Vernaison||6|16|FAURE|Etienne|leur fils|1||||||6 mois|
+17|Vernaison||6|17|GANDY|Pierre|veloutier||1|||||27 ans|
+18|Vernaison||6|18|CHEVROT|Jean Pierre|propriétaire, chef de ménage||1|||||40 ans|
+19|Vernaison||6|19|DESCHAMPS|Etiennette|sa femme|||||1||32 ans|
+20|Vernaison||6|20|CHEVROT|Jacques|leur fils|1||||||3 ans|
+21|Vernaison||6|21|CHEVROT|Charles|leur fils|1||||||1 an|
+22|Vernaison||7|22|DONAT|Donat|bourrelier, chef de ménage||1|||||45 ans|
+23|Vernaison||7|23|COUILLARD|Claudine|sa femme|||||1||40 ans|
+24|Vernaison||7|24|DONAT|Claude|leur fils|1||||||14 ans|
+25|Vernaison||8|25|PIN|Louis|propriétaire, chef de ménage||1|||||63 ans|
+26|Vernaison||8|26|GEORGET|Elise|sa femme|||||1||67 ans|
+27|Vernaison||8|27|PIN|Pierre|leur fils|1||||||35 ans|
+28|Vernaison||8|28|PIN|Auguste|leur fils|1||||||33 ans|
+29|Vernaison||8|29|DUTHIL|François|domestique|1||||||35 ans|
+30|Vernaison||8|30|DUTHIL|Françoise|domestique||||1|||32 ans|
+31|Vernaison||1|1|DEGOUTTE|Jean|granger, chef de ménage||1|||||31 ans|
+32|Vernaison||1|2|PARDON|Pierrette|sa femme|||||1||30 ans|
+33|Vernaison||1|3|PIQUET|Jean|domestique|1||||||24 ans|
+34|Vernaison||2|4|BERGEON|Jean|veloutier, chef de ménage||1|||||46 ans|
+35|Vernaison||2|5|GUIBERT|Claudine|sa femme|||||1||48 ans|
+36|Vernaison||2|6|BERGEON|Gaspard|leur fils|1||||||16 ans|
+37|Vernaison||2|7|BERGEON|Jean Marie|leur fils|1||||||10 ans|
+38|Vernaison||2|8|BERGEON|Florence|leur fille||||1|||4 ans|
+39|Vernaison||3|9|FAYOLLE|Pierre|cultivateur, chef de ménage||1|||||48 ans|
+40|Vernaison||3|10|DAVID|Eudouis|sa femme|||||1||50 ans|
+41|Vernaison||4|11|VERAUX, veuve VILLARET|Marie|blanchisseuse, chef de ménage||||||1|45 ans|
+42|Vernaison||4|12|VILLARET|Suzanne|sa fille||||1|||17 ans|
+43|Vernaison||4|13|VILLARET|Jean|son fils|1||||||12 ans|
+44|Vernaison||4|14|VILLARET|Jules|son fils|1||||||9 ans|
+45|Vernaison||4|15|VILLARET|Eugénie|sa fille||||1|||6 ans|
+46|Vernaison||4|16|VERAUX|Suzanne|sa sœur, blanchisseuse||||1|||40 ans|
+47|Vernaison||5|17|MAS|Antoine|journalier, chef de ménage||1|||||32 ans|
+48|Vernaison||5|18|BROSSE|Jeanne|sa femme|||||1||35 ans|
+49|Vernaison||5|19|MAS|Louis|leur fils|1||||||3 ans|
+50|Vernaison||6|20|MONTFOUILLOUX, veuve COMTE|Eléonore|journalière, chef de ménage||||||1|62 ans|
+51|Vernaison||6|21|COMTE|Jean|journalier, son fils|1||||||30 ans|
+52|Vernaison||7|22|CHEVROT|Jean|cultivateur, chef de ménage||1|||||32 ans|
+53|Vernaison||7|23|PELLION|Marie|sa femme|||||1||38 ans|
+54|Vernaison||7|24|CHEVROT|Marie|leur fille||||1|||15 ans|
+55|Vernaison||7|25|CHEVROT|Marguerite|leur fille||||1|||11 ans|
+56|Vernaison||7|26|CHEVROT|Antoinette|leur fille||||1|||1 an|
+57|Vernaison||8|27|DUTOUR, veuve ABEL|Mariette|rentière, chef de ménage||||||1|55 ans|
+58|Vernaison||8|28|ABEL|Vincentine|sa fille||||1|||20 ans|
+59|Vernaison||8|29|LAMURE|Pierre|domestique|1||||||28 ans|
+60|Vernaison||8|30|COERNY|Antoinette|domestique||||1|||28 ans|
+61|Vernaison||1|1|LOMBARD|Jean|imprimeur, chef de ménage||1|||||30 ans|
+62|Vernaison||1|2|COLOMBET|Marie|son épouse|||||1||32 ans|
+63|Vernaison||1|3|LOMBARD|Clotilde|leur fille||||1|||6 ans|
+64|Vernaison||1|4|LOMBARD|Suzanne|leur fille||||1|||4 ans|
+65|Vernaison||1|5|LOMBARD|Antoine|leur fils|1||||||1 an|
+66|Vernaison||2|6|CHAUSSONNET|NI|Directeur de la fabrique d'impression sur étoffes||1|||||32 ans|
+67|Vernaison||2|7|OLIVIER|Marie|sa femme|||||1||29 ans|
+68|Vernaison||2|8|CHAUSSONNET|Claudine|leur fille||||1|||9 ans|
+69|Vernaison||2|9|CHAUSSONNET|Claude|leur fils|1||||||6 ans|
+70|Vernaison||3|10|BILLON|Gabriel|Directeur de la fabrique d'impression sur étoffes||1|||||26 ans|
+71|Vernaison||3|11|OLIVIER|Marie|sa femme|||||1||26 ans|
+72|Vernaison||3|12|BILLON|Joséphine|leur fille||||1|||4 ans|
+73|Vernaison||NI|13|LAPIERRE|Honoré|ouvrier imprimeur|1||||||25 ans|
+74|Vernaison||NI|14|BONY|Pierre|ouvrier imprimeur|1||||||30 ans|
+75|Vernaison||NI|15|BOURRUY|Jean Baptiste|ouvrier imprimeur|1||||||32 ans|
+76|Vernaison||NI|16|GIRAUD|Jean Marie|ouvrier imprimeur|1||||||26 ans|
+77|Vernaison||NI|17|SIEUX|Antoine|ouvrier imprimeur|1||||||45 ans|
+78|Vernaison||NI|18|TROMETON|Justinien|ouvrier imprimeur|1||||||30 ans|
+79|Vernaison||NI|19|FALES|Nicolas|ouvrier imprimeur|1||||||29 ans|
+80|Vernaison||NI|20|PERIEUX|Jean|ouvrier imprimeur|1||||||28 ans|
+81|Vernaison||NI|21|DUPUIS|Frédéric|employé au chemin de fer|1||||||24 ans|
+82|Vernaison||4|22|THIOLIER|Antoine|curé chef de ménage|1||||||35 ans|
+83|Vernaison||4|23|FAVIER|Marie|sa domestique||||1|||38 ans|
+84|Vernaison||5|24|PERRIN|Laurent|rentier, chef de ménage|||1||||84 ans|
+85|Vernaison||5|25|VALIN|François|domestique|1||||||42 ans|
+86|Vernaison||5|26|PARAUX|Claudine|domestique||||1|||50 ans|
+87|Vernaison||6|27|LECHEVALLIER|Nicolas|granger, chef de ménage||1|||||44 ans|
+88|Vernaison||6|28|CHABANNE|Benoite|sa femme|||||1||42 ans|
+89|Vernaison||6|29|CHABOUD|Antoine|domestique|1||||||23 ans|
+90|Vernaison||6|30|BARBIER|Marie|domestique||||1|||18 ans|
+91|Vernaison||1|1|RADIX|François|cultivateur, chef de ménage||1|||||46 ans|
+92|Vernaison||1|2|OLAGNIER|Marie|sa femme|||||1||44 ans|
+93|Vernaison||1|3|RADIX|Thomas|leur fils, cultivateur|1||||||19 ans|
+94|Vernaison||2|4|BOURDIN|Pierre|tailleur, chef de ménage||1|||||32 ans|
+95|Vernaison||2|5|SADIN|Marie|sa femme|||||1||30 ans|
+96|Vernaison||2|6|BOURDIN|Clarisse|leur fille||||1|||6 ans|
+97|Vernaison||2|7|BOURDIN|Claude|leur fils|1||||||5 ans|
+98|Vernaison||2|8|veuve SADIN|Marie|belle-mère||||||1|61 ans|
+99|Vernaison||3|9|VERNAY|François|ébéniste, chef de ménage||1|||||32 ans|
+100|Vernaison||3|10|COUILLARD|Elisabeth|sa femme|||||1||27 ans|
+101|Vernaison||3|11|VERNAY|Annette|leur fille||||1|||2 ans|
+102|Vernaison||3|12|VERNAY|Claudine|leur fille||||1|||1 an|
+103|Vernaison||3|13|CHAMPAU|Jean|ouvrier|1||||||20 ans|
+104|Vernaison||4|14|PERIGNY|Antoine|épicier, chef de ménage||1|||||30 ans|
+105|Vernaison||4|15|CHRISTOPHE|Marie|sa femme|||||1||30 ans|
+106|Vernaison||4|16|PERIGNY|Joseph|leur fils|1||||||5 ans|
+107|Vernaison||4|17|PERIGNY|Andrée Anne|leur fille||||1|||3 ans|
+108|Vernaison||4|18|PERIGNY|Claudine|leur fille||||1|||1 an|
+109|Vernaison||5|19|VACHEZ|Guillaume|veloutier, chef de ménage||1|||||30 ans|
+110|Vernaison||5|20|CHRISTOPHE|Marie|sa femme|||||1||28 ans|
+111|Vernaison||5|21|VACHEZ|Claudine|leur fille||||1|||4 ans|
+112|Vernaison||5|22|VACHEZ|Magdeleine|leur fille||||1|||2 ans|
+113|Vernaison||6|23|CHRISTOPHE|Jean|propriétaire, chef de ménage||1|||||30 ans|
+114|Vernaison||6|24|TISSOT|Jeannette|sa femme|||||1||28 ans|
+115|Vernaison||6|25|CHRISTOPHE|François|leur fils|1||||||4 ans|
+116|Vernaison||7|26|VACHEZ|Claude|boulanger, chef de ménage|||1||||60 ans|
+117|Vernaison||7|27|VACHEZ|André|boulanger||1|||||33 ans|
+118|Vernaison||7|28|MAILLARD|Marie|sa femme|||||1||28 ans|
+119|Vernaison||7|29|VACHEZ|Anne|leur fille||||1|||3 ans|
+120|Vernaison||7|30|VACHEZ|Claude|leur fils|1||||||1 an|
+121|Vernaison||1|1|COLLET|François|rentier, chef de ménage||1|||||67 ans|
+122|Vernaison||1|2|DUFOURNEL|Antoinette|sa femme|||||1||60 ans|
+123|Vernaison||1|3|ARNAUD|Caroline|domestique||||1|||20 ans|
+124|Vernaison||2|4|MAZUYER|Benoit, ainé|cordonnier, chef de ménage|||1||||39 ans|
+125|Vernaison||2|5|MAZUYER|Benoit|son fils|1||||||11 ans|
+126|Vernaison||2|6|MAZUYER|Françoise|sa fille||||1|||8 ans|
+127|Vernaison||2|7|MAZUYER|Benoit, second du nom|cordonnier, frère du chef de ménage||1|||||33 ans|
+128|Vernaison||2|8|MAZUYER|Marie|sa femme|||||1||30 ans|
+129|Vernaison||2|9|MAZUYER|Marguerite|leur fille||||1|||2 ans|
+130|Vernaison||2|10|MAZUYER|Benoit, cadet|veloutier, frère du chef de ménage|1||||||25 ans|
+131|Vernaison||2|11|ROUGOT, veuve MAZUYET|Marguerite|leur mère||||||1|65 ans|
+132|Vernaison||3|12|DUCREUX, veuve BADOR|Marie|journalière, chef de ménage||||||1|47 ans|
+133|Vernaison||3|13|BADOR|Pierre|veloutier, son fils|1||||||21 ans|
+134|Vernaison||3|14|HERARD|Paul|veloutier, chef de ménage||1|||||28 ans|
+135|Vernaison||3|15|PONCET|Mariette|sa femme|||||1||28 ans|
+136|Vernaison||3|16|PERCEVAUT|François|ouvrier en soie, chef de ménage||1|||||50 ans|
+137|Vernaison||3|17|DEVAUX|Marie|sa femme|||||1||40 ans|
+138|Vernaison||3|18|PERCEVAUT|Louis|leur fils|1||||||12 ans|
+139|Vernaison||3|19|PERCEVAUT|Elisabeth|leur fille||||1|||3 ans|
+140|Vernaison||3|20|THIBAUDIER, veuve DERIEUX|Simone|journalière, chef de ménage||||||1|40 ans|
+141|Vernaison||3|21|DERIEUX|Pierre|son fils|1||||||8 ans|
+142|Vernaison||3|22|THIBAUDIER|Marie|sa fille||||1|||1 an|enfant naturel
+143|Vernaison||4|23|BINET|François|épicier, chef de ménage||1|||||60 ans |
+144|Vernaison||4|24|GRENAND|Louise|sa femme|||||1||48 ans|
+145|Vernaison||4|25|FONTAINE|Suzanne|domestique||||1|||19 ans|
+146|Vernaison||5|26|TESTE|Jean|cordonnier, chef de ménage||1|||||24 ans|
+147|Vernaison||5|27|CHAUSSON|Jeanne|sa femme|||||1||21 ans|
+148|Vernaison||5|28|TESTE|Gilbert|son fils|1||||||1 an|
+149|Vernaison||6|29|MION|Jacques|marinier, chef de ménage||1|||||30 ans|
+150|Vernaison||6|30|THAVERSIER|Pierrette|sa femme|||||1||30 ans|
+151|Vernaison||1|1|RIGOLLIER|Marie|rentière, chef de ménage||||||1|51 ans|
+152|Vernaison||1|2|BOURDIN|Jean Antoine|son fils, cerclier|1||||||19 ans|
+153|Vernaison||1|3|BOURDIN|Claude|son fils, cerclier|1||||||17 ans|
+154|Vernaison||1|4|BOURDIN|Eugénie|sa fille||||1|||15 ans|
+155|Vernaison||2|5|VACHON|Jean Marie|menuisier, chef de ménage||1|||||38 ans|
+156|Vernaison||2|6|OLIVIER|Annette|sa femme|||||1||30 ans|
+157|Vernaison||2|7|VACHON|François|leur fils|1||||||3 ans|
+158|Vernaison||3|8|MOUSSY|Etienne|journalier, chef de ménage||1|||||48 ans|
+159|Vernaison||3|9|VERNAY|Eugénie|sa femme|||||1||25 ans|
+160|Vernaison||3|10|MOUSSY|Catherine|leur fille||||1|||3 ans|
+161|Vernaison||3|11|MOUSSY|Marie|leur fille||||1|||1 an|
+162|Vernaison||4|12|MAZUYER|Benoit|journalier, chef de ménage||1|||||60 ans|
+163|Vernaison||4|13|MONTFOUILLOUX|Marie|sa femme|||||1||60 ans|
+164|Vernaison||4|14|FANET|Marie|leur petite fille||||1|||10 ans|
+165|Vernaison||5|15|VACHEZ|Jean|serrurier, chef de ménage||1|||||40 ans|
+166|Vernaison||5|16|PERRIN|Etiennette|sa femme|||||1||40 ans|
+167|Vernaison||5|17|VACHEZ|Magdeleine|leur fille||||1|||10 ans|
+168|Vernaison||5|18|VACHEZ|André|leur fils|1||||||2 ans|
+169|Vernaison||5|19|PICONAUT|Joseph|ouvrier|1||||||28 ans|
+170|Vernaison||5|20|EPAL|Auguste|apprenti|1||||||18 ans|
+171|Vernaison||5|21|JANIQUE|Aimé|ouvrier|1||||||22 ans|
+172|Vernaison||6|22|CHAMBRY|Jean|journalier, chef de ménage||1|||||54 ans|
+173|Vernaison||6|23|CESSIEUX|Anne|sa femme|||||1||56 ans|
+174|Vernaison||6|24|CHAMBRY|François|leur fils, ouvrier en soie|1||||||18 ans|
+175|Vernaison||7|25|DOPET|Benoit|patron, chef de ménage||1|||||38 ans|
+176|Vernaison||7|26|GEORGET|Mariette|sa femme|||||1||38 ans|
+177|Vernaison||7|27|LENFANT|Marc|pensionnaire|1||||||9 ans|
+178|Vernaison||8|28|MION|André|marinier, chef de ménage||1|||||60 ans|
+179|Vernaison||8|29|GODARD|Jeanne|sa femme|||||1||60 ans|
+180|Vernaison||8|30|MION|Etienne|leur fils, marinier|1||||||19 ans|
+181|Vernaison||1|1|PUYS|Dominique|boucher, chef de ménage||1|||||50 ans|
+182|Vernaison||1|2|GEORGET|Jacqueline|sa femme|||||1||38 ans|
+183|Vernaison||1|3|PUYS|Aimé|leur fils|1||||||14 ans|
+184|Vernaison||1|4|PUYS|Joseph|leur fils|1||||||8 ans|
+185|Vernaison||2|5|PHILIPPE|Jean Pierre|garçon marinier, chef de ménage||1|||||24 ans|
+186|Vernaison||2|6|MARIN|Justine|sa femme|||||1||22 ans|
+187|Vernaison||2|7|PHILIPPE|Elisa|leur fille||||1|||2 ans|
+188|Vernaison||3|8|BARILLOT|Joseph|voiturier par eau, chef de ménage||1|||||35 ans|
+189|Vernaison||3|9|PHILIPPE|Rose|sa femme|||||1||20 ans|
+190|Vernaison||4|10|BOUCHARDON|Jean|journalier, chef de ménage||1|||||64 ans|
+191|Vernaison||4|11|LOMBARD|Gabrielle|sa femme|||||1||61 ans|
+192|Vernaison||5|12|BONNARD|Jean|journalier, chef de ménage||1|||||60 ans|
+193|Vernaison||5|13|DEVISE|Marie|sa femme|||||1||42 ans|
+194|Vernaison||6|14|BURDY|Philibert|marinier, chef de ménage||1|||||37 ans|absent pour son travail
+195|Vernaison||6|15|JAMBE|Jeanne|sa femme|||||1||32 ans|
+196|Vernaison||6|16|BURDY|Jean|leur fils|1||||||13 ans|
+197|Vernaison||6|17|BURDY|Simone|leur fils|1||||||10 ans|
+198|Vernaison||6|18|BURDY|Claude|leur fils|1||||||1 an|
+199|Vernaison||7|19|BERNARD|Henri|journalier, chef de ménage||1|||||34 ans|
+200|Vernaison||7|20|MAZUYER|Benoite|sa femme|||||1||28 ans|
+201|Vernaison||7|21|BERNARD|Claude|leur fils|1||||||2 ans|
+202|Vernaison||7|22|MAZUYER|Pierre|beau père|||1||||80 ans|
+203|Vernaison||8|23|COLOMB|Jean Pierre|veloutier, chef de ménage||1|||||28 ans|
+204|Vernaison||8|24|PONCET|Anne|sa femme|||||1||28 ans|
+205|Vernaison||8|25|COLOMB|Etienne|leur fils|1||||||5 ans|
+206|Vernaison||8|26|GENISSIEUX|Antoine|menuisier, chef de ménage||1|||||25 ans|
+207|Vernaison||8|27|COLOMB|Marguerite|sa femme, ouvrière en soie|||||1||32 ans|
+208|Vernaison||8|28|PERRET, veuve COLOMB|Marguerite|belle-mère||||||1|50 ans|
+209|Vernaison||8|29|BUREL|Claude|apprenti veloutier|1||||||17 ans|
+210|Vernaison||9|30|BOUILLON|Charles|cultivateur|||1||||79 ans|
+211|Vernaison||1|1|DUCREUX|Emmond|journalier, chef de ménage||1|||||45 ans|
+212|Vernaison||1|2|PITIOT|Marie|sa femme|||||1||45 ans|
+213|Vernaison||1|3|DUCREUX|Pierre|leur fils|1||||||19 ans|
+214|Vernaison||2|4|MONTFOUILLOUX|Etienne|propriétaire||1|||||66 ans|
+215|Vernaison||2|5|DUFOURNEL|Gabrielle|sa femme|||||1||61 ans|
+216|Vernaison||2|6|MONTFOUILLOUX|Tonine|leur fille||||1|||16 ans|
+217|Vernaison||2|7|MONTFOUILLOUX|Etienne|leur petit fils|1||||||8 ans|
+218|Vernaison||2|8|GRAND|Gabrielle|leur petite fille||||1|||14 ans|
+219|Vernaison||3|9|MOREL|Etienne|marchand de vin, chef de ménage||1|||||52 ans|
+220|Vernaison||3|10|DAMIEN|Magdeleine|sa femme|||||1||45 ans|
+221|Vernaison||4|11|LANUS|Jeanne|rentière, chef de ménage||||||1|70 ans|
+222|Vernaison||4|12|JULIN|Anne|domestique||||1|||16 ans|
+223|Vernaison||5|13|BARILLOT|Joseph|marinier, chef de ménage||1|||||46 ans|
+224|Vernaison||5|14|GUY|Marie|sa femme|||||1||43 ans|
+225|Vernaison||5|15|BARILLOT|Pierre|leur fils, marinier|1||||||24 ans|
+226|Vernaison||5|16|BARILLOT|Marie|leur fille||||1|||17 ans|
+227|Vernaison||5|17|BARILLOT|Etienne|leur fils|1||||||12 ans|
+228|Vernaison||5|18|BARILLOT|Louise|leur fille||||1|||10 ans|
+229|Vernaison||5|19|BARILLOT|Tonine|leur fille||||1|||9 ans|
+230|Vernaison||5|20|BARILLOT|Alexandre|leur fils|1||||||5 ans|
+231|Vernaison||6|21|PITIOT|Michel|marinier, chef de ménage||1|||||40 ans|
+232|Vernaison||6|22|GEOFFRAY|Pierrette|sa femme|||||1||35 ans|
+233|Vernaison||6|23|PITIOT|Marie|leur fille||||1|||6 ans|
+234|Vernaison||6|24|PITIOT|Périne|leur fille||||1|||3 ans|
+235|Vernaison||6|25|PITIOT|Eugénie|leur fille||||1|||1 an|
+236|Vernaison||7|26|BLANC|Jeanne|rentière, chef de ménage|||||1||50 ans|
+237|Vernaison||7|27|OLIVIER|Gervais|garde au chemin de fer, pensionnaire|1||||||35 ans|
+238|Vernaison||7|28|SCHWART|Henri|garde au chemin de fer, pensionnaire|1||||||27 ans|
+239|Vernaison||8|29|BRET-MOREL, veuve BERGER|Claudine|rentière, chef de ménage||||||1|87 ans|
+240|Vernaison||9|30|GUTTON, veuve BLANCHARD|Anne|rentière, chef de ménage||||||1|60 ans|
+241|Vernaison||1|1|BOUILLON|Charles|marinier, chef de ménage||1|||||30 ans|
+242|Vernaison||1|2|SAUSSE|Joséphine|sa femme|||||1||30 ans|
+243|Vernaison||1|3|BOUILLON|Lucie|leur fille||||1|||3 ans|
+244|Vernaison||2|4|MAS, veuve DUCREUX|Benoite|journalière, chef de ménage||||||1|73 ans|
+245|Vernaison||2|5|DUCREUX|André|son fils|1||||||35 ans|infirme
+246|Vernaison||3|6|ROUCHETON|Jean|maçon, chef de ménage||1|||||45 ans|
+247|Vernaison||3|7|FOURNET|Marie|sa femme|||||1||36 ans|
+248|Vernaison||3|8|ROUCHETON|Christophe|maçon, leur fils|1||||||19 ans|
+249|Vernaison||3|9|COCHONNET|Jean|ouvrier maçon|1||||||40 ans|
+250|Vernaison||3|10|MONTET|Léonard|ouvrier maçon|1||||||36 ans|
+251|Vernaison||3|11|LAGRANGE|Jean|ouvier maçon|1||||||50 ans|
+252|Vernaison||3|12|MAINE|Léonard|ouvrier maçon|1||||||16 ans|
+253|Vernaison||3|13|LAVERGNE|Jean|ouvrier maçon|1||||||18 ans|
+254|Vernaison||3|13|LAVERGNE|Pierre|ouvrier maçon|1||||||19 ans|
+255|Vernaison||3|14|DARFEUILLE|Léonard|ouvrier maçon|1||||||18 ans|
+256|Vernaison||4|16|VILLARD|Marie|journalière, chef de ménage|||||1||63 ans|
+257|Vernaison||5|17|MAS|Jean|charpentier, chef de ménage||1|||||39 ans|
+258|Vernaison||5|18|BERTHET|Elisabeth|sa femme|||||1||37 ans|
+259|Vernaison||5|19|MAS|Antoine|leur fils|1||||||7 ans|
+260|Vernaison||5|20|MAS|François|leur fils|1||||||5 ans|
+261|Vernaison||5|21|MAS|Claudine|leur fille||||1|||3 ans|
+262|Vernaison||6|22|BADIN|Benoit|journalier, chef de ménage||1|||||48 ans|
+263|Vernaison||6|23|CHAPEAU|Marguerite|sa femme|||||1||40 ans|
+264|Vernaison||7|24|REVOLAT|Jean|journalier, chef de ménage||1|||||41 ans|
+265|Vernaison||7|25|LERNY|Marie|sa femme|||||1||46 ans|
+266|Vernaison||8|26|HINAUBEAU|Jean|journalier, chef de ménage|1||||||50 ans|
+267|Vernaison||8|27|TOURNIER, veuve DARMET|Louise|journalière||||||1|55 ans|
+268|Vernaison||8|28|DARMET|Xavier|son fils, veloutier|1||||||26 ans|
+269|Vernaison||9|29|BRONDEL|Claude|débitant de tabac, chef de ménage||1|||||56 ans|
+270|Vernaison||9|30|CALAMEL|Claudine|sa femme|||||1||64 ans|
+271|Vernaison||1|1|BARILLOT|Etienne|voiturier par eau, chef de ménage||1|||||45 ans|
+272|Vernaison||1|2|BOUILLON|Eugénie|sa femme|||||1||25 ans|
+273|Vernaison||1|3|ROMIEUX, veuve BOUILLON|Marie|belle-mère, garde malade||||||1|58 ans|
+274|Vernaison||2|4|VACHEZ|Guillaume|veloutier, chef de ménage||1|||||40 ans|
+275|Vernaison||2|5|CHAVANNE|Françoise|sa femme|||||1||37 ans|
+276|Vernaison||2|6|VACHEZ|Benoite|leur fille ainée||||1|||15 ans|
+277|Vernaison||2|7|VACHEZ|Anne|leur fille||||1|||13 ans|
+278|Vernaison||2|8|VACHEZ|Jean Marie|leur fils|1||||||7 ans|
+279|Vernaison||2|9|VACHEZ|Guillaume|leur fils, cadet|1||||||5 ans|
+280|Vernaison||2|10|GUY|Mathieu|propriétaire, chef de ménage||1|||||57 ans|
+281|Vernaison||2|11|LOUIS|Antoinette|sa femme|||||1||49 ans|
+282|Vernaison||2|12|GUY|Pierre|leur fils|1||||||15 ans|
+283|Vernaison||2|13|GUY|Michel|leur fils|1||||||13 ans|
+284|Vernaison||2|14|GUY|Ferdinand|leur fils|1||||||11 ans|
+285|Vernaison||2|15|GUY|Pierrette|leur fille||||1|||9 ans|
+286|Vernaison||2|16|LOUIS|Claudine|repasseuse, sœur de la femme||||1|||44 ans|
+287|Vernaison||3|17|MAISON|Joseph|marinier, chef de ménage||1|||||47 ans|absent pour son travail
+288|Vernaison||3|18|BAUGE|Marie|sa femme|||||1||30 ans|
+289|Vernaison||3|19|MAISON |Eugénie|leur fille||||1|||6 ans|
+290|Vernaison||3|20|MAISON|Claudine|leur fille||||1|||4 ans|
+291|Vernaison||3|21|MAISON|Marguerite|leur fille||||1|||1 an|
+292|Vernaison||4|22|RIVIERE|Etienne|matelassier, chef de ménage||1|||||36 ans|
+293|Vernaison||4|23|COLOMB|Geneviève|sa femme|||||1||36 ans|
+294|Vernaison||4|24|RIVIERE|François|leur fils|1||||||14 ans|
+295|Vernaison||4|25|RIVIERE|Marguerite|leur fille||||1|||12 ans|
+296|Vernaison||4|26|RIVIERE|Eugénie|leur fille||||1|||8 ans|
+297|Vernaison||4|27|RIVIERE|François|leur fils|1||||||5 ans|
+298|Vernaison||4|28|RIVIERE|Maxime|leur fils|1||||||3 ans|
+299|Vernaison||5|29|LOUIS, veuve CHRISTOPHE|Marie|rentière, chef de ménage||||||1|54 ans|
+300|Vernaison||5|30|CHRISTOPHE|Joseph|veloutier, son fils|1||||||22 ans|
+301|Vernaison||1|1|COGNAT, veuve BARILLOT|Annette|chef de ménage||||||1|54 ans|
+302|Vernaison||1|2|BARILLOT|Eugénie|lingère, sa fille||||1|||22 ans|
+303|Vernaison||1|3|BARILLOT|Clotilde|lingère, sa fille||||1|||14 ans|
+304|Vernaison||2|4|VERNAY|Maxime|veloutier, chef de ménage||1|||||27 ans|
+305|Vernaison||2|5|RIVIERE|Marguerite|sa femme|||||1||29 ans|
+306|Vernaison||2|6|VERNAY|Marie Louise|leur fille||||1|||3 ans|
+307|Vernaison||2|7|VERNAY|Catherine|leur fille||||1|||1 an|
+308|Vernaison||3|8|CHAPPET|François|marinier, chef de ménage||1|||||36 ans|
+309|Vernaison||3|9|CHRISTOPHE|Andriette|sa femme|||||1||32 ans|
+310|Vernaison||3|10|CHAPPET|Marie|leur fille||||1|||6 ans|
+311|Vernaison||3|11|CHAPPET|Jean Antoine|leur fils|1||||||3 ans|
+312|Vernaison||3|12|CHAPPET|Marie Louise|leur fille||||1|||9 mois|
+313|Vernaison||4|13|BLANC|Antoine|propriétaire, chef de ménage||1|||||51 ans|
+314|Vernaison||4|14|RANTONNET|Louise|sa femme|||||1||48 ans|
+315|Vernaison||4|15|BLANC|Jean Antoine|leur fils|1||||||26 ans|
+316|Vernaison||4|16|BLANC|Félicité|leur fille||||1|||14 ans|
+317|Vernaison||4|17|BLANC|Jean|leur fils|1||||||16 ans|
+318|Vernaison||5|18|BAZIN|Christophe|cordonnier, chef de ménage||1|||||41 ans|
+319|Vernaison||5|19|BERGER|Marie|sa femme|||||1||35 ans|
+320|Vernaison||5|20|BAZIN|Jean|leur fils|1||||||12 ans|
+321|Vernaison||5|21|MOYRIAT|Jean|journalier, chef de ménage||1|||||33 ans|
+322|Vernaison||5|22|BUISSON|Marie|sa femme||||1|||31 ans|
+323|Vernaison||5|23|MOYRIAT|Thomas|leur fils|1||||||9 ans|
+324|Vernaison||5|24|MOYRIAT|Claude|leur fils|1||||||3 ans|
+325|Vernaison||5|25|MOYRIAT|Etienne|leur fils|1||||||1 an|
+326|Vernaison||6|26|DAVID|Benoit|marchand, chef de ménage||1|||||44 ans|
+327|Vernaison||6|27|COUILLARD|Annette|sa femme|||||1||35 ans|
+328|Vernaison||6|28|BLANCHARD, veuve COUILLARD|Antoinette|belle-mère||||||1|73 ans|
+329|Vernaison||7|29|CHEVROT|François|veloutier, chef de ménage|1||||||26 ans|
+330|Vernaison||7|30|CHEVROT|Jean Pierre|journalier, son frère|1||||||25 ans|
+331|Vernaison||1|1|BERGER|Henri|propriétaire, chef de ménage||1|||||76 ans|
+332|Vernaison||1|2|GUSTELLE|Andrée Anne|sa femme|||||1||66 ans|
+333|Vernaison||1|3|BERGER|Benoite|lingère, leur fille||||1|||34 ans|
+334|Vernaison||1|4|BERGER|Elisa|lingère, leur fille||||1|||23 ans|
+335|Vernaison||1|5|DAVID|Marguerite|leur petite fille||||1|||13 ans|
+336|Vernaison||2|6|BERTHET|Antoine|jardinier, chef de ménage||1|||||66 ans|
+337|Vernaison||2|7|VILLET|Marie|sa femme|||||1||55 ans|
+338|Vernaison||2|8|BERTHET|Marguerite|sa fille||||1|||26 ans|
+339|Vernaison||2|9|SELICHON|Joseph|domestique|1||||||28 ans|
+340|Vernaison||3|10|BESSON|Laurent|cultivateur, chef de ménage||1|||||28 ans|
+341|Vernaison||3|11|PACUTON|Benoite|sa femme|||||1||28 ans|
+342|Vernaison||3|12|BESSON|Jeanne|leur fille||||1|||1 an|
+343|Vernaison||3|13|GARNIER, veuve PACUTON|Etiennette|belle-mère||||||1|53 ans|
+344|Vernaison||4|14|ROUCHETON|Michel|maçon, chef de ménage||1|||||36 ans|
+345|Vernaison||4|15|COUTURIER|Marie|sa femme|||||1||30 ans|
+346|Vernaison||4|16|ROUCHETON|André|leur fils|1||||||4 ans|
+347|Vernaison||4|17|ROUCHETON|Pierrette|leur fille||||1|||1 an|
+348|Vernaison||5|18|MAISON|André|marinier, chef de ménage||1|||||40 ans|
+349|Vernaison||5|19|BOURDIN|Annette|sa femme|||||1||32 ans|
+350|Vernaison||5|20|MAISON|Pierre|leur fils|1||||||5 ans|
+351|Vernaison||6|21|BOURDIN|Jean|patron, chef de ménage||1|||||57 ans|
+352|Vernaison||6|22|COLLET|Marie|sa femme|||||1||55 ans|
+353|Vernaison||6|23|BOURDIN|Jacques|marinier, leur fils|1||||||26 ans|
+354|Vernaison||7|24|THELISSON|Jean François|cordonnier, chef de ménage||1|||||43 ans|
+355|Vernaison||7|25|MORTAMAIS|Jeanne|sa femme|||||1||41 ans|
+356|Vernaison||7|26|THELISSON|Jean|cordonnier, leur fils|1||||||18 ans|
+357|Vernaison||7|27|THELISSON|Joanny|leur fils|1||||||9 ans|
+358|Vernaison||8|28|CHAUSSON|Jean|journalier, chef de ménage||1|||||45 ans|
+359|Vernaison||8|29|PITIOT|Benoite|sa femme|||||1||40 ans|
+360|Vernaison||8|30|CHAUS|François|journalier, leur fils|1||||||18 ans|
+361|Vernaison||1|1|MATTON|Pierre|journalier, chef de ménage||1|||||47 ans|
+362|Vernaison||1|2|MOUSSY|Marie|sa femme|||||1||36 ans|
+363|Vernaison||1|3|MATTON|Jeanne|leur fille||||1|||16 ans|
+364|Vernaison||1|4|MATTON|Nicolas|leur fils|1||||||17 ans|
+365|Vernaison||1|5|MATTON|Joseph|leur fils|1||||||10 ans|
+366|Vernaison||1|6|MATTON|Marie|leur fille||||1|||12 ans|
+367|Vernaison||2|7|CHAMBRY|Pierre|imprimeur, chef de ménage||1|||||34 ans|
+368|Vernaison||2|8|LOMBARD|Françoise|sa femme|||||1||28 ans|
+369|Vernaison||2|9|CHAMBRY|André|leur fils|1||||||3 ans|
+370|Vernaison||3|10|MOLARD|Jean Marie|journalier, chef de ménage||1|||||47 ans|
+371|Vernaison||3|11|GIRAUD|Pierrette|sa femme|||||1||43 ans|
+372|Vernaison||3|12|MOLARD|Marie|leur fille||||1|||18 ans|
+373|Vernaison||3|13|MOLARD|André|leur fils|1||||||20 ans|
+374|Vernaison||3|14|MOLARD|Louis|leur fils|1||||||16 ans|
+375|Vernaison||3|15|MOLARD|Jean|leur fils|1||||||13 ans|
+376|Vernaison||3|16|MOLARD|Françoise|leur fille||||1|||5 ans|
+377|Vernaison||4|17|RIVOIRE|Louise|marchande, chef de ménage||||1|||45 ans|
+378|Vernaison||4|18|ALDER|Marie|sa sœur||||1|||44 ans|
+379|Vernaison||4|19|VERD|Etienne|imprimeur, chef de ménage||1|||||28 ans|
+380|Vernaison||4|20|DUCREUX|Claudine|sa femme|||||1||24 ans|
+381|Vernaison||4|21|VERD|Eugénie|leur fille||||1|||4 ans|
+382|Vernaison||4|22|VERD|Louis|leur fils|1||||||2 ans|
+383|Vernaison||5|23|DUCREUX|Pierre|journalier, chef de ménage||1|||||65 ans|
+384|Vernaison||5|24|BAUDRAN|Jeanne|sa femme|||||1||61 ans|
+385|Vernaison||5|25|DUCRAUX|Pierre|imprimeur, leur fils||1|||||27 ans|
+386|Vernaison||5|26|VILLERMIER|Claudine|sa femme|||||1||30 ans|
+387|Vernaison||5|27|DUCREUX|Marie|leur fille||||1|||5 ans|
+388|Vernaison||5|28|DUCREUX|Mathieu|leur fils|1||||||2 ans|
+389|Vernaison||5|29|DUCREUX|Etienne|leur fils|1||||||1 an|
+390|Vernaison||6|30|COLOMB|François|propriétaire, chef de ménage|||1||||65 ans|
+391|Vernaison||1|1|GRAMOUSSET|Antoine|veloutier, chef de ménage||1|||||39 ans|
+392|Vernaison||1|2|PONTET|Magdeleine|sa femme|||||1||29 ans|
+393|Vernaison||1|3|MOSQUINI|Joseph|plâtrier, pensionnaire|1||||||31 ans|
+394|Vernaison||1|4|PIZERAT|Joseph|plâtrier, pensionnaire|1||||||29 ans|
+395|Vernaison||2|5|MARNAS, veuve BARILLOT|Jeanne|chef de ménage||||||1|72 ans|
+396|Vernaison||2|6|BARILLOT|Etiennette|ouvrière en soie, sa fille||||1|||35 ans|
+397|Vernaison||3|7|DELERME|Jeanne Marie|rentière, chef de ménage||||||1|72 ans|
+398|Vernaison||4|8|BOURDIN|Jacques|tailleur, chef de ménage||1|||||52 ans|
+399|Vernaison||4|9|MOREL|Claudine|sa femme|||||1||37 ans|
+400|Vernaison||4|10|BOURDIN|Antoine|leur fils|1||||||4 ans|
+401|Vernaison||4|11|BOURDIN|Claude|leur fils|1||||||3 ans|
+402|Vernaison||4|12|BOURDIN|Nicolas|leur fils|1||||||2 ans|
+403|Vernaison||5|13|FAVIER|Antoine|cultivateur, chef de ménage||1|||||64 ans|
+404|Vernaison||5|14|PERIGNY|Benoite|sa femme|||||1||60 ans|
+405|Vernaison||6|15|BARCET|Claude|rentier, chef de ménage||1|||||43 ans|
+406|Vernaison||6|16|MOULIN|Jeanne|sa femme|||||1||33 ans|
+407|Vernaison||7|17|BOURDIN|Antoine|cultivateur, chef de ménage||1|||||65 ans|
+408|Vernaison||7|18|GUTTON|Anne|sa femme|||||1||60 ans|
+409|Vernaison||7|19|BOURDIN|Jacques|veloutier, leur fils|1||||||22 ans|
+410|Vernaison||7|20|BOURDIN|Clarisse|leur fille||||1|||19 ans|
+411|Vernaison||8|21|MONTFOUILLOUX, veuve THIBAUDIER|Eléonore|journalière, chef de ménage||||||1|64 ans|
+412|Vernaison||8|22|THIBAUDIER|Jean Marie|marinier, son fils|||1||||32 ans|
+413|Vernaison||9|23|DUMON|Claude|cultivateur, chef de ménage||1|||||66 ans|
+414|Vernaison||9|24|DONAT|Marguerite|sa femme|||||1||63 ans|
+415|Vernaison||10|25|BOURDIN|Pierre François|cafetier, chef de ménage||1|||||48 ans|
+416|Vernaison||10|26|GANDY|Benoite|sa femme|||||1||48 ans|
+417|Vernaison||10|27|BOURDIN|Jean Antoine|veloutier, leur fils|1||||||16 ans|
+418|Vernaison||10|28|BOURDIN|Eugénie|lingère, leur fille||||1|||18 ans|
+419|Vernaison||10|29|BOURDIN|Clarisse|leur fille||||1|||8 ans|
+420|Vernaison||11|30|PECALON|Antoine|cultivateur, chef de ménage|1||||||68 ans|
+421|Vernaison||1|1|SELLA|Jean Baptiste|adjoint, chef de ménage|||1||||56 ans|
+422|Vernaison||1|2|SELLA|Antoinette|sa fille||||1|||12 ans|
+423|Vernaison||1|3|SELLA|Pierre|son fils|1||||||9 ans|
+424|Vernaison||1|4|LUYZET|Louis|rentier, beau-père|||1||||82 ans|
+425|Vernaison||2|5|DUMON|Jean|menuisier, chef de ménage||1|||||34 ans|
+426|Vernaison||2|6|VERD|Catherine|sa femme|||||1||35 ans|
+427|Vernaison||2|7|DUMON|Pierrette|leur fille||||1|||2 ans| 
+428|Vernaison||2|8|DUMON|Antoinette|leur fille||||1|||5 ans|
+429|Vernaison||2|9|DUMON|Françoise|leur fille||||1|||1 an|
+430|Vernaison||3|10|MARTOUX|Claude|marinier, chef de ménage||1|||||40 ans|
+431|Vernaison||3|11|VILLARET|Jeanne|sa femme|||||1||36 ans|
+432|Vernaison||4|12|PONTET|Jean Pierre|rentier, chef de ménage||1|||||63 ans|
+433|Vernaison||4|13|ROZET|Jeanne|sa femme|||||1||58 ans|
+434|Vernaison||5|14|MONET|Charles|journalier, chef de ménage||1|||||35 ans|
+435|Vernaison||5|15|GEORGET|Pierrette|sa femme|||||1||38 ans|
+436|Vernaison||5|16|MONET|François|leur fils|1||||||3 ans|
+437|Vernaison||5|17|MONET|Benoit|leur fils|1||||||1 an|
+438|Vernaison||5|18|GEORGET|Catherine|belle-sœur||||1|||35 ans|
+439|Vernaison||6|19|VALAMAN, veuve BOUILLON|Marie|journalière, chef de ménage||||||1|65 ans|
+440|Vernaison||6|20|BOUILLON|Victoire|journalière, sa fille||||1|||30 ans|
+441|Vernaison||6|21|GROS|Pierre|imprimeur sur étoffes, gendre||1|||||27 ans|
+442|Vernaison||6|22|BOUILLON|Marie|sa femme|||||1||26 ans|
+443|Vernaison||7|23|THIBAUDIER|Pierre|boulanger, chef de ménage||1|||||31 ans|
+444|Vernaison||7|24|MARNAS|Eugénie|sa femme|||||1||26 ans|
+445|Vernaison||8|25|MAINUT|Casimir|imprimeur sur étoffes, chef de ménage||1|||||26 ans|
+446|Vernaison||8|26|CARANTAINE|Anne Louise|sa femme|||||1||29 ans|
+447|Vernaison||8|27|CARANTAINE|Gaspard|imprimeur, beau père||1|||||54 ans|
+448|Vernaison||8|28|PERRIN|Suzanne|sa femme|||||1||65 ans|
+449|Vernaison||8|29|MAINUT|Jeanne|fille du chef de ménage||||1|||1 an|
+450|Vernaison||8|30|BERGER|Marthe|rentière, chef de ménage||||||1|85 ans|
+451|Vernaison||1|1|MOUSSY|Joseph|journalier, chef de ménage||1|||||35 ans|
+452|Vernaison||1|2|MOYRIAT|Guillaumette|sa femme|||||1||34 ans|
+453|Vernaison||1|3|MOUSSY|Jean|leur fils|1||||||15 ans|
+454|Vernaison||2|4|MOUSSY|Jean Claude|journalier, chef de ménage||1|||||44 ans|
+455|Vernaison||2|5|GOYARD|Jeanne|sa femme|||||1||48 ans|
+456|Vernaison||2|6|MOUSSY|Louise|leur fille||||1|||11 ans|
+457|Vernaison||2|7|MOUSSY|Jeanne|leur fille||||1|||11 ans|
+458|Vernaison||3|8|PONCET|Fleuri|journalier, chef de ménage||1|||||51 ans|
+459|Vernaison||3|9|POMMIER|Marie|sa femme|||||1||55 ans|
+460|Vernaison||3|10|PONCET|Françoise|leur fille||||1|||22 ans|
+461|Vernaison||4|11|ABEL|Pierre|marinier, chef de ménage||1|||||55 ans|
+462|Vernaison||4|12|MOREAU|Marie|sa femme|||||1||50 ans|
+463|Vernaison||4|13|ABEL|Mathieu|leur fils|1||||||16 ans|
+464|Vernaison||4|14|BOCAS|Mariette|leur petite fille||||1|||5 ans|
+465|Vernaison||5|15|MICHAL|Julien|cafetier, chef de ménage|1||||||35 ans|
+466|Vernaison||5|16|PICHOT|Aimé|garde au chemin de fer|1||||||33 ans|
+467|Vernaison||6|17|MONTFOUILLOUX|Jean|cordonnier, chef de ménage||1|||||46 ans|
+468|Vernaison||6|18|DEVIGNE|Marie|sa femme|||||1||45 ans|
+469|Vernaison||6|19|MONTFOUILLOUX|Eugénie|leur fille||||1|||15 ans|
+470|Vernaison||6|20|MAYER|Laurent|ouvrier cordonnier|1||||||32 ans|
+471|Vernaison||6|21|GUINARD|François|ouvrier cordonnier|1||||||22 ans|
+472|Vernaison||7|22|COLAS|Jacques|propriétaire, chef de ménage|1||||||50 ans|
+473|Vernaison||7|23|BERGER, veuve COLAS|Claudine|sa mère||||||1|79 ans|
+474|Vernaison||8|24|RACLET|Marpoux|propriétaire, chef de ménage||1|||||40 ans|
+475|Vernaison||8|25|CHEVROT|Louise|sa femme|||||1||36 ans|
+476|Vernaison||8|26|RACLET|Mariette|leur fille||||1|||15 ans|
+477|Vernaison||9|27|MOUSSY|Nicolas|journalier, chef de ménage||1|||||80 ans|
+478|Vernaison||9|28|GUTTON|Jeanne|sa femme|||||1||64 ans|
+479|Vernaison||9|29|MOUSSY|Louis|marinier, leur fils|||1||||39 ans|
+480|Vernaison||10|30|FOURNEL|Jean|journalier, chef de ménage|||1||||58 ans|
+481|Vernaison||1|1|MAZUYER|Claude|journalier, chef de ménage||1|||||73 ans|
+482|Vernaison||1|2|MAZUYER|Christine|sa femme|||||1||62 ans|
+483|Vernaison||1|3|MAZUYER|Eléonore|leur fille||||1|||33 ans|
+484|Vernaison||2|4|MAZUYER|Antoine|journalier, chef de ménage||1|||||64 ans|
+485|Vernaison||2|5|VERRIER|Françoise|sa femme|||||1||60 ans|
+486|Vernaison||2|6|MAZUYER|Mariette|leur fille||||1|||20 ans|
+487|Vernaison||3|7|BOUILLON|Charles|ouvrier en soie, chef de ménage||1|||||43 ans|
+488|Vernaison||3|8|POITRASSON|Magdeleine|sa femme|||||1||40 ans|
+489|Vernaison||4|9|MION|Jean|ouvrier en soie, chef de ménage||1|||||48 ans|
+490|Vernaison||4|10|BAUGE|Françoise|sa femme|||||1||38 ans|
+491|Vernaison||4|11|MION|Pierre|leur fils|1||||||18 ans|
+492|Vernaison||4|12|MION|Claude|leur fils|1||||||6 ans|
+493|Vernaison||5|13|CROZIER|Ennemonde|rentière, chef de ménage||||||1|80 ans|
+494|Vernaison||5|14|SAUNIER|Reine|rentière, chef de ménage||||||1|72 ans|
+495|Vernaison||6|15|LOMBARD|Antoine|pêcheur, chef de ménage||1|||||69 ans|
+496|Vernaison||6|16|GONNET|Claudine|sa femme|||||1||69 ans|
+497|Vernaison||7|17|BERGER|Gaspard|propriétaire, chef de ménage||1|||||50 ans|
+498|Vernaison||7|18|REVENU|Benoite|sa femme|||||1||48 ans|
+499|Vernaison||7|19|BERGER|Jean Marie|veloutier, leur fils|1||||||17 ans|
+500|Vernaison||7|20|BERGER|Jeanne|leur fille||||1|||14 ans|
+501|Vernaison||8|21|DEMEURE|Joseph|propriétaire, chef de ménage||1|||||64 ans|
+502|Vernaison||8|22|POUZET|Agathe|sa femme|||||1||50 ans|
+503|Vernaison||9|23|RIVIERE|Benoit|cafetier, chef de ménage||1|||||24 ans|
+504|Vernaison||9|24|DUMON|Louise|sa femme|||||1||23 ans|
+505|Vernaison||10|25|BRUNET|Jean Claude|cafetier, chef de ménage||1|||||50 ans|
+506|Vernaison||10|26|FAYOLLE|NI|Sa femme|||||1||48 ans|
+507|Vernaison||10|27|BRUNET|André|cafetier, leur fils|1||||||20 ans|
+508|Vernaison||11|28|GUY|Jean Baptiste|journalier, chef de ménage|1||||||40 ans|
+509|Vernaison||12|29|JANTEL|Claude|journalier, chef de ménage||1|||||42 ans|
+510|Vernaison||12|30|VILLIAMY|Magdeleine|sa femme|||||1||51 ans|
+511|Vernaison||1|1|JOUTEUR|Ferdinand|propriétaire, chef de ménage||1|||||55 ans|
+512|Vernaison||1|2|VIAL|Claudine|sa femme|||||1||52 ans|
+513|Vernaison||1|3|JOUTEUR|Joseph|leur fils|1||||||20 ans|
+514|Vernaison||1|4|GUIDON|Marie|belle-fille du chef de ménage||||1|||21 ans|
+515|Vernaison||2|5|BLANC, veuve TELISSON|Elisabeth|sage femme, chef de ménage||||||1|73 ans|
+516|Vernaison||2|6|TELLISSON, veuve MAS|Andrée Anne|sa fille||||||1|47 ans|
+517|Vernaison||2|7|MAS|Françoise|sa fille, repasseuse||||1|||26 ans|
+518|Vernaison||2|8|MAS|Elisabeth|sa fille, repasseuse||||1|||22 ans|
+519|Vernaison||3|9|CHEVRON|Jean|cantonnier au chemin de fer, chef de ménage||1|||||48 ans|
+520|Vernaison||3|10|GERVAIS|Louise|sa femme|||||1||40 ans|
+521|Vernaison||3|11|ACHARD|Antoine|beau-fils du chef de ménage|1||||||12 ans|
+522|Vernaison||3|12|GERVAIS|François|fils de la femme du chef de ménage|1||||||9 ans|enfant naturel
+523|Vernaison||4|13|GRAMOUSSET|Claude|cafetier, chef de ménage|||1||||35 ans|
+524|Vernaison||4|14|GRAMOUSSET|Jean|son fils|1||||||5 ans|
+525|Vernaison||4|15|GRAMOUSSET|Antoine|son fils|1||||||4 ans|
+526|Vernaison||4|16|ROZET|Jeanne|sa mère||||||1|63 ans|
+527|Vernaison||4|17|THONNERIEUX|Jean|ouvrier en soie|1||||||19 ans|
+528|Vernaison||5|18|JUFFET|Noël|meunier, chef de ménage|1||||||35 ans|
+529|Vernaison||6|19|PONCET|Pierre|journalier, chef de ménage||1|||||48 ans|
+530|Vernaison||6|20|GUIVALET|Jeanne|sa femme|||||1||40 ans|
+531|Vernaison||7|21|LACHAT|Jean|journalier, chef de ménage||1|||||51 ans|
+532|Vernaison||7|22|GIRARD|Marie|sa femme|||||1||56 ans|
+533|Vernaison||8|23|PELLET|Joseph|instituteur, chef de ménage||1|||||25 ans|
+534|Vernaison||8|24|BOUCHER|Marie|sa femme|||||1||20 ans|
+535|Vernaison||9|25|FOURNET|Didier|garde-champêtre, chef de ménage||1|||||63 ans|
+536|Vernaison||9|26|LANUS|Antoinette|sa femme|||||1||62 ans|
+537|Vernaison||9|27|MORTAMAIS|Antoine|marinier, chef de ménage||1|||||65 ans|
+538|Vernaison||9|28|FONTAINE|Françoise|sa femme|||||1||73 ans|
+539|Vernaison||9|29|MORTAMAIS|Françoise|sa fille, lingère||||1|||30 ans|
+540|Vernaison||9|30|MORTAMAIS|Antoinette|sa fille, tailleuse||||1|||20 ans|
+541|Vernaison||1|1|VERNE|François|propriétaire, chef de ménage||1|||||69 ans|
+542|Vernaison||1|2|SERRE|Marie|sa femme|||||1||52 ans|
+543|Vernaison||1|3|BARBIER|François|domestique|1||||||26 ans|
+544|Vernaison||1|4|MAYENCON|Charles|domestique||1|||||50 ans|
+545|Vernaison||1|5|COUTURIER|Jeanne|sa femme|||||1||48 ans|
+546|Vernaison||1|6|BARILLOT|Antoine|gendre Mayençon, marinier||1|||||26 ans|
+547|Vernaison||1|7|MAYENCON|Eugénie|sa femme|||||1||23 ans|
+548|Vernaison||1|8|MEDELIN|Euphroisie|domestique||||1|||45 ans|
+549|Vernaison||2|8|GEOFFRAY|Pierre|journalier, chef de ménage|||1||||71 ans|
+550|Vernaison||2|10|GUY|Abraham|marinier, gendre||1|||||30 ans|
+551|Vernaison||2|11|GEOFFRAY|Marie|sa femme|||||1||30 ans|
+552|Vernaison||2|12|GUY|Pierre|leur fils|1||||||7 ans|
+553|Vernaison||2|13|GUY|Claudine|leur fille||||1|||5 ans|
+554|Vernaison||2|14|GUY|Jean Marie|leur fils|1||||||3 ans|
+555|Vernaison||3|15|MAZUYER|Pierre|propriétaire, chef de ménage|1||||||45 ans|
+556|Vernaison||3|16|ABEL|Françoise|sa mère||||||1|71 ans|
+557|Vernaison||3|17|BROSSE|Louis|domestique||||1|||19 ans|
+558|Vernaison||3|18|VINDRY|François|domestique|1||||||32 ans|
+559|Vernaison||3|19|VECRET|Joséphine|domestique||||1|||22 ans|
+560|Vernaison||4|20|CHARGUELON|Jean|menuisier, chef de ménage||1|||||55 ans|
+561|Vernaison||4|21|NI|Antoinette|sa femme|||||1||52 ans|
+562|Vernaison||4|22|CHARGUELON|Claude|leur fils, retoucheur|1||||||23 ans|
+563|Vernaison||4|23|CHARGUELON|François|leur fils, menuisier|1||||||18 ans|
+564|Vernaison||4|24|CHARGUELON|Antoinette|leur fille||||1|||17 ans|
+565|Vernaison||4|25|VIEUBLET|Auguste|ouvrier|1||||||20 ans|
+566|Vernaison||4|26|GIRAUDIER|Joseph|ouvrier|1||||||23 ans|
+567|Vernaison||5|27|BERGER, veuve BADOR|Marie|journalière, chef de ménage||||||1|40 ans|
+568|Vernaison||5|28|BADOR|Louis|son fils, veloutier|1||||||16 ans|
+569|Vernaison||6|29|MONTFOUILLOUX, veuve COMTE|Marie|journalière, chef de ménage||||||1|50 ans|
+570|Vernaison||6|30|COMTE|Antoine|son fils, imprimeur|1||||||33 ans|
+571|Vernaison||1|1|BERTHET|Pierre|jardinier, chef de ménage||1|||||33 ans|
+572|Vernaison||1|2|MERCIER|Jeanne|sa femme|||||1||20 ans|
+573|Vernaison||2|3|LOMBARD|Jacques|pêcheur, chef de ménage||1|||||40 ans|
+574|Vernaison||2|4|RIVIERE|Marie|sa femme|||||1||37 ans|
+575|Vernaison||2|5|LOMBARD|Fanchette|leur fille||||1|||10 ans|
+576|Vernaison||2|6|LOMBARD|Jean|leur fils|1||||||8 ans|
+577|Vernaison||2|7|LOMBARD|Benoit|leur fils|1||||||4 ans|
+578|Vernaison||2|8|LOMBARD|Julien|leur fils|1||||||1 an|
+579|Vernaison||2|9|RIVIERE|Jules Jean Marie|en nourrice|1||||||5 mois|
+580|Vernaison||3|10|BELUZE|Pierre|journalier, chef de ménage||1|||||26 ans|
+581|Vernaison||3|11|CLARAS|Marie|sa femme|||||1||24 ans|
+582|Vernaison||3|12|BELUZE|Fanchette|leur fille||||1|||2 ans|
+583|Vernaison||4|13|CHEVROT|Pierre|marinier, chef de ménage||1|||||45 ans|
+584|Vernaison||4|14|CORON|Marie|sa femme|||||1||50 ans|
+585|Vernaison||4|15|CHEVROT|Benoite|leur fille, ouvrière en soie||||1|||23 ans|
+586|Vernaison||4|16|CHEVROT|Pierre|leur fils, cultivateur|1||||||20 ans|
+587|Vernaison||4|17|CHEVROT|Christian|leur fils|1||||||11 ans|
+588|Vernaison||5|18|RACLET|François|propriétaire, chef de ménage||1|||||52 ans|
+589|Vernaison||5|19|MULET|Magdeleine|sa femme|||||1||50 ans|
+590|Vernaison||5|20|RACLET|Lucie|leur fille||||1|||15 ans|
+591|Vernaison||6|21|MION, veuve RACLET|Elisabeth|journalière, chef de ménage||||||1|49 ans|
+592|Vernaison||6|22|RACLET|Marie|sa fille||||1|||28 ans|
+593|Vernaison||6|23|RACLET|Catherine|sa fille||||1|||15 ans|
+594|Vernaison||7|24|MORTAMAIS|Thomas|journalier, chef de ménage||1|||||40 ans|
+595|Vernaison||7|25|DUPLATRE|Jeanne|sa femme|||||1||36 ans|
+596|Vernaison||7|26|MORTAMAIS|Antoinette|leur fille||||1|||9 ans|
+597|Vernaison||8|27|PERIGNY|Pierre|journalier, chef de ménage||1|||||26 ans|
+598|Vernaison||8|28|GUIGOUX|Pierrette|sa femme|||||1||27 ans|
+599|Vernaison||8|29|PERIGNY|Jean|leur fils|1||||||2 ans|
+600|Vernaison||9|30|GUY|Jean Baptiste|journalier, chef de ménage|1||||||40 ans|
+601|Vernaison||1|1|GUILLEMET|Jean Baptiste|maréchal, chef de ménage||1|||||46 ans|
+602|Vernaison||1|2|PERIGNY|Marie|sa femme|||||1||46 ans|
+603|Vernaison||1|3|AUBERT|Jean|journalier, chef de ménage||1|||||50 ans|
+604|Vernaison||1|4|PERIGNY|Hélène|sa femme|||||1||50 ans|
+605|Vernaison||1|5|ROBERT|Jean|journalier, chef de ménage||1|||||46 ans|
+606|Vernaison||1|6|MULET|Angélique|sa femme|||||1||50 ans|
+607|Vernaison||1|7|ROBERT|Pierre|leur fils|1||||||16 ans|
+608|Vernaison||2|8|FREQUON|Lilianne|ouvrière en soie, chef de ménage||||1|||21 ans|
+609|Vernaison||2|9|DELORME|Jeanne|journalière, chef de ménage||||||1|40 ans|
+610|Vernaison||3|10|CRUAT|Denis|cantonnier au chemin de fer, chef de ménage||1|||||50 ans|
+611|Vernaison||3|11|GEOFFRAY|Claudine|sa femme|||||1||40 ans|
+612|Vernaison||3|12|CRUAT|Abraham|leur fils|1||||||8 ans|
+613|Vernaison||4|13|CHRISTOPHE|Benoit|veloutier, chef de ménage||1|||||33 ans|
+614|Vernaison||4|14|LACHAT|Marie|sa femme|||||1||30 ans|
+615|Vernaison||4|15|CHRISTOPHE|Jules|leur fils|1||||||2 ans|
+616|Vernaison||4|16|CHRISTOPHE|Jeanne|leur fille||||1|||1 an|
+617|Vernaison||4|17|LACHAT|Antoine|beau-père|||1||||60 ans|
+618|Vernaison||5|18|PIDANSSET|Marie|journalière, chef de ménage|||||1||55 ans|
+619|Vernaison||5|19|PERIGNY|Claude|son fils, ouvrier en soie|1||||||18 ans|
+620|Vernaison||6|20|GUYOT|Claude|journalier, chef de ménage|||1||||40 ans|
+621|Vernaison||6|21|GUYOT|Claude|son fils|1||||||8 ans|
+622|Vernaison||7|22|MION|Charles|marinier, chef de ménage||1|||||45 ans|
+623|Vernaison||7|23|BOURDIN|Jeanne|sa femme|||||1||38 ans|
+624|Vernaison||7|24|MION|Pierre|leur fils|1||||||14 ans|
+625|Vernaison||8|25|DEVON|André|journalier, chef de ménage||1|||||45 ans|
+626|Vernaison||8|26|GEORGET|Benoite|sa femme|||||1||38 ans|
+627|Vernaison||9|27|BOIRON, veuve GEORGET|Benoite|journalière, chef de ménage||||||1|66 ans|
+628|Vernaison||9|28|GEORGET|Antoine|son fils, ouvrier en soie|1||||||28 ans|
+629|Vernaison||10|29|MONTFOUILLOUX|Dominique|journalier, chef de ménage||1|||||60 ans|
+630|Vernaison||10|30|MICHAILLE|Julien|sa femme|||||1||50 ans|
+631|Vernaison||1|1|PIEGOY|Pierre|veloutier, chef de ménage||1|||||37 ans|
+632|Vernaison||1|2|GRAMMOUSSET|Antoinette|sa femme|||||1||30 ans|
+633|Vernaison||2|3|CHAUSSON|Fleuri|journalier, chef de ménage||1|||||39 ans|
+634|Vernaison||2|4|BAROL|Marie|sa femme|||||1||39 ans|
+635|Vernaison||2|5|CHAUSSON|Claude|leur fils|1||||||11 ans|
+636|Vernaison||3|6|CHAUSSON|Claude|cordonnier, chef de ménage||1|||||44 ans|
+637|Vernaison||3|7|PELLEGRAIN|Louise|sa femme|||||1||40 ans|
+638|Vernaison||3|8|CHAUSSON|Jean Marie|leur fils|1||||||12 ans|
+639|Vernaison||3|9|CHAUSSON|Mathieu|leur fils|1||||||9 ans|
+640|Vernaison||4|10|MEZET|Henriette|journalière, chef de ménage||||||1|63 ans|
+641|Vernaison||4|11|PECOLET|Jeanne|journalière, chef de ménage|||||1||65 ans|
+642|Vernaison||4|12|RIVIERE|Marguerite|sa fille||||1|||30 ans|
+643|Vernaison||4|13|RIVIERE|Benoit|son fils|1||||||32 ans|
+644|Vernaison||5|14|MURAT|Simon|journalière, chef de ménage||||||1|45 ans|
+645|Vernaison||5|15|ROBELET|Nicolas|journalier, chef de ménage||1|||||72 ans|
+646|Vernaison||5|16|PESINCOT|Jeanne|sa femme|||||1||65 ans|
+647|Vernaison||6|17|BLETHY|Georges|boucher, chef de ménage||1|||||30 ans|
+648|Vernaison||6|18|BARILLOT|Jeanne|sa femme|||||1||21 ans|
+649|Vernaison||6|19|BLETHY|Cécile|leur fille||||1|||1 an|
+650|Vernaison||6|20|VILLARET|Antoine|domestique|1||||||14 ans|
+651|Vernaison||7|21|PUYS|Aimé|rentier, chef de ménage||1|||||51 ans|
+652|Vernaison||7|22|CAILLAT|Elisabeth|sa femme|||||1||47 ans|
+653|Vernaison||8|23|MARNAS|André|marchand, chef de ménage||1|||||37 ans|
+654|Vernaison||8|24|MARTIN|Denise|sa femme|||||1||32 ans|
+655|Vernaison||8|25|MARNAS|Claude|leur fils|1||||||8 ans|
+656|Vernaison||8|26|MARNAS|Jeanne|sa fille||||1|||1 an|
+657|Vernaison||9|27|BELMAIN|Henri|journalier, chef de ménage||1|||||60 ans|
+658|Vernaison||9|28|RENAUD|Louise|sa femme|||||1||50 ans|
+659|Vernaison||9|29|CARRAT|Julien|leur petit fils|1||||||6 ans|
+660|Vernaison||9|30|CARRAT|Auguste|leur petit fils|1||||||3 ans|
+661|Vernaison||1|1|THIBAUDIER|Aimé|rentier, chef de ménage||1|||||54 ans|
+662|Vernaison||1|2|SABOT|Jeanne|sa femme|||||1||50 ans|
+663|Vernaison||2|3|SISTEL|Jean|ouvrier en soie, chef de ménage||1|||||50 ans|
+664|Vernaison||2|4|CHAPEAU|Pierrette|sa femme|||||1||38 ans|
+665|Vernaison||3|5|RIVOIRE|Pierre|négociant, chef de ménage||1|||||55 ans|
+666|Vernaison||3|6|CAMET|Apauline|sa femme|||||1||30 ans|
+667|Vernaison||3|7|RIVOIRE|Antoinette|leur fille||||1|||10 ans|
+668|Vernaison||3|8|RIVOIRE|Jean|leur fils|1||||||9 ans|
+669|Vernaison||3|9|RIVOIRE|Eugénie|leur fille||||1|||4 ans|
+670|Vernaison||3|10|RIVOIRE|Antonia|leur fille||||1|||1 an|
+671|Vernaison||3|11|RIVOIRE|Jean|négociant, frère du chef de ménage|1||||||50 ans|
+672|Vernaison||4|12|COUILLARD|Jean|meunier, chef de ménage||1|||||50 ans|
+673|Vernaison||4|13|CHEVROT|Françoise|sa femme|||||1||40 ans|
+674|Vernaison||4|14|COUILLARD|Etienne|leur fils|1||||||15 ans|
+675|Vernaison||4|15|COUILLARD|Jean|leur fils|1||||||13 ans|
+676|Vernaison||4|16|COUILLARD|Charles|leur fils|1||||||4 ans|
+677|Vernaison||4|17|CHAZAT|Marie|belle-mère||||||1|70 ans|
+678|Vernaison||5|18|COMTE|Pierrette|rentière, chef de ménage||||||1|76 ans|
+679|Vernaison||6|19|COLAS|Antoinette|lingère, chef de ménage||||1|||45 ans|
+680|Vernaison||6|20|COLAS|Jeanne|lingère||||1|||44 ans|
+681|Vernaison||7|21|LOMBARD, veuve VACHON|Suzanne|journalière, chef de ménage||||||1|36 ans|
+682|Vernaison||7|22|VACHON|Claudine|sa fille||||1|||17 ans|
+683|Vernaison||7|23|VACHON|Antoine|son fils|1||||||12 ans|
+684|Vernaison||7|24|VACHON|Antoinette|sa fille||||1|||6 ans|
+685|Vernaison||7|25|VACHON|Marie|sa fille||||1|||2 ans|
+686|Vernaison||8|26|BERGER|Etienne|épicier, chef de ménage||1|||||39 ans|
+687|Vernaison||8|27|JOUBERT|Mariette|sa femme|||||1||28 ans|
+688|Vernaison||8|28|BERGER|Henri|leur fils|1||||||10 ans|
+689|Vernaison||8|29|BERGER|Bélonie|leur fille||||1|||4 ans|
+690|Vernaison||8|30|RIVOIRE, veuve JOUBERT|Anne|belle-mère du chef du ménae||||||1|60 ans|
+691|Hameau des sables||1|1|MEVOLON|Claude|rentier, chef de ménage|||1||||87 ans|
+692|Hameau des sables||1|2|MEVOLON|Françoise|sa fille||||1|||43 ans|
+693|Hameau des sables||1|3|FRECHET|Elisabeth|domestique||||1|||47 ans|
+694|Hameau des sables||1|4|CHAMPIN|Jean|domestique|1||||||23 ans|
+695|Hameau des sables||1|5|FORASE|Claude|domestique|1||||||21 ans|
+696|Hameau des sables||1|6|CATELIN|Thérèse|domestique||||1|||18 ans|
+697|Hameau des sables||2|7|BRUNAT|Antoine|rentier, chef de ménage||1|||||32 ans|
+698|Hameau des sables||2|8|TREMBLET|Marie|sa femme||||1|||24 ans|
+699|Hameau des sables||2|9|DURAND|Paul|domestique||1|||||34 ans|
+700|Hameau des sables||2|10|CHARMELANT|Anne|sa femme|||||1||29 ans|
+701|Hameau des sables||2|11|PARATON|Claudine|domestique||||1|||17 ans|
+702|Hameau des sables||2|12|CLAVEL|François|domestique|1||||||20 ans|
+703|Hameau des sables||3|13|BRONDEL|Joseph|rentier, chef de ménage|1||||||55 ans|
+704|Hameau des sables||3|14|DUMAS|Jean|domestique|1||||||25 ans|
+705|Hameau des sables||4|15|FAURE|Etienne|propriétaire, chef de ménage||1|||||55 ans|
+706|Hameau des sables||4|16|DAVID|Marie|sa femme|||||1||45 ans|
+707|Hameau des sables||4|17|FAURE|Marie|leur fille||||1|||18 ans|
+708|Hameau des sables||5|18|CHIZAT|Pierre|propriétaire, chef de ménage||1|||||50 ans|
+709|Hameau des sables||5|19|CHEVROT|Marguerite|sa femme|||||1||46 ans|
+710|Hameau des sables||5|20|SORBIER|Fleuri|pensionnaire|1||||||8 ans|
+711|Hameau des sables||5|21|DERIEUX|Marie|leur mère||||||1|68 ans|
+712|Hameau des sables||6|22|DOBET|Claude|cordonnier, chef de ménage||1|||||52 ans|
+713|Hameau des sables||6|23|BRUNET|Françoise|sa femme|||||1||52 ans|
+714|Hameau des sables||6|24|DOBET|Pierrette|leur fille||||1|||11 ans|
+715|Hameau des sables||6|25|COIN|Joseph|cantonnier au chemin de fer|1||||||25 ans|
+716|Hameau des sables||6|26|DELORME|Casimir|cantonnier au chemin de fer|1||||||23 ans|
+717|Hameau des sables||7|27|BRUNET|Simon|propriétaire, chef de ménage||1|||||53 ans|
+718|Hameau des sables||7|28|BICHAT|Claudine|sa femme|||||1||45 ans|
+719|Hameau des sables||7|29|BRUNET|Joseph|leur fils|1||||||15 ans|
+720|Hameau des sables||7|30|BRUNET|Antoinette|leur fille||||1|||12 ans |
+721|Hameau des sables||7|1|BRUNET|Adrien|leur fils|1||||||8 ans|
+722|Hameau des sables||1|2|TERRASSE|Etienne|journalier, chef de ménage||1|||||60 ans|
+723|Hameau des sables||1|3|GIRAUD|Marie Anne|sa femme|||||1||50 ans|
+724|Hameau des Condamines||2|4|GUIPOUX|Jean|propriétaire, chef de ménage||1|||||68 ans|
+725|Hameau des Condamines||2|5|MAYOUX|Jeanne|sa femme|||||1||64 ans|
+726|Hameau des Condamines||2|6|GUIPOUX|Pierre|agent, leur fils|1||||||35 ans|
+727|Hameau des Condamines||2|7|GUIPOUX|Françoise|leur fille||||1|||35 ans|
+728|Hameau des Condamines||3|8|BLANCHARD|Etienne|propriétaire, chef de ménage||1|||||47 ans|
+729|Hameau des Condamines||3|9|COUILLARD|Jeanne|sa femme|||||1||43 ans|
+730|Hameau des Condamines||3|10|BLANCHARD|Antoinette|leur fille||||1|||18 ans|
+731|Hameau des Condamines||3|11|BLANCHARD|Cécile|leur fille||||1|||16 ans|
+732|Hameau des Condamines||3|12|BLANCHARD|Claude|leur fils|1||||||14 ans|
+733|Hameau des Condamines||3|13|BLANCHARD|Jean|leur fils|1||||||7 ans|
+734|Hameau des Condamines||4|14|FAYOLLE|François|propriétaire, chef de ménage||1|||||53 ans|
+735|Hameau des Condamines||4|15|FAYOLLE|Claire|sa femme|||||1||50 ans|
+736|Hameau des Condamines||4|16|THIBAUDIER|François|maçon, gendre||1|||||26 ans|
+737|Hameau des Condamines||4|17|FAYOLLE|Marie|sa femme|||||1||20 ans|
+738|Hameau des Condamines||4|18|THIBAUDIER|Claire|leur fille||||1|||8 jours|
+739|Hameau des Condamines||5|19|BLANC|Christophe|veloutier, chef de ménage||1|||||46 ans|
+740|Hameau des Condamines||5|20|REVENU|Jeanne Marie|sa femme|||||1||46 ans|
+741|Hameau des Condamines||5|21|BLANC|Antoinette|leur fille||||1|||18 ans|
+742|Hameau des Condamines||5|22|BLANC|Périne|leur fille||||1|||8 ans|
+743|Hameau des Condamines||5|23|MONTFOUILLOUX|Pierre|marinier, gendre||1|||||27 ans|
+744|Hameau des Condamines||5|24|BLANC|Mariette|sa femme|||||1||21 ans|
+745|Hameau des Condamines||6|25|DEPARDON|Philibert|journalier, chef de ménage||1|||||30 ans|
+746|Hameau des Condamines||6|26|PESSON|Marguerite|sa femme|||||1||28 ans|
+747|Hameau des Condamines||6|27|DEPARDON|Joseph|leur fils|1||||||5 ans|
+748|Hameau des Condamines||6|28|DEPARDON|Annette|leur fille||||1|||2 ans|
+749|Hameau des Condamines||7|29|VERNAY|Jean Louis|rentier, chef de ménage||1|||||55 ans|
+750|Hameau des Condamines||7|30|ROBERT|Louise|sa femme|||||1||21 ans|
+751|Hameau des Condamines||1|1|COMBE|François|directeur de la fabrique|1||||||28 ans|
+752|Hameau des Condamines||1|2|GIROUD|Marie|ouvrière||||1|||21 ans|
+753|Hameau des Condamines||1|3|BLANC|Marie|ouvrière|||||1||38 ans|
+754|Hameau des Condamines||1|4|MATHIEU|Mélanie|ouvrière||||1|||17 ans|
+755|Hameau des Condamines||1|5|UZARD|Marie|ouvrière||||1|||22 ans|
+756|Hameau des Condamines||1|6|BOURBON|Philomène|ouvrière||||1|||21 ans|
+757|Hameau des Condamines||1|7|BARBIER|Jeanne|ouvrière||||1|||18 ans|
+758|Hameau des Condamines||1|8|COMBE|Jean Baptiste|ouvrier|1||||||17 ans|
+759|Hameau des Condamines||2|9|BLANCHARD|Claude|propriétaire, chef de ménage||1|||||44 ans|
+760|Hameau des Condamines||2|10|DUFOUR|Jeanne|sa femme|||||1||46 ans|
+761|Hameau des Condamines||2|11|BLANCHARD|Cécile|leur fille||||1|||16 ans|
+762|Hameau des Condamines||3|12|JULIN|François|propriétaire, chef de ménage|1||||||19 ans|
+763|Hameau des Condamines||3|13|JULIN|Gabrielle|sa sœur||||1|||15 ans|
+764|Hameau des Condamines||3|14|JULIN|François|son frère|1||||||7 ans|
+765|Hameau des Condamines||3|15|JULIN|Anne|sa sœur||||1|||12 ans|
+766|Hameau des Condamines||3|16|JULIN|Eugénie|sa sœur||||1|||10 ans|
+767|Hameau des Condamines||4|17|DUMAS|Gabriel|ouvrier en soie||1|||||55 ans|
+768|Hameau des Condamines||4|18|BLANC|Suzanne|sa femme|||||1||48 ans|
+769|Hameau des Condamines||4|19|DUMAS|Christophe|leur fils|1||||||21 ans|
+770|Hameau des Condamines||4|20|DUMAS|Catherine|leur fille||||1|||28 ans|
+771|Hameau des Condamines||5|21|BLANC|Jean François|propriétaire, chef de ménage||1|||||52 ans|
+772|Hameau des Condamines||5|22|MARNAS|Jacqueline|sa femme|||||1||49 ans|
+773|Hameau des Condamines||5|23|RANTONNET|Etienne|leur gendre, cultivateur||1|||||29 ans|
+774|Hameau des Condamines||5|24|BLANC|Suzanne|sa femme|||||1||25 ans|
+775|Hameau des Condamines||6|25|PERRIN|Etienne|propriétaire, chef de ménage||1|||||42 ans|
+776|Hameau des Condamines||6|26|BERGER|Claudine|sa femme|||||1||32 ans|
+777|Hameau des Condamines||6|27|PERRIN|Jacques|leur fils|1||||||13 ans|
+778|Hameau des Condamines||6|28|PERRIN|Claudine|leur fille||||1|||11 ans|
+779|Hameau des Condamines||6|29|PERRIN|Marie|leur fille||||1|||7 ans|
+780|Hameau des Condamines||6|30|PERRIN|Jean|leur fils|1||||||4 ans |
+781|Hameau des Condamines||6|1|PERRIN|Michel|leur fils|1||||||1 mois|
+782|Hameau des Condamines||1|2|MOULIN, veuve FAYOLLE|Jeanne|rentière, chef de ménage||||||1|79 ans|
+783|Hameau des Condamines||1|3|FAYOLLE|Jeanne|sa fille ||||1|||30 ans|
+784|Hameau des Condamines||2|4|ROTH|Frédéric|propriétaire, chef de ménage||1|||||60 ans|
+785|Hameau des Condamines||2|5|BONDEL|Jeanne|domestique||||1|||30 ans|
+786|Hameau des Condamines||3|6|DONAT|Claude|propriétaire, chef de ménage||1|||||72 ans|
+787|Hameau des Condamines||3|7|DUFOUR|Jeanne|sa femme|||||1||55 ans|
+788|Hameau des Condamines||3|8|DONAT|Adrien|leur fils|1||||||23 ans|
+789|Hameau des Condamines||3|9|DONAT|Henriette|leur fille||||1|||26 ans|
+790|Hameau des Condamines||3|10|DONAT|Annaïsse|leur fille||||1|||21 ans|
+791|Hameau des Condamines||3|11|RUAUME|Jean|domestique||1|||||26 ans|
+792|Hameau des Condamines||3|12|VERNAY|Marie|sa femme|||||1||26 ans|
+793|Hameau des Condamines||3|13|BOSSE|Antoine|domestique||1|||||63 ans|
+794|Hameau des Condamines||3|14|COUILLARD|Paul|domestique|1||||||20 ans|
+795|Hameau des Condamines||3|15|SULPICE|Pernette|domestique||||||1|58 ans|
+796|Hameau des Condamines||3|16|SULPICE|Claude|domestique|1||||||20 ans|
+797|Hameau des Condamines||4|17|SERRE|Jean Marie|propriétaire, chef de ménage||1|||||62 ans|
+798|Hameau des Condamines||4|18|VIALLET|Pauline|sa femme|||||1||56 ans|
+799|Hameau des Condamines||4|19|SERRE|Augustine|leur fille||||1|||40 ans|
+800|Hameau des Condamines||4|20|VERNE|Claudine|rentière||||||1|79 ans|
+801|Hameau des Condamines||4|21|BONNEFOI|Marguerite|domestique||||1|||30 ans|
+802|Hameau des Condamines||4|22|OLLINS|Jean Baptiste|domestique|1||||||21 ans|
+803|Hameau des Condamines||4|23|BONNET|François|domestique|1||||||28 ans|
+804|Hameau des Condamines||4|24|CHAPPAT|Elisabeth|domestique||||||1|49 ans|
+805|Hameau de la Tour||5|25|VELOUZANT|Joseph|journalier, chef de ménage||1|||||35 ans|
+806|Hameau de la Tour||5|26|CLEMANCON|Euphroisie|sa femme|||||1||33 ans|
+807|Hameau de la Tour||6|27|DELORME|Claudine|rentière||||||1|60 ans|
+808|Hameau de la Tour||7|28|MARNAS|Antoine|propriétaire, chef de ménage||1|||||74 ans|
+809|Hameau de la Tour||7|29|DUMAS|Marguerite|sa femme|||||1||70 ans|
+810|Hameau de la Tour||7|30|MARNAS|Antoine|leur fils, chaudronnier|1||||||33 ans|
+811|Hameau de la Tour||1|1|RAGOT|Jean Marie|rentier, chef de ménage|1||||||64 ans|
+812|Hameau de la Tour||2|2|VERRE|Claude|propriétaire, chef de ménage||1|||||32 ans|
+813|Hameau de la Tour||2|3|BOUNAUD|Marie|sa femme|||||1||32 ans|
+814|Hameau de la Tour||2|4|VERRE|Elisa|leur fille||||1|||6 ans|
+815|Hameau de la Tour||2|5|VERRE|Claude|leur fils|1||||||5 ans|
+816|Hameau de la Tour||2|6|BOUNAUD|Mariette|tante||||||1|50 ans|
+817|Hameau de la Tour||3|7|MAGNIEN|Mathieu|propriétaire, chef de ménage||1|||||73 ans|
+818|Hameau de la Tour||3|8|PIN|Françoise|sa femme|||||1||70 ans|
+819|Hameau de la Tour||3|9|FRANCON|Jacques|gendre, journalier||1|||||36 ans|
+820|Hameau de la Tour||3|10|MAGNIN|Elisabeth|sa femme|||||1||35 ans|
+821|Hameau de la Tour||3|11|FRANCON|Justine|leur fille||||1|||1 an|
+822|Hameau de la Tour||4|12|COQUARD|Fleuri|propriétaire, chef de ménage||1|||||79 ans|
+823|Hameau de la Tour||4|13|CHARDERON|Marie|sa femme|||||||50 ans|
+824|Hameau de la Tour||5|14|BROSSE|Charles|journalier, chef de ménage||1|||||55 ans|
+825|Hameau de la Tour||5|15|DURAND|Gabrielle|sa femme|||||1||50 ans|
+826|Hameau de la Tour||5|16|BROSSE|Charles|leur petit fils|1||||||6 ans|
+827|Hameau de la Tour||6|17|GRIMAUD|Pierre|journalier, chef de ménage||1|||||50 ans|
+828|Hameau de la Tour||6|18|MARNAS|Marie|sa femme|||||1||45 ans|
+829|Hameau de la Tour||6|19|GRIMAUD|Marguerite|leur fille||||1|||17 ans|
+830|Hameau de la Tour||6|20|GRIMAUD|Antoinette|leur fille||||1|||11 ans|
+831|Hameau de la Tour||6|21|GRIMAUD|François|leur fils|1||||||8 ans|
+832|Hameau de la Tour||7|22|REYNAUD|Jean|journalier, chef de ménage||1|||||32 ans|
+833|Hameau de la Tour||7|23|PERIGNY|Charlotte|sa femme|||||1||35 ans|
+834|Hameau de la Tour||7|24|REYNAUD|Louise|leur fille||||1|||3 ans|
+835|Hameau de la Tour||7|25|REYNAUD|Jean|leur fils|1||||||2 ans|
+836|Hameau de la Tour||8|26|DELPHIN|Philibert|propriétaire, chef de ménage||1|||||66 ans|
+837|Hameau de la Tour||8|27|COLIGNON|Gaëtane|sa femme|||||1||50 ans|
+838|Hameau de la Tour||8|28|DELPHIN|Marie|leur fille||||1|||19 ans|
+839|Hameau de la Tour||8|29|DELPHIN|Elise|leur fille||||1|||17 ans|
+840|Hameau de la Tour||8|30|DELPHIN|Suzanne|leur fille||||1|||13 ans|
+841|Hameau de la Tour||8|1|VUILLET|Marc|domestique|1||||||25 ans|
+842|Hameau de la Tour||8|2|RIGOTARD|Louise|domestique||||1|||35 ans|
+843|Hameau de la Tour||8|3|BARILLOT|Jeanne|domestique||||1|||31 ans|
+844|Hameau de la Tour||8|4|FEUILLET|Jeanne Marie|domestique||||1|||50 ans|
+845|Hameau de la Tour||1|5|MAZUYER|Pierre|fermier, chef de ménage||1|||||40 ans|
+846|Hameau de la Tour||1|6|CHAPUY|Jeanne|son épouse|||||1||31 ans|
+847|Hameau de la Tour||1|7|MAZUYER|Philiberte|leur fille||||1|||5 ans|
+848|Hameau de la Tour||1|8|MAZUYER|Henri|leur fils|1||||||3 ans|
+849|Hameau de la Tour||1|9|MAZUYER|Victor|leur fils|1||||||2 ans|
+850|Hameau de la Tour||1|10|MAZUYER|Pierre|son père|||1||||65 ans|
+851|Hameau de la Tour||1|11|BESSON|Jean|domestique|1||||||30 ans|
+852|Hameau de la Tour||1|12|BAZIN|Denise|domestique||||1|||20 ans|
+853|Hameau du Pelet||2|13|BOUCHER|Pierre|rentier, chef de ménage||1|||||68 ans|
+854|Hameau du Pelet||2|14|FLEIGNARD|Thérèse|son épouse|||||1||62 ans|
+855|Hameau du Pelet||2|15|BUCHER|Rose|leur fille||||1|||43 ans|
+856|Hameau du Pelet||2|16|BOUCHER|Léon|leur fils|1||||||25 ans|
+857|Hameau du Pelet||3|17|VERNAY|André|propriétaire, chef de ménage||1|||||66 ans|
+858|Hameau du Pelet||3|18|BOIRIVENT|Antoinette|sa femme|||||1||70 ans|
+859|Hameau du Pelet||3|19|BANDIER|Claude|propriétaire, beau fils|1||||||40 ans|
+860|Hameau du Pelet||4|20|PONCET|François|propriétaire, chef de ménage||1|||||68 ans|
+861|Hameau du Pelet||4|21|DUFIEL|Andrée Anne|sa femme|||||1||66 ans|
+862|Hameau du Pelet||5|22|PERRET|Antoine|propriétaire, chef de ménage||1|||||43 ans|
+863|Hameau du Pelet||5|23|BRANTONNET|Etiennette|sa femme|||||1||38 ans|
+864|Hameau du Pelet||5|24|PERRET|Geneviève|leur fille||||1|||18 ans|
+865|Hameau du Pelet||5|25|PERRET|Geneviève|leur fille||||1|||7 ans|
+866|Hameau du Pelet||5|26|TARDY|Marie|leur mère||||||1|79 ans|
+867|Hameau du Pelet||6|27|BADOR, veuve DELERIEUX|Claudine|journalière, chef de ménage||||||1|70 ans|
+868|Hameau du Pelet||6|28|DELERIEUX|Jean|journalier, son fils|1||||||40 ans|
+869|Hameau du Pelet||6|29|FABARD|Pierre|journalier, chef de ménage||1|||||38 ans|
+870|Hameau du Pelet||6|30|MONAVI|Elisabeth|sa femme|||||1||24 ans|
+871|Hameau du Pelet||1|1|FAYOLLE|André|propriétaire, chef de ménage||1|||||63 ans|
+872|Hameau du Pelet||1|2|ESCOFFIER|Elisabeth|sa femme|||||1||58 ans|
+873|Hameau du Pelet||1|3|FAYOLLE|Fleuri|leur fils|1||||||30 ans|
+874|Hameau du Pelet||1|4|FAYOLLE|Marie|leur fille||||1|||18 ans|
+875|Hameau du Pelet||2|5|CHEVALLIER|Noël|propriétaire, chef de ménage||1|||||65 ans|
+876|Hameau du Pelet||2|6|BERGER|Françoise|sa femme|||||1||60 ans|
+877|Hameau du Pelet||2|7|CHEVALLIER|François|leur fils|1||||||22 ans|
+878|Hameau du Pelet||2|8|CHEVALLIER|Jean|leur fils|1||||||21 ans|
+879|Hameau du Pelet||3|9|BERECHOUX|Charles|ouvrier en soie, chef de ménage||1|||||46 ans|
+880|Hameau du Pelet||3|10|BERTHET|Marie|sa femme|||||1||26 ans|
+881|Hameau du Pelet||4|11|FAYOLLE|Etienne|propriétaire, chef de ménage||1|||||58 ans|
+882|Hameau du Pelet||4|12|THIBAUDIER|Jeanne|sa femme|||||1||52 ans|
+883|Hameau du Pelet||4|13|FAYOLLE|Marie|leur fille||||1|||21 ans|
+884|Hameau du Pelet||4|14|FAYOLLE|Claude|leur fils|1||||||20 ans|
+885|Hameau du Pelet||4|15|FAYOLLE|Etiennette|leur fille||||1|||17 ans|
+886|Hameau du Pelet||4|16|FAYOLLE|Eugénie|leur fille||||1|||11 ans|
+887|Hameau du Pelet||4|17|FAYOLLE|Joanny|leur fils|1||||||5 ans|
+888|Hameau du Pelet||4|18|FAYOLLE|Henri|leur fils|1||||||25 ans|
+889|Hameau du Pelet||5|19|FAYOLLE|Simon|propriétaire, chef de ménage||1|||||70 ans|
+890|Hameau du Pelet||5|20|EMERY|Louise|sa femme|||||1||66 ans|
+891|Hameau du Pelet||5|21|FAYOLLE|Claude|leur fils|1||||||26 ans|
+892|Hameau du Pelet||6|22|COMBELANTARD|Jean Pierre|journalier, chef de ménage||1|||||48 ans|
+893|Hameau du Pelet||6|23|MASSA|Magdeleine|sa femme|||||1||43 ans|
+894|Hameau du Pelet||6|24|COMBELANTARD|Marie|leur fille||||1|||6 ans|
+895|Hameau du Pelet||7|25|COUTURIER|Claude|propriétaire, chef de ménage||1|||||32 ans|
+896|Hameau du Pelet||7|26|MONTALANT|Marie|sa femme|||||1||25 ans|
+897|Hameau du Pelet||8|27|MOLIERE|Antoine|propriétaire, chef de ménage||1|||||34 ans|
+898|Hameau du Pelet||8|28|DUMERIN|Benoite|sa femme|||||1||34 ans|
+899|Hameau du Pelet||8|29|MOLIERE|Benoit|leur fils|1||||||9 ans|
+900|Hameau du Pelet||9|39|ROZET|Marie|rentière||||||1|NI|
+901|Hameau du Pelet||1|1|BARILLOT|Jean Baptiste|propriétaire, chef de ménage||1|||||37 ans|
+902|Hameau du Pelet||1|2|GUTTON|Anne|sa femme|||||1||27 ans|
+903|Hameau du Pelet||1|3|BARILLOT|François|leur fils|1||||||4 ans|
+904|Hameau du Pelet||1|4|BARILLOT|Benoite|leur fille||||1|||2 ans|
+905|Hameau du Pelet||1|5|FAYOLLE|Annette|leur mère||||||1|70 ans|
+906|Hameau du Pelet||2|6|ROCHET|François|propriétaire, chef de ménage||1|||||46 ans|
+907|Hameau du Pelet||2|7|MOREAU|Marguerite|sa femme|||||1||39 ans|
+908|Hameau du Pelet||2|8|ROCHET|Euphroisie|leur fille||||1|||16 ans|
+909|Hameau du Pelet||2|9|ROCHET|Charles|leur fils|1||||||15 ans|
+910|Hameau du Pelet||2|10|ROCHET|Stéphanie|leur fille||||1|||6 ans|
+911|Hameau du Pelet||3|11|BERTHOLON|Pierre|propriétaire, chef de ménage||1|||||50 ans|
+912|Hameau du Pelet||3|12|GOUYON|Marie|sa femme|||||1||50 ans|
+913|Hameau du Pelet||4|13|PONCET|Pierre|marinier, chef de ménage||1|||||40 ans|
+914|Hameau du Pelet||4|14|BRAT|Constance|sa femme|||||1||35 ans|
+915|Hameau du Pelet||4|15|PONCET|François|leur fils|1||||||9 ans|
+916|Hameau du Pelet||5|16|BLANCHON|Antoine|propriétaire, chef de ménage||1|||||66 ans|
+917|Hameau du Pelet||5|17|GATOUX|Suzanne|sa femme|||||1||66 ans|
+918|Hameau du Pelet||5|18|BLANCHON|NI|leur fils|1||||||40 ans|
+919|Hameau du Pelet||6|19|DUCLOS|Etienne|propriétaire, chef de ménage|1||||||55 ans|
+920|Hameau du Pelet||6|20|DUCLOS|François|son neveu|1||||||24 ans|
+921|Hameau du Pelet||6|21|MULET|Claude|propriétaire||1|||||50 ans|
+922|Hameau du Pelet||6|22|BISSON|Claudine|sa femme|||||1||45 ans|
+923|Hameau du Pelet||6|23|MULET|Marie|leur fille||||1|||16 ans|
+924|Hameau du Pelet||7|24|CARLET|Antoine|propriétaire, chef de ménage|||1||||63 ans|
+925|Hameau du Pelet||7|25|BESSY|Jacqueline|sa belle-sœur||||||1|70 ans|
+926|Hameau du Pelet||8|26|JULIN|Henri|propriétaire, chef de ménage||1|||||60 ans|
+927|Hameau du Pelet||8|27|BERTHOLON|Marie|sa femme|||||1||63 ans|
+928|Hameau du Pelet||8|28|JULIN|Pierre|leur fils|1||||||25 ans|
+929|Hameau du Pelet||8|29|JULIN|Gilbert|leur fils|1||||||23 ans|
+930|Hameau du Pelet||8|30|JULIN|Joanny|leur fils|1||||||22 ans|
+931|Hameau du Pelet||1|1|GOUBIER|André|ouvrier en soie, chef de ménage||1|||||45 ans|
+932|Hameau du Pelet||1|2|BLANC|Pierrette|sa femme|||||1||47 ans|
+933|Hameau du Pelet||1|3|GOUBIER|Benoit|leur fils|1||||||23 ans|
+934|Hameau du Pelet||1|4|GOUBIER|Marie|leur fille||||1|||15 ans|
+935|Hameau du Pelet||1|5|BLANC|César|beau-frère|1||||||42 ans|
+936|Hameau du Pelet||2|6|CHEVALLIER|Antoine|propriétaire, chef de ménage||1|||||60 ans|
+937|Hameau du Pelet||2|7|DURANT|Jeanne|sa femme|||||1||63 ans|
+938|Hameau du Pelet||2|8|CHEVALLIER|Louis|leur fils|1||||||20 ans|
+939|Hameau du Pelet||3|9|ROZET|Marie|rentière, chef de ménage||||||1|NI|
