@@ -1,0 +1,575 @@
+## Suivi des transformations et modifications effectuées par Ronan Vichot (stagiaire LARHRA) sur les fichiers du projet Univers Textiles ##
+
+________________________________________________________________________
+## 22-04-2024 ##
+1821_mariages_edit.xlsx
+	- Transformation des colonnes f_h_meme_adresse, h_veuf et f_veuve en booléens (True/False).
+	- Correction des colonnes "[...]_pays" (pour les deux époux et leurs parents respectifs) :
+		- Avec formule CONCATENER, ajoute de "Royaume de Piémont-Sardaigne (Savoie)" et "idem (Piémont)" pour les régions correspondantes ; suppression du contenu de "[...]_dpt" le cas échéant.
+	- Correction du lieu de naissance de l'époux du mariage51 : Sarrelouis, Prusse.
+	- Création d'une colonne qui indique la date du mariage au format ISO standard (YYYY-MM-DD). Formule : =CONCATENER(E2;"-";SI.CONDITIONS(F2<10;CONCATENER("0";F2);F2>=10;F2);"-";SI.CONDITIONS(G2<10;CONCATENER("0";G2);G2>=10;G2))
+	- Création de colonnes identiques pour les dates de naissance des deux époux.
+
+Création du dictionnaire_des_individus : ajout de tous les époux et parents des mariages de 1821.
+
+________________________________________________________________________
+## 23-04-2024 ##
+1821_mariages_edit.xlsx
+	- Création des colonnes "t[n]_role_concatene" pour indiquer le rôle de témoin et leur relation avec l'un des deux époux le cas échéant, afin d'ajouter ensuite cette concaténation dans le dictionnaire des individus.
+
+1836_recensements_edit.csv
+	- Transformation de la colonne nom au format "NOM" ou "NOM (veuve)" dans l'optique de l'importer ensuite dans le dictionnaire des individus avec une format adapté à celui des mariages de 1821.
+
+Dictionnaire des individus : ajout de tous les témoins des mariages de 1821.
+
+________________________________________________________________________
+## 24-04-2024 ##
+1836_recensements_edit.csv
+	- Corrections apportées aux noms :
+		(Gaspar) Tollon, Gaspard -> TOLLON, Gaspard (Gaspar)
+		Carnavaliste -> (vide) (à vérifier)
+		Antoinette, (vide) -> (vide), Antoinette
+		Mariette dit labri, Marie -> MARIETTE (dit LABRI), Marie
+		Idem, Louise -> STEFANOPOLY, Louise
+		Comte, (?) -> COMTE, Tonine
+		Place, (?) => (à déterminer)
+		Suppression des "NA" pour les prénoms
+		Suppression des "Femme" pour les noms de famille ; ex: Femme Cronchy -> Cronchy
+		
+	- Antoine GUILLET ; âge : 54 ? -> 34 (à vérifier)
+	- Françoise BOUVIER ; âge : (5)9? -> 49 (à vérifier) ; veuf -> veuve
+	- Création colonne date_naissance_ISO, estimation basée sur l'âge des individus et la date retenue du recensement (2 mai 1836) ; formule : =CONCATENER(ARRONDI(1836-(J2+1));"/";ARRONDI(1836-J2)) ; ajustement manuel pour les bébés.
+	- L'id commençait par 0 (Louis LACROIX) -> commence désormais par 1.
+
+indicateur_1843_chefs_ateliers_croix_rousse.csv
+	- Remise dans l'ordre des id (ordre d'apparition dans la source)
+
+1843_indicateur_edit.csv
+	- Fusion des cinq feuillets présents dans les trois csv existants (chefs ateliers de Lyon ; chefs ateliers de la Croix-Rousse ; liseurs & répiqueurs ; bonnetiers & tullistes ; tireurs, guimpiers & passementiers)
+	- Ajout d'une colonne indiquant leur catégorie d'activité
+	- Harmonisation et réorganisation des colonnes
+	- id 1, 2 et 3 : Aguerrant -> AGUETTANT
+	- Mounier et Dallot : passage Thiaffait (numéro) -> passage Thiaffait (complement_adresse)
+	- Changement noms de colonnes : prenom -> prenom_std (en vue de leur développement) ; rue_standard -> rue_std ; nom -> nom_std (en vue de leur mise en capitales)
+	- Transformation des noms de famille en lettres capitales
+	- Développement des prénoms abrégés. Basé sur la table en introduction de la source.
+		- Certains abréviations ne trouvent pas leur développement dans ladite table. Voici les choix effectués en dehors de ces indications :
+			- H. / Hri. -> Henri			- Gilb. -> Gilbert			- Hug. -> Hugues
+			- Math. / Matth. -> Mathieu/Matthieu	- Pre. -> Pierre			- Den. -> Denis
+			- Fr. -> François			- Gabr. -> Gabriel			- Pasc. -> Pascal
+			- Aug. / Augte -> Auguste		- Bte. / Bap. -> Baptiste		- Ambr. -> Ambroise
+			- Frédér. / Fréd. -> Frédéric		- Mart. -> Martin			- Melc. -> Melchior
+			- Vict. -> Victor			- Vinc. -> Vincent			- Adolph. -> Adolphe
+			- Jh. -> Joseph				- Célest. -> Célestin			- Did. -> Didier
+			- Maur. -> Maurice			- Phil. -> Philippe			- Ennem. -> Ennemond
+			- Jacq. -> Jacques			- Alph. -> Alphonse			- Joach. -> Joachim
+			- Pl. -> Paul				- Jre. / Jér. -> Jérôme			- Georg. -> Georges
+			- And. -> André				- Théoph. -> Théophile			- Baltha. -> Balthazar
+			- Mar. -> Marie				- Théod. -> Théodore			- Emman. / Emm. -> Emmanuel
+			- Nic. / Nicol. -> Nicolas		- Ferdin. -> Ferdinand			- J.-F. -> Jean-François
+			- Ch. -> Charles			- Gasp. -> Gaspard			- J.-B. -> Jean-Baptiste
+			- Séb. / Sébast. -> Sébastien		- Laur. -> Laurent			- Bl. -> Blaise	
+			- Guil. / Guill. -> Guillaume		- Sim. -> Simon				- Benj. -> Benjamin
+			- Humb. -> Humbert			- L. -> Louis				- Napol. -> Napoléon
+			- J.C. -> Jean-Claude
+
+		- non élucidées : A -> Antoine ? ; C -> Claude ? ; J -> Joseph ? Jean ? ; M -> Marie ? Mathieu ? ; Fer -> Fernand ? Ferdinand ? ; F -> François ? ; Fl. -> Florent ? An./Ate. -> Antoine ? ; P. -> Pierre ? Paul ? ; Ed. -> Edouard ? Edmond ? ; Dlle. -> Danielle ? ; Silv. -> Silvain ? Silvestre ? ; Apoll. -> Apollon ? ; Christ. -> Christophe ? Christian ? ; qh ?? ; Ju. -> Justin ? Julien ? Jules ? ; Marc. -> Marcel ?
+	- Suppression des points superflus dans les noms
+	- Ajustement des majuscules manquantes dans les prénoms
+	- Corrections : "arin" -> "Marin" ; "Deloclet ?" -> "Deloclet" ; "Claude, Clément" -> "Claude Clément"
+	- Ajustements d'infos données dans "prenom" qui devraient être dans "observations" : "père et fils", "veuve"
+	- Ajout de tous les individus de 1843_indicateur_edit.csv au dictionnaire des individus (nom, prénom, role (activité) et fichier)
+	- Ajout des chapitres (complement_source) et des pages (nouvelle colonne) en complément de source
+	- Ajout des entrées manquantes de la p. 149 (de RIBOUD à VILLE)
+	- Ajout de ces entrées au dictionnaire des individus
+
+________________________________________________________________________
+## 25-04-2024 ##
+1843_indicateur_edit.csv
+	- Ecrasement de la colonne "nom_voie" par "rue_std" (noms de rues développés)
+	- Complétion de la colonne "type_voie" avec les attributs rue, montée, quai, cours, impasse, place, clos, chemin, escaliers, cour, passage, autre.
+	- Harmonisation des noms des rues dans "nom_voie"
+	- Ajout d'indication "rue mentionnée [...]" dans la colonne "remarques_saisie" lorsque le nom de la voie a été ajusté (autre que retouches mineures comme un tiret par exemple)
+
+1831_mariages_edit.xlsx
+	- Ajout colonnes "mariage_date_ISO", "h_naissance_ISO", "f_naissance_ISO" sur le même format que dans fichier mariages de 1821.
+	- Même traitement que mariages 1821 pour "Royaume de Piémont-Sardaigne (Piémont)" et "idem (Savoie)". Formule : =SI(ESTNUM(CHERCHE("Piémont";AA3));"Royaume de Piémont-Sardaigne (Piémont)";SI(ESTNUM(CHERCHE("Savoie";AA3));"Royaume de Piémont-Sardaigne (Savoie)"))
+	- Idem pour booléens (h_veuf, f_veuve et f_h_meme_adresse)
+
+________________________________________________________________________
+## 26-04-2024 ##
+1831_mariages_edit.xlsx
+	- Création des colonnes "t[n]_role_concatene" comme dans table mariages 1821. Formule : =CONCAT("témoin,";" ";DY8;" ";"de";" ";"l'";DX8)
+	- Création colonne "t[n]_date_naissance_ISO" pour les témoins, comme dans recensement 1836. Formule : =CONCAT(ARRONDI(1836-(EA2+1);1);"/";ARRONDI((1836-EA2);1))
+		- Le calcul pour cette colonne a nécessité la création d'une colonne voisine appelée "t[n]_âge" qui prélève le nombre indiqué pour l'âge du témoin dans "t[n]_remarque"
+
+dictionnaire_des_individus.csv
+	- Ajout de tous les individus dans mariages1831 au dictionnaire des individus.
+	- Suppression de la colonne "id_epoux.se" : ajoute une dimension de relation entre les id, pas forcément pertinent ici et contraignant
+
+1841_mariages_edit.xlsx
+Essai du même nettoyage en utilisant OpenRefine.
+	- Création date de mariage format ISO. Formule GREL : if(isNonBlank(cells["mariage_annee"].value), cells["mariage_annee"].value + "-", "NI" + "-") + if(isNonBlank(cells["mariage_mois"].value), if(length(cells["mariage_mois"].value) == 1, "0" + cells["mariage_mois"].value, cells["mariage_mois"].value) + "-", "NI" + "-") + if(isNonBlank(cells["mariage_jour"].value), if(length(cells["mariage_jour"].value) == 1, "0" + cells["mariage_jour"].value, cells["mariage_jour"].value), "NI")
+
+
+________________________________________________________________________
+## 29-04-2024 ##
+1841_mariages_edit.xlsx
+Suite de traitement avec OpenRefine
+	- Création des colonnes date_naissance_ISO sur le même modèle que la date de mariage. Formule GREL : if(isNonBlank(cells["h_naissance_annee"].value), cells["h_naissance_annee"].value + "-", "NI" + "-") + if(isNonBlank(cells["h_naissance_mois"].value), if(length(cells["h_naissance_mois"].value) == 1, "0" + cells["h_naissance_mois"].value, cells["h_naissance_mois"].value) + "-", "NI" + "-") + if(isNonBlank(cells["h_naissance_jour"].value), if(length(cells["h_naissance_jour"].value) == 1, "0" + cells["h_naissance_jour"].value, cells["h_naissance_jour"].value), "NI")
+	- Transformation en booléens. Formule GREL : if(value == "1", "True", "False")
+	- Traitement des régions italiennes Savoie et Piémont. Formule GREL : if(cells["h_naissance_dpt"].value == "Savoie", "Royaume de Piémont-Sardaigne (Savoie)", if(cells["h_naissance_dpt"].value == "Piémont", "Royaume de Piémont-Sardaigne (Piémont)", value))
+	- Création des colonnes "t[n]_role_concatene". Formule GREL : "témoin" + if(value != "NI", ", " + value + " de l'" + cells["t1_de_qui"].value, "")
+	- Création des colonnes "t[n]_age". Formule GREL : value.split(" ")[0]
+	- Création des colonnes "t[n]_date_naissance_ISO". Formule GREL : (value.toNumber() + 1) * -1 + 1841 + "/" + ((value.toNumber()) * -1 + 1841)
+	- Suppression de la dernière colonne, qui était vide et dont le label était une clé.
+	- Export de 1841_mariages_edit.xlsx
+
+1851_mariages_edit.xlsx
+	- Application des mêmes formules au document des mariages de 1851 avec OpenRefine.
+	- Suppression de "Savoie" et "Piémont" dans les colonnes "[...]_dpt". Formule GREL : if(value == "Savoie", "", if(value == "Piémont", "", value))
+	- Correction de "ayeul" -> "aïeul"
+	- Suppression dernière colonne (clé).
+	- Suppression des lignes en trop (NI à l'infini)
+	- Export de 1851_mariages_edit.xlsx
+
+1841_mariages_edit.xlsx
+	- Suppression de "Savoie" et "Piémont" dans les colonnes "[...]_dpt" (oubli)
+	- Suppression des lignes en trop (NI à l'infini)
+
+dictionnaire_des_individus.csv
+	- Ajout des tous les individus mentionnés dans les mariages de 1841
+
+________________________________________________________________________
+## 30-04-2024 ##
+1851_mariages_edit.xlsx
+	- Modificiation manuel des époux du mariage n°58 : mariés en 1840, le nom de l'épouse avait été mal orthographié. Ajout de leurs noms et date de mariage.
+	- Ajustement de la date du mariage n°193 : NI-08-23
+	- Ajustement de la date de naissance de Nicolas MARECHAL 
+
+dictionnaire_des_individus.csv
+	- Ajout des tous les individus mentionnés dans les mariages de 1851
+
+1831_mariages_edit.xlsx
+	- Ajustements de la date de naissance d'Alexandre CANITRO et Jean BRILLOUD
+	- Correction année de naissance de Jean BONNAL (cf source, mariage n°55, vue 36)
+
+1841_mariages_edit.xlsx
+	- Suppression de l'espace en trop dans " LAMARCHE" Jean Cajetan
+
+
+1843_recensement_fiscal_edit.xlsx
+Nettoyage avec OpenRefine.
+	- Création de colonne "prop_nom_dedoublone" avec nom de famille des proprios individuels et sans doublons
+	- Modif du nom de la colonne "prop_prenom" et "prop_cplt".
+	- Création d'une colonne "pays_naissance" pour ajouter "Royaume de Piémont-Sardaigne (Savoie)" ou "[...] (Piémont)" et "Suisse" le cas échéant.
+	- Dans "dep_naissance", corrections de "L'auzère ?" -> Lozère ; "Hautes-Alps" -> Hautes-Alpes ; "Garde" -> Gard ; "Drome" -> Drôme" ; "Corèse" -> Corèze, etc : Cote d'Or, Charente Inférieure, "???" et "??", Ardèche, Ardènes, Loir et Cher, Sarthe, Vaucluse, etc.
+	Entrées non identifiées : 
+		- Auix -> Aix ?			- alléer -> Allier ?
+		- Badoin ?			- Denis Sevès -> Deux-Sèvres ?
+		- Doscher ?			- du Pol ?
+		- L ?				- Locarne -> Locarn en Côte d'Armor ?
+		- Nantey -> dans le Jura ?	- Pirole ?
+		- Suirs -> Suisse ?		- Voclusas -> Vaucluse ?
+	- Suppression des occurrences de "Savoie", "Suisse", "Italie", "Italien", "Holande", "Hollande", "Allemagne", "Confédération germanique", "Bavarois", "Barcelone, Espagne", "Prusse", "Pologne", etc dans la colonne "dep_naissance" -> déplacement/correction le cas échéant dans "pays_naissance"
+	- Application du format "département/pays (ville/région)" le cas échéant
+	- Création de la colonne "prop_prenom" complétée avec les prénoms éparpillés dans "prop_cplt"
+
+________________________________________________________________________
+## 03-05-2024 ##
+1843_recensement_fiscal_edit.xlsx
+	- Nettoyage des noms de famille au format "NOM (complément)" ; ex: BILLIER (veuve), BONNAFOUS (héritiers)
+	- Suppression colonne "gender_iso" (remplacée par "prop_genre" et "loc_genre")
+	- Ajout de la colonne "prop_genre" remplie par h/f.
+	- Déplacement du contenu des parenthèses dans les noms de famille : (femme) et (demoiselle) -> f dans "prop_genre" ; (femme) -> épouse dans "prop_cplt" ; métiers, héritiers -> dans "prop_cplt"
+	- Création des colonnes "loc_cplt" et "loc_genre" : même procédure de nettoyage des noms des famille. Formule GREL utile : value.replace(" (demoiselle)", "")
+	- Corrections :
+		- Bebel (Elodie) -> Elodie [loc_prenom] ; surnommée Bebel [loc_cplt]
+		- XX / (null) -> NI
+		- RIOUSSEC (ORIOSECQ) -> RIOUSSEC [loc_nom] ; Ou ORIOSECQ [loc_cplt]
+		- (dame) / (femme) -> épouse [loc_cplt]
+		- GROS -> doute sur le genre (voir [remarques_saisie])
+		- UNGER (ALDINGER) en crayon -> UNGER [loc_nom] ; ALDINGER en crayon [loc_cplt]
+
+________________________________________________________________________
+## 06-05-2024 ##
+dictionnaire_des_individus.csv
+	- Ajout de tous les propriétaires du recensement fiscal de 1843 (nom, prénom et genre).
+
+1843_recensement_fiscal_edit.xlsx
+	- Création colonne "loc_naissance_ISO" avec même méthode que dans fichiers mariages (mais avec 2 ans de marge. ex: 1810-1812)
+	- Correction manuelle du fichier et nouvel import dans OpenRefine : les noms de famille des locataires étaient triés dans le désordre.
+	- Corrections mineures (fautes de frappe)
+	- Id 559 suspect -> mention de (veuve) alors que prénom masculin, mention d'une rue isolée, "quai st-benoît" n'existe pas dans référencement, propriétaire "REY" à le même nom que la rue "montée Rey"
+		- autres "veuve" avec prénom masculin : André BERRY, Jean Marie BRESSON, Antoine BULLIAZ
+	- Nettoyage de tous les remplissages de la colonne "nom" qui ne sont pas harmonisés
+
+________________________________________________________________________
+## 07-05-2024 ##
+1843_recensement_fiscal_edit.xlsx
+	- Ajout de tous les genres des propriétaires quand il est possible de le déterminer. Formule GREL : if(cells["loc_cplt"].value == "dame", "f", value)
+
+dictionnaire_des_individus.csv
+	- Ajout de tous les locataires du recensement fiscal de 1843 (nom, prénom, genre, date de naissance).
+
+1851_recensement_edit.xslx
+	- Ajout colonne "genre" qui détermine le genre h/f en fonction de l'état civil. Formule GREL : if(contains(value, "fille"), "f", value)
+	- Correction : Cather (?) BLONDEAU -> Catherine BLONDEAU
+	- Suppression des parenthèses autours de certaines prénoms incertains
+	- Remplacements dans "prenom" par "NI" de : (inconnu), (chez ses parents), (), NA, etc
+	- Suppression de VEUVE, FEMME, DAME et Dlle dans les noms de famille
+	- Création colonne "date_naissance_ISO". Formule GREL : (value.toNumber() + 1) * -1 + ANNEE + "/" + ((value.toNumber()) * -1 + ANNEE)
+	- Modification de "nationalite" pour Piémont et Savoie
+	- Correction de l'âge de Mathieu MOREL
+
+1843_recensement_fiscal_edit.xlsx
+	- Pour "loc_naissance_ISO", retour à une marge à 1 an seulement. Je me suis aperçu que ce n'était pas logique autrement.
+
+1836_recensement_edit.xlsx
+	- Ajout colonne "genre" qui détermine le genre h/f en fonction de l'état civil. (oubli)
+	- Corrections "homma marié" -> homme marié
+
+dictionnaire_des_individus.csv
+	- Ajout des genres pour tous les individus issus de 1836_recensement
+	- Modification de la date de naissance pour tous les intividus issus de 1843_recensement_fiscal
+	- Ajout de tous les individus mentionnés dans 1851_recensement
+
+1849_indicateur_edit.xlsx
+	- Fusion des feuillets
+	- Ajout d'une colonne indiquant leur catégorie d'activité
+	- Harmonisation et réorganisation des colonnes
+
+________________________________________________________________________
+## 13-05-2024 ##
+1849_indicateur_edit.xlsx
+	- Ajout d'une colonne "genre"
+	- Suppression de "(DLLE)" dans les noms RANDON, RIGOLLIER, DANTOINE ; et ajout de "f" à colonne "genre".
+	- Ajout "h" pour tous les autres dont le prénom est mentionné ; "NI" pour ceux dont le prénom est "NI".
+	- Développement des prénoms. Même associations que pour l'indicateur de 1843 (voir 24/04/2024). Formule GREL : value.replace("Hri.", "Henri")
+	- Correction "MMOREL" -> "MOREL"
+
+________________________________________________________________________
+## 21-05-2024 ##
+1849_indicateur_edit.xlsx
+	- Ajout colonne "nom_voie_complet". Formule GREL : cells["type_voie"].value + " " + value
+	- Ajout colonne "nom_cplt" pour extraire les infos complémentaires au noms stricts. ex: "(neveu)", "(père et fils)", "et Cie".
+	- Avec Excel : dans un autre feuillet, ajout colonnes "nom_distinct" pour lister tous les noms propres stricts et "prenom_distinct" pour associer les prénoms correspondants
+		- Création de doublons de ligne lors des cas contenants "frères" et "cousins" (j'estime que le plus probable soit qu'ils soient deux, en tout cas il n'y a pas qu'une personne).
+
+1849_indicateur_indiv_distincts_edit.xslx
+	- Création de ce nouveau tableur comme nouvelle version de 1849_indicateur_edit où chaque individu est distinct, dédoublonné, nettoyé.
+	- Suppression des doublons sauf ceux qui ont la marque "frères"	
+
+________________________________________________________________________
+## 22-05-2024 ##
+1849_indicateur_indiv_distincts_edit.xlsx
+	- Concaténation de "activite" et "nom_cplt" pour remplir la colonne "role" du dico des individus.
+
+dictionnaire_des_individus.csv
+	- Ajout de tous les individus mentionnés dans 1849_indicateur_indiv_distincts_edit
+
+1843_indicateur_edit.xlsx
+	- Ajout d'une colonne "genre" (oubli)
+	- Ajout "NI" à la place de "null" et "NA" quand c'est approprié
+	- Renommer colonnes "nom_std" et "prenom_std" en "nom" et "prenom"
+	- Correction des individus extraits de ce fichier dans le dico des individus
+
+recensement_vernaison_1846.csv
+	- Création colonnes pour séparer statut dans le ménage (chef de ménage toujours cité en premier) et profession : "chef_menage_booleen" indique true si chef de ménage.
+	- Colonnes renommées : prenoms -> prenom ; qualifications -> qualification
+	- Commentaire sur Claude MULET (id 921) -> deuxième chef de ménage ?
+	- Correction "qualification" de Claude BANDIER (id 859) : propriétaire, beau fils -> beau fils du propriétaire
+	- Création colonne "genre" (utilisation des booléens numériques)
+	- Création colonne "statut_marital" (utilisation de qualification : "sa femme" = "mariée" ; son époux devient "marié" + ajout des veuvages)
+	- Suppression de ' ans' dans colonne "age" afin de ne garder que les chiffres
+	- Colonne renommée : nom_menage -> nom_famille + nouvelle colonne nom_usage.
+		- Formule GREL pour isoler les noms d'usage : value.replace(/^(\S+\s+\S+\s*)/, "")
+		- Formule GREL pour isoler les noms de famille ensuite : if(contains(value, cells["nom_usage"].value), value.replace(cells["nom_usage"].value, ""), value)
+	- Création colonne "date_naissance_ISO" basée sur année de la source et âge des individus
+	- Création colonne "nom_usage" pour distinguer "nom_famille" : les femmes mariées et veuves ayant changé de nom ont cette colonne "nom_usage" remplie par leur nouveau nom.
+Avec Excel :
+	- ajout de "marié" dans statut_marital
+
+dictionnaire_des_individus.csv
+	- Ajout de tous les individus mentionnés dans 1846_recensement_vernaison_edit
+		- La colonne "nom" est remplie avec le nom d'usage en priorité (nom de jeune fille/veuve), ou avec le nom de famille si "NI"
+		- La colonne "role" est remplie avec celle appelée "qualification" dans le fichier de recensement, auquel j'ai retiré les "sa/son" : par ex, "sa fille" devient "fille"
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+Ci-dessous, liste non-exhaustive d'individus présentant une incohérence entre leur prénom et leur genre :
+
+1843_recensement_fiscal_edit
+	- id 2124 : André BERRY, veuve
+	- id 1721 : Jean Marie BRESSON, veuve
+	- id 2627 : Antoine BULLIAZ, veuve
+	- id 559 : François DEMEURE, veuve
+	- id 668 : Jacques BOIRON, veuve
+	- id 1303 : Apolin CHOLET, veuve
+	- id 2182 : Alexandre et Marie BINARD, brodeuse
+	- id 2270 : NI GROS, doute sur le genre
+
+1836_recensement_edit
+	- id 2013 : Jean, ouvrier, fille
+	- id 1725 : Alexis, cabaretière, femme mariée
+
+________________________________________________________________________
+## 23-05-2024 ##
+1836_recensement_edit
+	- Colonnes renommées : nom_standard -> nom_famille ; nom_jeune_fille -> nom_usage
+	- Colonne supprimée : nom
+
+1851_mariages_edit
+	- Changement noms de colonnes : h_naissance_ISO -> h_date_naissance_ISO (idem pour f)
+	- Ajout colonne h_lieu_naissance : concaténation de commune, dpt, pays, cplt (idem pour f). Formule : =SI(AA2="NI";SI(AC2="";"NI";AC2);SI(AB2="";SI(AC2="";AA2;CONCAT(AA2;", ";AC2));CONCAT(AA2;", ";AB2)))
+	- Ajout colonne h_adresse : concaténation de numero, voie, commune, dpt (idem pour f). Formule : =CONCAT(SI(P2="NI";"NI";SI(R2="NI";CONCAT(P2;", ";Q2);CONCAT(S2;" ";R2;", ";P2;", ";Q2)));SI(T2="";"";CONCAT(" ; ";T2)))
+	- Pour les femmes, ajout de "comme son époux" si la colonne "f_h_meme_adresse" et True : =CONCAT(SI(AN3="NI";"NI";SI(AP3="NI";CONCAT(AN3;", ";AO3);CONCAT(AQ3;" ";AP3;", ";AN3;", ";AO3)));SI(AS3="";"";CONCAT(" ; ";AS3));SI(AR3="False";"";CONCAT(" ; ";"comme son époux")))
+	- Ajout colonne "cote_complete". Formule : =CONCAT(A2;", ";"sous-série ";B2;", ";"article ";C2)
+
+________________________________________________________________________
+## 24-05-2024 ##
+1843_indicateur_edit
+	- Remplacement des "NA" et cellules vides par "NI" dans les colonnes "complement_adresse" et "numero"
+	- Harmonisation des noms de voies
+	- Création colonne "adresse" pour concaténer "numero", "type_voie", "nom_voie" et "commune"
+
+________________________________________________________________________
+## 27-05-2024 ##
+1836_recensement_edit
+	- Ajout colonne "statut_marital" avec marié/mariée, veuf/veuve, célibataire
+	- Transformation des noms d'usage en capitales
+		- Inversion avec nom_famille pour les femmes concernées
+		- Pour les hommes, "nom_usage" = "nom_famille" ; le doublon de l'information permet de trier selon les familles de naissance ou d'alliance
+		- "nom_famille" devient "nom_naissance", moins ambigü (voir vocabulaire contrôlé)
+	- Colonne "quartier/rue" renommée "nom_voie"
+	- Création colonne "type_voie" et prélèvement du type dans colonne "nom_voie"
+
+1851_recensement_edit
+	- Mêmes transformations que pour le recensement 1836
+
+dictionnaire_des_individus.csv
+	- Ajout colonne "nom_naissance" et colonne "nom" renommée "nom_usage"
+		- Pour tous les hommes, idem que nom_usage
+		- Pour les femmes des indicateurs
+
+1836_recensement_edit
+	- Création colonne "qualification" sur le modèle du recensement de Vernaison : concaténation du statut marital et de la profession, à ajouter dans "role" du dictionnaire des individus. Formule GREL : value + if(cells["profession"].value = "NI", "", ", " + cells["profession"].value)
+
+1851_recensement_edit
+	- Idem
+
+recensement_vernaison_1846.csv
+	- Correction des noms d'usage des femmes mariées
+
+dictionnaire_des_individus.csv
+	- Ajout des roles concernés
+	- Modifications des noms d'usage concernés
+	- Ajout d'une nouvelle colonne "adresse_residence" + ajout dedans des adresses dans 
+
+________________________________________________________________________
+## 28-05-2024 ##
+1851_mariages_edit
+	- Typage des voies. Formule GREL : value.split(" ")[0]
+	- Suppression du type dans le nom des voies. Formule GREL : value.replace(value.split(" ")[0] + " ", "")
+	- Colonne renommée "h_adr_voie_nom" (idem pour f)
+	- Harmonisation des noms de voies. Templates : rue Sainte-Rose, Grande Rue, rue Projettée, rue Centrale
+	- Création d'une colonne "h/f_adr_originale" qui conserve la forme dans laquelle j'ai trouvé les noms des voies
+	- Création de colonnes "role" qui traduit le préfixe des colonnes pour chaque acteur du mariage : h = époux, f = épouse, pere_h = père de l'époux, etc.
+	- Nouvelle concaténation des noms harmonisés. h_adresse : =CONCAT(SI(Q2="NI";"NI";SI(U2="NI";CONCAT(Q2;", ";R2);CONCAT(V2;" ";T2;" ";U2;", ";Q2;", ";R2)));SI(W2="";"";CONCAT(" ; ";W2)))
+	- Idem pour f. f_adresse : =CONCAT(SI(AQ2="NI";"NI";SI(AU2="NI";CONCAT(AQ2;", ";AR2);CONCAT(AV2;" ";AT2;" ";AU2;", ";AQ2;", ";AR2)));SI(AX2="";"";CONCAT(" ; ";AX2));SI(AW2="False";"";CONCAT(" ; ";"comme son époux")))
+	- Séparation de la présence des parents en deux nouvelles colonnes : "present/e" et "vivant/e", pour traduire les colonnes "presence" en booléens
+
+________________________________________________________________________
+## 28-05-2024 ##
+dictionnaire_des_individus.csv
+	- Ajout des adresses de résidence des époux des mariages de 1851
+
+________________________________________________________________________
+## 05-06-2024 ##
+1851_mariages_edit
+	- Séparation type/nom des voies comme pour époux, mais cette fois pour les parents (cf formules du 28-05-2024)
+	- Réagencement des colonnes pour adresses parents
+
+________________________________________________________________________
+## 12-06-2024 ##
+dictionnaire_des_individus.csv
+	- Ajout des lieux de naissance de tous les époux des quatre fichiers de mariages
+
+1821_mariages_edit
+	- Distinctions des types et noms des voies de résidence
+
+________________________________________________________________________
+## 13-06-2024 ##
+1821_mariages_edit
+	- Harmonisation des noms de voies
+	- Ajout des départements des adresses de résidence des témoins
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les individus des mariages de 1821
+
+1831_mariages_edit
+	- Mêmes opérations (cp/cl de l'historique des opérations dans "Apply")
+		- rue Duptal, rue Eliosant, rue Neraie, rue Cazaté, quai de Rougneux et place Grenville : non-identifiées.
+	* Formule GREL pour créer la colonne "t_adr_dpt" : if(contains(value, value), "Rhône", null)
+		-> Puis ajuster au cas par cas les communes qui ne sont pas dans le Rhône
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les individus des mariages de 1831
+
+1841_mariages_edit
+	- Mêmes opérations pour les deux époux seulement
+		- clos Rioudel, place Côte -> non-identifiées.
+
+________________________________________________________________________
+## 14-06-2024 ##
+1841_mariages_edit
+	- Mêmes opérations pour parents et témoins.
+		- rue d'Auzaris, rue de Soudy (de Bondy ?), rue Beau âme, cours du Cadi, territoire du Grouyce, plan de Place, quai Sainte-Marie-de-Chessé -> non-identifiées
+	- Rectifications des communes & départements pour les adresses des témoins
+		* Formule GREL pour nettoyer les "(Rhône)" en fin de noms de communes : value.replace (" (Rhône)", "")
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les individus des mariages de 1841
+
+1851_mariages_edit
+	- Mêmes opérations
+		Avant : rectification des adresses préalablement concaténées pour les deux époux
+		- quai de Pierre Jase, rue de lauqile, rue de fontaigau, faubourg debrelle, quai de Soucy, rue Deutas, place du court dareville, rue cuirier -> non-identifiées
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les individus des mariages de 1851
+
+________________________________________________________________________
+## 26-06-2024 ##
+1843_recensement_fiscal_edit
+	- Mêmes opérations de nettoyage pour adresses de résidence et de naissance
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les locataires de 1843 recensement fiscal, 1836 recensement et 1851 recensement.
+
+184_recensement_vernaison_edit
+	- Suppression colonne "rue" (vide), colonne "quartier" renommée en "commune".
+
+dictionnaire_des_individus.csv
+	- Ajout des lieux de résidence de tous les locataires de 1846 vernaison recensement.
+
+1831_mariages_edit + dictionnaire_des_individus.csv
+	- Corrections des noms de rues non-identifiées basées sur la reprise de P. Vernus :
+		 rue Duptal -> rue du Plat; rue Eliosant -> rue Tholosant (Tolozan, mais généralement écrite Tholozan à l'époque) ; rue Neraie -> rue Neyret; rue Cazaté -> rue Casati; quai de Rougneux -> quai Bourgneuf; place Grenville  -> place Grenouille.
+
+1841_mariages_edit + dictionnaire_des_individus.csv
+	- Idem :
+		clos Rioudel -> clos Riondel; place Côte -> Grande Côte; rue d'Auzaris -> rue d'Ossaris; quai de Soudy -> quai Bondy; rue Beau âme -> rue Tramassac; cours du Cadi -> cours du Midi; territoire de Grouyce -> pas identifié, peut être territoire des granges ?; Plan de place -> place du Plâtre (erreur de l'officier d'état-civil, j'ai vérifier dans un indicateur annuaire de la même période l'adresse de la personne concernée); quai Sainte-Marie-de-Chessé -> quai Sainte-Marie-des-chaînes.
+
+________________________________________________________________________
+## 27-06-2024 ##
+Mariages + dictionnaire des individus
+	Ajout d'identifiants uniques pour tous les individus des quatre fichiers de mariages. Ajout des données comme clés étrangères dans le dictionnaire des individus.
+
+dictionnaire des individus
+	- Suppression de toutes les adresses de naissance et de résidence : je ne sais pas pourquoi mais rien ne correspondait
+	- Réajout des adresses de mariages1821
+
+________________________________________________________________________
+## 28-06-2024 ##
+Mariages (les quatre) + recensement1836 + indicateur 1843 + dictionnaire des individus
+	- Ajouts et vérifications des id uniques, lieux de résidence et lieux de naissance de tous les individus
+
+1843_recensement_fiscal
+	- Harmonisation des lieux de résidence et des identifiants uniques d'une partie des propriétaires (à finir)
+
+________________________________________________________________________
+## 02-07-2024 ##
+1843_recensement_fiscal
+	- Harmonisation des lieux de résidence et des identifiants uniques des propriétaires (fin)
+
+dictionnaire des individus
+	- Ajouts de toutes les adresses de résidence et de naissance de tous les individus dans recensement fiscal 1843
+
+________________________________________________________________________
+## 03-07-2024 ##
+dictionnaire_des_individus_03-07
+	- À partir de maintenant les versions du dictionnaire des individus sont distinguées par leur date de création
+	- Ajouts de toutes les adresses de résidence et de naissance de tous les individus dans recensement 1851
+
+1843_indicateur_edit
+	- Nettoyage des types et noms de voies
+
+1849_indicateur_indiv_distincts_edit.xslx
+	- Ajout de toutes les adresses pour les individus uniques
+		Formule pour extraire les adresses du document 1843_indicateur_edit : =RECHERCHEX(B2; '[1849_indicateur_edit.xlsx]1849_indicateur_edit'!$A$2:$A$1143; '[1849_indicateur_edit.xlsx]1849_indicateur_edit'!$G$2:$G$1143)
+
+dictionnaire_des_individus_03-07
+	- Ajouts de toutes les adresses de tous les individus dans 1849_indicateur_indiv_distincts_edit.xslx
+	- Ajouts de toutes les communes de résidence des individus du recensement de Vernaison 1846
+
+________________________________________________________________________
+## 10-07-2024 ##
+1843_indicateur_edit
+	- Nettoyage des noms de famille et ajout de genre le cas échéant
+
+1843_indicateur_indiv_distincts_edit
+	- Création du document sur le modèle de celui de l'indicateur 1849.
+
+dictionnaire_des_individus_18-07
+	- Correction des individus de l'indicateur 1843
+
+________________________________________________________________________
+## 18-07-2024 ##
+dictionnaire_des_individus_18-07
+Nettoyage massif de tout le dictionnaire. L'objectif ici est de produire des données les plus propres possibles dans ce fichier qui sert de nœud, sans avoir à corriger individuellement les coquilles dans les fichiers qui correspondent. Les entrées peuvent être retrouvées de toute façon grâce à la clé étrangère "id_fichier_de_provenance"
+	- Cluster de tous les noms de famille. Exemple : DUPRE/DUPRÉ fusionnés en DUPRÉ.
+	- Pour les prénoms incertains :
+		- ceux estimés sont assumés. Ex : Antoine (?) -> Antoine
+		- ceux trop illisibles sont transformés en NI. Ex : D?? -> NI.
+
+1843_recensement_fiscal_edit.xlsx
+	- Distinction de quatre duo de locataires en individus uniques.
+
+dictionnaire_des_individus_18-07
+	- Mise à jour en fonction de la correction précédente
+	- Complétion du genre de tous les témoins en "h" ; je n'ai jamais vu de femme, ce qui n'écarte pas la possibilité qu'il y en ai quelques unes.
+	- Cluster d'un maximum de prénoms.
+	- Espaces dans les prénoms remplacés par des tirets. Ex: Jean Marie -> Jean-Marie.
+	* Attribution d'un identifiant unique pour les individus afin de retrouver ceux qui sont dans plusieurs fichiers 
+		- Ajout d'une formule macro afin de générer un score de similarité, trouvée ici : https://stackoverflow.com/questions/42657163/finding-text-similarities-between-row-values-in-excel
+		- Création d'une colonne score_similarite pour déterminer un score entre le nom de famille, le prénom et la date de naissance. Formule : =(similarity(F3;F2) + similarity(H3;H2))/2
+		- Création d'une colonne "id_unique" qui conserve le même id si une entrée a un score de similarité de 90% ou plus avec l'entrée juste au-dessus. Formule : =SI(H3="NI";A2+1;SI(I3="NI";A2+1;SI(B3>0,9;SI(I3=I2;A2;A2+1);A2+1))) /MISE A JOUR - VOIR LE 22-07-2024/
+
+ATTENTION : certaines erreurs provenant d'homonymes subsistent car le formule ne prend pas encore en compte la date de naissance.
+
+________________________________________________________________________
+## 22-07-2024 ##
+dictionnaire_des_individus_18-07
+	- Ajout d'une colonne annee_pour_score qui consiste à extraire seulement une année dans date_naissance_ISO et à compléter les vides par des "NI". Formule Excel : =SI(I2="";"NI";GAUCHE(I2;4))
+	- Mise à jour de la formule de la colonne "id_unique" afin de prendre en compte les années de naissance. Les individus sont aussi triés en fonction de leur date de naissance. La marge d'erreur de la date de naissance est de +/- 3 ans : =SI(F3="NI";A2+1;SI(G3="NI";A2+1;SI(B3>0,9;SI(G3=G2;SI(H3="NI";A2;SI(H2="NI";A2;SI(CNUM(H3)>(CNUM(H2)-3);SI(CNUM(H3)<(CNUM(H2)+4);A2;A2+1);A2+1)));A2+1);A2+1)))
+
+L'algorithme donne des résultats probants. Exemple : la famille MAZUYER (dont cinq membres s'appellent Benoît) sont bien tous distingués.
+En revanche, quelques exceptions subsistes. Exemple : Claude MERCIER, nom qui correspond à quatre entrées dont une ayant une date de naissance inconnue mais dont on sait qu'il s'agit du père d'un époux en 1841, ne peut pas être le même Claude MERCIER né en 1832.
+Les exceptions sont toutefois trop rares pour fausser les résultats à grande échelle.
+
+	- Suppression des mentions de " (veuve)" dans les noms de famille ; idem pour " (dit)"
+
+________________________________________________________________________
+## 23-07-2024 ##
+dictionnaire_des_individus_18-07
+	- Harmonisation des données : nettoyage massif de l'ensemble des types de voies, noms de voies, départements/régions et pays mentionnés dans les adresses de résidence et de naissance.
+	Les corrections des types et noms de voies sont basées sur le fichier index_voies_archives_municipales.ods
+	- Changement des noms de colonnes afin de mettre les régions étrangères et les départements français sur le même plan :
+		adr_residence_dpt_fr -> adr_residence_dpt_region
+		lieu_naissance_dpt -> lieu_naissance_dpt_region
+			Exemple : | Royaume de Piémont-Sardaigne (Savoie)| -> | Savoie | Royaume de Piémont-Sardaigne |
+
+			// ATTENTION : \\
+	1) Les noms des communes n'ont pas du tout été traitées car elles demandent un effort de recherche bien plus important et beaucoup plus de temps.
+	2) Les choix effectués pour les noms dans le dictionnaire des individus ont valeur de foi sur les autres fichiers liés. Grâce aux clés étrangères, les données nettoyées dans le dictionnaire des individus peuvent être restituées dans les tables qui correspondent.
+
+
+////////////// A FAIRE : ///////////////
+
+Indicateurs : développer les noms des spécialités
+
+Nettoyer les noms des communes dans les adresses
+
+Incertitude : Transformation de "garçon" en "homme" pour tous les hommes célibataires de plus de 17 ans. Formule GREL si besoin : if(cells["age"].value > 17, if(value == "garçon", "homme", value), value)
